@@ -1,0 +1,743 @@
+﻿<collect_book_scenario_info version="20130401095237">
+	<!-- 카드아이템키값, 카드이름, 시나리오  -->
+	<scenario_list key="5000011">
+		<kor name="클락 래빗 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}앨리스 복장 남자 버전, 여자 복장의 인기에 힘입어 제작된 복장.{N}평소 귀여운 미소년 남자친구를 꿈꾸던 여성 유저 사이에 남자친구 선물용으로 폭발적인 인기를 얻는중{N}주의사항: 똑같은 복장을 입는다고 해서 똑같은 미소년은 될 수 없음"/>
+		<ger name="Normal Clock Rabbit" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Alice Costume für Jungs. Passt perfekt zum Alice-Look der Mädchen, sodass ihr im Partnerlook gehen könnt. {N}Jeder Alice-Liebhaber sollte dieses Outfit tragen, um seine Freundin zu beeindrucken. {N}Achtung: Dieses Outfit verwandelt euch in einen heißen Feger. Die Ladies werden euch hinterherstarren!"/>
+        <eng name="Normal Clock Rabbit" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The male Alice Costume. Perfectly fitting with the female Alice look, you can go in partner look. {N} Every Alice lover should wear this costume to impress his girlfriend. {N} Caution: This costume will make you look like a hot hare and ladies will start staring at you.  "/>
+		<fre name="Normal Clock Rabbit" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Le costume d'Alice pour homme, afin d'être en parfaite harmonie avec sa Alice. {N} Tous les amoureux d'Alice se doivent de porter ce costume pour impressionner leur copine. {N} Mais attention, cette tenue de chaud lapin ne laissera pas tous les cœurs indifférents.  "/>
+		<spa name="Normal Clock Rabbit" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}La vestimenta masculina de Alice. Se ajusta perfectamente a la apariencia femenina de Alice. {N} Los novios de Alice seguramente asombrarán a sus novias con esta vestimenta. {N}Precaución: Con esta vestimenta te verás como un conejito caliente y las chicas no podrán dejar de mirarte!  "/>
+		<ita name="Normal Clock Rabbit" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il costume di Alice al maschile. Si adatta perfettamente al look femminile di Alice, quindi potrete andare in coppia.{N}Tutti coloro che adorano Alice dovrebbero indossare questo costume per far colpo sulla propria ragazza.{N}Attenzione: questo costume ti farà sembrare un coniglio sensuale e le ragazze inizieranno a fissarti."/>
+		<rus name="Normal Clock Rabbit" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Мужской вариант Alice Costume идеально подходит под тематику главной героини Alice. {N}Если вам нравится  Alice, то тогда в этом костюме вы произведете отличное впечатление. {N}Предупреждение: Надев этот костюм женские взгляды неизбежны."/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Normal Clock Rabbit" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255} The male Alice Costume. Dişi Alice görünümüne kusursuzca uyan şekilde partner görünümüne sahip olabilirsin. {N} Her Alice severin, kız arkadaşını etkilemek için bu kostümü giymesi gerekir. {N} Uyarı: Bu kostüm, seni ateşli bir tavşan gibi gösterecek ve tüm bayanlar dik dik sana bakacak. "/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000012">
+		<kor name="클락 래빗 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}앨리스 복장 남자 버전, 여자 복장의 인기에 힘입어 제작된 복장.{N}평소 귀여운 미소년 남자친구를 꿈꾸던 여성 유저 사이에 남자친구 선물용으로 폭발적인 인기를 얻는중{N}주의사항: 똑같은 복장을 입는다고 해서 똑같은 미소년은 될 수 없음"/>
+		<kor name="클락 래빗 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}앨리스 복장 남자 버전, 여자 복장의 인기에 힘입어 제작된 복장.{N}평소 귀여운 미소년 남자친구를 꿈꾸던 여성 유저 사이에 남자친구 선물용으로 폭발적인 인기를 얻는중{N}주의사항: 똑같은 복장을 입는다고 해서 똑같은 미소년은 될 수 없음"/>
+		<ger name="Clock Rabbit Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Alice Costume für Jungs. Passt perfekt zum Alice-Look der Mädchen, sodass ihr im Partnerlook gehen könnt. {N}Jeder Alice-Liebhaber sollte dieses Outfit tragen, um seine Freundin zu beeindrucken. {N}Achtung: Dieses Outfit verwandelt euch in einen heißen Feger. Die Ladies werden euch hinterherstarren!"/>
+        <eng name="Clock Rabbit Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The male Alice Costume. Perfectly fitting with the female Alice look, you can go in partner look. {N} Every Alice lover should wear this costume to impress his girlfriend. {N} Caution: This costume will make you look like a hot hare and ladies will start staring at you.  "/>
+		<fre name="Clock Rabbit Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Le costume d'Alice pour homme, afin d'être en parfaite harmonie avec sa Alice. {N} Tous les amoureux d'Alice se doivent de porter ce costume pour impressionner leur copine. {N} Mais attention, cette tenue de chaud lapin ne laissera pas tous les cœurs indifférents.  "/>
+		<spa name="Clock Rabbit Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}La vestimenta masculina de Alice. Se ajusta perfectamente a la apariencia femenina de Alice. {N} Los novios de Alice seguramente asombrarán a sus novias con esta vestimenta. {N}Precaución: Con esta vestimenta te verás como un conejito caliente y las chicas no podrán dejar de mirarte!  "/>
+		<ita name="Clock Rabbit Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il costume di Alice al maschile. Si adatta perfettamente al look femminile di Alice, quindi potrete andare in coppia.{N}Tutti coloro che adorano Alice dovrebbero indossare questo costume per far colpo sulla propria ragazza.{N}Attenzione: questo costume ti farà sembrare un coniglio sensuale e le ragazze inizieranno a fissarti."/>
+		<rus name="Clock Rabbit Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Мужской вариант Alice Costume идеально подходит под тематику главной героини Alice. {N}Если вам нравится  Alice, то тогда в этом костюме вы произведете отличное впечатление. {N}Предупреждение: Надев этот костюм женские взгляды неизбежны."/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Clock Rabbit Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255} The male Alice Costume. Dişi Alice görünümüne kusursuzca uyan şekilde partner görünümüne sahip olabilirsin. {N} Her Alice severin, kız arkadaşını etkilemek için bu kostümü giymesi gerekir. {N} Uyarı: Bu kostüm, seni ateşli bir tavşan gibi gösterecek ve tüm bayanlar dik dik sana bakacak. "/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000013">
+		<kor name="스마트 앨리스 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}초 다국적 기업 '더 월드'에서 새로운 AI 시스템 개발을 위해 제조한 ALICE에서 영감을 얻어 제작된{N}S4리그 복장으로 유저들 사이에 암암리에 인기 상품으로 등극.{N}한때 복장 제작자가 '인생은 한방이야'를 외치며 고가에 판매를 하였음에도 불구하고 폭발적인 인기를 얻음."/>
+		<ger name="Normal Smart Alice" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Das neue von Alice inspirierte Outfit. Dies ist AI-System der nächsten Generation, das von der Firma 'The World' entwickelt wurde.{N}Dieses Outfit wurde heimlich an S4 League-Spieler verkauft.{N}Die Designer dieses Kostüms sind der Meinung, dass es nur von den besten Spielern getragen werden sollte"/>
+        <eng name="Normal Smart Alice" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The new costume that is inspired by Alice. This is the Next Gen AI system {N}created by the company called 'The World',{N}This costume was secretly sold to S4 League users.{N}The designers of this costume believe that this costume should only be worn by the best players."/>
+		<fre name="Normal Smart Alice" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Le tout nouveau costume inspiré de l'univers d'Alice. Il s'agit du système d'I.A. Next-Gen crée par une mystérieuse compagnie répondant au nom de 'The World'{N} Ce costume fut vendu illégalement aux joueurs d'S4 League.{N}Ses créateurs avaient pour habitude de dire qu'il était n'était réservé qu'aux meilleurs joueurs."/>
+		<spa name="Normal Smart Alice" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}La nueva vestimenta inspirada por Alice. Este es el sistema AI de la próxima generación realizado por la compañía llamada 'The World'.{N}Esta vestimenta fue vendida en forma secreta a los usuarios de S4 League.{N}Los diseñadores de este traje creen que esta vestimenta debería ser usada sólo por los mejores jugadores."/>
+		<ita name="Normal Smart Alice" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il nuovo costume ispirato a Alice. Questo è il sistema AI di ultima generazione sviluppato dalla società 'The World'.{N}Questo costume è stato venduto in segreto agli utenti di S4 League.{N}I suoi designer ritengono che debba essere indossato solo dai giocatori migliori."/>
+		<rus name="Normal Smart Alice" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Новый костюм в стиле Alice. Его разработали по системе Next Gen AI компанией The World,{N} который позже был тайно распродан S4 League игрокам.{N}Дизайнеры этого костюма считают, что этот костюм достояны носить только лучшие игроки."/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Normal Smart Alice" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Alice'den esinlenilen yeni kostüm. Bu, 'The World' adlı şirketin yarattığı Gelecek Nesil Yapay Zeka sistemi,{N}Bu kostüm, gizlice S4 League kullanıcılarına satıldı.{N}Bu kostümün tasarımcıları, kostümün sadece en iyi oyuncular tarafından giyilmesi gerektiğine inanıyor."/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000014">
+		<kor name="스마트 앨리스 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}초 다국적 기업 '더 월드'에서 새로운 AI 시스템 개발을 위해 제조한 ALICE에서 영감을 얻어 제작된{N}S4리그 복장으로 유저들 사이에 암암리에 인기 상품으로 등극.{N}한때 복장 제작자가 '인생은 한방이야'를 외치며 고가에 판매를 하였음에도 불구하고 폭발적인 인기를 얻음."/>
+		<ger name="Smart Alice Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Das neue von Alice inspirierte Outfit. Dies ist AI-System der nächsten Generation, das von der Firma 'The World' entwickelt wurde.{N}Dieses Outfit wurde heimlich an S4 League-Spieler verkauft.{N}Die Designer dieses Kostüms sind der Meinung, dass es nur von den besten Spielern getragen werden sollte"/>
+        <eng name="Smart Alice Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The new costume that is inspired by Alice. This is the Next Gen AI system {N}created by the company called 'The World',{N}This costume was secretly sold to S4 League users.{N}The designers of this costume believe that this costume should only be worn by the best players."/>
+		<fre name="Smart Alice Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Le tout nouveau costume inspiré de l'univers d'Alice. Il s'agit du système d'I.A. Next-Gen crée par une mystérieuse compagnie répondant au nom de 'The World'{N} Ce costume fut vendu illégalement aux joueurs d'S4 League.{N}Ses créateurs avaient pour habitude de dire qu'il était n'était réservé qu'aux meilleurs joueurs."/>
+		<spa name="Smart Alice Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}La nueva vestimenta inspirada por Alice. Este es el sistema AI de la próxima generación realizado por la compañía llamada 'The World'.{N}Esta vestimenta fue vendida en forma secreta a los usuarios de S4 League.{N}Los diseñadores de este traje creen que esta vestimenta debería ser usada sólo por los mejores jugadores."/>
+		<ita name="Smart Alice Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il nuovo costume ispirato a Alice. Questo è il sistema AI di ultima generazione sviluppato dalla società 'The World'.{N}Questo costume è stato venduto in segreto agli utenti di S4 League.{N}I suoi designer ritengono che debba essere indossato solo dai giocatori migliori."/>
+		<rus name="Smart Alice Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Новый костюм в стиле Alice. Его разработали по системе Next Gen AI компанией The World,{N} который позже был тайно распродан S4 League игрокам.{N}Дизайнеры этого костюма считают, что этот костюм достояны носить только лучшие игроки."/>>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Smart Alice Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Alice'den esinlenilen yeni kostüm. Bu, 'The World' adlı şirketin yarattığı Gelecek Nesil Yapay Zeka sistemi,{N}Bu kostüm, gizlice S4 League kullanıcılarına satıldı.{N}Bu kostümün tasarımcıları, kostümün sadece en iyi oyuncular tarafından giyilmesi gerektiğine inanıyor."/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000015">
+		<kor name="다크 어쌔신 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}한때 암살자를 동경했던 제작자가 은밀하고 어둡게를 컨셉으로 제작한 복장{N}컨퀘스트 모드에서 AI를 상대로 싸울때 입으면 적절한 복장. 활동성에 용이함.{N}단, 도둑으로 오해받을 수 있으니 조심하시길."/>
+		<ger name="Dark Assassin Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Es ist immer gefährlich, in die Höhle des Drachen zu gehen. Um eine Chance gegen die virtuellen Drachen zu haben, musst du dieses Kostüm tragen! Es besteht aus einem speziellen Stoff, der schnelle und lautlose Bewegungen im Dunklen erlaubt. {N}Dieses Outfit ist PERFEKT für den Eroberungsmodus, wenn man gegen die AI kämpft. Es ist elastisch und leicht."/>
+        <eng name="Dark Assassin Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}It is always dangerous to venture into a dragon's den, you need to wear {N}this costume to have a chance against the virtual dragons! {N}The costume is made out of a a special fabric and allows the user to move fast and silently in the darkness. {N}This costume is THE perfect costume for the conquest mode when battling the AI. {N}It is flexible and light. "/>
+		<fre name="Dark Assassin Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il est toujours périlleux de pénétrer dans l'antre d'un dragon, et si vous voulez avoir une chance contre les dragons virtuels, vous feriez mieux de revêtir ce costume ! Fabriqué dans l'étoffe la plus rare, il permet de se faufiler rapidement dans l'obscurité. {N}C'est LE costume parfait en mode Conquest pour affronter les I.A : il est souple et léger."/>
+		<spa name="Dark Assassin Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Siempre es peligroso aventurarse dentro de la guarida de un dragón, así que tienes que usar este traje para tener una chance contra los dragones virtuales! El traje está realizado con una tela especial y le permite al usuario moverse rápida y silenciosamente en la oscuridad. {N}Este traje es PERFECTO para el modo Conquest cuando luchas contra el AI. Es flexible y ligero. "/>
+		<ita name="Dark Assassin Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}E' sempre pericoloso addentrarsi nella tana di un drago, quindi è necessario indossare questo costume per avere una possibilità contro i draghi virtuali! Il costume è fatto di un tessuto speciale e permette di muoversi rapidamente e silenziosamente nell'oscurità.{N}E' IL costume perfetto in Conquest Mode contro l'AI. E' elasticizzato e leggero. "/>
+		<rus name="Dark Assassin Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Заглядывая в драконье логово, вы всегда рискуете жизнью, поэтому вам необходим специальный костюм, чтобы противостоять виртуальным драконам! Этот костюм разработан из специального материала, который позволит вам быстро и тихо передвигаться в темноте. {N}Это лучший вариант в борьбе против AI в режиме Conquest – легкий и удобный костюм."/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Dark Assassin Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Bir ejderhanın inine girmek hep tehlikeli olmuştur, bu nedenle sanal ejderhalara karşı bir şansın olması için bu kostümü giymelisin! Bu kostüm, özel bir kumaştan yapılmıştır ve kullanıcının karanlıkta hızla ve sessizce hareket etmesini sağlar. {N}Bu kostüm, yapay zekayla savaşırken zafer modu için EN iyi kostümdür. Esnek ve hafiftir. "/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000016">
+		<kor name="다크 어쌔신 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}한때 암살자를 동경했던 제작자가 은밀하고 어둡게를 컨셉으로 제작한 복장{N}컨퀘스트 모드에서 AI를 상대로 싸울때 입으면 적절한 복장. 활동성에 용이함.{N}단, 도둑으로 오해받을 수 있으니 조심하시길"/>
+		<ger name="Dark Assassin Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Es ist immer gefährlich, in die Höhle des Drachen zu gehen. Um eine Chance gegen die virtuellen Drachen zu haben, musst du dieses Kostüm tragen! Es besteht aus einem speziellen Stoff, der schnelle und lautlose Bewegungen im Dunklen erlaubt. {N}Dieses Outfit ist PERFEKT für den Eroberungsmodus, wenn man gegen die AI kämpft. Es ist elastisch und leicht."/>
+        <eng name="Dark Assassin Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}It is always dangerous to venture into a dragon's den, you need to wear {N}this costume to have a chance against the virtual dragons! {N}The costume is made out of a a special fabric and allows the user to move fast and silently in the darkness. {N}This costume is THE perfect costume for the conquest mode when battling the AI. {N}It is flexible and light. "/>
+		<fre name="Dark Assassin Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il est toujours périlleux de pénétrer dans l'antre d'un dragon, et si vous voulez avoir une chance contre les dragons virtuels, vous feriez mieux de revêtir ce costume ! Fabriqué dans l'étoffe la plus rare, il permet de se faufiler rapidement dans l'obscurité. {N}C'est LE costume parfait en mode Conquest pour affronter les I.A : il est souple et léger."/>
+		<spa name="Dark Assassin Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Siempre es peligroso aventurarse dentro de la guarida de un dragón, así que tienes que usar este traje para tener una chance contra los dragones virtuales! El traje está realizado con una tela especial y le permite al usuario moverse rápida y silenciosamente en la oscuridad. {N}Este traje es PERFECTO para el modo Conquest cuando luchas contra el AI. Es flexible y ligero. "/>
+		<ita name="Dark Assassin Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}E' sempre pericoloso addentrarsi nella tana di un drago, quindi è necessario indossare questo costume per avere una possibilità contro i draghi virtuali! Il costume è fatto di un tessuto speciale e permette di muoversi rapidamente e silenziosamente nell'oscurità.{N}E' IL costume perfetto in Conquest Mode contro l'AI. E' elasticizzato e leggero. "/>
+		<rus name="Dark Assassin Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Заглядывая в драконье логово, вы всегда рискуете жизнью, поэтому вам необходим специальный костюм, чтобы противостоять виртуальным драконам! Этот костюм разработан из специального материала, который позволит вам быстро и тихо передвигаться в темноте. {N}Это лучший вариант в борьбе против AI в режиме Conquest – легкий и удобный костюм."/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Dark Assassin Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Bir ejderhanın inine girmek hep tehlikeli olmuştur, bu nedenle sanal ejderhalara karşı bir şansın olması için bu kostümü giymelisin! Bu kostüm, özel bir kumaştan yapılmıştır ve kullanıcının karanlıkta hızla ve sessizce hareket etmesini sağlar. {N}Bu kostüm, yapay zekayla savaşırken zafer modu için EN iyi kostümdür. Esnek ve hafiftir. "/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000017">
+		<kor name="위키드 조커 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}암살자의 여자 버전 복장. 애초 다크 어쌔신 복장과 동일한 컨셉으로 제작 되었으나,{N}제작자의 사심이 들어가 섹시한 복장으로 재 탄생{N}평소 멋있는 여자 암살자를 동경했던 유저라면 한번쯤 입어보길 권장하고 싶은 복장"/>
+		<ger name="Wicked Joker Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Die Version des Dark Assassin für Mädchen hat weniger Stoff. {N}Deswegen ist es nicht nur leichter, sondern auch um Einiges sexier. {N}Sei aber gewarnt - dieses Kostüm macht dich schnell wie der Blitz!"/>
+        <eng name="Wicked Joker Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The female version of the Dark Assassin has less fabric. {N} Therefore, it is not only lighter, but way sexier. {N} Be aware though, this costume also makes you as fast as lightning!"/>
+		<fre name="Wicked Joker Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}La version femme du Sombre Assassin est composée de moins d'étoffe. {N} De ce fait, il n'est pas seulement plus léger, il est aussi diablement plus torride. {N} Ne vous y méprenez pas ce costume vous rendra également aussi rapide que la foudre !"/>
+		<spa name="Wicked Joker Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}La versión femenina del Dark Assassin poseee menos tela. {N} Por lo tanto, es más ligero y más atractivo. {N} Pero hay que tener en cuenta que con esta vestimenta también serás tan veloz como un rayo!"/>
+		<ita name="Wicked Joker Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}La versione femminile del Dark Assassin ha meno tessuto.{N}Per questo motivo, non è solo più leggera, ma anche molto più seducente.{N}Fai attenzione, questo costume ti rende veloce come un lampo!"/>
+		<rus name="Wicked Joker Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Модель костюма Dark Assassin для девушек. Для его разработки использовалось меньше ткани,{N}поэтому он не только легче, но и сексуальней! {N}Но будьте осторожны, в этом костюме вы преодолеете скорость света!"/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Wicked Joker Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Dark Assassin'in dişi versiyonunda daha az kumaş kullanılmıştır. {N} Bu nedenle hem daha hafif hem de çok daha çekicidir. {N} Ama dikkatli ol, bu kostüm seni şimşek gibi hızlı yapacak!"/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000018">
+		<kor name="위키드 조커 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}암살자의 여자 버전 복장. 애초 다크 어쌔신 복장과 동일한 컨셉으로 제작 되었으나,{N}제작자의 사심이 들어가 섹시한 복장으로 재 탄생{N}평소 멋있는 여자 암살자를 동경했던 유저라면 한번쯤 입어보길 권장하고 싶은 복장"/>
+		<ger name="Wicked Joker Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Die Version des Dark Assassin für Mädchen hat weniger Stoff. {N}Deswegen ist es nicht nur leichter, sondern auch um Einiges sexier. {N}Sei aber gewarnt - dieses Kostüm macht dich schnell wie der Blitz!"/>
+        <eng name="Wicked Joker Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The female version of the Dark Assassin has less fabric. {N} Therefore, it is not only lighter, but way sexier. {N} Be aware though, this costume also makes you as fast as lightning!"/>
+		<fre name="Wicked Joker Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}La version femme du Sombre Assassin est composée de moins d'étoffe. {N} De ce fait, il n'est pas seulement plus léger, il est aussi diablement plus torride. {N} Ne vous y méprenez pas ce costume vous rendra également aussi rapide que la foudre !"/>
+		<spa name="Wicked Joker Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}La versión femenina del Dark Assassin poseee menos tela. {N} Por lo tanto, es más ligero y más atractivo. {N} Pero hay que tener en cuenta que con esta vestimenta también serás tan veloz como un rayo!"/>
+		<ita name="Wicked Joker Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}La versione femminile del Dark Assassin ha meno tessuto.{N}Per questo motivo, non è solo più leggera, ma anche molto più seducente.{N}Fai attenzione, questo costume ti rende veloce come un lampo!"/>
+		<rus name="Wicked Joker Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Модель костюма Dark Assassin для девушек. Для его разработки использовалось меньше ткани,{N}поэтому он не только легче, но и сексуальней! {N}Но будьте осторожны, в этом костюме вы преодолеете скорость света!"/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Wicked Joker Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Dark Assassin'in dişi versiyonunda daha az kumaş kullanılmıştır. {N} Bu nedenle hem daha hafif hem de çok daha çekicidir. {N} Ama dikkatli ol, bu kostüm seni şimşek gibi hızlı yapacak!"/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000019">
+		<kor name="스페셜 웨이터  일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}시크한 듯 무심해 보이는 웨이터에 영감을 얻어 제작된 복장.{N}웨이터의 목장갑은 이 복장에 하이라이트라고 할 수 있음."/>
+		<ger name="Special Waiter Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Dieses Kostüm wurde von der Kellneruniform eines vornehmen Restaurants inspiriert.{N}Man sagt, es werde von Agenten und Ninjas zur Tarnung benutzt."/>
+        <eng name="Special Waiter Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}A costume that has been inspired by a waiters uniform from a posh restaurant. {N}Some say it has been used as a disguise by agents and ninjas. "/>
+		<fre name="Special Waiter Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Un costume inspiré de la tenue des serveurs des plus grands restaurants. {N}Certains disent qu'il a servi de couverture pour des agents secrets et des ninjas."/>
+		<spa name="Special Waiter Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Una vestimenta inspirada en un uniforme de camarero de un restaurant lujoso. {N}Algunos dicen que ha sido utilizada como disfraz por agentes y ninjas."/>
+		<ita name="Special Waiter Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Un costume ispirato all'uniforme dei camerieri di un ristorante elegante.{N}Alcuni dicono che sia stato usato come travestimento da agenti e ninja."/>
+		<rus name="Special Waiter Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Улучшенный костюм официанта из шикарного ресторана. {N}Ходят слухи, что его используют для маскировки агентов и ниндзя."/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Special Waiter Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Şık bir restoranda çalışan bir garsondan ilham alınarak hazırlanan bir kostüm. {N}Bunun ajanlar ve ninjalar tarafından kimliklerini gizlemek için kullanıldığına dair söylentiler mevcuttur."/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000020">
+		<kor name="스페셜 웨이터  유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}시크한 듯 무심해 보이는 웨이터에 영감을 얻어 제작된 복장.{N}웨이터의 목장갑은 이 복장에 하이라이트라고 할 수 있음."/>
+		<ger name="Special Waiter Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Dieses Kostüm wurde von der Kellneruniform eines vornehmen Restaurants inspiriert.{N}Man sagt, es werde von Agenten und Ninjas zur Tarnung benutzt."/>
+        <eng name="Special Waiter Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}A costume that has been inspired by a waiters uniform from a posh restaurant. {N}Some say it has been used as a disguise by agents and ninjas. "/>
+		<fre name="Special Waiter Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Un costume inspiré de la tenue des serveurs des plus grands restaurants. {N}Certains disent qu'il a servi de couverture pour des agents secrets et des ninjas."/>
+		<spa name="Special Waiter Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Una vestimenta inspirada en un uniforme de camarero de un restaurant lujoso. {N}Algunos dicen que ha sido utilizada como disfraz por agentes y ninjas."/>
+		<ita name="Special Waiter Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Un costume ispirato all'uniforme dei camerieri di un ristorante elegante.{N}Alcuni dicono che sia stato usato come travestimento da agenti e ninja."/>
+		<rus name="Special Waiter Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Улучшенный костюм официанта из шикарного ресторана. {N}Ходят слухи, что его используют для маскировки агентов и ниндзя."/>
+		<tha name=""/>
+		<tur name="Special Waiter Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Şık bir restoranda çalışan bir garsondan ilham alınarak hazırlanan bir kostüm. {N}Bunun ajanlar ve ninjalar tarafından kimliklerini gizlemek için kullanıldığına dair söylentiler mevcuttur."/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000021">
+		<kor name="러블리 쿡  일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}아무리 맛없는 요리를 만드는 요리사라도 이 복장을 입고 만들면 베스트 요리사로 추천 될 것만 같은 복장{N}세트로 출시된 거대한 프라이팬 (스톰 배트 유니크)은 요리사 복장과 함께 꼭 구매해야 할 핫 아이템~!"/>
+		<ger name="Lovely Cook Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Dieses Kostüm könnte dich zum besten Koch der Welt machen.{N} Nein, im Ernst! Allerdings wird es auch von Spionen zusammen mit der Frying Pan (Storm Bat Unique) als Waffe benutzt!"/>
+        <eng name="Lovely Cook Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}A costume that might be able to turn you into the world's greatest chef. {N} No, not for real. But this costume was also used by agents, along with the Frying Pan {N}(Storm Bat Unique) as a weapon!"/>
+		<fre name="Lovely Cook Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Un costume qui pourrait bien vous transformer en cordon bleu ! {N} Enfin non, pas vraiment. Mais tout de même, ce costume a été utilisé par des agents secrets avec la Frying Pan (Storm Bat Unique) en guise d'arme !"/>
+		<spa name="Lovely Cook Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Un traje que podría convertirte en el mejor chef del mundo. {N} No, no es verdad. Pero este traje también ha sido utilizado por agentes, junto con el Frying Pan (Storm Bat Unique) como arma."/>
+		<ita name="Lovely Cook Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Un costume che potrebbe farti diventare lo chef più importante del mondo.{N}No, non davvero. Questo costume è stato usato anche da alcuni agenti con la Frying Pan (Storm Bat Unique) come arma!"/>
+		<rus name="Lovely Cook Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Костюм, в котором вы станете поваром мирового уровня. {N} Но это не правда! Его используют для маскировки агентов, которые вооружены Frying Pan (Storm Bat Unique) в качестве оружия!"/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Lovely Cook Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Dünyanın en iyi şefine dönüşmeni sağlayabilecek bir kostüm. {N}Şaka, şaka. Ama bu kostüm de silah olarak bir tava (Storm Bat Unique) ile ajanlar tarafından kullanılmıştır!"/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000022">
+		<kor name="러블리 쿡  유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}아무리 맛없는 요리를 만드는 요리사라도 이 복장을 입고 만들면 베스트 요리사로 추천 될 것만 같은 복장{N}세트로 출시된 거대한 프라이팬 (스톰 배트 유니크)은 요리사 복장과 함께 꼭 구매해야 할 핫 아이템~!"/>
+		<ger name="Lovely Cook Unique "data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Dieses Kostüm könnte dich zum besten Koch der Welt machen.{N} Nein, im Ernst! Allerdings wird es auch von Spionen zusammen mit der Frying Pan (Storm Bat Unique) als Waffe benutzt!"/>
+         <eng name="Lovely Cook Unique "data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}A costume that might be able to turn you into the world's greatest chef. {N} No, not for real. But this costume was also used by agents, along with the Frying Pan {N}(Storm Bat Unique) as a weapon!"/>
+		<fre name="Lovely Cook Unique "data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Un costume qui pourrait bien vous transformer en cordon bleu ! {N} Enfin non, pas vraiment. Mais tout de même, ce costume a été utilisé par des agents secrets avec la Frying Pan (Storm Bat Unique) en guise d'arme !"/>
+		<spa name="Lovely Cook Unique "data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Un traje que podría convertirte en el mejor chef del mundo. {N} No, no es verdad. Pero este traje también ha sido utilizado por agentes, junto con el Frying Pan (Storm Bat Unique) como arma."/>
+		<ita name="Lovely Cook Unique "data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Un costume che potrebbe farti diventare lo chef più importante del mondo.{N}No, non davvero. Questo costume è stato usato anche da alcuni agenti con la Frying Pan (Storm Bat Unique) come arma!"/>
+		<rus name="Lovely Cook Unique "data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Костюм, в котором вы станете поваром мирового уровня. {N} Но это не правда! Его используют для маскировки агентов, которые вооружены Frying Pan (Storm Bat Unique) в качестве оружия!"/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Lovely Cook Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Dünyanın en iyi şefine dönüşmeni sağlayabilecek bir kostüm. {N}Şaka, şaka. Ama bu kostüm de silah olarak bir tava (Storm Bat Unique) ile ajanlar tarafından kullanılmıştır!"/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000023">
+		<kor name="쿵푸 파이터 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}소림사 제자들을 위해 특별히 제작된 복장으로 싸움을 못하는 유저라도{N}쿵푸 파이터 복장만 입으면 최고의 파이터가 될 수 있다는 전설이 있는 복장 아이템"/>
+		<ger name="Kung Fu fighter Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Dieses Kostüm wurde speziell für Schüler der Shaolin entworfen.{N}Wie es scheint, verbessert es Kampftechniken und macht dich zum besten Kämpfer der ganzen Welt."/>
+        <eng name="Kung Fu fighter Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}This costume is specially designed for the disciples of Shaolin. {N} This costume looks like it can boost fighting techniques and turn you into the worlds best fighter."/>
+		<fre name="Kung Fu fighter Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Ce costume a été spécialement conçu pour les disciples des Shaolins. {N} Ce costume donne le sentiment d'être invincible et vous fera devenir l'un des meilleurs guerriers du monde. "/>
+		<spa name="Kung Fu fighter Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Este traje está especialmente diseñado para los discípulos de Shaolin. {N} Con esta vestimenta podrás mejorar tus técnicas de lucha y te convertirá en el mejor luchador del mundo."/>
+		<ita name="Kung Fu fighter Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Questo costume è stato ideato per gli allievi di Shaolin.{N}Sembra possa potenziare le tecniche di combattimento e farti diventare il miglior lottatore del mondo."/>
+		<rus name="Kung Fu fighter Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Специальный костюм для Шаолинь учеников. {N}Этот костюм придаст вам боевой дух и направит на путь лучшего в мире бойца."/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Kung Fu fighter Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Bu kostüm, özellikle Shaolin havarileri için tasarlanmıştır. {N} Bu kostüm, dövüş tekniklerini destekleyebilecek ve seni dünyanın en iyi dövüşçüsüne dönüştürebilecekmiş gibi görünüyor."/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000024">
+		<kor name="쿵푸 파이터 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}소림사 제자들을 위해 특별히 제작된 복장으로 싸움을 못하는 유저라도{N}쿵푸 파이터 복장만 입으면 최고의 파이터가 될 수 있다는 전설이 있는 복장 아이템"/>
+		<ger name="Kung Fu fighter Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Dieses Kostüm wurde speziell für Schüler der Shaolin entworfen.{N}Wie es scheint, verbessert es Kampftechniken und macht dich zum besten Kämpfer der ganzen Welt."/>
+                <eng name="Kung Fu fighter Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}This costume is specially designed for the disciples of Shaolin. {N} This costume looks like it can boost fighting techniques and turn you into the worlds best fighter."/>
+		<fre name="Kung Fu fighter Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Ce costume a été spécialement conçu pour les disciples des Shaolins. {N} Ce costume donne le sentiment d'être invincible et vous fera devenir l'un des meilleurs guerriers du monde. "/>
+		<spa name="Kung Fu fighter Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Este traje está especialmente diseñado para los discípulos de Shaolin. {N} Con esta vestimenta podrás mejorar tus técnicas de lucha y te convertirá en el mejor luchador del mundo."/>
+		<ita name="Kung Fu fighter Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Questo costume è stato ideato per gli allievi di Shaolin.{N}Sembra possa potenziare le tecniche di combattimento e farti diventare il miglior lottatore del mondo."/>
+		<rus name="Kung Fu fighter Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Специальный костюм для Шаолинь учеников. {N}Этот костюм придаст вам боевой дух и направит на путь лучшего в мире бойца."/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Kung Fu fighter Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Bu kostüm, özellikle Shaolin havarileri için tasarlanmıştır. {N} Bu kostüm, dövüş tekniklerini destekleyebilecek ve seni dünyanın en iyi dövüşçüsüne dönüştürebilecekmiş gibi görünüyor."/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000025">
+		<kor name="치파오 걸 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255} 치파오 걸 복장을 입는 순간 앙증맞은 만두머리가 귀여움을 한껏 돋보이게 하며,{N}남자들의 가슴을 콩닥콩닥 뛰게 함.{N}하나쯤은 소장하고 싶은 욕구를 불러일으키는 복장 아이템"/>
+		<ger name="Chipao Girl Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Es heißt, dieses Kostüm habe einst einer sehr berühmten Kämpferin aus China gehört.{N}Jeder, der es trägt, sollte es zu Ehren dieser Kämpferin tragen!"/>
+        <eng name="Chipao Girl Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255} It is said that this costume once belonged to a very famous fighting girl from China. {N} Everyone wearing it shall honor this female fighter!"/>
+		<fre name="Chipao Girl Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}On raconte que ce costume appartenait jadis à une célèbre guerrière de Chine. {N} Porter cette tenue est perçu comme un hommage à cette guerrière ! "/>
+		<spa name="Chipao Girl Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255} Se dice que este traje perteneció alguna vez a una famosa luchadora en China. {N} El que lo use, honrará a esta luchadora!"/>
+		<ita name="Chipao Girl Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Pare che questo costume sia appartenuto a una famosa lottatrice cinese.{N}Chi lo indosserà dovrà onorarla"/>
+		<rus name="Chipao Girl Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Этот костюм принадлежал самой сильной девушке в Китае. {N}Каждый, кто носит этот костюм, должен уважать бойцовский дух его первого обладателя!"/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Chipao Girl Normal"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255} Bu kostümün bir zamanlar çok ünlü Çinli bir kıza ait olduğu söylenir. {N} Bunu giyen herkes, bu dişi dövüşçüyü onurlandırmalıdır!"/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000026">
+		<kor name="치파오 걸 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255} 치파오 걸 복장을 입는 순간 앙증맞은 만두머리가 귀여움을 한껏 돋보이게 하며,{N}남자들의 가슴을 콩닥콩닥 뛰게 함.{N}하나쯤은 소장하고 싶은 욕구를 불러일으키는 복장 아이템"/>
+		<ger name="Chipao Girl Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Es heißt, dieses Kostüm habe einst einer sehr berühmten Kämpferin aus China gehört.{N}Jeder, der es trägt, sollte es zu Ehren dieser Kämpferin tragen!"/>
+        <eng name="Chipao Girl Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255} It is said that this costume once belonged to a very famous fighting girl from China. {N} Everyone wearing it shall honor this female fighter!"/>
+		<fre name="Chipao Girl Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}On raconte que ce costume appartenait jadis à une célèbre guerrière de Chine. {N} Porter cette tenue est perçu comme un hommage à cette guerrière ! "/>
+		<spa name="Chipao Girl Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255} Se dice que este traje perteneció alguna vez a una famosa luchadora en China. {N} El que lo use, honrará a esta luchadora!"/>
+		<ita name="Chipao Girl Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Pare che questo costume sia appartenuto a una famosa lottatrice cinese.{N}Chi lo indosserà dovrà onorarla"/>
+		<rus name="Chipao Girl Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Этот костюм принадлежал самой сильной девушке в Китае. {N}Каждый, кто носит этот костюм, должен уважать бойцовский дух его первого обладателя!"/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Chipao Girl Unique"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255} Bu kostümün bir zamanlar çok ünlü Çinli bir kıza ait olduğu söylenir. {N} Bunu giyen herkes, bu dişi dövüşçüyü onurlandırmalıdır!"/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000027">
+		<kor name="2013 어드벤쳐 펌비 컬렉션" scn="detective_pumby" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}기대하시라..두둥..2013 시즌 어드벤쳐가 곧 오픈 됩니다.{N}시즌 오픈을 기념하여 펌비들이 시즌 옷을 입고 여러분들을 맞이하고 있어요!{N}귀여운 펌비 컬렉션 한번 모아보실래요?{N}푸짐한 보상이 여러분을 기다리고 있답니다! 와우! 컬렉팅 북 기본 보상과 시즌 아이템을 획득할 수 있어요!"/>
+		<ger name="2013 Treasure hunter fumbi collection" scn="detective_pumby" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Bleibt dran, denn die zweite Season für 2013 beginnt bald!{N}Um den Start der neuen Season zu feiern, wird unser Fumbi vorab die neuen Kostüme vorstellen.{N}Sammelt unsere Fumbis und gehört zu den ersten, die unsere nächsten Kostüme sehen dürfen.{N}Euch erwarten großartige Belohnungen!"/>
+        <eng name="2013 Treasure hunter fumbi" scn="detective_pumby" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Stay tuned, the new season for the 2013 is about to be launched. {N}To celebrate the launch of the new season, {N}Our fumbi will introduce upcoming new costume in advance. {N}Collect our fumbi and be the first one to preview our upcoming costume. {N}Also, there will be an aswesome reward waiting for you!!"/>
+		<fre name="2013 Treasure hunter fumbi collection" scn="detective_pumby" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Attention, le deuxième saison de l'année 2013 est sur le point de commencer! {N} À cette occasion, notre Fumbi vous présentera les nouveaux costumes en exclusivité. {N}Récupérez nos Fumbis et soyez le premier à avoir un aperçu de nos nouveaux costumes.{N}Des récompenses vous attendent !"/>
+		<spa name="2013 Treasure hunter fumbi collection" scn="detective_pumby" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡Manténte atento! La segunda temporada de 2013 está por comenzar!{N} Para celebrar el lanzamiento de la nueva temporada, nuestro Fumbi nos adelantará los nuevos Costumes. {N}Recoge nuestros Fumbis y podrás ser el primero en ver nuestros próximos Costumes. {N}¡Te esperan premios espectaculares!"/>
+		<ita name="Collezione Fumbi cacciatore di tesori 2013" scn="detective_pumby" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Torna a trovarci! La seconda stagione per il 2013 sta per essere lanciata! {N} Per festeggiare il lancio di questa nuova stagione, il nostro Fumbi presenterà in anteprima i nuovi costumi. {N}Raccogli i nostri Fumbi e metti per primo gli occhi sui costumi in arrivo. {N}Ricche ricompense ti attendono!"/>
+		<rus name="2013 Treasure hunter fumbi collection" scn="detective_pumby" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Оставайтесь с нами! Приближается второй сезон 2013-го года! {N}Чтобы отпраздновать запуск нового сезона наш Fumbi подготовил особые сезонные костюмы. {N}Соберите всех Fumbi и станьте первым, кто опробует нашу новую коллекцию. {N}Вас ожидают отличные награды!"/>
+		<tha name="2013 Treasure hunter fumbi collection" scn="detective_pumby" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Stay tuned, the new season for the 2013 is about to be launched. {N} To celebrate the launch of new season, our fumbi will introduce upcoming new costume in advance. {N}Collect our fumbi and be the first one to preview our upcoming costume. {N}Also, there will be aswesome reward is waiting for you!!"/>
+		<twn name="2013 Treasure hunter fumbi collection" scn="detective_pumby" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Stay tuned, the new season for the 2013 is about to be launched. {N} To celebrate the launch of new season, our fumbi will introduce upcoming new costume in advance. {N}Collect our fumbi and be the first one to preview our upcoming costume. {N}Also, there will be aswesome reward is waiting for you!!"/>
+		<tur name="2013 Hazine avcısı fumbi koleksiyonu" scn="detective_pumby" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Bizimle kal, 2013 için ikinci sezon başlamak üzere! {N} Yeni sezonun başlangıcını kutlamak için, Fumbi'miz gelen yeni kostümleri önceden dahil ediyor. {N}Fumbi'lerimizi topla ve yeni gelecek kostümleri inceleyen ilk kişi ol. {N}İnanılmaz ödüller seni bekliyor olacak!"/>
+		<idn name="2013 Treasure hunter fumbi collection" scn="detective_pumby" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Stay tuned, the new season for the 2013 is about to be launched. {N} To celebrate the launch of new season, our fumbi will introduce upcoming new costume in advance. {N}Collect our fumbi and be the first one to preview our upcoming costume. {N}Also, there will be aswesome reward is waiting for you!!"/>
+		</scenario_list>
+		<scenario_list key="5000028">
+		<kor name="워터 스포츠 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}여름에는 시원한 복장을 입어야 제 맛이죠!{N}한시라도 빨리 바캉스를 떠나고 싶게 만드는 복장 아이템!"/>
+		<ger name="Normal Water Sports" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Erlebt einen besonders coolen Sommer mit dem Water Sports Costume.{N}Ihr werdet euch fühlen, als wärt ihr mitten im Meer!"/>
+        <eng name="Normal Water Sports" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Experience cool summer by using Water Sport costume. {N} This will make you feel like your in the ocean. "/>
+		<fre name="Normal Water Sports" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Profitez de l'été bien au frais grâce au costume Water Sport.  {N} Avec à cette tenue, vous aurez l'impression d'être littéralement dans l'eau."/>
+		<spa name="Normal Water Sports" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Experimenta un verano espectacular usando el Water Sport Costume. {N} Te hará sentir como que estás dentro del océano. "/>
+		<ita name="Normal Water Sports" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Rinfrescati in estate usando il Water Sport Costume. {N} Ti sentirai come se stessi nell'oceano. "/>
+		<rus name="Normal Water Sports" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Горячий опыт в жаркий день лета вместе с Water Sport Costume. {N}В этом костюме вы почувствуете себя как в прохладных водах океана."/>
+		<tur name="Normal Su Sporları" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Su Sporları Kostümünü kullanarak özellikle harika bir yaz yaşa. {N} Bu, doğrudan sanki okyanustaymışsın gibi hissettirecek. "/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>
+		<scenario_list key="5000029">
+		<kor name="워터 스포츠 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}{N}{A-L}{F-2002_11}{CB-255,255,255,255}Experience cool summer by using Water Sport costume. {N} This will make you feel like your in the ocean."/>
+		<ger name="Water Sports Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Erlebt einen besonders coolen Sommer mit dem Water Sports Costume.{N}Ihr werdet euch fühlen, als wärt ihr mitten im Meer!"/>
+        <eng name="Water Sports Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Experience cool summer by using Water Sport costume. {N} This will make you feel like your in the ocean. "/>
+		<fre name="Water Sports Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Profitez de l'été bien au frais grâce au costume Water Sport.  {N} Avec à cette tenue, vous aurez l'impression d'être littéralement dans l'eau."/>
+		<spa name="Water Sports Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Experimenta un verano espectacular usando el Water Sport Costume. {N} Te hará sentir como que estás dentro del océano. "/>
+		<ita name="Water Sports Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Rinfrescati in estate usando il Water Sport Costume. {N} Ti sentirai come se stessi nell'oceano. "/>
+		<rus name="Water Sports Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Горячий опыт в жаркий день лета вместе с Water Sport Costume. {N}В этом костюме вы почувствуете себя как в прохладных водах океана."/>
+		<tur name="Su Sporları Eşsiz" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Su Sporları Kostümünü kullanarak özellikle harika bir yaz yaşa. {N} Bu, doğrudan sanki okyanustaymışsın gibi hissettirecek. "/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>
+		<scenario_list key="5000030">
+		<kor name="볼륨 비키니 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}무더운 여름에는 바다로 떠나요!{N}노출도와 방어력이 반비례하는 걸 느낄 수 있는 신기한 복장 아이템!"/>
+		<ger name="Normal Sexy Summer Bikini" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Es ist Zeit, an den Strand zu gehen!{N}Dieses Kostüm wird beweisen, wie sexy ihr seid!"/>
+        <eng name="Normal Sexy Summer Bikini" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}It's time to go to the beach!{N}This costume will show how sexy you are! "/>
+		<fre name="Normal Sexy Summer Bikini" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il est temps d'aller à la plage !{N}Ce costume révèlera votre naturel sexy !"/>
+		<spa name="Normal Sexy Summer Bikini" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡Es tiempo de ir a la playa!{N}Con este Costume te verás muy sexy! "/>
+		<ita name="Normal Sexy Summer Bikini" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}È tempo di andare in spiaggia!{N}Questo costume ti dimostrerà quanto sei sexy! "/>
+		<rus name="Normal Sexy Summer Bikini" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Пора идти на пляж!{N}В этом костюме вы выглядите неотразимо!"/>
+		<tha name="Normal Sexy Summer Bikini" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}It's time for the ocean.!{N}This costume will express your sexyness to others!"/>
+		<twn name="Normal Sexy Summer Bikini" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}It's time for the ocean.!{N}This costume will express your sexyness to others!"/>
+		<tur name="Normal Seksi Yaz Bikinisi" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Plaja gitme zamanı geldi!{N}Bu kostüm ne kadar seksi olduğunu gösterecek! "/>
+		<idn name="Normal Sexy Summer Bikini" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}It's time for the ocean.!{N}This costume will express your sexyness to others!"/>
+		</scenario_list>
+	<scenario_list key="5000031">
+		<kor name="볼륨 비키니 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}무더운 여름에는 바다로 떠나요!{N}노출도와 방어력이 반비례하는 걸 느낄 수 있는 신기한 복장 아이템!"/>
+		<ger name="Sexy Summer Bikini Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Es ist Zeit, an den Strand zu gehen!{N}Dieses Kostüm wird beweisen, wie sexy ihr seid!"/>
+        <eng name="Sexy Summer Bikini Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}It's time to go to the beach!{N}This costume will show how sexy you are! "/>
+		<fre name="Sexy Summer Bikini Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il est temps d'aller à la plage !{N}Ce costume révèlera votre naturel sexy !"/>
+		<spa name="Sexy Summer Bikini Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡Es tiempo de ir a la playa!{N}Con este Costume te verás muy sexy! "/>
+		<ita name="Sexy Summer Bikini Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}È tempo di andare in spiaggia!{N}Questo costume ti dimostrerà quanto sei sexy! "/>
+		<rus name="Sexy Summer Bikini Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Пора идти на пляж!{N}В этом костюме вы выглядите неотразимо!"/>
+		<tha name="Sexy Summer Bikini Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}It's time for the ocean.!{N}This costume will express your sexyness to others!"/>
+		<twn name="Sexy Summer Bikini Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}It's time for the ocean.!{N}This costume will express your sexyness to others!"/>
+		<tur name="Seksi Yaz Bikinisi Eşsiz" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}It's time for the ocean.!{N}This costume will express your sexyness to others!"/>
+		<idn name="Sexy Summer Bikini Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}It's time for the ocean.!{N}This costume will express your sexyness to others!"/>
+	</scenario_list>
+	<scenario_list key="5000032">
+		<kor name="후크 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}파이러트 세력에 대항하는 또다른 해적!{N}입으면 금은보화를 획득할 것 같은 느낌이 드는 복장 아이템!"/>
+		<ger name="Normal Pirate(M)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Arrr! Einmal Pirat, immer Pirat!{N}Kleidet euch wie ein echter Piratenkapitän und versetzt eure Feinde in Angst und Schrecken!"/>
+        <eng name="Normal Pirate(M)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Arrr! A pirate stays a pirate!{N}Look like a real pirate captain and bring shock and awe to your foes! "/>
+		<fre name="Normal Pirate(M)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Arrr ! Pirate un jour, pirate toujours !{N}Adoptez le look d'un véritable pirate et imposez la peur et le respect auprès de vos ennemis !"/>
+		<spa name="Normal Pirate(M)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡Arrr! ¡Un pirata siempre será un pirata!{N}Con este Costume te verás como un verdadero pirata y seguramente espantarás a tus enemigos! "/>
+		<ita name="Normal Pirate(M)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Arrr! Un pirata è sempre un pirata!{N}Vesti i panni di un vero capitano pirata e terrorizza i tuoi  nemici! "/>
+		<rus name="Normal Pirate(M)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Карамба! Пират он же всегда пират! {N}Станьте капитаном пиратского корабля и заставьте врагов трепетать!"/>
+		<tur name="Normal Korsan(E)  Kostümü" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Arrr! Bir korsan hep korsan kalır!{N}Gerçek bir korsan kaptan gibi görün, düşmanlarına korku ve dehşet sal! "/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000033">
+		<kor name="후크 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}파이러트 세력에 대항하는 또다른 해적!{N}입으면 금은보화를 획득할 것 같은 느낌이 드는 복장 아이템!"/>
+		<ger name="Pirate Costume (M) Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Arrr! Einmal Pirat, immer Pirat!{N}Kleidet euch wie ein echter Piratenkapitän und versetzt eure Feinde in Angst und Schrecken!"/>
+        <eng name="Pirate Costume (M) Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Arrr! A pirate stays a pirate!{N}Look like a real pirate captain and bring shock and awe to your foes! "/>
+		<fre name="Pirate Costume (M) Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Arrr ! Pirate un jour, pirate toujours !{N}Adoptez le look d'un véritable pirate et imposez la peur et le respect auprès de vos ennemis !"/>
+		<spa name="Pirate Costume (M) Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡Arrr! ¡Un pirata siempre será un pirata!{N}Con este Costume te verás como un verdadero pirata y seguramente espantarás a tus enemigos! "/>
+		<ita name="Pirate Costume (M) Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Arrr! Un pirata è sempre un pirata!{N}Vesti i panni di un vero capitano pirata e terrorizza i tuoi  nemici! "/>
+		<rus name="Pirate Costume (M) Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Карамба! Пират он же всегда пират! {N}Станьте капитаном пиратского корабля и заставьте врагов трепетать!"/>
+		<tur name="Korsan Kostümü(E)Eşsiz" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Arrr! Bir korsan hep korsan kalır!{N}Gerçek bir korsan kaptan gibi görün, düşmanlarına korku ve dehşet sal! "/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000034">
+		<kor name="브리간티스 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}섹시하게 옷을 입었지만 사실은 무서운 해적이라는 거 잊지마세요!{N}배 위에서의 더위를 피하기 위해 해적들이 입는 복장 아이템"/>
+		<ger name="Normal Pirate(F)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Lasst euch nicht von ihrem Aussehen täuschen, denn sie ist einer der schrecklichsten Piraten der Welt!{N}Dieses Piratenkostüm verwandelt euch in eine sexy Piratin. Arrrrr!"/>
+        <eng name="Normal Pirate(F)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Don't judge her by her looks, she's one of the scariest pirates in the world! {N} This pirate costume will turn you into a sexy pirate. Arrrrr!"/>
+		<fre name="Normal Pirate(F)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Méfiez-vous de son apparence, car c'est l'une des pirates les plus craintes au monde ! {N} Ce costume de pirate vous transformera en une pirate diablement sexy. Arrrrr !"/>
+		<spa name="Normal Pirate(F)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}No la juzgues por su aspecto, ella es una de las piratas más temibles del mundo!. {N} Este Costume de pirata te convertirá en una pirata muy sexy. ¡Arrrrr!"/>
+		<ita name="Normal Pirate(F)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Non giudicarla dall'aspetto, è uno dei pirati più temibili del mondo! {N} Questo costume da pirata ti trasformerà in una sexy piratessa. Arrrrr!"/>
+		<rus name="Normal Pirate(F)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Не ведитесь на ее милый вид, она одна из самых зловещих пиратов! {N}Этот пиратский костюм придаст вам неотразимый вид. Карамба!"/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Korsan Kostümü(E)Eşsiz" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Görünüşü için onu yargılama, o dünyadaki en korkusuz korsanlardan biri!. {N} Bu korsan kostümü seni seksi bir korsana dönüştürecek. Arrrrr!"/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000035">
+		<kor name="브리간티스 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}섹시하게 옷을 입었지만 사실은 무서운 해적이라는 거 잊지마세요!{N}배 위에서의 더위를 피하기 위해 해적들이 입는 복장 아이템!"/>
+		<ger name="Unique Pirate (F)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Lasst euch nicht von ihrem Aussehen täuschen, denn sie ist einer der schrecklichsten Piraten der Welt!{N}Dieses Piratenkostüm verwandelt euch in eine sexy Piratin. Arrrrr!"/>
+        <eng name="Unique Pirate (F)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Don't judge her by her looks, she's one of the scariest pirates in the world! {N} This pirate costume will turn you into a sexy pirate. Arrrrr!"/>
+		<fre name="Unique Pirate (F)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Méfiez-vous de son apparence, car c'est l'une des pirates les plus craintes au monde ! {N} Ce costume de pirate vous transformera en une pirate diablement sexy. Arrrrr !"/>
+		<spa name="Unique Pirate (F)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}No la juzgues por su aspecto, ella es una de las piratas más temibles del mundo!. {N} Este Costume de pirata te convertirá en una pirata muy sexy. ¡Arrrrr!"/>
+		<ita name="Unique Pirate (F)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Non giudicarla dall'aspetto, è uno dei pirati più temibili del mondo! {N} Questo costume da pirata ti trasformerà in una sexy piratessa. Arrrrr!"/>
+		<rus name="Unique Pirate (F)Costume" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Не ведитесь на ее милый вид, она одна из самых зловещих пиратов! {N}Этот пиратский костюм придаст вам неотразимый вид. Карамба!"/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Eşsiz Korsan (K)Kostümü" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Görünüşü için onu yargılama, o dünyadaki en korkusuz korsanlardan biri!. {N} Bu korsan kostümü seni seksi bir korsana dönüştürecek. Arrrrr!"/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000036">
+		<kor name="헌터 다르텐 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}섹시하게 옷을 입었지만 사실은 무서운 해적이라는 거 잊지마세요!{N}배 위에서의 더위를 피하기 위해 해적들이 입는 복장 아이템!"/>
+		<ger name="Hunter Darten - Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Der speziell geschulte Scharfschütze Hunter Darten!!!{N} Dieses Kostüm hilft ihm, seine Mission von 'The World' zu erfüllen."/>
+        <eng name="Hunter Darten - Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Darten the hunter!!!{N} This costume helps him to accomplish his mission from 'The World'"/>
+		<fre name="Hunter Darten - Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Darten the hunter!!!{N} This costume helps him to accomplish his mission from 'The World'"/>
+		<spa name="Hunter Darten - Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Darten the hunter!!!{N} This costume helps him to accomplish his mission from 'The World'"/>
+		<ita name="Hunter Darten - Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Darten the hunter!!!{N} This costume helps him to accomplish his mission from 'The World'"/>
+		<rus name="Hunter Darten - Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Darten the hunter!!!{N} This costume helps him to accomplish his mission from 'The World'"/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Avcı Darten - Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Darten the hunter!!!{N} This costume helps him accomplished his mission from 'The World'"/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000037">
+		<kor name="헌터 다르텐 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}섹시하게 옷을 입었지만 사실은 무서운 해적이라는 거 잊지마세요!{N}배 위에서의 더위를 피하기 위해 해적들이 입는 복장 아이템!"/>
+		<ger name="Hunter Darten - Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Der speziell geschulte Scharfschütze Hunter Darten!!!{N} Dieses Kostüm hilft ihm, seine Mission von 'The World' zu erfüllen."/>
+        <eng name="Hunter Darten - Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Darten the hunter!!!{N} This costume helps him to accomplish his mission from 'The World'"/>
+		<fre name="Hunter Darten - Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Darten the hunter!!!{N} This costume helps him to accomplish his mission from 'The World'"/>
+		<spa name="Hunter Darten - Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Darten the hunter!!!{N} This costume helps him to accomplish his mission from 'The World'"/>
+		<ita name="Hunter Darten - Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Darten the hunter!!!{N} This costume helps him to accomplish his mission from 'The World'"/>
+		<rus name="Hunter Darten - Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Darten the hunter!!!{N} This costume helps him to accomplish his mission from 'The World'"/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Avcı Darten - Eşsiz" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Darten the hunter!!!{N} This costume helps him accomplished his mission from 'The World'"/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000038">
+		<kor name="헌터 다미아 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}섹시하게 옷을 입었지만 사실은 무서운 해적이라는 거 잊지마세요!{N}배 위에서의 더위를 피하기 위해 해적들이 입는 복장 아이템!"/>
+		<ger name="Hunter Damia - Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Die speziell geschulte Scharfschützin Hunter Damia!!!{N} Dieses Kostüm hilft ihr, ihre Mission von 'The World' zu erfüllen."/>
+        <eng name="Hunter Damia - Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Damia the hunter!!!{N} This costume helps her to accomplish her mission from 'The World'"/>
+		<fre name="Hunter Damia - Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Damia the hunter!!!{N} This costume helps her to accomplish her mission from 'The World'"/>
+		<spa name="Hunter Damia - Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Damia the hunter!!!{N} This costume helps her to accomplish her mission from 'The World'"/>
+		<ita name="Hunter Damia - Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Damia the hunter!!!{N} This costume helps her to accomplish her mission from 'The World'"/>
+		<rus name="Hunter Damia - Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Damia the hunter!!!{N} This costume helps her to accomplish her mission from 'The World'"/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Avcı Damia - Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Damia the hunter!!!{N} This costume helps him accomplished his mission from 'The World'"/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000039">
+		<kor name="헌터 다미아 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}섹시하게 옷을 입었지만 사실은 무서운 해적이라는 거 잊지마세요!{N}배 위에서의 더위를 피하기 위해 해적들이 입는 복장 아이템!"/>
+		<ger name="Hunter Damia - Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Die speziell geschulte Scharfschützin Hunter Damia!!!{N} Dieses Kostüm hilft ihr, ihre Mission von 'The World' zu erfüllen."/>
+        <eng name="Hunter Damia - Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Damia the hunter!!!{N} This costume helps her to accomplish her mission from 'The World'"/>
+		<fre name="Hunter Damia - Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Damia the hunter!!!{N} This costume helps her to accomplish her mission from 'The World'"/>
+		<spa name="Hunter Damia - Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Damia the hunter!!!{N} This costume helps her to accomplish her mission from 'The World'"/>
+		<ita name="Hunter Damia - Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Damia the hunter!!!{N} This costume helps her to accomplish her mission from 'The World'"/>
+		<rus name="Hunter Damia - Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Damia the hunter!!!{N} This costume helps her to accomplish her mission from 'The World'"/>
+		<tha name=""/>
+		<twn name=""/>
+		<tur name="Avcı Damia - Eşsiz" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially trained sniper Damia the hunter!!!{N} This costume helps him accomplished his mission from 'The World'"/>
+	</scenario_list>
+    <scenario_list key="5000048">
+		<kor name="데스 인펙터 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}릴리트 바이러스로 인하여 감염된 리거!!{N}릴리트의 명을 받아 바이러스를 퍼뜨리기 위해 활동하는 데스 인펙터의 복장!"/>
+		<ger name="Death Impactor Normal" data="{N}{A_L}{F-2002_11}{CB-255,255,255,255}Löste die Virus-Infektion durch Lilith aus! {N} Lieblings Kostüm des Verursachers der Virus-Infektion"/>
+        <eng name="Death Impactor Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Infected Leaguer by Lilith Virus!!{N}Costume for Death Infector who spreads viruses by receiving orders of Lilith!"/>
+		<fre name="Death Impactor Normal" data="{N}{A_L}{F-2002_11}{CB-255,255,255,255}Lilith due à une infection par le virus déclenche! {N} impacteur de la mort Qui propagation du virus Lilith Son Costume Set favori"/>
+		<spa name="Death Impactor Normal" data="{N}{A_L}{F-2002_11}{CB-255,255,255,255}Lilith debido a la infección por el virus dispara! {N} Impactor muerte que la propagación del virus Lilith Su Set disfraz favorito"/>
+		<ita name="Death Impactor Normal" data="{N}{A_L}{F-2002_11}{CB-255,255,255,255}Lilith a causa di virus scatena! {N} urto Morte Chi diffusione del virus Lilith il suo costume preferito Set"/>
+		<rus name="Death Impactor Normal" data="{N}{A_L}{F-2002_11}{CB-255,255,255,255}Лилит в результате заражения вирусом вызывает! {N} Смерть Импактор Кто распространения Вирус Лилит Его любимый набор костюмов"/>
+		<tur name="Death Impactor Normal" data="{N}{A_L}{F-2002_11}{CB-255,255,255,255}Lilith tetikler! {N} Ölüm Darbeli kim Lilith Virüs En sevdiği Kostüm Set yayılıyor"/>
+		<twn name="Death Impactor Normal"/>
+		<idn name=""/>
+		</scenario_list>	
+	<scenario_list key="5000049">
+		<kor name="데스 인펙터 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}릴리트 바이러스로 인하여 감염된 리거!!{N}릴리트의 명을 받아 바이러스를 퍼뜨리기 위해 활동하는 데스 인펙터의 복장!"/>
+		<ger name="Death Impactor Unique" data="{N}{A_L}{F-2002_11}{CB-255,255,255,255}Löste die Virus-Infektion durch Lilith aus! {N} Lieblings Kostüm des Verursachers der Virus-Infektion"/>
+        <eng name="Death Impactor Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Infected Leaguer by Lilith Virus!!{N}Costume for Death Infector who spreads viruses by receiving orders of Lilith!"/>
+		<fre name="Death Impactor Unique" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}Lilith due à une infection par le virus déclenche! {N} impacteur de la mort Qui propagation du virus Lilith Son Costume Set favori"/>
+		<spa name="Death Impactor Unique" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}Lilith debido a la infección por el virus dispara! {N} Impactor muerte que la propagación del virus Lilith Su Set disfraz favorito"/>
+		<ita name="Death Impactor Unique" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}Lilith a causa di virus scatena! {N} urto Morte Chi diffusione del virus Lilith il suo costume preferito Set"/>
+		<rus name="Death Impactor Unique" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}Лилит в результате заражения вирусом вызывает! {N} Смерть Импактор Кто распространения Вирус Лилит Его любимый набор костюмов"/>
+		<tur name="Death Impactor Unique" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}Lilith tetikler! {N} Ölüm Darbeli kim Lilith Virüs En sevdiği Kostüm Set yayılıyor"/>
+		<jap name="Death Impactor Unique"/>
+		<idn name="Death Impactor Unique"/>
+		</scenario_list>
+	<scenario_list key="5000050">
+		<kor name="데스 퀸 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}릴리트 바이러스의 숙주 데스 퀸!!{N}수많은 데스 인펙터를 만들어 내는 퀸의 복장! 매혹적인 그녀에겐 무시무시한 바이러스가!"/>
+		<ger name="Death Queen Normal" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}Wirt des Lilith Virus {N} Du führst den tödlichen Virus hinter deinem glamourösen Kleid mit dir."/>
+        <eng name="Death Queen Normal" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}Host of the Lilith Virus{N}You can feel deadly virus behind hers glamorous dress."/>
+		<fre name="Death Queen Normal" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}hôte de l'Lilith Virus {N} Vous pouvez sentir virus mortel derrière elle sa robe glamour"/>
+		<spa name="Death Queen Normal" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}Anfitrión del Lilith Virus {N} Usted puede sentir virus mortal detrás del vestido glamoroso"/>
+		<ita name="Death Queen Normal" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}Host della Lilith Virus {N} puoi stare virus mortale alle spalle del vestito glamour"/>
+		<rus name="Death Queen Normal" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}Куратор Лилит Вирус {N} Вы можете чувствовать себя смертельный вирус позади нее гламурной "/>
+		<tur name="Death Queen Normal" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}Lilith Virüs {N} ev sahibi Onu en göz alıcı elbise arkasında ölümcül bir virüs hissediyorum"/>
+		<twn name="Death Queen Normal"/>
+		<jap name="Death Queen Normal"/>
+		<idn name="Death Queen Normal"/>
+		</scenario_list>
+	<scenario_list key="5000051">
+		<kor name="데스 퀸 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}릴리트 바이러스의 숙주 데스 퀸!!{N}수많은 데스 인펙터를 만들어 내는 퀸의 복장! 매혹적인 그녀에겐 무시무시한 바이러스가!"/>
+		<ger name="Death Queen Unique" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}Wirt des Lilith Virus {N} Du führst den tödlichen Virus hinter deinem glamourösen Kleid mit dir."/>
+        <eng name="Death Queen Unique" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}Host of the Lilith Virus{N}You can feel deadly virus behind hers glamorous dress."/>
+		<fre name="Death Queen Unique" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}hôte de l'Lilith Virus {N} Vous pouvez sentir virus mortel derrière elle sa robe glamour"/>
+		<spa name="Death Queen Unique" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}Anfitrión del Lilith Virus {N} Usted puede sentir virus mortal detrás del vestido glamoroso"/>
+		<ita name="Death Queen Unique" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}Host della Lilith Virus {N} puoi stare virus mortale alle spalle del vestito glamour"/>
+		<rus name="Death Queen Unique" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}Куратор Лилит Вирус {N} Вы можете чувствовать себя смертельный вирус позади нее гламурной "/>
+		<tur name="Death Queen Unique" data="{N} {A_L} {F-2002_11} {CB-255,255,255,255}Lilith Virüs {N} ev sahibi Onu en göz alıcı elbise arkasında ölümcül bir virüs hissediyorum"/>
+		<twn name="Death Queen Unique"/>
+		<idn name="Death Queen Unique"/>
+		</scenario_list>
+		<scenario_list key="5000052">
+		<kor name="탐정노멀" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}릴리트 바이러스로 인하여 감염된 리거!!{N}릴리트의 명을 받아 바이러스를 퍼뜨리기 위해 활동하는 데스 인펙터의 복장!"/>
+		<ger name="Detective Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Ein Detektiv, der stets die Geheimnisse von S4 League aufdecken will!{N}Das ist deine Chance, ein Detektiv zu werden!"/>
+        <eng name="Detective Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255} A detective who is always seeking for the ruins of S4 League!!{N} Now it's your chance to become a detective!"/>
+		<tur name="Detective Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Sürekli S4 League'in sırlarını arayan bir dedektif!{N}Şimdi dedektif olma sırası sizde!"/>
+		<fre name="Detective Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Un détective qui cherche à percer les secrets d'S4 League !{N} Saisissez cette chance de devenir détective à votre tour !"/>
+		<spa name="Detective Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡Un detective que siempre está buscando descubrir los secretos de S4 League!1{N} ¡Esta es tu posibilidad de convertirte en un detective!"/>
+		<ita name="Detective Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Un detective sempre a caccia di segreti in S4 League!{N} Ora hai l'occasione di diventarne uno!"/>
+		<rus name="Detective Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Детектив, который ищет разгадку ко всем секретам в S4 League! {N} Теперь пришел ваш черед побывать в роли детектива!"/>
+		<jap name="Detective Normal"/>
+		<idn name=""/>
+		</scenario_list>	
+	<scenario_list key="5000053">
+		<kor name="탐정유닠" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}릴리트 바이러스로 인하여 감염된 리거!!{N}릴리트의 명을 받아 바이러스를 퍼뜨리기 위해 활동하는 데스 인펙터의 복장!"/>
+		<ger name="Detective Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Ein Detektiv, der stets die Geheimnisse von S4 League aufdecken will!{N}Das ist deine Chance, ein Detektiv zu werden!"/>
+        <eng name="Detective Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255} A detective who is always seeking for the ruins of S4 League!!{N} Now it's your chance to become a detective!"/>
+		<tur name="Detective Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Sürekli S4 League'in sırlarını arayan bir dedektif!{N}Şimdi dedektif olma sırası sizde!"/>
+		<fre name="Detective Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Un détective qui cherche à percer les secrets d'S4 League !{N} Saisissez cette chance de devenir détective à votre tour !"/>
+		<spa name="Detective Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡Un detective que siempre está buscando descubrir los secretos de S4 League!1{N} ¡Esta es tu posibilidad de convertirte en un detective!"/>
+		<ita name="Detective Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Un detective sempre a caccia di segreti in S4 League!{N} Ora hai l'occasione di diventarne uno!"/>
+		<rus name="Detective Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Детектив, который ищет разгадку ко всем секретам в S4 League! {N} Теперь пришел ваш черед побывать в роли детектива!"/>
+		<jap name="Detective Unique"/>
+		<idn name="Detective Unique"/>
+		</scenario_list>
+	<scenario_list key="5000054">
+		<kor name="여탐정 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}릴리트 바이러스의 숙주 데스 퀸!!{N}수많은 데스 인펙터를 만들어 내는 퀸의 복장! 매혹적인 그녀에겐 무시무시한 바이러스가!"/>
+		<ger name="Female Detective Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Eine Detektivin, die stets die Geheimnisse von S4 League aufdecken will!{N}Das ist deine Chance, eine Detektivin zu werden!"/>
+        <eng name="Female Detective Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255} A detective who is always seeking for the ruins of S4 League!!{N} Now it's your chance to become a detective!"/>
+		<tur name="Female Detective Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Sürekli S4 League'in sırlarını arayan bir dedektif!{N}Şimdi dedektif olma sırası sizde!"/>
+		<fre name="Female Detective Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Une détective qui cherche à percer les secrets d'S4 League !{N} Saisissez cette chance de devenir détective à votre tour !"/>
+		<spa name="Female Detective Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡Un detective que siempre está buscando descubrir los secretos de S4 League!1{N} ¡Esta es tu posibilidad de convertirte en un detective!"/>
+		<ita name="Female Detective Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Una donna detective sempre a caccia di segreti in S4 League!{N} Ora hai l'occasione di diventarne una!"/>
+		<rus name="Female Detective Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Детектив, которая ищет разгадку ко всем секретам в S4 League! {N} Теперь пришел ваш черед побывать в роли детектива!"/>
+		<twn name="Female Detective Normal"/>
+		<jap name="Female Detective Normal"/>
+		<idn name="Female Detective Normal"/>
+		</scenario_list>
+	<scenario_list key="5000055">
+		<kor name="여탐정 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}릴리트 바이러스의 숙주 데스 퀸!!{N}수많은 데스 인펙터를 만들어 내는 퀸의 복장! 매혹적인 그녀에겐 무시무시한 바이러스가!"/>
+		<ger name="Female Detective Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Eine Detektivin, die stets die Geheimnisse von S4 League aufdecken will!{N}Das ist deine Chance, eine Detektivin zu werden!"/>
+        <eng name="Female Detective Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255} A detective who is always seeking for the ruins of S4 League!!{N} Now it's your chance to become a detective!"/>
+		<tur name="Female Detective Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Sürekli S4 League'in sırlarını arayan bir dedektif!{N}Şimdi dedektif olma sırası sizde!"/>
+		<fre name="Female Detective Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Une détective qui cherche à percer les secrets d'S4 League !{N} Saisissez cette chance de devenir détective à votre tour !"/>
+		<spa name="Female Detective Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡Un detective que siempre está buscando descubrir los secretos de S4 League!1{N} ¡Esta es tu posibilidad de convertirte en un detective!"/>
+		<ita name="Female Detective Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Una donna detective sempre a caccia di segreti in S4 League!{N} Ora hai l'occasione di diventarne una!"/>
+		<rus name="Female Detective Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Детектив, которая ищет разгадку ко всем секретам в S4 League! {N} Теперь пришел ваш черед побывать в роли детектива!"/>
+		<twn name="Female Detective Unique"/>
+		<jap name="Female Detective Unique"/>
+		<idn name="Female Detective Unique"/>
+		</scenario_list>
+	<scenario_list key="5000056">
+      	<kor name="버닝 윈터 보이 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}S4리그에 찾아온 겨울! 그 겨울을 버티기 위한{N}남자 리거의 필수 복장! 아무리 추워도 따뜻한 패딩과 털모자가 있으면 끄떡 없답니다!!"/>
+		<ger name="Burning Winter Boy(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Mach es dir im Winter mit diesem brennenden Winteroutfit warm und gemütlich.{N}Achtung: Dieses Kostüm hat nichts mit dem Burning Mode zu tun."/>
+        <eng name="Burning Winter Boy(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Keep yourself warm and comfortable during the winter by wearing the Burning Winter Costume.{N}Alert: This costume has nothing to do with burning mode."/>
+		<fre name="Burning Winter Boy(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Restez bien confortablement au chaud tout l'hiver avec le costume Burning Winter.{N}Attention : ce costume n'a rien à voir avec le mode Embrasement."/>
+		<spa name="Burning Winter Boy(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Podrás mantenerte cálido y cómodo durante el invierno con el Burning Winter Costume.{N}Aviso: Este conjunto no tiene nada que ver con la modalidad Burning."/>
+		<ita name="Burning Winter Boy(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il Burning Winter Costume ti offrirà calore e comodità durante l'inverno.{N}Attenzione: questo costume non c'entra nulla con il burning mode."/>
+		<rus name="Burning Winter Boy(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Надев Burning Winter костюм, вам будет тепло и удобство даже в самую холодную зиму. Внимание: Этот костюм не связан с Burning системой."/>
+		<tur name="Burning Winter Boy(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Burning Winter Costume giyerek kış boyunca kendinizi sıcak ve konforlu tutun. Uyarı: Bu kostümün burning mod ile bir ilgisi yoktur."/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000057">
+	<option red_card="true"/>
+		<kor name="버닝 윈터 보이 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}S4리그에 찾아온 겨울! 그 겨울을 버티기 위한{N}남자 리거의 필수 복장! 아무리 추워도 따뜻한 패딩과 털모자가 있으면 끄떡 없답니다!!"/>
+		<ger name="Burning Winter Boy(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Mach es dir im Winter mit diesem brennenden Winteroutfit warm und gemütlich.{N}Achtung: Dieses Kostüm hat nichts mit dem Burning Mode zu tun."/>
+        <eng name="Burning Winter Boy(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Keep yourself warm and comfortable during the winter by wearing the Burning Winter Costume.{N}Alert: This costume has nothing to do with burning mode."/>
+		<fre name="Burning Winter Boy(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Restez bien confortablement au chaud tout l'hiver avec le costume Burning Winter.{N}Attention : ce costume n'a rien à voir avec le mode Embrasement."/>
+		<spa name="Burning Winter Boy(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Podrás mantenerte cálido y cómodo durante el invierno con el Burning Winter Costume.{N}Aviso: Este conjunto no tiene nada que ver con la modalidad Burning."/>
+		<ita name="Burning Winter Boy(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il Burning Winter Costume ti offrirà calore e comodità durante l'inverno.{N}Attenzione: questo costume non c'entra nulla con il burning mode."/>
+		<rus name="Burning Winter Boy(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Надев Burning Winter костюм, вам будет тепло и удобство даже в самую холодную зиму. Внимание: Этот костюм не связан с Burning системой."/>
+		<tur name="Burning Winter Boy(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Burning Winter Costume giyerek kış boyunca kendinizi sıcak ve konforlu tutun. Uyarı: Bu kostümün burning mod ile bir ilgisi yoktur."/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000058">
+        <kor name="섹시 윈터 걸 노말" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}S4 리그에 찾아온 겨울! 그 겨을 버티기 위한{N}여성 리거의 필수 아이템!! 두꺼운 옷을 입고서도 패션 감각을 놓치지 않는 리거를 위한 아이템!!"/>
+		<ger name="Sexy Winter Girl(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Das ist das Winter Costume für die richtig coolen Girls! Mit diesem Set wirst Du super-beliebt sein - nicht nur bei den Jungs!"/>
+        <eng name="Sexy Winter Girl(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Winter costume for the HOT girls ONLY. Try this on and you will have THE look! Caution boys. It may be hot."/>
+		<fre name="Sexy Winter Girl(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Costume d'hiver pour filles CHAUDES uniquement. Essayez cette tenue et vous aurez LE style!"/>
+		<spa name="Sexy Winter Girl(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Traje de invierno SÓLO para chicas CALIENTES. ¡Pruébalo y te verás ESTUPENDA! Atención, chicos. ¡Puede estar muuuy caliente!"/>
+		<ita name="Sexy Winter Girl(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Costume invernale riservato ESCLUSIVAMENTE alle ragazze BOLLENTI. Indossalo e sarai davvero trendy. Attenzione, ragazzi. Potreste scottarvi"/>
+		<rus name="Sexy Winter Girl(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Costume invernale riservato ESCLUSIVAMENTE alle ragazze BOLLENTI. Indossalo e sarai davvero trendy. Attenzione, ragazzi. Potreste scottarvi."/>
+		<tur name="Sexy Winter Girl(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}YALNIZCA SEKSİ kızlar için kış kostümü. Deneyin ve görün! Erkekler dikkat, canınız yanabilir."/>
+		<twn name="Sexy Winter Girl(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}"/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000059">
+        <option red_card="true"/>
+		<kor name="섹시 윈터 걸 노말" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}S4 리그에 찾아온 겨울! 그 겨을 버티기 위한{N}여성 리거의 필수 아이템!! 두꺼운 옷을 입고서도 패션 감각을 놓치지 않는 리거를 위한 아이템!!"/>
+		<ger name="Sexy Winter Girl(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Das ist das Winter Costume für die richtig coolen Girls! Mit diesem Set wirst Du super-beliebt sein - nicht nur bei den Jungs!"/>
+        <eng name="Sexy Winter Girl(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Winter costume for the HOT girls ONLY. Try this on and you will have THE look! Caution boys. It may be hot."/>
+		<fre name="Sexy Winter Girl(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Costume d'hiver pour filles CHAUDES uniquement. Essayez cette tenue et vous aurez LE style!"/>
+		<spa name="Sexy Winter Girl(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Traje de invierno SÓLO para chicas CALIENTES. ¡Pruébalo y te verás ESTUPENDA! Atención, chicos. ¡Puede estar muuuy caliente!"/>
+		<ita name="Sexy Winter Girl(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Costume invernale riservato ESCLUSIVAMENTE alle ragazze BOLLENTI. Indossalo e sarai davvero trendy. Attenzione, ragazzi. Potreste scottarvi"/>
+		<rus name="Sexy Winter Girl(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Costume invernale riservato ESCLUSIVAMENTE alle ragazze BOLLENTI. Indossalo e sarai davvero trendy. Attenzione, ragazzi. Potreste scottarvi."/>
+		<tur name="Sexy Winter Girl(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}YALNIZCA SEKSİ kızlar için kış kostümü. Deneyin ve görün! Erkekler dikkat, canınız yanabilir."/>
+		<twn name="Sexy Winter Girl(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}"/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000060">
+	    
+      	<kor name="남자매지션" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}S4리그에 찾아온 겨울! 그 겨울을 버티기 위한{N}남자 리거의 필수 복장! 아무리 추워도 따뜻한 패딩과 털모자가 있으면 끄떡 없답니다!!"/>
+		<ger name="Miracle Magician(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Das Kostüm eines großartigen Magiers!{N}Zeig den anderen deine Zaubertricks und deine Magie!{N} Egal, wo du auftauchst, um deine Zauberkunst zu zeigen - das Publikum ist bereits da! Auch sexy Damen sind einem geheimnisvollen Magier nicht abgeneigt..."/>
+        <eng name="Miracle Magician(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The costume of an amazing magician!{N}Be the one who shows tricks and magic to others!{N} Everywhere he appeares to show his tricks, a crowd is already there.{N}Even the sexy ladies like a mysterious magician."/>
+		<fre name="Miracle Magician(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Le costume d'un incroyable magicien !{N}Incarnez celui qui joue des tours à ses adversaires !{N} Là où il apparaît, la foule rapplique pour assister à ses sorcelleries. Même les fille les plus sexy ne peuvent résister à un mystérieux magicien."/>
+		<spa name="Miracle Magician(Normal)"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡El traje de un mago increíble!{N}Conviértete en un mago y muestra tus trucos y magia a tus compañeros{N} En todos lados donde aparece para mostrar sus trucos, se reúne una multitud de gente. Hasta a las chicas sexies les gusta ver un mago misterioso."/>
+		<ita name="Miracle Magician(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il costume di un formidabile mago!{N} Diventa colui che esegue trucchi di magia!{N} Ovunque egli vada, una folla assiste alle sue esibizioni. Anche alle signore sexy piace un mago misterioso."/>
+		<rus name="Miracle Magician(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Костюм великолепного волшебника! {N}Будьте единственным кто способен очаровать публику трюками и магией! {N}Где бы ни появлялся волшебник, публика будет его ждать, не говоря уже о сексуальных девушках."/>
+		<tur name="Miracle Magician(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}İnanılmaz bir büyücünün kostümü!{N}Diğerlerine hile ve büyüler gösteren biri ol!{N} Hilelerini göstermek için gittiği her yerde, kalabalık çoktan toplanmış olur. Çekici kızlar bile gizemli bir büyücüye bayılır."/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000061">
+		
+		<kor name="남자매지션유닉" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}S4리그에 찾아온 겨울! 그 겨울을 버티기 위한{N}남자 리거의 필수 복장! 아무리 추워도 따뜻한 패딩과 털모자가 있으면 끄떡 없답니다!!"/>
+		<ger name="Miracle Magician(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Das Kostüm eines großartigen Magiers!{N}Zeig den anderen deine Zaubertricks und deine Magie!{N} Egal, wo du auftauchst, um deine Zauberkunst zu zeigen - das Publikum ist bereits da! Auch sexy Damen sind einem geheimnisvollen Magier nicht abgeneigt..."/>
+        <eng name="Miracle Magician(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The costume of an amazing magician!{N}Be the one who shows tricks and magic to others!{N} Everywhere he appeares to show his tricks, a crowd is already there.{N}Even the sexy ladies like a mysterious magician."/>
+		<fre name="Miracle Magician(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Le costume d'un incroyable magicien !{N}Incarnez celui qui joue des tours à ses adversaires !{N} Là où il apparaît, la foule rapplique pour assister à ses sorcelleries. Même les fille les plus sexy ne peuvent résister à un mystérieux magicien."/>
+		<spa name="Miracle Magician(Unique)"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡El traje de un mago increíble!{N}Conviértete en un mago y muestra tus trucos y magia a tus compañeros{N} En todos lados donde aparece para mostrar sus trucos, se reúne una multitud de gente. Hasta a las chicas sexies les gusta ver un mago misterioso."/>
+		<ita name="Miracle Magician(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il costume di un formidabile mago!{N} Diventa colui che esegue trucchi di magia!{N} Ovunque egli vada, una folla assiste alle sue esibizioni. Anche alle signore sexy piace un mago misterioso."/>
+		<rus name="Miracle Magician(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Костюм великолепного волшебника! {N}Будьте единственным кто способен очаровать публику трюками и магией! {N}Где бы ни появлялся волшебник, публика будет его ждать, не говоря уже о сексуальных девушках."/>
+		<tur name="Miracle Magician(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}İnanılmaz bir büyücünün kostümü!{N}Diğerlerine hile ve büyüler gösteren biri ol!{N} Hilelerini göstermek için gittiği her yerde, kalabalık çoktan toplanmış olur. Çekici kızlar bile gizemli bir büyücüye bayılır."/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000062">
+		
+        <kor name="여자매지션" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}S4 리그에 찾아온 겨울! 그 겨을 버티기 위한{N}여성 리거의 필수 아이템!! 두꺼운 옷을 입고서도 패션 감각을 놓치지 않는 리거를 위한 아이템!!"/>
+		<ger name="Miracle Magician Girl(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Das Kostüm einer großartigen Magierin!{N}Früher arbeitete sie mit dem Magier zusammen, aber {N} seit sie alle Zaubertricks gemeistert hat, arbeiten beide allein. {N} Jetzt ist sie selbst ein Superstar!"/>
+        <eng name="Miracle Magician Girl(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The costume of an amazing magician!{N}She used to work with the male magician but {N} since she mastered all the tricks, both agreed to work individually. {N} She's a superstar of her own!"/>
+		<fre name="Miracle Magician Girl(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Le costume d'une incroyable magicienne !{N}Elle travaillait jadis pour l'incroyable magicien mais{N} étant donné qu'elle connaissait tous les tours, tous deux décidèrent de travailler séparément.{N} Elle est devenue une véritable superstar !"/>
+		<spa name="Miracle Magician Girl(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡El traje de una maga increíble!{N}Ella solía trabajar con el mago pero {N} desde que aprendió todos los trucos, ambos acordaron trabajar en forma individual. {N} ¡Es una súper estrella!"/>
+		<ita name="Miracle Magician Girl(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il costume di una formidabile maga!{N}Era abituata a lavorare con il mago ma {N} da quando ha cominciato a padroneggiare tutti i trucchi, entrambi hanno deciso di lavorare da soli. {N} È una vera e propria star nel suo genere!"/>
+		<rus name="Miracle Magician Girl(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Костюм великолепной волшебницы! {N}Она работала ассистенткой волшебника, {N}но вскоре обучилась всем трюкам и они договорились работать индивидуально. {N}Теперь она суперзвезда!"/>
+		<tur name="Miracle Magician Girl(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}İnanılmaz bir büyücünün kostümü!{N}Erkek büyücüyle birlikte çalışıyordu ama {N} bütün hilelerde ustalaştığından beri, her ikisi de ayrı çalışmaya karar verdi. {N}O, kendine özgü bir süperstar!"/>
+		<twn name="Miracle Magician Girl(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}"/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000063">
+		
+		<ger name="Miracle Magician Girl(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Das Kostüm einer großartigen Magierin!{N}Früher arbeitete sie mit dem Magier zusammen, aber {N} seit sie alle Zaubertricks gemeistert hat, arbeiten beide allein. {N} Jetzt ist sie selbst ein Superstar!"/>
+        <eng name="Miracle Magician Girl(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The costume of an amazing magician!{N}She used to work with the male magician but {N} since she mastered all the tricks, both agreed to work individually. {N} She's a superstar of her own!"/>
+		<fre name="Miracle Magician Girl(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Le costume d'une incroyable magicienne !{N}Elle travaillait jadis pour l'incroyable magicien mais{N} étant donné qu'elle connaissait tous les tours, tous deux décidèrent de travailler séparément.{N} Elle est devenue une véritable superstar !"/>
+		<spa name="Miracle Magician Girl(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡El traje de una maga increíble!{N}Ella solía trabajar con el mago pero {N} desde que aprendió todos los trucos, ambos acordaron trabajar en forma individual. {N} ¡Es una súper estrella!"/>
+		<ita name="Miracle Magician Girl(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il costume di una formidabile maga!{N}Era abituata a lavorare con il mago ma {N} da quando ha cominciato a padroneggiare tutti i trucchi, entrambi hanno deciso di lavorare da soli. {N} È una vera e propria star nel suo genere!"/>
+		<rus name="Miracle Magician Girl(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Костюм великолепной волшебницы! {N}Она работала ассистенткой волшебника, {N}но вскоре обучилась всем трюкам и они договорились работать индивидуально. {N}Теперь она суперзвезда!"/>
+		<tur name="Miracle Magician Girl(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}İnanılmaz bir büyücünün kostümü!{N}Erkek büyücüyle birlikte çalışıyordu ama {N} bütün hilelerde ustalaştığından beri, her ikisi de ayrı çalışmaya karar verdi. {N}O, kendine özgü bir süperstar!"/>
+		<twn name="Miracle Magician Girl(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}"/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>
+<scenario_list key="5000064">
+	    
+      	<kor name="남자무도복" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}S4리그에 찾아온 겨울! 그 겨울을 버티기 위한{N}남자 리거의 필수 복장! 아무리 추워도 따뜻한 패딩과 털모자가 있으면 끄떡 없답니다!!"/>
+		<ger name="Martial Arts Master(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Möge der Kampf beginnen!{N}Ist der Martial Arts Master stark genug?{N}Sieh selbst, was er kann!"/>
+        <eng name="Martial Arts Master(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The fight may begin!{N}Is Martial Arts Master strong enough? {N}See what he can do."/>
+		<fre name="Martial Arts Master(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Que le combat commence !{N}Le Maître d'Arts Martiaux est-il assez puissant ? {N}Voyons ce dont il est capable."/>
+		<spa name="Martial Arts Master(Normal)"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡La lucha puede comenzar!{N}¿Es Martial Arts Master lo suficientemente poderoso? {N}Fíjate lo que es capaz de hacer."/>
+		<ita name="Martial Arts Master(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il combattimento può cominciare!{N}Il Martial Arts Master è abbastanza potente? {N}Guarda quello che riesce a fare."/>
+		<rus name="Martial Arts Master(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Да начнется битва!{N}Будет ли Martial Arts Master достаточно силен? Узнайте, на что он способен."/>
+		<tur name="Martial Arts Master(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Savaş başlayabilir!{N}Martial Arts Master yeterince güçlü mü? {N}Neler yapabileceğini gör."/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000065">
+		<option red_card="true"/>
+		<kor name="남자무도복유닉" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}S4리그에 찾아온 겨울! 그 겨울을 버티기 위한{N}남자 리거의 필수 복장! 아무리 추워도 따뜻한 패딩과 털모자가 있으면 끄떡 없답니다!!"/>
+		<ger name="Martial Arts Master(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Möge der Kampf beginnen!{N}Ist der Martial Arts Master stark genug?{N}Sieh selbst, was er kann!"/>
+        <eng name="Martial Arts Master(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The fight may begin!{N}Is Martial Arts Master strong enough? {N}See what he can do."/>
+		<fre name="Martial Arts Master(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Que le combat commence !{N}Le Maître d'Arts Martiaux est-il assez puissant ? {N}Voyons ce dont il est capable."/>
+		<spa name="Martial Arts Master(Unique)"data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡La lucha puede comenzar!{N}¿Es Martial Arts Master lo suficientemente poderoso? {N}Fíjate lo que es capaz de hacer."/>
+		<ita name="Martial Arts Master(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il combattimento può cominciare!{N}Il Martial Arts Master è abbastanza potente? {N}Guarda quello che riesce a fare."/>
+		<rus name="Martial Arts Master(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Да начнется битва!{N}Будет ли Martial Arts Master достаточно силен? Узнайте, на что он способен."/>
+		<tur name="Martial Arts Master(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Savaş başlayabilir!{N}Martial Arts Master yeterince güçlü mü? {N}Neler yapabileceğini gör."/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000066">
+		
+        <kor name="여자무도복" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}S4 리그에 찾아온 겨울! 그 겨을 버티기 위한{N}여성 리거의 필수 아이템!! 두꺼운 옷을 입고서도 패션 감각을 놓치지 않는 리거를 위한 아이템!!"/>
+		<ger name="Martial Arts Lady(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Möge der Kampf beginnen!{N}Ist die Martial Arts Lady stark genug?{N}Sieh selbst, was sie kann!"/>
+        <eng name="Martial Arts Lady(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The fight may begin!{N}Is Martial Arts Lady strong enough? {N}See what she can do."/>
+		<fre name="Martial Arts Lady(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Que le combat commence !{N}La Maîtresse d'Arts Martiaux est-elle assez puissante ? {N}Voyons ce dont elle est capable."/>
+		<spa name="Martial Arts Lady(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡La lucha puede comenzar!{N}¿Es Martial Arts Lady lo suficientemente poderosa? {N}Fíjate lo que es capaz de hacer."/>
+		<ita name="Martial Arts Lady(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il combattimento può cominciare!{N}Il Martial Arts Lady è abbastanza potente? {N}Guarda quello che riesce a fare."/>
+		<rus name="Martial Arts Lady(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Да начнется битва!{N}Будет ли Martial Arts Lady достаточно сильна? Узнайте, на что она способна."/>
+		<tur name="Martial Arts Lady(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Savaş başlayabilir!{N}Martial Arts Lady yeterince güçlü mü? {N}Neler yapabileceğini gör."/>
+		<twn name="Martial Arts Lady(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}"/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000067">
+		<option red_card="true"/>
+		<ger name="Martial Arts Lady(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Möge der Kampf beginnen!{N}Ist die Martial Arts Lady stark genug?{N}Sieh selbst, was sie kann!"/>
+        <eng name="Martial Arts Lady(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The fight may begin!{N}Is Martial Arts Lady strong enough? {N}See what she can do."/>
+		<fre name="Martial Arts Lady(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Que le combat commence !{N}La Maîtresse d'Arts Martiaux est-elle assez puissante ? {N}Voyons ce dont elle est capable."/>
+		<spa name="Martial Arts Lady(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡La lucha puede comenzar!{N}¿Es Martial Arts Lady lo suficientemente poderosa? {N}Fíjate lo que es capaz de hacer."/>
+		<ita name="Martial Arts Lady(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Il combattimento può cominciare!{N}Il Martial Arts Lady è abbastanza potente? {N}Guarda quello che riesce a fare."/>
+		<rus name="Martial Arts Lady(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Да начнется битва!{N}Будет ли Martial Arts Lady достаточно сильна? Узнайте, на что она способна."/>
+		<tur name="Martial Arts Lady(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Savaş başlayabilir!{N}Martial Arts Lady yeterince güçlü mü? {N}Neler yapabileceğini gör."/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>	
+    <scenario_list key="5000068">
+		
+        <kor name="프로즌리더" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}S4 리그에 찾아온 겨울! 그 겨을 버티기 위한{N}여성 리거의 필수 아이템!! 두꺼운 옷을 입고서도 패션 감각을 놓치지 않는 리거를 위한 아이템!!"/>
+		<ger name="Forst Leader(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Maßgefertigter Anzug für Männer von The World,{N}der auf 'Lilith MK2' basiert.{N}Probiere ihn in Season 7 aus!"/>
+        <eng name="Forst Leader(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially customized male suit from The World{N}Upgraded base 'Lilith MK2'!!{N}Try it on Season 7!"/>
+		<fre name="Forst Leader(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Ce costume pour garçons a été spécialement conçu par The World.{N}'Lilith MK2' en version améliorée !{N}Essayez-le dans la Saison 7 !"/>
+		<spa name="Forst Leader(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Conjunto masculino especialmente personalizado de The World{N}¡¡Una nueva 'Lilith MK2'!!{N}¡Pruébala en la Season 7!"/>
+		<ita name="Forst Leader(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Costume maschile appositamente personalizzato da The World{N}Migliorato in base a 'Lilith MK2'!!{N}Provalo nella stagione 7!"/>
+		<rus name="Forst Leader(Normal)" data="{N}{A-L}{F-2002_11{CB-255,255,255,255}Специализированный мужской костюм от корпорации The World. {N}Улучшенный костюм с кодовым названием Lilith MK2!! {N}Примерьте его в Season 7!"/>
+		<tur name="Forst Leader(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The World'den özelleştirilmiş erkek kostümü{N}'Lilith MK2'ye uygun olarak yükseltildi!!{N}Sezon 7'de mutlaka deneyin!"/>
+		<twn name="Forst Leader(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}"/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000069">
+		<option red_card="true"/>
+		<ger name="Forst Leader(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Maßgefertigter Anzug für Männer von The World,{N}der auf 'Lilith MK2' basiert.{N}Probiere ihn in Season 7 aus!"/>
+        <eng name="Forst Leader(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Specially customized male suit from The World{N}Upgraded base 'Lilith MK2'!!{N}Try it on Season 7!"/>
+		<fre name="Forst Leader(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Ce costume pour garçons a été spécialement conçu par The World.{N}'Lilith MK2' en version améliorée !{N}Essayez-le dans la Saison 7 !"/>
+		<spa name="Forst Leader(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Conjunto masculino especialmente personalizado de The World{N}¡¡Una nueva 'Lilith MK2'!!{N}¡Pruébala en la Season 7!"/>
+		<ita name="Forst Leader(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}{CB-255,255,255,255}Costume maschile appositamente personalizzato da The World{N}Migliorato in base a 'Lilith MK2'!!{N}Provalo nella stagione 7!"/>
+		<rus name="Forst Leader(Unique)" data="{N}{A-L}{F-2002_11{CB-255,255,255,255}Специализированный мужской костюм от корпорации The World. {N}Улучшенный костюм с кодовым названием Lilith MK2!! {N}Примерьте его в Season 7!"/>
+		<tur name="Forst Leader(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The World'den özelleştirilmiş erkek kostümü{N}'Lilith MK2'ye uygun olarak yükseltildi!!{N}Sezon 7'de mutlaka deneyin!"/>
+		<twn name="Forst Leader(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}"/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>	
+    <scenario_list key="5000070">
+		
+        <kor name="프로즌릴리트" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}S4 리그에 찾아온 겨울! 그 겨을 버티기 위한{N}여성 리거의 필수 아이템!! 두꺼운 옷을 입고서도 패션 감각을 놓치지 않는 리거를 위한 아이템!!"/>
+		<ger name="Frozen Lilith(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Lilith wurde mit neuem Look wiedergeboren! Der neue Name: 'Lilith MK2'.{N}'Lilith MK2' hat jetzt die Unterstützung von The World.{N}Wer kann sie noch aufhalten?"/>
+        <eng name="Frozen Lilith(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Lilith is revived with new look! New name, 'Lilith MK2'{N}More powerful 'Lilith MK2' with the support of The World.{N}Who can stop her?"/>
+		<fre name="Frozen Lilith(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Lilith fait son grand retour, plus belle que jamais ! Un nouveau nom 'Lilith MK2'{N}Plus puissante, 'Lilith MK2' bénéficie du soutien de The World.{N}Qui pourra l'arrêter ?"/>
+		<spa name="Frozen Lilith(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡Lilith se renueva con el nuevo look! Nombre nuevo, 'Lilith MK2'{N}Una 'Lilith MK2' más poderosa con el soporte de The World.{N}¿Quién podrá detenerla?"/>
+		<ita name="Frozen Lilith(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Lilith si è rifatta il look! Nuovo nome, 'Lilith MK2'{N}Più potente con il supporto di The World.{N}Chi riuscirà a fermarla?"/>
+		<rus name="Frozen Lilith(Normal)" data="{N}{A-L}{F-2002_11{CB-255,255,255,255}Lilith возвращается в новом виде! Новое имя Lilith MK2! {N}Благодаря поддержке корпорации The World теперь Lilith MK2 стала еще сильнее. {N}Сможете ли вы ее остановить?"/>
+		<tur name="Frozen Lilith(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Lilith yeni görünümle hayata döndü! Yeni ismi, 'Lilith MK2'{N}The World'ün desteğiyle daha güçlü 'Lilith MK2'.{N}Onu kim durdurabilir ki?"/>
+		<twn name="Frozen Lilith(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}"/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>
+	<scenario_list key="5000071">
+		<option red_card="true"/>
+		<ger name="Frozen Lilith(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Lilith wurde mit neuem Look wiedergeboren! Der neue Name: 'Lilith MK2'.{N}'Lilith MK2' hat jetzt die Unterstützung von The World.{N}Wer kann sie noch aufhalten?"/>
+        <eng name="Frozen Lilith(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Lilith is revived with new look! New name, 'Lilith MK2'{N}More powerful 'Lilith MK2' with the support of The World.{N}Who can stop her?"/>
+		<fre name="Frozen Lilith(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Lilith fait son grand retour, plus belle que jamais ! Un nouveau nom 'Lilith MK2'{N}Plus puissante, 'Lilith MK2' bénéficie du soutien de The World.{N}Qui pourra l'arrêter ?"/>
+		<spa name="Frozen Lilith(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}¡Lilith se renueva con el nuevo look! Nombre nuevo, 'Lilith MK2'{N}Una 'Lilith MK2' más poderosa con el soporte de The World.{N}¿Quién podrá detenerla?"/>
+		<ita name="Frozen Lilith(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Lilith si è rifatta il look! Nuovo nome, 'Lilith MK2'{N}Più potente con il supporto di The World.{N}Chi riuscirà a fermarla?"/>
+		<rus name="Frozen Lilith(Unique)" data="{N}{A-L}{F-2002_11{CB-255,255,255,255}Lilith возвращается в новом виде! Новое имя Lilith MK2! {N}Благодаря поддержке корпорации The World теперь Lilith MK2 стала еще сильнее. {N}Сможете ли вы ее остановить?"/>
+		<tur name="Frozen Lilith(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Lilith yeni görünümle hayata döndü! Yeni ismi, 'Lilith MK2'{N}The World'ün desteğiyle daha güçlü 'Lilith MK2'.{N}Onu kim durdurabilir ki?"/>
+		<twn name="Frozen Lilith(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}"/>
+		<jap name=""/>
+
+		<idn name=""/>
+		</scenario_list>
+        <scenario_list key="5000072">
+        <kor name="아마존 워리어" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}S4 리그에 찾아온 겨울! 그 겨을 버티기 위한{N}여성 리거의 필수 아이템!! 두꺼운 옷을 입고서도 패션 감각을 놓치지 않는 리거를 위한 아이템!!"/>
+		<ger name="Amazon Warrior(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Der Amazonenkrieger erlegt Raubtiere mit bloßen Händen!{N}Gerüchten zufolge soll er sich von Menschenfleisch ernähren.{N}Seid also vorsichtig, Leaguers!"/>
+        <eng name="Amazon Warrior(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}A valiant Amazon Warrior who caught a beast with his bare hands.{N}Rumor has it that he eats humans so Leaguers need to watch out.{N}Watch out  for Amazon Warrior!"/>
+		<fre name="Amazon Warrior(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Ce Guerrier Amazone a réussi à capturer un monstre de ses mains nues.{N}On raconte qu'il se nourrit de chair humaine : prenez garde !{N}Devenez le Guerrier Amazone !"/>
+		<spa name="Amazon Warrior(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Amazon Warrior valiente que atrapó a una bestia con sus propias manos.{N}Según los rumores, se alimenta de humanos así que Leaguers, ¡tengan cuidado!{N}¡Busca a Amazon Warrior!"/>
+		<ita name="Amazon Warrior(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}L'audace guerriero amazzone che catturò una bestia a mani nude.{N}Si dice che mangi gli umani, perciò, state in guardia, giocatori di S4 League!{N}Cercate il guerriero amazzone!"/>
+		<rus name="Amazon Warrior(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Храбрый амазонский войн поймавший зверя голыми руками.{N}Согласно слухам он ест людей, поэтому участникам лиги стоит его остерегаться.{N}Следите за Amazon Warrior!"/>
+		<tur name="Amazon Warrior(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Bir canavarı çıplak elleriyle yakalayan Valiant Amazon Warrior.{N}İnsan yediğine dair söylentileri düşünecek olursak Leaguers, dikkatli olun.{N}Amazon Warrior için takipte olun!"/>
+		<twn name="Amazon Warrior(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}"/>
+		<idn name=""/>
+		</scenario_list>
+	    <scenario_list key="5000073">
+		<kor name="아마존 워리어" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}S4 리그에 찾아온 겨울! 그 겨을 버티기 위한{N}여성 리거의 필수 아이템!! 두꺼운 옷을 입고서도 패션 감각을 놓치지 않는 리거를 위한 아이템!!"/>
+		<ger name="Amazon Warrior(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Der Amazonenkrieger erlegt Raubtiere mit bloßen Händen!{N}Gerüchten zufolge soll er sich von Menschenfleisch ernähren.{N}Seid also vorsichtig, Leaguers!"/>
+        <eng name="Amazon Warrior(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}A valiant Amazon Warrior who caught a beast with his bare hands.{N}Rumor has it that he eats humans so Leaguers need to watch out.{N}Watch out  for Amazon Warrior!"/>
+		<fre name="Amazon Warrior(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Ce Guerrier Amazone a réussi à capturer un monstre de ses mains nues.{N}On raconte qu'il se nourrit de chair humaine : prenez garde !{N}Devenez le Guerrier Amazone !"/>
+		<spa name="Amazon Warrior(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Amazon Warrior valiente que atrapó a una bestia con sus propias manos.{N}Según los rumores, se alimenta de humanos así que Leaguers, ¡tengan cuidado!{N}¡Busca a Amazon Warrior!"/>
+		<ita name="Amazon Warrior(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}L'audace guerriero amazzone che catturò una bestia a mani nude.{N}Si dice che mangi gli umani, perciò, state in guardia, giocatori di S4 League!{N}Cercate il guerriero amazzone!"/>
+		<rus name="Amazon Warrior(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Храбрый амазонский войн поймавший зверя голыми руками.{N}Согласно слухам он ест людей, поэтому участникам лиги стоит его остерегаться.{N}Следите за Amazon Warrior!"/>
+		<tur name="Amazon Warrior(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Bir canavarı çıplak elleriyle yakalayan Valiant Amazon Warrior.{N}İnsan yediğine dair söylentileri düşünecek olursak Leaguers, dikkatli olun.{N}Amazon Warrior için takipte olun!"/>
+		<twn name="Amazon Warrior(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}"/>
+        </scenario_list>
+        <scenario_list key="5000074">
+        <kor name="아마존 퀸" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}S4 리그에 찾아온 겨울! 그 겨을 버티기 위한{N}여성 리거의 필수 아이템!! 두꺼운 옷을 입고서도 패션 감각을 놓치지 않는 리거를 위한 아이템!!"/>
+		<ger name="Amazon Queen(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Lass dich nicht vom Aussehen der Amazonenkönigin täuschen!{N}Gerüchten zufolge soll sie sich von Menschenfleisch ernähren.{N}Seid also vorsichtig, Leaguers!"/>
+        <eng name="Amazon Queen(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}She may look like a girl, but she is a valiant Amazon Queen.{N}Rumor has it that she eats humans so Leaguers need to watch out.{N}No one can help you!{N}Watch out  for Amazon Queen!"/>
+		<fre name="Amazon Queen(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Parece  una niña ¡pero es una valiente Amazon Queen!!{N}Según los rumores, se alimenta de humanos. Leaguers: ¡tengan cuidado!{N}¡Nadie podrá ayudarte!{N}¡Busca a Amazon Queen!"/>
+		<ita name="Amazon Queen(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Sembra una ragazzina eppure è un'audace regina delle Amazzoni!{N}Si dice che mangi gli umani. State in guardia, giocatori di S4 League!{N}Nessuno può aiutarvi!{N}Cercate la regina delle Amazzoni!"/>
+		<rus name="Amazon Queen(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Похожа на девушку, но на самом деле она храбрая королева Амазонки!{N}Согласно слухам она ест людей. Участники Лиги: Остерегайтесь ее!{N}Вам никто не сможет помочь! Следите за Amazon Queen!"/>
+		<tur name="Amazon Queen(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Kız gibi görünüyor ama aslında bir Valiant Amazon Kraliçesi!{N}İnsan yediğine dair söylentileri düşünecek olursak. Leaguers: dikkatli olun!{N}Kimse size yardım edemez!{N}Amazon Queen için takipte olun!"/>
+		<twn name="Frozen Lilith(Normal)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}"/>
+		<jap name=""/>
+		<idn name=""/>
+		</scenario_list>
+	    <scenario_list key="5000075">
+		<kor name="아마존 퀸" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}S4 리그에 찾아온 겨울! 그 겨을 버티기 위한{N}여성 리거의 필수 아이템!! 두꺼운 옷을 입고서도 패션 감각을 놓치지 않는 리거를 위한 아이템!!"/>
+		<ger name="Amazon Queen(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Lass dich nicht vom Aussehen der Amazonenkönigin täuschen!{N}Gerüchten zufolge soll sie sich von Menschenfleisch ernähren.{N}Seid also vorsichtig, Leaguers!"/>
+        <eng name="Amazon Queen(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}She may look like a girl, but she is a valiant Amazon Queen.{N}Rumor has it that she eats humans so Leaguers need to watch out.{N}No one can help you!{N}Watch out  for Amazon Queen!"/>
+		<fre name="Amazon Queen(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Parece  una niña ¡pero es una valiente Amazon Queen!!{N}Según los rumores, se alimenta de humanos. Leaguers: ¡tengan cuidado!{N}¡Nadie podrá ayudarte!{N}¡Busca a Amazon Queen!"/>
+		<ita name="Amazon Queen(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Sembra una ragazzina eppure è un'audace regina delle Amazzoni!{N}Si dice che mangi gli umani. State in guardia, giocatori di S4 League!{N}Nessuno può aiutarvi!{N}Cercate la regina delle Amazzoni!"/>
+		<rus name="Amazon Queen(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Похожа на девушку, но на самом деле она храбрая королева Амазонки!{N}Согласно слухам она ест людей. Участники Лиги: Остерегайтесь ее!{N}Вам никто не сможет помочь! Следите за Amazon Queen!"/>
+		<tur name="Amazon Queen(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Kız gibi görünüyor ama aslında bir Valiant Amazon Kraliçesi!{N}İnsan yediğine dair söylentileri düşünecek olursak. Leaguers: dikkatli olun!{N}Kimse size yardım edemez!{N}Amazon Queen için takipte olun!"/>
+		<twn name="Frozen Lilith(Unique)" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}"/>
+		<jap name=""/>
+		<idn name=""/>	
+        </scenario_list>		
+	</collect_book_scenario_info>
