@@ -32,8 +32,8 @@
 	<match_key id="17012" name_key="E17012" grade="0"/>
 	<match_key id="17013" name_key="E17013" grade="0"/>
 	<match_key id="21001" name_key="E21001" grade="0"/>
-	<match_key id="21002" name_key="E21002"/>
-	<match_key id="21003" name_key="E21003"/>
+	<match_key id="21002" name_key="E21002" grade="0"/>
+	<match_key id="21003" name_key="E21003" grade="0"/>
 	<match_key id="22001" name_key="E22001" grade="0"/>
 	<match_key id="22002" name_key="E22002" grade="0"/>
 	<match_key id="22003" name_key="E22003" grade="0"/>
@@ -117,4 +117,131 @@
 	<match_key id="21026" name_key="E21026" grade="0"/>
 	<match_key id="21027" name_key="E21027" grade="0"/>
 	<match_key id="21028" name_key="E21028" grade="0"/>
+	<match_key id="21029" name_key="E21029" grade="0"/>
+	<match_key id="7012111" name_key="E7012111" grade="0"/>
+	<match_key id="7012112" name_key="E7012112" grade="0"/>
+	<match_key id="7012113" name_key="E7012113" grade="0"/>
+	<match_key id="7012114" name_key="E7012114" grade="0"/>
+	<match_key id="7012115" name_key="E7012115" grade="0"/>
+	<match_key id="7012121" name_key="E7012121" grade="0"/>
+	<match_key id="7012122" name_key="E7012122" grade="0"/>
+	<match_key id="7012123" name_key="E7012123" grade="0"/>
+	<match_key id="7012124" name_key="E7012124" grade="0"/>
+	<match_key id="7012125" name_key="E7012125" grade="0"/>
+	<match_key id="7012131" name_key="E7012131" grade="0"/>
+	<match_key id="7012132" name_key="E7012132" grade="0"/>
+	<match_key id="7012133" name_key="E7012133" grade="0"/>
+	<match_key id="7012134" name_key="E7012134" grade="0"/>
+	<match_key id="7012135" name_key="E7012135" grade="0"/>
+	<match_key id="7012141" name_key="E7012141" grade="0"/>
+	<match_key id="7012142" name_key="E7012142" grade="0"/>
+	<match_key id="7012143" name_key="E7012143" grade="0"/>
+	<match_key id="7012144" name_key="E7012144" grade="0"/>
+	<match_key id="7012145" name_key="E7012145" grade="0"/>
+	<match_key id="7012151" name_key="E7012151" grade="0"/>
+	<match_key id="7012152" name_key="E7012152" grade="0"/>
+	<match_key id="7012153" name_key="E7012153" grade="0"/>
+	<match_key id="7012154" name_key="E7012154" grade="0"/>
+	<match_key id="7012155" name_key="E7012155" grade="0"/>
+	<match_key id="7013111" name_key="E7013111" grade="0"/>
+	<match_key id="7013112" name_key="E7013112" grade="0"/>
+	<match_key id="7013113" name_key="E7013113" grade="0"/>
+	<match_key id="7013114" name_key="E7013114" grade="0"/>
+	<match_key id="7013115" name_key="E7013115" grade="0"/>
+	<match_key id="7013121" name_key="E7013121" grade="0"/>
+	<match_key id="7013122" name_key="E7013122" grade="0"/>
+	<match_key id="7013123" name_key="E7013123" grade="0"/>
+	<match_key id="7013124" name_key="E7013124" grade="0"/>
+	<match_key id="7013125" name_key="E7013125" grade="0"/>
+	<match_key id="7013131" name_key="E7013131" grade="0"/>
+	<match_key id="7013132" name_key="E7013132" grade="0"/>
+	<match_key id="7013133" name_key="E7013133" grade="0"/>
+	<match_key id="7013134" name_key="E7013134" grade="0"/>
+	<match_key id="7013135" name_key="E7013135" grade="0"/>
+	<match_key id="7013141" name_key="E7013141" grade="0"/>
+	<match_key id="7013142" name_key="E7013142" grade="0"/>
+	<match_key id="7013143" name_key="E7013143" grade="0"/>
+	<match_key id="7013144" name_key="E7013144" grade="0"/>
+	<match_key id="7013145" name_key="E7013145" grade="0"/>
+	<match_key id="7013151" name_key="E7013151" grade="0"/>
+	<match_key id="7013152" name_key="E7013152" grade="0"/>
+	<match_key id="7013153" name_key="E7013153" grade="0"/>
+	<match_key id="7013154" name_key="E7013154" grade="0"/>
+	<match_key id="7013155" name_key="E7013155" grade="0"/>
+	<match_key id="7014111" name_key="E7014111" grade="0"/>
+	<match_key id="7014112" name_key="E7014112" grade="0"/>
+	<match_key id="7014113" name_key="E7014113" grade="0"/>
+	<match_key id="7014114" name_key="E7014114" grade="0"/>
+	<match_key id="7014115" name_key="E7014115" grade="0"/>
+	<match_key id="7014121" name_key="E7014121" grade="0"/>
+	<match_key id="7014122" name_key="E7014122" grade="0"/>
+	<match_key id="7014123" name_key="E7014123" grade="0"/>
+	<match_key id="7014124" name_key="E7014124" grade="0"/>
+	<match_key id="7014125" name_key="E7014125" grade="0"/>
+	<match_key id="7014131" name_key="E7014131" grade="0"/>
+	<match_key id="7014132" name_key="E7014132" grade="0"/>
+	<match_key id="7014133" name_key="E7014133" grade="0"/>
+	<match_key id="7014134" name_key="E7014134" grade="0"/>
+	<match_key id="7014135" name_key="E7014135" grade="0"/>
+	<match_key id="7014141" name_key="E7014141" grade="0"/>
+	<match_key id="7014142" name_key="E7014142" grade="0"/>
+	<match_key id="7014143" name_key="E7014143" grade="0"/>
+	<match_key id="7014144" name_key="E7014144" grade="0"/>
+	<match_key id="7014145" name_key="E7014145" grade="0"/>
+	<match_key id="7014151" name_key="E7014151" grade="0"/>
+	<match_key id="7014152" name_key="E7014152" grade="0"/>
+	<match_key id="7014153" name_key="E7014153" grade="0"/>
+	<match_key id="7014154" name_key="E7014154" grade="0"/>
+	<match_key id="7014155" name_key="E7014155" grade="0"/>
+	<match_key id="7015111" name_key="E7015111" grade="0"/>
+	<match_key id="7015112" name_key="E7015112" grade="0"/>
+	<match_key id="7015113" name_key="E7015113" grade="0"/>
+	<match_key id="7015114" name_key="E7015114" grade="0"/>
+	<match_key id="7015115" name_key="E7015115" grade="0"/>
+	<match_key id="7015121" name_key="E7015121" grade="0"/>
+	<match_key id="7015122" name_key="E7015122" grade="0"/>
+	<match_key id="7015123" name_key="E7015123" grade="0"/>
+	<match_key id="7015124" name_key="E7015124" grade="0"/>
+	<match_key id="7015125" name_key="E7015125" grade="0"/>
+	<match_key id="7015131" name_key="E7015131" grade="0"/>
+	<match_key id="7015132" name_key="E7015132" grade="0"/>
+	<match_key id="7015133" name_key="E7015133" grade="0"/>
+	<match_key id="7015134" name_key="E7015134" grade="0"/>
+	<match_key id="7015135" name_key="E7015135" grade="0"/>
+	<match_key id="7015141" name_key="E7015141" grade="0"/>
+	<match_key id="7015142" name_key="E7015142" grade="0"/>
+	<match_key id="7015143" name_key="E7015143" grade="0"/>
+	<match_key id="7015144" name_key="E7015144" grade="0"/>
+	<match_key id="7015145" name_key="E7015145" grade="0"/>
+	<match_key id="7015151" name_key="E7015151" grade="0"/>
+	<match_key id="7015152" name_key="E7015152" grade="0"/>
+	<match_key id="7015153" name_key="E7015153" grade="0"/>
+	<match_key id="7015154" name_key="E7015154" grade="0"/>
+	<match_key id="7015155" name_key="E7015155" grade="0"/>
+	<match_key id="7012211" name_key="E7012211" grade="0"/>
+	<match_key id="7012212" name_key="E7012212" grade="0"/>
+	<match_key id="7012213" name_key="E7012213" grade="0"/>
+	<match_key id="7012214" name_key="E7012214" grade="0"/>
+	<match_key id="7012215" name_key="E7012215" grade="0"/>
+	<match_key id="7012221" name_key="E7012221" grade="0"/>
+	<match_key id="7012222" name_key="E7012222" grade="0"/>
+	<match_key id="7012223" name_key="E7012223" grade="0"/>
+	<match_key id="7012224" name_key="E7012224" grade="0"/>
+	<match_key id="7012225" name_key="E7012225" grade="0"/>
+	<match_key id="7012231" name_key="E7012231" grade="0"/>
+	<match_key id="7012232" name_key="E7012232" grade="0"/>
+	<match_key id="7012233" name_key="E7012233" grade="0"/>
+	<match_key id="7012234" name_key="E7012234" grade="0"/>
+	<match_key id="7012235" name_key="E7012235" grade="0"/>
+	<match_key id="7012241" name_key="E7012241" grade="0"/>
+	<match_key id="7012242" name_key="E7012242" grade="0"/>
+	<match_key id="7012243" name_key="E7012243" grade="0"/>
+	<match_key id="7012244" name_key="E7012244" grade="0"/>
+	<match_key id="7012245" name_key="E7012245" grade="0"/>
+	<match_key id="7012251" name_key="E7012251" grade="0"/>
+	<match_key id="7012252" name_key="E7012252" grade="0"/>
+	<match_key id="7012253" name_key="E7012253" grade="0"/>
+	<match_key id="7012254" name_key="E7012254" grade="0"/>
+	<match_key id="7012255" name_key="E7012255" grade="0"/>
+	<match_key id="21030" name_key="E21030" grade="0"/>
 </effect_match_list>

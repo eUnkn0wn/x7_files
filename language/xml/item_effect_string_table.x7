@@ -1211,22 +1211,22 @@
 	<string key="E21020" kor="연사 무기 세컨드팩 A type"/>
 	<string key="E21021" kor="연사 무기 세컨드팩 B type"/>
 	<string key="E21022" kor="연사 무기 세컨드팩 C type"/>
-	<string key="2299303002" kor="공격력 + 2%"/>
-	<string key="2102302002" kor="방어력 + 3%"/>
-	<string key="2103302001" kor="방어력 + 3%"/>
-	<string key="2105343002" kor="회피 SP 소모량 감소 3%"/>
-	<string key="2104354002" kor="넉백 거리 + 3%"/>
-	<string key="2100332001" kor="SP 회복력 2%"/>
-	<string key="E7028004" kor="공격력 + 2%"/>
-	<string key="E7012006" kor="방어력 + 3%"/>
-	<string key="E7013002" kor="방어력 + 3%"/>
-	<string key="E7015010" kor="회피 SP 소모량 감소 3%"/>
-	<string key="E7014007" kor="넉백 거리 + 3%"/>
-	<string key="E7010006" kor="SP 회복력 2%"/>
+	<string key="2299303002" kor="공격력 + 2%" ger="ANG +2%" eng="ATK + 2%" tur="ATK + 2%" fre="ATQ +2%"/>
+	<string key="2102302002" kor="방어력 + 3%" ger="VTG +3%" eng="DEF + 3%" tur="DEF + 3%" fre="DÉF +3%"/>
+	<string key="2103302001" kor="방어력 + 3%" ger="VTG +3%" eng="DEF + 3%" tur="DEF + 3%" fre="DÉF +3%"/>
+	<string key="2105343002" kor="회피 SP 소모량 감소 3%" ger="SP-Verbrauch: Dodge -3%" eng="EVA SP Consumption - 3%" tur="EVA SP Consumption - 3%" fre="SP requis ESQ -3%"/>
+	<string key="2104354002" kor="넉백 거리 + 3%" ger="Zurückwerfen-Reichweite +3%" eng="Knockback Distance + 3%" tur="Knockback Distance + 3%" fre="Distance de recul +3%"/>
+	<string key="2100332001" kor="SP 회복력 2%" ger="SP-Regeneration +2%" eng="SP Regen + 2%" tur="SP Regen + 2%" fre="Récup. SP +2%"/>
+	<string key="E7028004" kor="공격력 + 2%" ger="ANG +2%" eng="ATK + 2%" tur="ATK + 2%" fre="ATQ +2%"/>
+	<string key="E7012006" kor="방어력 + 3%" ger="VTG +3%" eng="DEF + 3%" tur="DEF + 3%" fre="DÉF +3%"/>
+	<string key="E7013002" kor="방어력 + 3%" ger="VTG +3%" eng="DEF + 3%" tur="DEF + 3%" fre="DÉF +3%"/>
+	<string key="E7015010" kor="회피 SP 소모량 감소 3%" ger="SP-Verbrauch: Dodge -3%" eng="EVA SP Consumption - 3%" tur="EVA SP Consumption - 3%" fre="PC requis ESQ -3%"/>
+	<string key="E7014007" kor="넉백 거리 + 3%" ger="Zurückwerfen-Reichweite +3%" eng="Knockback Distance + 3%" tur="Knockback Distance + 3%" fre="Portée Repoussé +3%"/>
+	<string key="E7010006" kor="SP 회복력 2%" ger="SP-Regeneration +2%" eng="SP Regen + 2%" tur="SP Regen + 2%" fre="Récup. PC +2%"/>
 	<string key="1202362001" kor="트윈블레이드 차지 시간 감소" ger="Twinblade charge time reduce" eng="Twinblade charge time reduce" tur="Twinblade charge time reduce" fre="Twinblade charge time reduce" spa="Twinblade charge time reduce" ita="Twinblade charge time reduce" rus="Twinblade charge time reduce"/>
 	<string key="1202363001" kor="아이언부츠 SP소모 감소" ger="Ironboots SP Reduzierung " eng="Ironboots SP Reduce " tur="Ironboots SP Azalması " fre=" Réduction des SP lors de Ironboots" spa="Reducción Ironboots SP " ita="Uso SP nel Ironboots" rus="Ironboots SP понижено на "/>
-	<string key="E7028005" kor="공격력 + 3%"/>
-	<string key="2299303003" kor="공격력 + 3%"/>
+	<string key="E7028005" kor="공격력 + 3%" ger="ANG +3%" eng="ATK + 20%" tur="ATK + 20%" fre="ATQ +20%"/>
+	<string key="2299303003" kor="공격력 + 3%" ger="ANG +3%" eng="ATK + 20%" tur="ATK + 20%" fre="ATQ +20%"/>
 	<string key="E21023" kor="액세서리 터치다운 팩" ger="Acc TD Pack" eng="Acc TD Pack" tur="Acc TD Pack" fre="Acc TD Pack" spa="Acc TD Pack" ita="Acc TD Pack" rus="Acc TD Pack" ame="Acc TD Pack"/>
 	<string key="E21024" kor="액세서리 터치다운 팩" ger="Acc TD Pack" eng="Acc TD Pack" tur="Acc TD Pack" fre="Acc TD Pack" spa="Acc TD Pack" ita="Acc TD Pack" rus="Acc TD Pack" ame="Acc TD Pack" tha="Acc TD Pack" twn="Acc TD Pack" jap="Acc TD Pack" idn="Acc TD Pack"/>
 	<string key="1107303202" kor="공격력(터치다운 한정)+2%" ger="Attack (TD Only) +2%" eng="Attack (TD Only) +2%" tur="Attack (TD Only) +2%" fre="Attack (TD Only) +2%" spa="Attack (TD Only) +2%" ita="Attack (TD Only) +2%" rus="Attack (TD Only) +2%" ame="Attack (TD Only) +2%" tha="Attack (TD Only) +2%" twn="Attack (TD Only) +2%"/>
@@ -1240,4 +1240,896 @@
 	<string key="E21027" kor="스페셜 포스팩" ger="Special Forcepack" eng="Special Forcepack" tur="Special Forcepack" fre="Special Forcepack" spa="Special Forcepack" ita="Special Forcepack" rus="Special Forcepack" ame="Special Forcepack" tha="Special Forcepack" twn="Special Forcepack" jap="Special Forcepack" idn="Special Forcepack"/>
 	<string key="1100302001" kor="방어력+3%" ger="Defense +3%" eng="Defense +3%" tur="Defense +3%" fre="Defense +3%" spa="Defense +3%" ita="Defense +3%" rus="Defense +3%" ame="Defense +3%" tha="Defense +3%" twn="Defense +3%" jap="Defense +3%" idn="Defense +3%"/>
 	<string key="E21028" kor="스타일 페이스 이펙트"/>
+	<string key="1999813001" kor="2000EXP"/>
+	<string key="1999813002" kor="5000 EXP"/>
+	<string key="1999813003" kor="15000 EXP"/>
+	<string key="1999813004" kor="30000 EXP"/>
+	<string key="1202364001" kor="로켓런쳐 탄창 + 1"/>
+	<string key="E21029" kor="페이스 서드팩"/>
+	<string key="1101302002" kor="방어력+5%"/>
+	<string key="1101800002" kor="EXP+20%"/>
+	<string key="3197100001" kor="Lv1. HP 최대수치 상승관련+1 "/>
+	<string key="3197100002" kor="Lv2. HP 최대수치 상승관련+2 "/>
+	<string key="3197100003" kor="Lv3. HP 최대수치 상승관련+3 "/>
+	<string key="3197100004" kor="Lv4. HP 최대수치 상승관련+4 "/>
+	<string key="3197100005" kor="Lv5. HP 최대수치 상승관련+5 "/>
+	<string key="3197101001" kor="Lv1. 추가 HP상승+1% "/>
+	<string key="3197101002" kor="Lv2. 추가 HP상승+1.5% "/>
+	<string key="3197101003" kor="Lv3. 추가 HP상승+2% "/>
+	<string key="3197101004" kor="Lv4. 추가 HP상승+2.5% "/>
+	<string key="3197101005" kor="Lv5. 추가 HP상승+3% "/>
+	<string key="3197102001" kor="Lv1. 15초마다 HP회복+1 15초"/>
+	<string key="3197102002" kor="Lv2. 15초마다 HP회복+2 15초"/>
+	<string key="3197102003" kor="Lv3. 15초마다 HP회복+3 15초"/>
+	<string key="3197102004" kor="Lv4. 15초마다 HP회복+4 15초"/>
+	<string key="3197102005" kor="Lv5. 15초마다 HP회복+5 15초"/>
+	<string key="3201205001" kor="Lv1. 근접무기 공격시 HP흡수+1 "/>
+	<string key="3201205002" kor="Lv2. 근접무기 공격시 HP흡수+2 "/>
+	<string key="3201205003" kor="Lv3. 근접무기 공격시 HP흡수+3 "/>
+	<string key="3201205004" kor="Lv4. 근접무기 공격시 HP흡수+4 "/>
+	<string key="3201205005" kor="Lv5. 근접무기 공격시 HP흡수+5 "/>
+	<string key="3197103001" kor="Lv1. SP 최대치 상승+1 "/>
+	<string key="3197103002" kor="Lv2. SP 최대치 상승+2 "/>
+	<string key="3197103003" kor="Lv3. SP 최대치 상승+3 "/>
+	<string key="3197103004" kor="Lv4. SP 최대치 상승+4 "/>
+	<string key="3197103005" kor="Lv5. SP 최대치 상승+5 "/>
+	<string key="3197104001" kor="Lv1. 추가 SP상승+1% "/>
+	<string key="3197104002" kor="Lv2. 추가 SP상승+1.5% "/>
+	<string key="3197104003" kor="Lv3. 추가 SP상승+2% "/>
+	<string key="3197104004" kor="Lv4. 추가 SP상승+2.5% "/>
+	<string key="3197104005" kor="Lv5. 추가 SP상승+3% "/>
+	<string key="3197105001" kor="Lv1. SP 회복속도 상승+1% "/>
+	<string key="3197105002" kor="Lv2. SP 회복속도 상승+1.5% "/>
+	<string key="3197105003" kor="Lv3. SP 회복속도 상승+2% "/>
+	<string key="3197105004" kor="Lv4. SP 회복속도 상승+2.5% "/>
+	<string key="3197105005" kor="Lv5. SP 회복속도 상승+3% "/>
+	<string key="3197106001" kor="Lv1. SP사용량 하락+1% "/>
+	<string key="3197106002" kor="Lv2. SP사용량 하락+1.5% "/>
+	<string key="3197106003" kor="Lv3. SP사용량 하락+2% "/>
+	<string key="3197106004" kor="Lv4. SP사용량 하락+2.5% "/>
+	<string key="3197106005" kor="Lv5. SP사용량 하락+3% "/>
+	<string key="3197250001" kor="Lv1. EXP 추가 획득+6% "/>
+	<string key="3197250002" kor="Lv2. EXP 추가 획득+10% "/>
+	<string key="3197250003" kor="Lv3. EXP 추가 획득+14% "/>
+	<string key="3197250004" kor="Lv4. EXP 추가 획득+18% "/>
+	<string key="3197250005" kor="Lv5. EXP 추가 획득+22% "/>
+	<string key="3197251001" kor="Lv1. PEN 추가 획득+3% "/>
+	<string key="3197251002" kor="Lv2. PEN 추가 획득+5% "/>
+	<string key="3197251003" kor="Lv3. PEN 추가 획득+7% "/>
+	<string key="3197251004" kor="Lv4. PEN 추가 획득+9% "/>
+	<string key="3197251005" kor="Lv5. PEN 추가 획득+14% "/>
+	<string key="3299206001" kor="Lv1. 노멀 공격력(회복력) 상승+3% "/>
+	<string key="3299206002" kor="Lv2. 노멀 공격력(회복력) 상승+5% "/>
+	<string key="3299206003" kor="Lv3. 노멀 공격력(회복력) 상승+7% "/>
+	<string key="3299206004" kor="Lv4. 노멀 공격력(회복력) 상승+9% "/>
+	<string key="3299206005" kor="Lv5. 노멀 공격력(회복력) 상승+12% "/>
+	<string key="3213207001" kor="Lv1. 차지 공격력 상승+3% "/>
+	<string key="3213207002" kor="Lv2. 차지 공격력 상승+6% "/>
+	<string key="3213207003" kor="Lv3. 차지 공격력 상승+9% "/>
+	<string key="3213207004" kor="Lv4. 차지 공격력 상승+12% "/>
+	<string key="3213207005" kor="Lv5. 차지 공격력 상승+15% "/>
+	<string key="3299208001" kor="Lv1. 오브젝트 공격력 상승+8% "/>
+	<string key="3299208002" kor="Lv2. 오브젝트 공격력 상승+12% "/>
+	<string key="3299208003" kor="Lv3. 오브젝트 공격력 상승+18% "/>
+	<string key="3299208004" kor="Lv4. 오브젝트 공격력 상승+24% "/>
+	<string key="3299208005" kor="Lv5. 오브젝트 공격력 상승+34% "/>
+	<string key="3198107001" kor="Lv1. 힐로인한 회복력 상승+1% "/>
+	<string key="3198107002" kor="Lv2. 힐로인한 회복력 상승+2% "/>
+	<string key="3198107003" kor="Lv3. 힐로인한 회복력 상승+3% "/>
+	<string key="3198107004" kor="Lv4. 힐로인한 회복력 상승+4% "/>
+	<string key="3198107005" kor="Lv5. 힐로인한 회복력 상승+6% "/>
+	<string key="3198108001" kor="Lv1. 방어력 상승+1% "/>
+	<string key="3198108002" kor="Lv2. 방어력 상승+1.5% "/>
+	<string key="3198108003" kor="Lv3. 방어력 상승+2% "/>
+	<string key="3198108004" kor="Lv4. 방어력 상승+2.5% "/>
+	<string key="3198108005" kor="Lv5. 방어력 상승+3% "/>
+	<string key="3197109001" kor="Lv1. 추가 방어력 상슴+1% "/>
+	<string key="3197109002" kor="Lv2. 추가 방어력 상슴+1.5% "/>
+	<string key="3197109003" kor="Lv3. 추가 방어력 상슴+2% "/>
+	<string key="3197109004" kor="Lv4. 추가 방어력 상슴+2.5% "/>
+	<string key="3197109005" kor="Lv5. 추가 방어력 상슴+3% "/>
+	<string key="3202252001" kor="Lv1. 무기 내구도 상승+3% "/>
+	<string key="3202252002" kor="Lv2. 무기 내구도 상승+4% "/>
+	<string key="3202252003" kor="Lv3. 무기 내구도 상승+5% "/>
+	<string key="3202252004" kor="Lv4. 무기 내구도 상승+6% "/>
+	<string key="3202252005" kor="Lv5. 무기 내구도 상승+8% "/>
+	<string key="3198253001" kor="Lv1. 모든 복장 내구도 상승+3% "/>
+	<string key="3198253002" kor="Lv2. 모든 복장 내구도 상승+4% "/>
+	<string key="3198253003" kor="Lv3. 모든 복장 내구도 상승+5% "/>
+	<string key="3198253004" kor="Lv4. 모든 복장 내구도 상승+6% "/>
+	<string key="3198253005" kor="Lv5. 모든 복장 내구도 상승+8% "/>
+	<string key="3204209001" kor="Lv1. 연사무기 추가탄창증가+4 "/>
+	<string key="3204209002" kor="Lv2. 연사무기 추가탄창증가+7 "/>
+	<string key="3204209003" kor="Lv3. 연사무기 추가탄창증가+10 "/>
+	<string key="3204209004" kor="Lv4. 연사무기 추가탄창증가+13 "/>
+	<string key="3204209005" kor="Lv5. 연사무기 추가탄창증가+16 "/>
+	<string key="3205210001" kor="Lv1. 단발 무기 추가탄창증가+1 "/>
+	<string key="3205210002" kor="Lv2. 단발 무기 추가탄창증가+2 "/>
+	<string key="3205210003" kor="Lv3. 단발 무기 추가탄창증가+3 "/>
+	<string key="3205210004" kor="Lv4. 단발 무기 추가탄창증가+4 "/>
+	<string key="3205210005" kor="Lv5. 단발 무기 추가탄창증가+5 "/>
+	<string key="3206211001" kor="Lv1. 중화기 무기 추가탄창증가+11 "/>
+	<string key="3206211002" kor="Lv2. 중화기 무기 추가탄창증가+16 "/>
+	<string key="3206211003" kor="Lv3. 중화기 무기 추가탄창증가+21 "/>
+	<string key="3206211004" kor="Lv4. 중화기 무기 추가탄창증가+26 "/>
+	<string key="3206211005" kor="Lv5. 중화기 무기 추가탄창증가+31 "/>
+	<string key="3207212001" kor="Lv1. 저격 무기 추가탄창증가+3 "/>
+	<string key="3207212002" kor="Lv2. 저격 무기 추가탄창증가+5 "/>
+	<string key="3207212003" kor="Lv3. 저격 무기 추가탄창증가+7 "/>
+	<string key="3207212004" kor="Lv4. 저격 무기 추가탄창증가+9 "/>
+	<string key="3207212005" kor="Lv5. 저격 무기 추가탄창증가+11 "/>
+	<string key="3209213001" kor="Lv1. 정신 무기 추가탄창증가+6 "/>
+	<string key="3209213002" kor="Lv2. 정신 무기 추가탄창증가+9 "/>
+	<string key="3209213003" kor="Lv3. 정신 무기 추가탄창증가+12 "/>
+	<string key="3209213004" kor="Lv4. 정신 무기 추가탄창증가+15 "/>
+	<string key="3209213005" kor="Lv5. 정신 무기 추가탄창증가+19 "/>
+	<string key="3208214001" kor="Lv1. 설치 무기 추가탄창증가+1 "/>
+	<string key="3208214002" kor="Lv2. 설치 무기 추가탄창증가+2 "/>
+	<string key="3208214003" kor="Lv3. 설치 무기 추가탄창증가+3 "/>
+	<string key="3208214004" kor="Lv4. 설치 무기 추가탄창증가+4 "/>
+	<string key="3208214005" kor="Lv5. 설치 무기 추가탄창증가+5 "/>
+	<string key="3210215001" kor="Lv1. 투척 무기 추가탄창증가+1 "/>
+	<string key="3210215002" kor="Lv2. 투척 무기 추가탄창증가+1 "/>
+	<string key="3210215003" kor="Lv3. 투척 무기 추가탄창증가+2 "/>
+	<string key="3210215004" kor="Lv4. 투척 무기 추가탄창증가+2 "/>
+	<string key="3210215005" kor="Lv5. 투척 무기 추가탄창증가+3 "/>
+	<string key="3212202001" kor="Lv1. 스턴공격시 유지시간 증가+10% "/>
+	<string key="3212202002" kor="Lv2. 스턴공격시 유지시간 증가+18% "/>
+	<string key="3212202003" kor="Lv3. 스턴공격시 유지시간 증가+26% "/>
+	<string key="3212202004" kor="Lv4. 스턴공격시 유지시간 증가+34% "/>
+	<string key="3212202005" kor="Lv5. 스턴공격시 유지시간 증가+44% "/>
+	<string key="3198110001" kor="Lv1. 피격시 블로우 거리 감소+1% "/>
+	<string key="3198110002" kor="Lv2. 피격시 블로우 거리 감소+3% "/>
+	<string key="3198110003" kor="Lv3. 피격시 블로우 거리 감소+5% "/>
+	<string key="3198110004" kor="Lv4. 피격시 블로우 거리 감소+7% "/>
+	<string key="3198110005" kor="Lv5. 피격시 블로우 거리 감소+9% "/>
+	<string key="3198111001" kor="Lv1. 피격시 스턴 회복속도 상승+3% "/>
+	<string key="3198111002" kor="Lv2. 피격시 스턴 회복속도 상승+5% "/>
+	<string key="3198111003" kor="Lv3. 피격시 스턴 회복속도 상승+7% "/>
+	<string key="3198111004" kor="Lv4. 피격시 스턴 회복속도 상승+9% "/>
+	<string key="3198111005" kor="Lv5. 피격시 스턴 회복속도 상승+12% "/>
+	<string key="3198112001" kor="Lv1. 피격시 푸쉬 거리 감소+1% "/>
+	<string key="3198112002" kor="Lv2. 피격시 푸쉬 거리 감소+3% "/>
+	<string key="3198112003" kor="Lv3. 피격시 푸쉬 거리 감소+5% "/>
+	<string key="3198112004" kor="Lv4. 피격시 푸쉬 거리 감소+7% "/>
+	<string key="3198112005" kor="Lv5. 피격시 푸쉬 거리 감소+9% "/>
+	<string key="3201201001" kor="Lv1. 근접무기 공격시 도트 데미지 부여+2 1초"/>
+	<string key="3201201002" kor="Lv2. 근접무기 공격시 도트 데미지 부여+2 1초"/>
+	<string key="3201201003" kor="Lv3. 근접무기 공격시 도트 데미지 부여+3 1초"/>
+	<string key="3201201004" kor="Lv4. 근접무기 공격시 도트 데미지 부여+3 1초"/>
+	<string key="3201201005" kor="Lv5. 근접무기 공격시 도트 데미지 부여+5 1초"/>
+	<string key="3198113001" kor="Lv1. 리스폰시 무적시간 증가+1% "/>
+	<string key="3198113002" kor="Lv2. 리스폰시 무적시간 증가+2% "/>
+	<string key="3198113003" kor="Lv3. 리스폰시 무적시간 증가+3% "/>
+	<string key="3198113004" kor="Lv4. 리스폰시 무적시간 증가+4% "/>
+	<string key="3198113005" kor="Lv5. 리스폰시 무적시간 증가+5% "/>
+	<string key="3200114001" kor="Lv1. 발사무기 리로드속도 상승+1% "/>
+	<string key="3200114002" kor="Lv2. 발사무기 리로드속도 상승+1.5% "/>
+	<string key="3200114003" kor="Lv3. 발사무기 리로드속도 상승+2% "/>
+	<string key="3200114004" kor="Lv4. 발사무기 리로드속도 상승+2.5% "/>
+	<string key="3200114005" kor="Lv5. 발사무기 리로드속도 상승+3% "/>
+	<string key="3211204001" kor="Lv1. 줌속도 상승+5% "/>
+	<string key="3211204002" kor="Lv2. 줌속도 상승+6% "/>
+	<string key="3211204003" kor="Lv3. 줌속도 상승+7% "/>
+	<string key="3211204004" kor="Lv4. 줌속도 상승+8% "/>
+	<string key="3211204005" kor="Lv5. 줌속도 상승+10% "/>
+	<string key="3208216001" kor="Lv1. 설치무기 동시설치 가능개수 증가+2 "/>
+	<string key="3208216002" kor="Lv2. 설치무기 동시설치 가능개수 증가+2 "/>
+	<string key="3208216003" kor="Lv3. 설치무기 동시설치 가능개수 증가+3 "/>
+	<string key="3208216004" kor="Lv4. 설치무기 동시설치 가능개수 증가+3 "/>
+	<string key="3208216005" kor="Lv5. 설치무기 동시설치 가능개수 증가+4 "/>
+	<string key="3299203001" kor="Lv1. 이동속도 증가+1% "/>
+	<string key="3299203002" kor="Lv2. 이동속도 증가+2% "/>
+	<string key="3299203003" kor="Lv3. 이동속도 증가+3% "/>
+	<string key="3299203004" kor="Lv4. 이동속도 증가+4% "/>
+	<string key="3299203005" kor="Lv5. 이동속도 증가+5% "/>
+	<string key="3099254001" kor="Lv1. 쿠폰 5개 지급+5 "/>
+	<string key="3099254002" kor="Lv2. 쿠폰 5개 지급+5 "/>
+	<string key="3099254003" kor="Lv3. 쿠폰 5개 지급+5 "/>
+	<string key="3099254004" kor="Lv4. 쿠폰 5개 지급+5 "/>
+	<string key="3099254005" kor="Lv5. 쿠폰 5개 지급+5 "/>
+	<string key="3099255001" kor="Lv1. 기어 1~5 5개 지급+5 "/>
+	<string key="3099255002" kor="Lv2. 기어 1~5 5개 지급+5 "/>
+	<string key="3099255003" kor="Lv3. 기어 1~5 5개 지급+5 "/>
+	<string key="3099255004" kor="Lv4. 기어 1~5 5개 지급+5 "/>
+	<string key="3099255005" kor="Lv5. 기어 1~5 5개 지급+5 "/>
+	<string key="3197115001" kor="Lv1. [HP 마스터리 스킬] 성능 상승+1% "/>
+	<string key="3197115002" kor="Lv2. [HP 마스터리 스킬] 성능 상승+1.5% "/>
+	<string key="3197115003" kor="Lv3. [HP 마스터리 스킬] 성능 상승+2% "/>
+	<string key="3197115004" kor="Lv4. [HP 마스터리 스킬] 성능 상승+2.5% "/>
+	<string key="3197115005" kor="Lv5. [HP 마스터리 스킬] 성능 상승+3% "/>
+	<string key="3197116001" kor="Lv1. [스킬 마스터리 스킬] 성능 상승+1% "/>
+	<string key="3197116002" kor="Lv2. [스킬 마스터리 스킬] 성능 상승+1.5% "/>
+	<string key="3197116003" kor="Lv3. [스킬 마스터리 스킬] 성능 상승+2% "/>
+	<string key="3197116004" kor="Lv4. [스킬 마스터리 스킬] 성능 상승+2.5% "/>
+	<string key="3197116005" kor="Lv5. [스킬 마스터리 스킬] 성능 상승+3% "/>
+	<string key="3208200001" kor="Lv1. 설치무기 설치 속도 증가+6% "/>
+	<string key="3208200002" kor="Lv2. 설치무기 설치 속도 증가+14% "/>
+	<string key="3208200003" kor="Lv3. 설치무기 설치 속도 증가+22% "/>
+	<string key="3208200004" kor="Lv4. 설치무기 설치 속도 증가+30% "/>
+	<string key="3208200005" kor="Lv5. 설치무기 설치 속도 증가+40% "/>
+	<string key="3299100001" kor="Lv1. (스커) SP 소모량 감소.+1% "/>
+	<string key="3299100002" kor="Lv2. (스커) SP 소모량 감소.+2% "/>
+	<string key="3299100003" kor="Lv3. (스커) SP 소모량 감소.+3% "/>
+	<string key="3299100004" kor="Lv4. (스커) SP 소모량 감소.+4% "/>
+	<string key="3299100005" kor="Lv5. (스커) SP 소모량 감소.+5% "/>
+	<string key="3299101001" kor="Lv1. (스커)SP 량 수치 증가.+2 "/>
+	<string key="3299101002" kor="Lv2. (스커)SP 량 수치 증가.+4 "/>
+	<string key="3299101003" kor="Lv3. (스커)SP 량 수치 증가.+6 "/>
+	<string key="3299101004" kor="Lv4. (스커)SP 량 수치 증가.+8 "/>
+	<string key="3299101005" kor="Lv5. (스커)SP 량 수치 증가.+12 "/>
+	<string key="3299102001" kor="Lv1. (스커)SP 회복속도 상승.+2 "/>
+	<string key="3299102002" kor="Lv2. (스커)SP 회복속도 상승.+4 "/>
+	<string key="3299102003" kor="Lv3. (스커)SP 회복속도 상승.+6 "/>
+	<string key="3299102004" kor="Lv4. (스커)SP 회복속도 상승.+8 "/>
+	<string key="3299102005" kor="Lv5. (스커)SP 회복속도 상승.+12 "/>
+	<string key="3299103001" kor="Lv1. (스커)HP 20 이하 도달시 SP소모 50%고정하락+0% 3초"/>
+	<string key="3299103002" kor="Lv2. (스커)HP 20 이하 도달시 SP소모 50%고정하락+0% 5초"/>
+	<string key="3299103003" kor="Lv3. (스커)HP 20 이하 도달시 SP소모 50%고정하락+0% 7초"/>
+	<string key="3299103004" kor="Lv4. (스커)HP 20 이하 도달시 SP소모 50%고정하락+0% 9초"/>
+	<string key="3299103005" kor="Lv5. (스커)HP 20 이하 도달시 SP소모 50%고정하락+0% 12초"/>
+	<string key="3299104001" kor="Lv1. (스커) 이동속도 상승+1% "/>
+	<string key="3299104002" kor="Lv2. (스커) 이동속도 상승+2% "/>
+	<string key="3299104003" kor="Lv3. (스커) 이동속도 상승+3% "/>
+	<string key="3299104004" kor="Lv4. (스커) 이동속도 상승+4% "/>
+	<string key="3299104005" kor="Lv5. (스커) 이동속도 상승+6% "/>
+	<string key="3299105001" kor="Lv1. (스커)데쉬속도 상승+1% "/>
+	<string key="3299105002" kor="Lv2. (스커)데쉬속도 상승+2% "/>
+	<string key="3299105003" kor="Lv3. (스커)데쉬속도 상승+3% "/>
+	<string key="3299105004" kor="Lv4. (스커)데쉬속도 상승+4% "/>
+	<string key="3299105005" kor="Lv5. (스커)데쉬속도 상승+5% "/>
+	<string key="3299106001" kor="Lv1. (스커)긴급회피속도 상승+1% "/>
+	<string key="3299106002" kor="Lv2. (스커)긴급회피속도 상승+2% "/>
+	<string key="3299106003" kor="Lv3. (스커)긴급회피속도 상승+3% "/>
+	<string key="3299106004" kor="Lv4. (스커)긴급회피속도 상승+4% "/>
+	<string key="3299106005" kor="Lv5. (스커)긴급회피속도 상승+6% "/>
+	<string key="3299107001" kor="Lv1. (스커)리스폰시 이동속도 증가+1% 5초"/>
+	<string key="3299107002" kor="Lv2. (스커)리스폰시 이동속도 증가+2% 5초"/>
+	<string key="3299107003" kor="Lv3. (스커)리스폰시 이동속도 증가+3% 5초"/>
+	<string key="3299107004" kor="Lv4. (스커)리스폰시 이동속도 증가+4% 5초"/>
+	<string key="3299107005" kor="Lv5. (스커)리스폰시 이동속도 증가+5% 5초"/>
+	<string key="3299108001" kor="Lv1. (스커)SP 0 일 때 이동속도 증가+1% "/>
+	<string key="3299108002" kor="Lv2. (스커)SP 0 일 때 이동속도 증가+2% "/>
+	<string key="3299108003" kor="Lv3. (스커)SP 0 일 때 이동속도 증가+3% "/>
+	<string key="3299108004" kor="Lv4. (스커)SP 0 일 때 이동속도 증가+4% "/>
+	<string key="3299108005" kor="Lv5. (스커)SP 0 일 때 이동속도 증가+6% "/>
+	<string key="3299109001" kor="Lv1. (스커)앵커링 사정 거리증가.+2% "/>
+	<string key="3299109002" kor="Lv2. (스커)앵커링 사정 거리증가.+4% "/>
+	<string key="3299109003" kor="Lv3. (스커)앵커링 사정 거리증가.+6% "/>
+	<string key="3299109004" kor="Lv4. (스커)앵커링 사정 거리증가.+8% "/>
+	<string key="3299109005" kor="Lv5. (스커)앵커링 사정 거리증가.+12% "/>
+	<string key="3299110001" kor="Lv1. (스커)앵커링 이동 속도증가.+1% "/>
+	<string key="3299110002" kor="Lv2. (스커)앵커링 이동 속도증가.+2% "/>
+	<string key="3299110003" kor="Lv3. (스커)앵커링 이동 속도증가.+3% "/>
+	<string key="3299110004" kor="Lv4. (스커)앵커링 이동 속도증가.+4% "/>
+	<string key="3299110005" kor="Lv5. (스커)앵커링 이동 속도증가.+6% "/>
+	<string key="3299111001" kor="Lv1. (센가)오브젝트 공격력 상승+1% "/>
+	<string key="3299111002" kor="Lv2. (센가)오브젝트 공격력 상승+2% "/>
+	<string key="3299111003" kor="Lv3. (센가)오브젝트 공격력 상승+3% "/>
+	<string key="3299111004" kor="Lv4. (센가)오브젝트 공격력 상승+4% "/>
+	<string key="3299111005" kor="Lv5. (센가)오브젝트 공격력 상승+6% "/>
+	<string key="3299112001" kor="Lv1. (센가)크리티컬 확률 증가.+4% "/>
+	<string key="3299112002" kor="Lv2. (센가)크리티컬 확률 증가.+6% "/>
+	<string key="3299112003" kor="Lv3. (센가)크리티컬 확률 증가.+8% "/>
+	<string key="3299112004" kor="Lv4. (센가)크리티컬 확률 증가.+10% "/>
+	<string key="3299112005" kor="Lv5. (센가)크리티컬 확률 증가.+13% "/>
+	<string key="3299113001" kor="Lv1. (센가)리스폰시간 단축+2% "/>
+	<string key="3299113002" kor="Lv2. (센가)리스폰시간 단축+4% "/>
+	<string key="3299113003" kor="Lv3. (센가)리스폰시간 단축+6% "/>
+	<string key="3299113004" kor="Lv4. (센가)리스폰시간 단축+8% "/>
+	<string key="3299113005" kor="Lv5. (센가)리스폰시간 단축+12% "/>
+	<string key="3299114001" kor="Lv1. (센가)HP 20 이하 도달시 5초간 공격력증가.+2% "/>
+	<string key="3299114002" kor="Lv2. (센가)HP 20 이하 도달시 5초간 공격력증가.+4% "/>
+	<string key="3299114003" kor="Lv3. (센가)HP 20 이하 도달시 5초간 공격력증가.+6% "/>
+	<string key="3299114004" kor="Lv4. (센가)HP 20 이하 도달시 5초간 공격력증가.+8% "/>
+	<string key="3299114005" kor="Lv5. (센가)HP 20 이하 도달시 5초간 공격력증가.+12% "/>
+	<string key="3299115001" kor="Lv1. (센가)피격시 블로우 거리감소+2% "/>
+	<string key="3299115002" kor="Lv2. (센가)피격시 블로우 거리감소+4% "/>
+	<string key="3299115003" kor="Lv3. (센가)피격시 블로우 거리감소+6% "/>
+	<string key="3299115004" kor="Lv4. (센가)피격시 블로우 거리감소+8% "/>
+	<string key="3299115005" kor="Lv5. (센가)피격시 블로우 거리감소+12% "/>
+	<string key="3299116001" kor="Lv1. (센가)피격시 스턴시간 감소+2% "/>
+	<string key="3299116002" kor="Lv2. (센가)피격시 스턴시간 감소+4% "/>
+	<string key="3299116003" kor="Lv3. (센가)피격시 스턴시간 감소+6% "/>
+	<string key="3299116004" kor="Lv4. (센가)피격시 스턴시간 감소+8% "/>
+	<string key="3299116005" kor="Lv5. (센가)피격시 스턴시간 감소+12% "/>
+	<string key="3299117001" kor="Lv1. (센가)피격시 넉백 회복 상승+2% "/>
+	<string key="3299117002" kor="Lv2. (센가)피격시 넉백 회복 상승+4% "/>
+	<string key="3299117003" kor="Lv3. (센가)피격시 넉백 회복 상승+6% "/>
+	<string key="3299117004" kor="Lv4. (센가)피격시 넉백 회복 상승+8% "/>
+	<string key="3299117005" kor="Lv5. (센가)피격시 넉백 회복 상승+12% "/>
+	<string key="3299118001" kor="Lv1. (센가)인비저블 SP 소모량 감소+2% "/>
+	<string key="3299118002" kor="Lv2. (센가)인비저블 SP 소모량 감소+4% "/>
+	<string key="3299118003" kor="Lv3. (센가)인비저블 SP 소모량 감소+6% "/>
+	<string key="3299118004" kor="Lv4. (센가)인비저블 SP 소모량 감소+8% "/>
+	<string key="3299118005" kor="Lv5. (센가)인비저블 SP 소모량 감소+12% "/>
+	<string key="3299119001" kor="Lv1. (센가)인비져블 발동시 3초간 HP 상승+1 "/>
+	<string key="3299119002" kor="Lv2. (센가)인비져블 발동시 3초간 HP 상승+2 "/>
+	<string key="3299119003" kor="Lv3. (센가)인비져블 발동시 3초간 HP 상승+3 "/>
+	<string key="3299119004" kor="Lv4. (센가)인비져블 발동시 3초간 HP 상승+4 "/>
+	<string key="3299119005" kor="Lv5. (센가)인비져블 발동시 3초간 HP 상승+6 "/>
+	<string key="3299120001" kor="Lv1. (센가)쉴드 방어량의 일부를 HP로 흡수.+10% "/>
+	<string key="3299120002" kor="Lv2. (센가)쉴드 방어량의 일부를 HP로 흡수.+15% "/>
+	<string key="3299120003" kor="Lv3. (센가)쉴드 방어량의 일부를 HP로 흡수.+20% "/>
+	<string key="3299120004" kor="Lv4. (센가)쉴드 방어량의 일부를 HP로 흡수.+25% "/>
+	<string key="3299120005" kor="Lv5. (센가)쉴드 방어량의 일부를 HP로 흡수.+30% "/>
+	<string key="3299121001" kor="Lv1. (센가)쉴드 SP 소모량 감소.+5% "/>
+	<string key="3299121002" kor="Lv2. (센가)쉴드 SP 소모량 감소.+10% "/>
+	<string key="3299121003" kor="Lv3. (센가)쉴드 SP 소모량 감소.+15% "/>
+	<string key="3299121004" kor="Lv4. (센가)쉴드 SP 소모량 감소.+20% "/>
+	<string key="3299121005" kor="Lv5. (센가)쉴드 SP 소모량 감소.+30% "/>
+	<string key="3299122001" kor="Lv1. (베가) 발사 무기 방어력 증가.+1% "/>
+	<string key="3299122002" kor="Lv2. (베가) 발사 무기 방어력 증가.+2% "/>
+	<string key="3299122003" kor="Lv3. (베가) 발사 무기 방어력 증가.+3% "/>
+	<string key="3299122004" kor="Lv4. (베가) 발사 무기 방어력 증가.+4% "/>
+	<string key="3299122005" kor="Lv5. (베가) 발사 무기 방어력 증가.+6% "/>
+	<string key="3299123001" kor="Lv1. (베가) 근거리 무기 방어력 증가.+1% "/>
+	<string key="3299123002" kor="Lv2. (베가) 근거리 무기 방어력 증가.+2% "/>
+	<string key="3299123003" kor="Lv3. (베가) 근거리 무기 방어력 증가.+3% "/>
+	<string key="3299123004" kor="Lv4. (베가) 근거리 무기 방어력 증가.+4% "/>
+	<string key="3299123005" kor="Lv5. (베가) 근거리 무기 방어력 증가.+6% "/>
+	<string key="3299124001" kor="Lv1. (베가) 힐로 인한 HP 회복력 상승. +2% "/>
+	<string key="3299124002" kor="Lv2. (베가) 힐로 인한 HP 회복력 상승. +4% "/>
+	<string key="3299124003" kor="Lv3. (베가) 힐로 인한 HP 회복력 상승. +6% "/>
+	<string key="3299124004" kor="Lv4. (베가) 힐로 인한 HP 회복력 상승. +8% "/>
+	<string key="3299124005" kor="Lv5. (베가) 힐로 인한 HP 회복력 상승. +12% "/>
+	<string key="3299125001" kor="Lv1. (베가) HP20 이하 도달시 슈퍼아머발동.+0% 3초"/>
+	<string key="3299125002" kor="Lv2. (베가) HP20 이하 도달시 슈퍼아머발동.+0% 4초"/>
+	<string key="3299125003" kor="Lv3. (베가) HP20 이하 도달시 슈퍼아머발동.+0% 5초"/>
+	<string key="3299125004" kor="Lv4. (베가) HP20 이하 도달시 슈퍼아머발동.+0% 6초"/>
+	<string key="3299125005" kor="Lv5. (베가) HP20 이하 도달시 슈퍼아머발동.+0% 8초"/>
+	<string key="3299126001" kor="Lv1. (베가) 공격시 블로우 거리 상승.+2% "/>
+	<string key="3299126002" kor="Lv2. (베가) 공격시 블로우 거리 상승.+4% "/>
+	<string key="3299126003" kor="Lv3. (베가) 공격시 블로우 거리 상승.+6% "/>
+	<string key="3299126004" kor="Lv4. (베가) 공격시 블로우 거리 상승.+8% "/>
+	<string key="3299126005" kor="Lv5. (베가) 공격시 블로우 거리 상승.+12% "/>
+	<string key="3299127001" kor="Lv1. (베가) 공격시 스턴 시간 상승.+2% "/>
+	<string key="3299127002" kor="Lv2. (베가) 공격시 스턴 시간 상승.+4% "/>
+	<string key="3299127003" kor="Lv3. (베가) 공격시 스턴 시간 상승.+6% "/>
+	<string key="3299127004" kor="Lv4. (베가) 공격시 스턴 시간 상승.+8% "/>
+	<string key="3299127005" kor="Lv5. (베가) 공격시 스턴 시간 상승.+12% "/>
+	<string key="3299128001" kor="Lv1. (베가) 넉백 효과 상승.+2% "/>
+	<string key="3299128002" kor="Lv2. (베가) 넉백 효과 상승.+4% "/>
+	<string key="3299128003" kor="Lv3. (베가) 넉백 효과 상승.+6% "/>
+	<string key="3299128004" kor="Lv4. (베가) 넉백 효과 상승.+8% "/>
+	<string key="3299128005" kor="Lv5. (베가) 넉백 효과 상승.+12% "/>
+	<string key="3299129001" kor="Lv1. (베가) 블록 크기(스케일) 상승.+5% "/>
+	<string key="3299129002" kor="Lv2. (베가) 블록 크기(스케일) 상승.+10% "/>
+	<string key="3299129003" kor="Lv3. (베가) 블록 크기(스케일) 상승.+15% "/>
+	<string key="3299129004" kor="Lv4. (베가) 블록 크기(스케일) 상승.+20% "/>
+	<string key="3299129005" kor="Lv5. (베가) 블록 크기(스케일) 상승.+30% "/>
+	<string key="3299130001" kor="Lv1. (베가) 블록 HP 수치 상승.+4 "/>
+	<string key="3299130002" kor="Lv2. (베가) 블록 HP 수치 상승.+8 "/>
+	<string key="3299130003" kor="Lv3. (베가) 블록 HP 수치 상승.+12 "/>
+	<string key="3299130004" kor="Lv4. (베가) 블록 HP 수치 상승.+16 "/>
+	<string key="3299130005" kor="Lv5. (베가) 블록 HP 수치 상승.+22 "/>
+	<string key="3299131001" kor="Lv1. (베가) 바인딩 유효 범위 증가 상승.+5% "/>
+	<string key="3299131002" kor="Lv2. (베가) 바인딩 유효 범위 증가 상승.+10% "/>
+	<string key="3299131003" kor="Lv3. (베가) 바인딩 유효 범위 증가 상승.+15% "/>
+	<string key="3299131004" kor="Lv4. (베가) 바인딩 유효 범위 증가 상승.+20% "/>
+	<string key="3299131005" kor="Lv5. (베가) 바인딩 유효 범위 증가 상승.+30% "/>
+	<string key="3299132001" kor="Lv1. (베가) 바인딩 사정 거리 증가.+4% "/>
+	<string key="3299132002" kor="Lv2. (베가) 바인딩 사정 거리 증가.+8% "/>
+	<string key="3299132003" kor="Lv3. (베가) 바인딩 사정 거리 증가.+12% "/>
+	<string key="3299132004" kor="Lv4. (베가) 바인딩 사정 거리 증가.+16% "/>
+	<string key="3299132005" kor="Lv5. (베가) 바인딩 사정 거리 증가.+22% "/>
+	<string key="3299133001" kor="Lv1. (서폿) HP 수치 상승.+4 "/>
+	<string key="3299133002" kor="Lv2. (서폿) HP 수치 상승.+8 "/>
+	<string key="3299133003" kor="Lv3. (서폿) HP 수치 상승.+12 "/>
+	<string key="3299133004" kor="Lv4. (서폿) HP 수치 상승.+16 "/>
+	<string key="3299133005" kor="Lv5. (서폿) HP 수치 상승.+22 "/>
+	<string key="3299134001" kor="Lv1. (서폿) 회복 무기 회복력 상승.+2% "/>
+	<string key="3299134002" kor="Lv2. (서폿) 회복 무기 회복력 상승.+4% "/>
+	<string key="3299134003" kor="Lv3. (서폿) 회복 무기 회복력 상승.+6% "/>
+	<string key="3299134004" kor="Lv4. (서폿) 회복 무기 회복력 상승.+8% "/>
+	<string key="3299134005" kor="Lv5. (서폿) 회복 무기 회복력 상승.+12% "/>
+	<string key="3299135001" kor="Lv1. (서폿) 리스폰시 무적 시간 증가.+2% "/>
+	<string key="3299135002" kor="Lv2. (서폿) 리스폰시 무적 시간 증가.+4% "/>
+	<string key="3299135003" kor="Lv3. (서폿) 리스폰시 무적 시간 증가.+6% "/>
+	<string key="3299135004" kor="Lv4. (서폿) 리스폰시 무적 시간 증가.+8% "/>
+	<string key="3299135005" kor="Lv5. (서폿) 리스폰시 무적 시간 증가.+12% "/>
+	<string key="3299136001" kor="Lv1. (서폿) HP 20이하시 HP 소모 50%하락.+0% 3초"/>
+	<string key="3299136002" kor="Lv2. (서폿) HP 20이하시 HP 소모 50%하락.+0% 4초"/>
+	<string key="3299136003" kor="Lv3. (서폿) HP 20이하시 HP 소모 50%하락.+0% 5초"/>
+	<string key="3299136004" kor="Lv4. (서폿) HP 20이하시 HP 소모 50%하락.+0% 6초"/>
+	<string key="3299136005" kor="Lv5. (서폿) HP 20이하시 HP 소모 50%하락.+0% 8초"/>
+	<string key="3299137001" kor="Lv1. (서폿) 메탈릭 사용시 데미지 반사율 증가.+2% "/>
+	<string key="3299137002" kor="Lv2. (서폿) 메탈릭 사용시 데미지 반사율 증가.+4% "/>
+	<string key="3299137003" kor="Lv3. (서폿) 메탈릭 사용시 데미지 반사율 증가.+6% "/>
+	<string key="3299137004" kor="Lv4. (서폿) 메탈릭 사용시 데미지 반사율 증가.+8% "/>
+	<string key="3299137005" kor="Lv5. (서폿) 메탈릭 사용시 데미지 반사율 증가.+12% "/>
+	<string key="3299138001" kor="Lv1. (서폿) 메탈릭 SP소모량 감소.+5% "/>
+	<string key="3299138002" kor="Lv2. (서폿) 메탈릭 SP소모량 감소.+10% "/>
+	<string key="3299138003" kor="Lv3. (서폿) 메탈릭 SP소모량 감소.+15% "/>
+	<string key="3299138004" kor="Lv4. (서폿) 메탈릭 SP소모량 감소.+20% "/>
+	<string key="3299138005" kor="Lv5. (서폿) 메탈릭 SP소모량 감소.+30% "/>
+	<string key="3299139001" kor="Lv1. (서폿) 플라잉 이동 속도 상승.+2% "/>
+	<string key="3299139002" kor="Lv2. (서폿) 플라잉 이동 속도 상승.+4% "/>
+	<string key="3299139003" kor="Lv3. (서폿) 플라잉 이동 속도 상승.+6% "/>
+	<string key="3299139004" kor="Lv4. (서폿) 플라잉 이동 속도 상승.+8% "/>
+	<string key="3299139005" kor="Lv5. (서폿) 플라잉 이동 속도 상승.+12% "/>
+	<string key="3299140001" kor="Lv1. (서폿) 플라잉  SP 소모량 감소.+5% "/>
+	<string key="3299140002" kor="Lv2. (서폿) 플라잉  SP 소모량 감소.+10% "/>
+	<string key="3299140003" kor="Lv3. (서폿) 플라잉  SP 소모량 감소.+15% "/>
+	<string key="3299140004" kor="Lv4. (서폿) 플라잉  SP 소모량 감소.+20% "/>
+	<string key="3299140005" kor="Lv5. (서폿) 플라잉  SP 소모량 감소.+30% "/>
+	<string key="3299141001" kor="Lv1. (서폿) HP 마스터리 수치 상승.+4 "/>
+	<string key="3299141002" kor="Lv2. (서폿) HP 마스터리 수치 상승.+8 "/>
+	<string key="3299141003" kor="Lv3. (서폿) HP 마스터리 수치 상승.+12 "/>
+	<string key="3299141004" kor="Lv4. (서폿) HP 마스터리 수치 상승.+16 "/>
+	<string key="3299141005" kor="Lv5. (서폿) HP 마스터리 수치 상승.+22 "/>
+	<string key="3299142001" kor="Lv1. (서폿) 스킬마스터리 수치 상승.+4 "/>
+	<string key="3299142002" kor="Lv2. (서폿) 스킬마스터리 수치 상승.+8 "/>
+	<string key="3299142003" kor="Lv3. (서폿) 스킬마스터리 수치 상승.+12 "/>
+	<string key="3299142004" kor="Lv4. (서폿) 스킬마스터리 수치 상승.+16 "/>
+	<string key="3299142005" kor="Lv5. (서폿) 스킬마스터리 수치 상승.+22 "/>
+	<string key="3100200001" kor="Lv1. (슈마) 재장전 시간 단축.+2% "/>
+	<string key="3100200002" kor="Lv2. (슈마) 재장전 시간 단축.+4% "/>
+	<string key="3100200003" kor="Lv3. (슈마) 재장전 시간 단축.+6% "/>
+	<string key="3100200004" kor="Lv4. (슈마) 재장전 시간 단축.+8% "/>
+	<string key="3100200005" kor="Lv5. (슈마) 재장전 시간 단축.+12% "/>
+	<string key="3100201001" kor="Lv1. (슈마) 예비 장탄 수 배율 증가.+150% "/>
+	<string key="3100201002" kor="Lv2. (슈마) 예비 장탄 수 배율 증가.+200% "/>
+	<string key="3100201003" kor="Lv3. (슈마) 예비 장탄 수 배율 증가.+250% "/>
+	<string key="3100201004" kor="Lv4. (슈마) 예비 장탄 수 배율 증가.+300% "/>
+	<string key="3100201005" kor="Lv5. (슈마) 예비 장탄 수 배율 증가.+400% "/>
+	<string key="3100202001" kor="Lv1. (슈마) 총기 명중률 증가.+2% "/>
+	<string key="3100202002" kor="Lv2. (슈마) 총기 명중률 증가.+4% "/>
+	<string key="3100202003" kor="Lv3. (슈마) 총기 명중률 증가.+6% "/>
+	<string key="3100202004" kor="Lv4. (슈마) 총기 명중률 증가.+8% "/>
+	<string key="3100202005" kor="Lv5. (슈마) 총기 명중률 증가.+12% "/>
+	<string key="3100203001" kor="Lv1. (슈마) 총기 사정 거리 상승+2% "/>
+	<string key="3100203002" kor="Lv2. (슈마) 총기 사정 거리 상승+4% "/>
+	<string key="3100203003" kor="Lv3. (슈마) 총기 사정 거리 상승+6% "/>
+	<string key="3100203004" kor="Lv4. (슈마) 총기 사정 거리 상승+8% "/>
+	<string key="3100203005" kor="Lv5. (슈마) 총기 사정 거리 상승+12% "/>
+	<string key="3115204001" kor="Lv1. (슈마) 호밍무기 성능 상승+2% "/>
+	<string key="3115204002" kor="Lv2. (슈마) 호밍무기 성능 상승+4% "/>
+	<string key="3115204003" kor="Lv3. (슈마) 호밍무기 성능 상승+6% "/>
+	<string key="3115204004" kor="Lv4. (슈마) 호밍무기 성능 상승+8% "/>
+	<string key="3115204005" kor="Lv5. (슈마) 호밍무기 성능 상승+12% "/>
+	<string key="3116205001" kor="Lv1. (슈마) 총기 차지 속도상승+5% "/>
+	<string key="3116205002" kor="Lv2. (슈마) 총기 차지 속도상승+10% "/>
+	<string key="3116205003" kor="Lv3. (슈마) 총기 차지 속도상승+15% "/>
+	<string key="3116205004" kor="Lv4. (슈마) 총기 차지 속도상승+20% "/>
+	<string key="3116205005" kor="Lv5. (슈마) 총기 차지 속도상승+30% "/>
+	<string key="3116206001" kor="Lv1. (슈마) 총기 차지 무기 공격력상승+2% "/>
+	<string key="3116206002" kor="Lv2. (슈마) 총기 차지 무기 공격력상승+4% "/>
+	<string key="3116206003" kor="Lv3. (슈마) 총기 차지 무기 공격력상승+6% "/>
+	<string key="3116206004" kor="Lv4. (슈마) 총기 차지 무기 공격력상승+8% "/>
+	<string key="3116206005" kor="Lv5. (슈마) 총기 차지 무기 공격력상승+12% "/>
+	<string key="3117207001" kor="Lv1. (슈마) 폭발형 무기 범위상승+2% "/>
+	<string key="3117207002" kor="Lv2. (슈마) 폭발형 무기 범위상승+4% "/>
+	<string key="3117207003" kor="Lv3. (슈마) 폭발형 무기 범위상승+6% "/>
+	<string key="3117207004" kor="Lv4. (슈마) 폭발형 무기 범위상승+8% "/>
+	<string key="3117207005" kor="Lv5. (슈마) 폭발형 무기 범위상승+12% "/>
+	<string key="3117208001" kor="Lv1. (슈마) 폭발형 무기 공격력상승+2% "/>
+	<string key="3117208002" kor="Lv2. (슈마) 폭발형 무기 공격력상승+4% "/>
+	<string key="3117208003" kor="Lv3. (슈마) 폭발형 무기 공격력상승+6% "/>
+	<string key="3117208004" kor="Lv4. (슈마) 폭발형 무기 공격력상승+8% "/>
+	<string key="3117208005" kor="Lv5. (슈마) 폭발형 무기 공격력상승+12% "/>
+	<string key="3117209001" kor="Lv1. (슈마) 폭발형 무기 폭발 유지시간 상승+2% "/>
+	<string key="3117209002" kor="Lv2. (슈마) 폭발형 무기 폭발 유지시간 상승+4% "/>
+	<string key="3117209003" kor="Lv3. (슈마) 폭발형 무기 폭발 유지시간 상승+6% "/>
+	<string key="3117209004" kor="Lv4. (슈마) 폭발형 무기 폭발 유지시간 상승+8% "/>
+	<string key="3117209005" kor="Lv5. (슈마) 폭발형 무기 폭발 유지시간 상승+12% "/>
+	<string key="3118210001" kor="Lv1. (슈마) 줌 속도 상승+2% "/>
+	<string key="3118210002" kor="Lv2. (슈마) 줌 속도 상승+4% "/>
+	<string key="3118210003" kor="Lv3. (슈마) 줌 속도 상승+6% "/>
+	<string key="3118210004" kor="Lv4. (슈마) 줌 속도 상승+8% "/>
+	<string key="3118210005" kor="Lv5. (슈마) 줌 속도 상승+12% "/>
+	<string key="3118211001" kor="Lv1. (슈마) 줌 배율 증가+150% "/>
+	<string key="3118211002" kor="Lv2. (슈마) 줌 배율 증가+200% "/>
+	<string key="3118211003" kor="Lv3. (슈마) 줌 배율 증가+250% "/>
+	<string key="3118211004" kor="Lv4. (슈마) 줌 배율 증가+300% "/>
+	<string key="3118211005" kor="Lv5. (슈마) 줌 배율 증가+400% "/>
+	<string key="3119212001" kor="Lv1. (슈마) 거치 무기 거치 속도 상승.+10% "/>
+	<string key="3119212002" kor="Lv2. (슈마) 거치 무기 거치 속도 상승.+20% "/>
+	<string key="3119212003" kor="Lv3. (슈마) 거치 무기 거치 속도 상승.+30% "/>
+	<string key="3119212004" kor="Lv4. (슈마) 거치 무기 거치 속도 상승.+40% "/>
+	<string key="3119212005" kor="Lv5. (슈마) 거치 무기 거치 속도 상승.+60% "/>
+	<string key="3119213001" kor="Lv1. (슈마) 거치 무기 해지 속도 상승.+10% "/>
+	<string key="3119213002" kor="Lv2. (슈마) 거치 무기 해지 속도 상승.+20% "/>
+	<string key="3119213003" kor="Lv3. (슈마) 거치 무기 해지 속도 상승.+30% "/>
+	<string key="3119213004" kor="Lv4. (슈마) 거치 무기 해지 속도 상승.+40% "/>
+	<string key="3119213005" kor="Lv5. (슈마) 거치 무기 해지 속도 상승.+60% "/>
+	<string key="3108214001" kor="Lv1. (슈마) 설치무기 HP 수치 상승.+6 "/>
+	<string key="3108214002" kor="Lv2. (슈마) 설치무기 HP 수치 상승.+8 "/>
+	<string key="3108214003" kor="Lv3. (슈마) 설치무기 HP 수치 상승.+10 "/>
+	<string key="3108214004" kor="Lv4. (슈마) 설치무기 HP 수치 상승.+12 "/>
+	<string key="3108214005" kor="Lv5. (슈마) 설치무기 HP 수치 상승.+16 "/>
+	<string key="3108215001" kor="Lv1. (슈마) 설치무기 설치 속도 상승.+10% "/>
+	<string key="3108215002" kor="Lv2. (슈마) 설치무기 설치 속도 상승.+20% "/>
+	<string key="3108215003" kor="Lv3. (슈마) 설치무기 설치 속도 상승.+30% "/>
+	<string key="3108215004" kor="Lv4. (슈마) 설치무기 설치 속도 상승.+40% "/>
+	<string key="3108215005" kor="Lv5. (슈마) 설치무기 설치 속도 상승.+60% "/>
+	<string key="3108216001" kor="Lv1. (슈마) 설치무기 동시 설치개수 증가.+2 "/>
+	<string key="3108216002" kor="Lv2. (슈마) 설치무기 동시 설치개수 증가.+2 "/>
+	<string key="3108216003" kor="Lv3. (슈마) 설치무기 동시 설치개수 증가.+2 "/>
+	<string key="3108216004" kor="Lv4. (슈마) 설치무기 동시 설치개수 증가.+2 "/>
+	<string key="3108216005" kor="Lv5. (슈마) 설치무기 동시 설치개수 증가.+3 "/>
+	<string key="3106217001" kor="Lv1. (슈마) 중화기 예열 시간 단축.+5% "/>
+	<string key="3106217002" kor="Lv2. (슈마) 중화기 예열 시간 단축.+10% "/>
+	<string key="3106217003" kor="Lv3. (슈마) 중화기 예열 시간 단축.+15% "/>
+	<string key="3106217004" kor="Lv4. (슈마) 중화기 예열 시간 단축.+20% "/>
+	<string key="3106217005" kor="Lv5. (슈마) 중화기 예열 시간 단축.+30% "/>
+	<string key="3120218001" kor="Lv1. (슈마) 봄버류 폭파시간 단축.+5% "/>
+	<string key="3120218002" kor="Lv2. (슈마) 봄버류 폭파시간 단축.+10% "/>
+	<string key="3120218003" kor="Lv3. (슈마) 봄버류 폭파시간 단축.+15% "/>
+	<string key="3120218004" kor="Lv4. (슈마) 봄버류 폭파시간 단축.+20% "/>
+	<string key="3120218005" kor="Lv5. (슈마) 봄버류 폭파시간 단축.+30% "/>
+	<string key="3101219001" kor="Lv1. (소마) 근접액션 딜레이 감소+1% "/>
+	<string key="3101219002" kor="Lv2. (소마) 근접액션 딜레이 감소+2% "/>
+	<string key="3101219003" kor="Lv3. (소마) 근접액션 딜레이 감소+3% "/>
+	<string key="3101219004" kor="Lv4. (소마) 근접액션 딜레이 감소+4% "/>
+	<string key="3101219005" kor="Lv5. (소마) 근접액션 딜레이 감소+6% "/>
+	<string key="3101220001" kor="Lv1. (소마) 근접 공격시 경직시간 상승+1% "/>
+	<string key="3101220002" kor="Lv2. (소마) 근접 공격시 경직시간 상승+2% "/>
+	<string key="3101220003" kor="Lv3. (소마) 근접 공격시 경직시간 상승+3% "/>
+	<string key="3101220004" kor="Lv4. (소마) 근접 공격시 경직시간 상승+4% "/>
+	<string key="3101220005" kor="Lv5. (소마) 근접 공격시 경직시간 상승+6% "/>
+	<string key="3101221001" kor="Lv1. (소마) 카소 방어 무시하고 데미지 반영 상승.+10% "/>
+	<string key="3101221002" kor="Lv2. (소마) 카소 방어 무시하고 데미지 반영 상승.+20% "/>
+	<string key="3101221003" kor="Lv3. (소마) 카소 방어 무시하고 데미지 반영 상승.+30% "/>
+	<string key="3101221004" kor="Lv4. (소마) 카소 방어 무시하고 데미지 반영 상승.+40% "/>
+	<string key="3101221005" kor="Lv5. (소마) 카소 방어 무시하고 데미지 반영 상승.+60% "/>
+	<string key="3101222001" kor="Lv1. (소마) 근접공격시 이동 거리 상승.+5% "/>
+	<string key="3101222002" kor="Lv2. (소마) 근접공격시 이동 거리 상승.+10% "/>
+	<string key="3101222003" kor="Lv3. (소마) 근접공격시 이동 거리 상승.+15% "/>
+	<string key="3101222004" kor="Lv4. (소마) 근접공격시 이동 거리 상승.+20% "/>
+	<string key="3101222005" kor="Lv5. (소마) 근접공격시 이동 거리 상승.+30% "/>
+	<string key="3101223001" kor="Lv1. (소마) 근접 다음 액션 진입시간 단축.+2% "/>
+	<string key="3101223002" kor="Lv2. (소마) 근접 다음 액션 진입시간 단축.+4% "/>
+	<string key="3101223003" kor="Lv3. (소마) 근접 다음 액션 진입시간 단축.+6% "/>
+	<string key="3101223004" kor="Lv4. (소마) 근접 다음 액션 진입시간 단축.+8% "/>
+	<string key="3101223005" kor="Lv5. (소마) 근접 다음 액션 진입시간 단축.+12% "/>
+	<string key="3101224001" kor="Lv1. (소마) 근접 범위 공격 영역 증가.+2% "/>
+	<string key="3101224002" kor="Lv2. (소마) 근접 범위 공격 영역 증가.+4% "/>
+	<string key="3101224003" kor="Lv3. (소마) 근접 범위 공격 영역 증가.+6% "/>
+	<string key="3101224004" kor="Lv4. (소마) 근접 범위 공격 영역 증가.+8% "/>
+	<string key="3101224005" kor="Lv5. (소마) 근접 범위 공격 영역 증가.+12% "/>
+	<string key="3121225001" kor="Lv1. (소마) 근접 차지 속도 단축. +2% "/>
+	<string key="3121225002" kor="Lv2. (소마) 근접 차지 속도 단축. +4% "/>
+	<string key="3121225003" kor="Lv3. (소마) 근접 차지 속도 단축. +6% "/>
+	<string key="3121225004" kor="Lv4. (소마) 근접 차지 속도 단축. +8% "/>
+	<string key="3121225005" kor="Lv5. (소마) 근접 차지 속도 단축. +12% "/>
+	<string key="3121226001" kor="Lv1. (소마) 근접 차지 공격력 상승. +2% "/>
+	<string key="3121226002" kor="Lv2. (소마) 근접 차지 공격력 상승. +4% "/>
+	<string key="3121226003" kor="Lv3. (소마) 근접 차지 공격력 상승. +6% "/>
+	<string key="3121226004" kor="Lv4. (소마) 근접 차지 공격력 상승. +8% "/>
+	<string key="3121226005" kor="Lv5. (소마) 근접 차지 공격력 상승. +12% "/>
+	<string key="3122227001" kor="Lv1. (소마) 근접 변신 공격력 상승.+2% "/>
+	<string key="3122227002" kor="Lv2. (소마) 근접 변신 공격력 상승.+4% "/>
+	<string key="3122227003" kor="Lv3. (소마) 근접 변신 공격력 상승.+6% "/>
+	<string key="3122227004" kor="Lv4. (소마) 근접 변신 공격력 상승.+8% "/>
+	<string key="3122227005" kor="Lv5. (소마) 근접 변신 공격력 상승.+12% "/>
+	<string key="3101228001" kor="Lv1. (소마) 근접 우클릭 공격 공격력 상승.+2% "/>
+	<string key="3101228002" kor="Lv2. (소마) 근접 우클릭 공격 공격력 상승.+4% "/>
+	<string key="3101228003" kor="Lv3. (소마) 근접 우클릭 공격 공격력 상승.+6% "/>
+	<string key="3101228004" kor="Lv4. (소마) 근접 우클릭 공격 공격력 상승.+8% "/>
+	<string key="3101228005" kor="Lv5. (소마) 근접 우클릭 공격 공격력 상승.+12% "/>
+	<string key="3123229001" kor="Lv1. (소마) 근접 우클릭 방어력 상승.+2% "/>
+	<string key="3123229002" kor="Lv2. (소마) 근접 우클릭 방어력 상승.+4% "/>
+	<string key="3123229003" kor="Lv3. (소마) 근접 우클릭 방어력 상승.+6% "/>
+	<string key="3123229004" kor="Lv4. (소마) 근접 우클릭 방어력 상승.+8% "/>
+	<string key="3123229005" kor="Lv5. (소마) 근접 우클릭 방어력 상승.+12% "/>
+	<string key="3101230001" kor="Lv1. (소마) 근접 강공격 상승.+2% "/>
+	<string key="3101230002" kor="Lv2. (소마) 근접 강공격 상승.+4% "/>
+	<string key="3101230003" kor="Lv3. (소마) 근접 강공격 상승.+6% "/>
+	<string key="3101230004" kor="Lv4. (소마) 근접 강공격 상승.+8% "/>
+	<string key="3101230005" kor="Lv5. (소마) 근접 강공격 상승.+12% "/>
+	<string key="3299143001" kor="Lv1. 쿠폰 5 개 획득 확률 증가.+10% "/>
+	<string key="3299143002" kor="Lv2. 쿠폰 5 개 획득 확률 증가.+15% "/>
+	<string key="3299143003" kor="Lv3. 쿠폰 5 개 획득 확률 증가.+20% "/>
+	<string key="3299143004" kor="Lv4. 쿠폰 5 개 획득 확률 증가.+25% "/>
+	<string key="3299143005" kor="Lv5. 쿠폰 5 개 획득 확률 증가.+30% "/>
+	<string key="3299144001" kor="Lv1. 기어 1~5 5개 획득+30% "/>
+	<string key="3299144002" kor="Lv2. 기어 1~5 5개 획득+30% "/>
+	<string key="3299144003" kor="Lv3. 기어 1~5 5개 획득+30% "/>
+	<string key="3299144004" kor="Lv4. 기어 1~5 5개 획득+30% "/>
+	<string key="3299144005" kor="Lv5. 기어 1~5 5개 획득+30% "/>
+	<string key="3299145001" kor="Lv1. EXP 획득량 증가.+150% "/>
+	<string key="3299145002" kor="Lv2. EXP 획득량 증가.+200% "/>
+	<string key="3299145003" kor="Lv3. EXP 획득량 증가.+250% "/>
+	<string key="3299145004" kor="Lv4. EXP 획득량 증가.+300% "/>
+	<string key="3299145005" kor="Lv5. EXP 획득량 증가.+400% "/>
+	<string key="3299146001" kor="Lv1. PEN 획득량 증가.+120% "/>
+	<string key="3299146002" kor="Lv2. PEN 획득량 증가.+160% "/>
+	<string key="3299146003" kor="Lv3. PEN 획득량 증가.+220% "/>
+	<string key="3299146004" kor="Lv4. PEN 획득량 증가.+260% "/>
+	<string key="3299146005" kor="Lv5. PEN 획득량 증가.+300% "/>
+	<string key="1103301001" kor="SP+1" ger="SP +1" eng="SP+1" tur="SP+1" fre="PC +1"/>
+	<string key="1103301002" kor="SP+2" ger="SP +2" eng="SP+2" tur="SP+2" fre="PC +2"/>
+	<string key="1103301003" kor="SP+3" ger="SP +3" eng="SP+3" tur="SP+3" fre="PC +3"/>
+	<string key="1103301004" kor="SP+4" ger="SP +4" eng="SP+4" tur="SP+4" fre="PC +4"/>
+	<string key="1103301005" kor="SP+5" ger="SP +5" eng="SP+5" tur="SP+5" fre="PC +5"/>
+	<string key="1103301006" kor="SP+6" ger="SP +6" eng="SP+6" tur="SP+6" fre="PC +6"/>
+	<string key="1103301007" kor="SP+7" ger="SP +7" eng="SP+7" tur="SP+7" fre="PC +7"/>
+	<string key="1103301008" kor="SP+8" ger="SP +8" eng="SP+8" tur="SP+8" fre="PC +8"/>
+	<string key="E7012111" kor="설치무기 설치속도 +25%" ger="I-GES Geschütz +25%" eng="Installation Weapon Install SPD +25%" tur="Kurulum Silah Kurulum SPD +25%" fre="VIT déploiement Armes fixes +25%"/>
+	<string key="E7012112" kor="설치무기 설치속도 +25%{N}무기 랜덤 공격력 +0~2%" ger="I-GES Geschütz +25%{N}Waffen-Zufalls-ATK+0~2%" eng="Installation Weapon Install SPD +25%{N}Weapon Random ATK +0~2%" tur="Kurulum Silah Kurulum SPD +25%{N}Silah Rastgele ATK +0~2%" fre="VIT déploiement Armes fixes +25%{N}ATQ arme +0-2%"/>
+	<string key="E7012113" kor="설치무기 설치속도 +50%{N}무기 랜덤 공격력 +0~2%" ger="I-GES Geschütz +%50{N}Waffen-Zufalls-ATK+0~2%" eng="Installation Weapon Install SPD +50%{N}Weapon Random ATK +0~2%" tur="Kurulum Silah Kurulum SPD +50%{N}Silah Rastgele ATK +0~2%" fre="VIT déploiement Armes fixes +50%{N}ATQ arme +0-2%"/>
+	<string key="E7012114" kor="설치무기 설치속도 +50%{N}무기 랜덤 공격력 +0~2%{N}랜덤 크리티컬 배율 +5%" ger="I-GES Geschütz +%50{N}Waffen-Zufalls-ATK+0~2%{N}Zufalls-KRIT +5" eng="Installation Weapon Install SPD +50%{N}Weapon Random ATK +0~2%{N}Random Crit POW +5%" tur="Kurulum Silah Kurulum SPD +50%{N}Silah Rastgele ATK +0~2%{N}Rastgele Crit POW +5%" fre="VIT déploiement Armes fixes +50%{N}ATQ arme +0-2%{N}CRIT +5%"/>
+	<string key="E7012115" kor="설치무기 설치속도 +50%{N}무기 랜덤 공격력 +0~5%{N}랜덤 크리티컬 배율 +5%" ger="I-GES Geschütz +%50{N}Waffen-Zufalls-ATK+0~5%{N}Zufalls-KRIT +5" eng="Installation Weapon Install SPD +50%{N}Weapon Random ATK +0~5%{N}Random Crit POW +5%" tur="Kurulum Silah Kurulum SPD +50%{N}Silah Rastgele ATK +0~5%{N}Rastgele Crit POW +5%" fre="VIT déploiement Armes fixes +50%{N}ATQ arme +0-5%{N}CRIT +5%"/>
+	<string key="E7012121" kor="설치무기 설치속도 +25%" ger="I-GES Geschütz +25%" eng="Installation Weapon Install SPD +25%" tur="Kurulum Silah Kurulum SPD +25%" fre="VIT déploiement Armes fixes +25%"/>
+	<string key="E7012122" kor="설치무기 설치속도 +25%{N}근접무기 방어력 +5%" ger="I-GES Geschütz +25%{N}Nahkampfwaffen-VTG +5%" eng="Installation Weapon Install SPD +25%{N}Melee Weapon DEF +5%" tur="Kurulum Silah Kurulum SPD +25%{N}Melee Silah DEF +5%" fre="VIT déploiement Armes fixes +25%{N}DÉF arme mêlée +5%"/>
+	<string key="E7012123" kor="설치무기 설치속도 +50%{N}근접무기 방어력 +5%" ger="I-GES Geschütz +50%{N}Nahkampfwaffen-VTG +5%" eng="Installation Weapon Install SPD +50%{N}Melee Weapon DEF +5%" tur="Kurulum Silah Kurulum SPD +50%{N}Melee Silah DEF +5%" fre="VIT déploiement Armes fixes +50%{N}DÉF arme mêlée +5%"/>
+	<string key="E7012124" kor="설치무기 설치속도 +50%{N}근접무기 방어력 +5%{N}발사무기 방어력 +5%" ger="I-GES Geschütz +50%{N}Nahkampfwaffen-VTG +5%{N}Feuerwaffen-VTG +5%" eng="Installation Weapon Install SPD +50%{N}Melee Weapon DEF +5%{N}Firing Weapon DEF +5%" tur="Kurulum Silah Kurulum SPD +50%{N}Melee Silah DEF +5%{N}Ateşli Silah DEF +5%" fre="VIT déploiement Armes fixes +50%{N}DÉF arme mêlée +5%{N}DÉF arme à feu +5%"/>
+	<string key="E7012125" kor="설치무기 설치속도 +50%{N}근접무기 방어력 +5%{N}발사무기 방어력 +5%{N}SP +2" ger="I-GES Geschütz +50%{N}Nahkampfwaffen-VTG +5%{N}Feuerwaffen-VTG +5%{N}SP +2" eng="Installation Weapon Install SPD +50%{N}Melee Weapon DEF +5%{N}Firing Weapon DEF +5%{N}SP +2" tur="Kurulum Silah Kurulum SPD +50%{N}Melee Silah DEF +5%{N}Ateşli Silah DEF +5%{N}SP +2" fre="VIT déploiement Armes fixes +50%{N}DÉF arme mêlée +5%{N}DÉF arme à feu +5%{N}PC +2"/>
+	<string key="E7012131" kor="설치무기 설치속도 +25%" ger="I-GES Geschütz +25%" eng="Installation Weapon Install SPD +25%" tur="Kurulum Silah Kurulum SPD +25%" fre="VIT déploiement Armes fixes +25%"/>
+	<string key="E7012132" kor="설치무기 설치속도 +25%{N}피격 시 스턴시간 -3%" ger="I-GES Geschütz +25%{N}Betäubungsdauer bei Angriff -3%" eng="Installation Weapon Install SPD +25%{N}Stun Duration when attacked -3%" tur="Kurulum Silah Kurulum SPD +25%{N}Saldırıldığında Şok Süresi -3%" fre="VIT déploiement Armes fixes +25%{N}Durée Assommé quand attaqué -3%"/>
+	<string key="E7012133" kor="설치무기 설치속도 +50%{N}피격 시 스턴시간 -3%" ger="I-GES Geschütz +50%{N}Betäubungsdauer bei Angriff -3%" eng="Installation Weapon Install SPD +50%{N}Stun Duration when attacked -3%" tur="Kurulum Silah Kurulum SPD +50%{N}Saldırıldığında Şok Süresi -3%" fre="VIT déploiement Armes fixes +50%{N}Durée Assommé quand attaqué -3%"/>
+	<string key="E7012134" kor="설치무기 설치속도 +50%{N}피격 시 스턴시간 -3%{N}피격 시 블로우 거리 -3%{N}피격 시 넉백 거리 -3%" ger="I-GES Geschütz +50%{N}Betäubungsdauer bei Angriff -3%{N}Stoß-bei Angriff -3%{N}Zurückwerfen-Distanz bei Angriff -3%" eng="Installation Weapon Install SPD +50%{N}Stun Duration when attacked -3%{N}Blow Distance when attacked -3%{N}Knockback Distance when attacked -3%" tur="Kurulum Silah Kurulum SPD +50%{N}Saldırıldığında Şok Süresi -3%{N}Saldırıldığında atlama &amp; Knockback uzaklığı -3%" fre="VIT déploiement Armes fixes +50%{N}Durée Assommé quand attaqué -3%{N}Portée Explosion et Repoussé quand attaqué -3%"/>
+	<string key="E7012135" kor="설치무기 설치속도 +50%{N}피격 시 스턴시간 -5%{N}피격 시 블로우 거리 -5%{N}피격 시 넉백 거리 -5%" ger="I-GES Geschütz +50%{N}Betäubungsdauer bei Angriff -5%{N}Stoß-bei Angriff -5%{N}Zurückwerfen-Distanz bei Angriff -5%" eng="Installation Weapon Install SPD +50%{N}Stun Duration when attacked -5%{N}Blow Distance when attacked -5%{N}Knockback Distance when attacked -5%" tur="Kurulum Silah Kurulum SPD +50%{N}Saldırıldığında Şok Süresi -5%{N}Saldırıldığında atlama &amp; Knockback uzaklığı -5%" fre="VIT déploiement Armes fixes +50%{N}Durée Assommé quand attaqué -5%{N}Portée Explosion et Repoussé quand attaqué -5%"/>
+	<string key="E7012141" kor="설치무기 설치속도 +25%" ger="I-GES Geschütz +25%" eng="Installation Weapon Install SPD +25%" tur="Kurulum Silah Kurulum SPD +25%" fre="VIT déploiement Armes fixes +25%"/>
+	<string key="E7012142" kor="설치무기 설치속도 +25%{N}EXP +20%" ger="I-GES Geschütz +25%{N}erhaltene EXP +20%" eng="Installation Weapon Install SPD +25%{N}EXP +20%" tur="Kurulum Silah Kurulum SPD +25%{N}EXP +20%" fre="VIT déploiement Armes fixes +25%{N}EXP +20%"/>
+	<string key="E7012143" kor="설치무기 설치속도 +50%{N}EXP +20%" ger="I-GES Geschütz +50%{N}erhaltene EXP +20%" eng="Installation Weapon Install SPD +50%{N}EXP +20%" tur="Kurulum Silah Kurulum SPD +50%{N}EXP +20%" fre="VIT déploiement Armes fixes +50%{N}EXP +20%"/>
+	<string key="E7012144" kor="설치무기 설치속도 +50%{N}EXP +20%{N}PEN +50%" ger="I-GES Geschütz +50%{N}erhaltene EXP +20%{N}erhaltene PEN +50%" eng="Installation Weapon Install SPD +50%{N}EXP +20%{N}PEN +50%" tur="Kurulum Silah Kurulum SPD +50%{N}EXP +20%{N}PEN +50%" fre="VIT déploiement Armes fixes +50%{N}EXP +20%{N}PEN +50%"/>
+	<string key="E7012145" kor="설치무기 설치속도 +50%{N}EXP +30%{N}PEN +50%" ger="I-GES Geschütz +50%{N}erhaltene EXP +30%{N}erhaltene PEN +50%" eng="Installation Weapon Install SPD +50%{N}EXP +30%{N}PEN +50%" tur="Kurulum Silah Kurulum SPD +50%{N}EXP +30%{N}PEN +50%" fre="VIT déploiement Armes fixes +50%{N}EXP +30%{N}PEN +50%"/>
+	<string key="E7012151" kor="설치무기 설치속도 +25%" ger="I-GES Geschütz +25%" eng="Installation Weapon Install SPD +25%" tur="Kurulum Silah Kurulum SPD +25%" fre="VIT déploiement Armes fixes +25%"/>
+	<string key="E7012152" kor="설치무기 설치속도 +25%{N}힐로인한 회복력 +5%" ger="I-GES Geschütz +25%{N}Heilung +5%" eng="Installation Weapon Install SPD +25%{N}Regen by Heal +5%" tur="Kurulum Silah Kurulum SPD +25%{N}Can Yenileme +5%" fre="VIT déploiement Armes fixes +25%{N}Régénération lors de Soins +5%"/>
+	<string key="E7012153" kor="설치무기 설치속도 +50%{N}힐로인한 회복력 +5%" ger="I-GES Geschütz +50%{N}Heilung +5%" eng="Installation Weapon Install SPD +50%{N}Regen by Heal +5%" tur="Kurulum Silah Kurulum SPD +50%{N}Can Yenileme +5%" fre="VIT déploiement Armes fixes +50%{N}Régénération lors de Soins +5%"/>
+	<string key="E7012154" kor="설치무기 설치속도 +50%{N}힐로인한 회복력 +5%{N}회피 소모 SP -3%{N}벽점프 소모 SP -3%" ger="I-GES Geschütz +50%{N}Heilung +5%{N}SP-Verbrauch: Dodge, Wall Jump -3%" eng="Installation Weapon Install SPD +50%{N}Regen by Heal +5%{N}EVA, Wall Jump SP Consumption -3%" tur="Kurulum Silah Kurulum SPD +50%{N}Can Yenileme -5%{N}EVA, Duvara Zıplama Kullanımı -3%" fre="VIT déploiement Armes fixes +50%{N}Régénération lors de Soins +5%{N}ESQ, PC requis pour Wall Jump -3%"/>
+	<string key="E7012155" kor="설치무기 설치속도 +50%{N}힐로인한 회복력 +5%{N}회피 소모 SP -5%{N}벽점프 소모 SP -5%" ger="I-GES Geschütz +50%{N}Heilung +5%{N}SP-Verbrauch: Dodge, Wall Jump -5%" eng="Installation Weapon Install SPD +50%{N}Regen by Heal +5%{N}EVA, Wall Jump SP Consumption -5%" tur="Kurulum Silah Kurulum SPD +50%{N}Can Yenileme -5%{N}EVA, Duvara Zıplama Kullanımı -5%" fre="VIT déploiement Armes fixes +50%{N}Régénération lors de Soins +5%{N}ESQ, PC requis pour Wall Jump -5%"/>
+	<string key="E7013111" kor="SP +1" ger="SP +1" eng="SP +1" tur="SP +1" fre="PC +1"/>
+	<string key="E7013112" kor="SP +2{N}HP +2" ger="SP +2{N}HP +2" eng="SP +2{N}HP +2" tur="SP +2{N}HP +2" fre="PC +2{N}PV +2"/>
+	<string key="E7013113" kor="SP +3{N}HP +2" ger="SP +3{N}HP +2" eng="SP +3{N}HP +2" tur="SP +3{N}HP +2" fre="PC +3{N}PV +2"/>
+	<string key="E7013114" kor="SP +3{N}HP +5" ger="SP +3{N}HP +5" eng="SP +3{N}HP +5" tur="SP +3{N}HP +5" fre="PC +3{N}PV +5"/>
+	<string key="E7013115" kor="SP +3{N}HP +7" ger="SP +3{N}HP +7" eng="SP +3{N}HP +7" tur="SP +3{N}HP +7" fre="PC +3{N}PV +7"/>
+	<string key="E7013121" kor="SP +1" ger="SP +1" eng="SP +1" tur="SP +1" fre="PC +1"/>
+	<string key="E7013122" kor="SP +2{N}방어력 +3%" ger="SP +2{N}VTG+3%" eng="SP +2{N}DEF +3%" tur="SP +2{N}DEF +3%" fre="PC +2{N}DÉF +3%"/>
+	<string key="E7013123" kor="SP +3{N}방어력 +3%" ger="SP +3{N}VTG +3%" eng="SP +3{N}DEF +3%" tur="SP +3{N}DEF +3%" fre="PC +3{N}DÉF +3%"/>
+	<string key="E7013124" kor="SP +3{N}방어력 +4%" ger="SP +3{N}VTG +4%" eng="SP +3{N}DEF +4%" tur="SP +3{N}DEF +4%" fre="PC +3{N}DÉF +4%"/>
+	<string key="E7013125" kor="SP +5{N}방어력 +4%" ger="SP +5{N}VTG +4%" eng="SP +5{N}DEF +4%" tur="SP +5{N}DEF +4%" fre="PC +5{N}DÉF +4%"/>
+	<string key="E7013131" kor="SP +1" ger="SP +1" eng="SP +1" tur="SP +1" fre="PC +1"/>
+	<string key="E7013132" kor="SP +2{N}방어력 관통 +1%" ger="SP +2{N}VTG-Durchbruch +1%" eng="SP +2{N}DEF piercing +1%" tur="SP +2{N}DEF delici +1%" fre="PC +2{N}Perforation DÉF +1%"/>
+	<string key="E7013133" kor="SP +3{N}방어력 관통 +1%" ger="SP +3{N}VTG-Durchbruch +1%" eng="SP +3{N}DEF piercing +1%" tur="SP +3{N}DEF delici +1%" fre="PC +3{N}Perforation DÉF +1%"/>
+	<string key="E7013134" kor="SP +3{N}방어력 관통 +3%" ger="SP +3{N}VTG-Durchbruch +3%" eng="SP +3{N}DEF piercing +3%" tur="SP +3{N}DEF delici +3%" fre="PC +3{N}Perforation DÉF +3%"/>
+	<string key="E7013135" kor="SP +3{N}방어력 관통 +3%{N}HP +3" ger="SP +3{N}VTG-Durchbruch +3%{N}HP +3" eng="SP +3{N}DEF piercing +3%{N}HP +3" tur="SP +3{N}DEF delici +3%{N}HP +3" fre="PC +3{N}Perforation DÉF +3%{N}HP +3"/>
+	<string key="E7013141" kor="SP+1" ger="SP +1" eng="SP+1" tur="SP+1" fre="PC +1"/>
+	<string key="E7013142" kor="SP +2{N}EXP +20%" ger="SP +2{N}EXP +20%" eng="SP +2{N}EXP +20%" tur="SP +2{N}EXP +20%" fre="PC +2{N}EXP +20%"/>
+	<string key="E7013143" kor="SP +3{N}EXP +20%" ger="SP +3{N}EXP +20%" eng="SP +3{N}EXP +20%" tur="SP +3{N}EXP +20%" fre="PC +3{N}EXP +20%"/>
+	<string key="E7013144" kor="SP +3{N}EXP +20%{N}PEN +50%" ger="SP +3{N}EXP +20%{N}PEN +50%" eng="SP +3{N}EXP +20%{N}PEN +50%" tur="SP +3{N}EXP +20%{N}PEN +50%" fre="PC +3{N}EXP +20%{N}PEN +50%"/>
+	<string key="E7013145" kor="SP +3{N}EXP +30%{N}PEN +50%" ger="SP +3{N}EXP +30%{N}PEN +50%" eng="SP +3{N}EXP +30%{N}PEN +50%" tur="SP +3{N}EXP +30%{N}PEN +50%" fre="PC +3{N}EXP +30%{N}PEN +50%"/>
+	<string key="E7013151" kor="SP +1" ger="SP +1" eng="SP +1" tur="SP +1" fre="PC +1"/>
+	<string key="E7013152" kor="SP +2{N}힐로인한 회복력 +5%" ger="SP +2{N}Heilung +5%" eng="SP +2{N}Regen by Heal +5%" tur="SP +2{N}Can yenileme +5%" fre="PC +2{N}Régénération lors de Soins +5%"/>
+	<string key="E7013153" kor="SP +3{N}힐로인한 회복력 +5%" ger="SP +3{N}Heilung +5%" eng="SP +3{N}Regen by Heal +5%" tur="SP +3{N}Can yenileme +5%" fre="PC +3{N}Régénération lors de Soins +5%"/>
+	<string key="E7013154" kor="SP +3{N}힐로인한 회복력 +5%{N}이동 속도 +1%" ger="SP +3{N}Heilung +5%{N}B-GES +1%" eng="SP +3{N}Regen by Heal +5%{N}MOVE SPD +1%" tur="SP +3{N}Can yenileme +5%{N}HARAKET SPD +1%" fre="PC +3{N}Régénération lors de Soins +5%{N}VIT DÉP +1%"/>
+	<string key="E7013155" kor="SP +5{N}힐로인한 회복력 +5%{N}이동 속도 +1%" ger="SP +5{N}Heilung +5%{N}B-GES +1%" eng="SP +5{N}Regen by Heal +5%{N}MOVE SPD +1%" tur="SP +5{N}Can yenileme +5%{N}HARAKET SPD +1%" fre="PC +3{N}Régénération lors de Soins +5%{N}VIT DÉP +1%"/>
+	<string key="E7014111" kor="HP +1" ger="HP +1" eng="HP +1" tur="HP +1" fre="PV +1"/>
+	<string key="E7014112" kor="HP +2{N}크리티컬 확률 +2" ger="HP +2{N}KRIT-Chance +2" eng="HP +2{N}Crit Chance +2" tur="HP +2{N}Kiritik Hasar +2" fre="PC +2{N}Taux Crit +2"/>
+	<string key="E7014113" kor="HP +3{N}크리티컬 확률 +2" ger="HP +3{N}KRIT-Chance +2" eng="HP +3{N}Crit Chance +2" tur="HP +3{N}Kiritik Hasar +2" fre="PC +3{N}Taux Crit +2"/>
+	<string key="E7014114" kor="HP +3{N}크리티컬 확률 +2{N}공격력 +1%" ger="HP +3{N}KRIT-Chance +2{N}ANG +1%" eng="HP +3{N}Crit Chance +2{N}ATK +1%" tur="HP +3{N}Kiritik Hasar +2{N}ATK +1%" fre="PC +3{N}Taux Crit +2{N}ATQ +1%"/>
+	<string key="E7014115" kor="HP +3{N}크리티컬 확률 +2{N}공격력 +3%" ger="HP +3{N}KRIT-Chance +2{N}ANG +3%" eng="HP +3{N}Crit Chance +2{N}ATK +3%" tur="HP +3{N}Kiritik Hasar +2{N}ATK +3%" fre="PC +3{N}Taux Crit +2{N}ATQ +3%"/>
+	<string key="E7014121" kor="HP +1" ger="HP +1" eng="HP +1" tur="HP +1" fre="PV +1"/>
+	<string key="E7014122" kor="HP +2{N}SP +2" ger="HP +2{N}SP +2" eng="HP +2{N}SP +2" tur="HP +2{N}SP +2" fre="PV +2{N}PC +2"/>
+	<string key="E7014123" kor="HP +3{N}SP +2" ger="HP +3{N}SP +2" eng="HP +3{N}SP +2" tur="HP +3{N}SP +2" fre="PV +3{N}PC +2"/>
+	<string key="E7014124" kor="HP +3{N}SP +3" ger="HP +3{N}SP +3" eng="HP +3{N}SP +3" tur="HP +3{N}SP +3" fre="PV +3{N}PC +3"/>
+	<string key="E7014125" kor="HP +3{N}SP +5" ger="HP +3{N}SP +5" eng="HP +3{N}SP +5" tur="HP +3{N}SP +5" fre="PV +3{N}PC +5"/>
+	<string key="E7014131" kor="HP +1" ger="HP +1" eng="HP +1" tur="HP +1" fre="PV +1"/>
+	<string key="E7014132" kor="HP +2{N}타격 시 스턴시간 +3%" ger="HP +2{N}Betäubungsdauer bei Angriff -3%" eng="HP +2{N}Stun Duration when attacked -3%" tur="HP +2{N}Saldırıldığında Şok Süresi -3%" fre="PV +2{N}Durée Assommé quand attaqué -3%"/>
+	<string key="E7014133" kor="HP +3{N}타격 시 스턴시간 +3%" ger="HP +3{N}Betäubungsdauer bei Angriff -3%" eng="HP +3{N}Stun Duration when attacked -3%" tur="HP +3{N}Saldırıldığında Şok Süresi -3%" fre="PV +3{N}Durée Assommé quand attaqué -3%"/>
+	<string key="E7014134" kor="HP +3{N}타격 시 스턴시간 +3%{N}타격 시 블로우 거리 +3%{N}넉백 거리 +3%" ger="HP +3{N}Betäubungsdauer bei Angriff -3%{N}Stoß-bei Angriff -3%{N}Zurückwerfen-Distanz bei Angriff -3%" eng="HP +3{N}Stun Duration when attacked -3%{N}Blow &amp; Knockback Distance when attacked -3%" tur="HP +3{N}Saldırıldığında Şok Süresi -3%{N}Saldırıldığında Patlama &amp; Knockback uzaklığı  -3%" fre="PV +3{N}Durée Assommé quand attaqué -3%{N}Portée Explosion et Repoussé quand attaqué -3%"/>
+	<string key="E7014135" kor="HP +3{N}타격 시 스턴시간 +5%{N}타격 시 블로우 거리 +5%{N}타격 시 넉백 거리 +5%" ger="HP +3{N}Betäubungsdauer bei Angriff -5%{N}Stoß-bei Angriff -5%{N}Zurückwerfen-Distanz bei Angriff -5%" eng="HP +3{N}Stun Duration when attacked -5%{N}Blow Distance when attacked -5%{N}Knockback Distance when attacked -5%" tur="HP +3{N}Saldırıldığında Şok Süresi -5%{N}Saldırıldığında Patlama &amp; Knockback uzaklığı  -5%" fre="PV +3{N}Durée Assommé quand attaqué -5%{N}Portée Explosion et Repoussé quand attaqué -5%"/>
+	<string key="E7014141" kor="HP +1" ger="HP +1" eng="HP +1" tur="HP +1" fre="PV +1"/>
+	<string key="E7014142" kor="HP +2{N}EXP +20%" ger="HP +2{N}EXP +20%" eng="HP +2{N}EXP +20%" tur="HP +2{N}EXP +20%" fre="PV +2{N}EXP +20%"/>
+	<string key="E7014143" kor="HP +3{N}EXP +20%" ger="HP +3{N}EXP +20%" eng="HP +3{N}EXP +20%" tur="HP +3{N}EXP +20%" fre="PV +3{N}EXP +20%"/>
+	<string key="E7014144" kor="HP +3{N}EXP +20%{N}PEN +50%" ger="HP +3{N}EXP +20%{N}PEN +50%" eng="HP +3{N}EXP +20%{N}PEN +50%" tur="HP +3{N}EXP +20%{N}PEN +50%" fre="PV +3{N}EXP +20%{N}PEN +50%"/>
+	<string key="E7014145" kor="HP +3{N}EXP +30%{N}PEN +50%" ger="HP +3{N}EXP +30%{N}PEN +50%" eng="HP +3{N}EXP +30%{N}PEN +50%" tur="HP +3{N}EXP +30%{N}PEN +50%" fre="PV +3{N}EXP +30%{N}PEN +50%"/>
+	<string key="E7014151" kor="HP +1" ger="HP +1" eng="HP +1" tur="HP +1" fre="PV +1"/>
+	<string key="E7014152" kor="HP +2{N}회피 소모 SP -3%{N}벽점프 소모 SP -3%" ger="HP +2{N}SP-Verbrauch: Dodge, Wall Jump -3%" eng="HP +2{N}EVA, Wall Jump SP Consumption -3%" tur="HP +2{N}EVA, Duvara Zıplama SP Kullanımı -3%" fre="PV +2{N}ESQ, PC requis pour Wall Jump -3%"/>
+	<string key="E7014153" kor="HP +3{N}회피 소모 SP -3%{N}벽점프 소모 SP -3%" ger="HP +3{N}SP-Verbrauch: Dodge, Wall Jump -3%" eng="HP +3{N}EVA, Wall Jump SP Consumption -3%" tur="HP +3{N}EVA, Duvara Zıplama SP Kullanımı -3%" fre="PV +3{N}ESQ, PC requis pour Wall Jump -3%"/>
+	<string key="E7014154" kor="HP +3{N}회피 소모 SP -5%{N}벽점프 소모 SP -5%" ger="HP +3{N}SP-Verbrauch: Dodge, Wall Jump -5%" eng="HP +3{N}EVA, Wall Jump SP Consumption -5%" tur="HP +3{N}EVA, Duvara Zıplama SP Kullanımı -5%" fre="PV +3{N}ESQ, PC requis pour Wall Jump -5%"/>
+	<string key="E7014155" kor="HP +3{N}회피 소모 SP -5%{N}벽점프 소모 SP -5%{N}SP +2" ger="HP +3{N}SP-Verbrauch: Dodge, Wall Jump -5%{N}SP +2" eng="HP +3{N}EVA, Wall Jump SP Consumption -5%{N}SP +2" tur="HP +3{N}EVA, Duvara Zıplama SP Kullanımı -5%{N}SP +2" fre="PV +3{N}ESQ, PC requis pour Wall Jump -5%{N}PC +2"/>
+	<string key="E7015111" kor="HP +1" ger="HP +1" eng="HP +1" tur="HP +1" fre="PV +1"/>
+	<string key="E7015112" kor="HP +2{N}크리티컬 확률 +2" ger="HP +2{N}KRIT-Chance +2" eng="HP +2{N}Crit Chance +2" tur="HP +2{N}Kiritik Hasar +2" fre="PC +2{N}Taux Crit +2"/>
+	<string key="E7015113" kor="HP +3{N}크리티컬 확률 +2" ger="HP +3{N}KRIT-Chance +2" eng="HP +3{N}Crit Chance +2" tur="HP +3{N}Kiritik Hasar +2" fre="PC +3{N}Taux Crit +2"/>
+	<string key="E7015114" kor="HP +3{N}크리티컬 확률 +2{N}랜덤 크리티컬 배율 +1%" ger="HP +3{N}KRIT-Chance +2{N}Zufalls-KRIT +1%" eng="HP +3{N}Crit Chance +2{N}Random Crit POW+1%" tur="HP +3{N}Kiritik Hasar +2{N}Rastgele Kritik POW+1%" fre="PC +3{N}Taux Crit +2{N}CRIT+1%"/>
+	<string key="E7015115" kor="HP +3{N}크리티컬 확률 +2{N}랜덤 크리티컬 배율 +3%" ger="HP +3{N}KRIT-Chance +2{N}Zufalls-KRIT +3%" eng="HP +3{N}Crit Chance +2{N}Random Crit POW+3%" tur="HP +3{N}Kiritik Hasar +2{N}Rastgele Kritik POW+3%" fre="PC +3{N}Taux Crit +2{N}CRIT+3%"/>
+	<string key="E7015121" kor="HP +1" ger="HP +1" eng="HP +1" tur="HP +1" fre="PV +1"/>
+	<string key="E7015122" kor="HP +2{N}SP 회복력 +2%" ger="HP +2{N}SP-Heilung +2%" eng="HP +2{N}SP Regen +2%" tur="HP +2{N}SP Yenileme +2%" fre="PV +2{N}VIT récup. PC +2%"/>
+	<string key="E7015123" kor="HP +3{N}SP 회복력 +2% " ger="HP +3{N}SP-Heilung +2% " eng="HP +3{N}SP Regen +2% " tur="HP +3{N}SP Yenileme +2% " fre="PV +3{N}VIT récup. PC +2% "/>
+	<string key="E7015124" kor="HP +3{N}SP 회복력 +3%" ger="HP +3{N}SP-Heilung +3%" eng="HP +3{N}SP Regen +3%" tur="HP +3{N}SP Yenileme +3%" fre="PV +3{N}VIT récup. PC +3%"/>
+	<string key="E7015125" kor="HP +3{N}SP 회복력 +3%{N}SP +2" ger="HP +3{N}SP-Heilung +3%{N}SP +2" eng="HP +3{N}SP Regen +3%{N}SP +2" tur="HP +3{N}SP Yenileme +3%{N}SP +2" fre="PV +3{N}VIT récup. PC +3%{N}PC +2"/>
+	<string key="E7015131" kor="HP +1" ger="HP +1" eng="HP +1" tur="HP +1" fre="PV +1"/>
+	<string key="E7015132" kor="HP +2{N}피격 시 스턴시간 -3%" ger="HP +2{N}Betäubungsdauer bei Angriff -3%" eng="HP +2{N}Stun Duration when attacked -3%" tur="HP +2{N}Saldırıldığında Şok Süresi -3%" fre="PV +2{N}Durée Assommé quand attaqué -3%"/>
+	<string key="E7015133" kor="HP +3{N}피격 시 스턴시간 -3%" ger="HP +3{N}Betäubungsdauer bei Angriff -3%" eng="HP +3{N}Stun Duration when attacked -3%" tur="HP +3{N}Saldırıldığında Şok Süresi -3%" fre="PV +3{N}Durée Assommé quand attaqué -3%"/>
+	<string key="E7015134" kor="HP +3{N}피격 시 스턴시간 -3%{N}피격 시 블로우 거리 -3%{N}넉백 거리 -3%" ger="HP +3{N}Betäubungsdauer bei Angriff -3%{N}Stoß-bei Angriff -3%{N}Zurückwerfen-Distanz bei Angriff -3%" eng="HP +3{N}Stun Duration when attacked -3%{N}Blow Distance when attacked -3%{N}Knockback Distance when attacked -3%" tur="HP +3{N}Saldırıldığında Şok Süresi -3%{N}Saldırıldığında Patlama &amp; Knockback uzaklığı  -3%" fre="PV +3{N}Durée Assommé quand attaqué -3%{N}Portée Explosion et Repoussé quand attaqué -3%"/>
+	<string key="E7015135" kor="HP +3{N}피격 시 스턴시간 -5%{N}피격 시 블로우 거리 -5%{N}넉백 거리 -5% " ger="HP +3{N}Betäubungsdauer bei Angriff -5%{N}Stoß-bei Angriff -5%{N}Zurückwerfen-Distanz bei Angriff -5%" eng="HP +3{N}Stun Duration when attacked -5%{N}Blow Distance when attacked -5%{N}Knockback Distance when attacked -5%" tur="HP +3{N}Saldırıldığında Şok Süresi -5%{N}Saldırıldığında Patlama &amp; Knockback uzaklığı  -5%" fre="PV +3{N}Durée Assommé quand attaqué -5%{N}Portée Explosion et Repoussé quand attaqué -5%"/>
+	<string key="E7015141" kor="HP +1" ger="HP +1" eng="HP +1" tur="HP +1" fre="PV +1"/>
+	<string key="E7015142" kor="HP +2{N}EXP +20%" ger="HP +2{N}EXP +20%" eng="HP +2{N}EXP +20%" tur="HP +2{N}EXP +20%" fre="PV +2{N}EXP +20%"/>
+	<string key="E7015143" kor="HP +3{N}EXP +20%" ger="HP +3{N}EXP +20%" eng="HP +3{N}EXP +20%" tur="HP +3{N}EXP +20%" fre="PV +3{N}EXP +20%"/>
+	<string key="E7015144" kor="HP +3{N}EXP +20%{N}PEN +50%" ger="HP +3{N}EXP +20%{N}PEN +50%" eng="HP +3{N}EXP +20%{N}PEN +50%" tur="HP +3{N}EXP +20%{N}PEN +50%" fre="PV +3{N}EXP +20%{N}PEN +50%"/>
+	<string key="E7015145" kor="HP +3{N}EXP +30%{N}PEN +50% " ger="HP +3{N}EXP +30%{N}PEN +50%" eng="HP +3{N}EXP +30%{N}PEN +50%" tur="HP +3{N}EXP +30%{N}PEN +50%" fre="PV +3{N}EXP +30%{N}PEN +50%"/>
+	<string key="E7015151" kor="HP +1" ger="HP +1" eng="HP +1" tur="HP +1" fre="PV +1"/>
+	<string key="E7015152" kor="HP +2{N}회피 소모 SP -3%{N}벽점프 소모 SP -3%" ger="HP +2{N}SP-Verbrauch: Dodge, Wall Jump -3%" eng="HP +2{N}EVA, Wall Jump SP Consumption -3%" tur="HP +2{N}EVA, Duvara Zıplama SP Kullanımı -3%" fre="PV +2{N}ESQ, PC requis pour Wall Jump -3%"/>
+	<string key="E7015153" kor="HP +3{N}회피 소모 SP -3%{N}벽점프 소모 SP -3%" ger="HP +3{N}SP-Verbrauch: Dodge, Wall Jump -3%" eng="HP +3{N}EVA, Wall Jump SP Consumption -3%" tur="HP +3{N}EVA, Duvara Zıplama SP Kullanımı -3%" fre="PV +3{N}ESQ, PC requis pour Wall Jump -3%"/>
+	<string key="E7015154" kor="HP +3{N}회피 소모 SP -3%{N}벽점프 소모 SP -3%{N}이동 속도 +1%" ger="HP +3{N}SP-Verbrauch: Dodge, Wall Jump -3%{N}B-GES +1%" eng="HP +3{N}EVA, Wall Jump SP Consumption -5%{N}MOVE SPD +1%" tur="HP +3{N}EVA, Duvara Zıplama SP Kullanımı -3%{N}HAREKET SPD +1%" fre="PV +3{N}ESQ, PC requis pour Wall Jump -3%{N}VIT DÉP +1%"/>
+	<string key="E7015155" kor="HP +3{N}회피 소모 SP -3%{N}벽점프 소모 SP -3%{N}이동 속도 +1%" ger="HP +3{N}SP-Verbrauch: Dodge, Wall Jump -3%{N}B-GES +1%" eng="HP +3{N}EVA, Wall Jump SP Consumption -5%{N}MOVE SPD +1%" tur="HP +3{N}EVA, Duvara Zıplama SP Kullanımı -3%{N}HAREKET SPD +1%" fre="PV +3{N}ESQ, PC requis pour Wall Jump -3%{N}VIT DÉP +1%"/>
+	<string key="E7012211" kor="장전 속도 +10%" ger="NL-GES +10%" eng="Reloading SPD +10%" tur="Doldurma SPD +10%" fre="VIT Chargement +10%"/>
+	<string key="E7012212" kor="장전 속도 +10%{N}무기 랜덤 공격력 +0~2%" ger="NL-GES +%10{N}Waffen-Zufalls-ATK+0~2%" eng="Reloading SPD +10%{N}Weapon Random ATK +0~2%" tur="Doldurma SPD +10%{N}Silah Rastgele ATK +0~2%" fre="VIT Chargement +10%{N}ATQ arme +0-2%"/>
+	<string key="E7012213" kor="장전 속도 +20%{N}무기 랜덤 공격력 +0~2%" ger="NL-GES +%20{N}Waffen-Zufalls-ATK +0~2%" eng="Reloading SPD +20%{N}Weapon Random ATK +0~2%" tur="Doldurma SPD +20%{N}Silah Rastgele ATK +0~2%" fre="VIT Chargement +20%{N}ATQ arme +0-2%"/>
+	<string key="E7012214" kor="장전 속도 +20%{N}무기 랜덤 공격력 +0~2%{N}랜덤 크리티컬 배율 +5%" ger="NL-GES +%20{N}Waffen-Zufalls-ATK+0~2%{N}Zufalls-KRIT+5%" eng="Reloading SPD +20%{N}Weapon Random ATK +0~2%{N}Random Crit POW+5%" tur="Doldurma SPD +20%{N}Silah Rastgele ATK +0~2%{N}Rastgele Kritik POW+5%" fre="VIT Chargement +20%{N}ATQ arme +0-2%{N}CRIT +5%"/>
+	<string key="E7012215" kor="장전 속도 +20%{N}무기 랜덤 공격력 +0~5%{N}랜덤 크리티컬 배율 +5%" ger="NL-GES +%20{N}Waffen-Zufalls-ATK+0~5%{N}Zufalls-KRIT+5%" eng="Reloading SPD +20%{N}Weapon Random ATK +0~5%{N}Random Crit POW+5%" tur="Doldurma SPD +20%{N}Silah Rastgele ATK +0~5%{N}Rastgele Kritik POW+5%" fre="VIT Chargement +20%{N}ATQ arme +0-5%{N}CRIT +5%"/>
+	<string key="E7012221" kor="장전 속도 +10%" ger="NL-GES +10%" eng="Reloading SPD +10%" tur="Doldurma SPD +10%" fre="VIT Chargement +10%"/>
+	<string key="E7012222" kor="장전 속도 +10%{N}근접무기 방어력 +5%" ger="NL-GES +10%{N}Nahkampfwaffen-VTG +5%" eng="Reloading SPD +10%{N}Melee Weapon DEF +5%" tur="Doldurma SPD +10%{N}Melee Silah DEF +5%" fre="VIT Chargement +10%{N}DÉF arme mêlée +5%"/>
+	<string key="E7012223" kor="장전 속도 +20%{N}근접무기 방어력 +5%" ger="NL-GES +20%{N}Nahkampfwaffen-VTG +5%" eng="Reloading SPD +20%{N}Melee Weapon DEF +5%" tur="Doldurma SPD +20%{N}Melee Silah DEF +5%" fre="VIT Chargement +20%{N}DÉF arme mêlée +5%"/>
+	<string key="E7012224" kor="장전 속도 +20%{N}근접무기 방어력 +5%{N}발사무기 방어력 +5%" ger="NL-GES +20%{N}Nahkampfwaffen-VTG +5%{N}Feuerwaffen-VTG +5%" eng="Reloading SPD +20%{N}Melee Weapon DEF +5%{N}Firing Weapon DEF +5%" tur="Doldurma SPD +20%{N}Melee Silah DEF +5%{N}Ateşli Weapon DEF +5%" fre="VIT Chargement +20%{N}DÉF arme mêlée +5%{N}DÉF arme à feu +5%"/>
+	<string key="E7012225" kor="장전 속도 +20%{N}근접무기 방어력 +5%{N}발사무기 방어력 +5%{N}SP +2" ger="NL-GES +20%{N}Nahkampfwaffen-VTG +5%{N}Feuerwaffen-VTG +5%{N}SP +2" eng="Reloading SPD +20%{N}Melee Weapon DEF +5%{N}Firing Weapon DEF +5%{N}SP +2" tur="Doldurma SPD +20%{N}Melee Silah DEF +5%{N}Ateşli Weapon DEF +5%{N}SP +2" fre="VIT Chargement +20%{N}DÉF arme mêlée +5%{N}DÉF arme à feu +5%{N}PC +2"/>
+	<string key="E7012231" kor="장전 속도 +10%" ger="NL-GES +10%" eng="Reloading SPD +10%" tur="Doldurma SPD +10%" fre="VIT Chargement +10%"/>
+	<string key="E7012232" kor="장전 속도 +10%{N}피격 시 스턴시간 -3%" ger="NL-GES +10%{N}Betäubungsdauer bei Angriff -3%" eng="Reloading SPD +10%{N}Stun Duration when attacked -3%" tur="Doldurma SPD +10%{N}Saldırıldığında Şok Süresi -3%" fre="VIT Chargement +10%{N}Durée Assommé quand attaqué -3%"/>
+	<string key="E7012233" kor="장전 속도 +20%{N}피격 시 스턴시간 -3%" ger="NL-GES +20%{N}Betäubungsdauer bei Angriff -3%" eng="Reloading SPD +20%{N}Stun Duration when attacked -3%" tur="Doldurma SPD +20%{N}Saldırıldığında Şok Süresi -3%" fre="VIT Chargement +20%{N}Durée Assommé quand attaqué -3%"/>
+	<string key="E7012234" kor="장전 속도 +20%{N}피격 시 스턴시간 -3%{N}피격 시 블로우 거리 -3%{N}피격 시 넉백 거리 -3%" ger="NL-GES +20%{N}Betäubungsdauer bei Angriff -3%{N}Stoß-bei Angriff -3%{N}Zurückwerfen-Distanz bei Angriff -3%" eng="Reloading SPD +20%{N}Stun Duration when attacked -3%{N}Blow Distance when attacked -3%{N}Knockback Distance when attacked -3%" tur="Doldurma SPD +20%{N}Saldırıldığında Şok Süresi -3%{N}Saldırıldığında Patlama &amp; Knockback uzaklığı  -3%" fre="VIT Chargement +20%{N}Durée Assommé quand attaqué -3%{N}Portée Explosion et Repoussé quand attaqué -3%"/>
+	<string key="E7012235" kor="장전 속도 +20%{N}피격 시 스턴시간 -5%{N}피격 시 블로우 거리 -5%{N}피격 시 넉백 거리 -5%" ger="NL-GES +20%{N}Betäubungsdauer bei Angriff -5%{N}Stoß-bei Angriff -5%{N}Zurückwerfen-Distanz bei Angriff -5%" eng="Reloading SPD +20%{N}Stun Duration when attacked -5%{N}Blow Distance when attacked -5%{N}Knockback Distance when attacked -5%" tur="Doldurma SPD +20%{N}Saldırıldığında Şok Süresi -5%{N}Saldırıldığında Patlama &amp; Knockback uzaklığı  -5%" fre="VIT Chargement +20%{N}Durée Assommé quand attaqué -5%{N}Portée Explosion et Repoussé quand attaqué -5%"/>
+	<string key="E7012241" kor="장전 속도 +10%" ger="NL-GES +10%" eng="Reloading SPD +10%" tur="Doldurma SPD +10%" fre="VIT Chargement +10%"/>
+	<string key="E7012242" kor="장전 속도 +10%{N}EXP +20%" ger="NL-GES +10%{N}EXP +20%" eng="Reloading SPD +10%{N}EXP +20%" tur="Doldurma SPD +10%{N}EXP +20%" fre="VIT Chargement +10%{N}EXP +20%"/>
+	<string key="E7012243" kor="장전 속도 +20%{N}EXP +20%" ger="NL-GES +20%{N}EXP +20%" eng="Reloading SPD +20%{N}EXP +20%" tur="Doldurma SPD +20%{N}EXP +20%" fre="VIT Chargement +20%{N}EXP +20%"/>
+	<string key="E7012244" kor="장전 속도 +20%{N}EXP +20%{N}PEN +50%" ger="NL-GES +20%{N}EXP +20%{N}PEN +50%" eng="Reloading SPD +20%{N}EXP +20%{N}PEN +50%" tur="Doldurma SPD +20%{N}EXP +20%{N}PEN +50%" fre="VIT Chargement +20%{N}EXP +20%{N}PEN +50%"/>
+	<string key="E7012245" kor="장전 속도 +20%{N}EXP +30%{N}PEN +50%" ger="NL-GES +20%{N}EXP +30%{N}PEN +50%" eng="Reloading SPD +20%{N}EXP +30%{N}PEN +50%" tur="Doldurma SPD +20%{N}EXP +30%{N}PEN +50%" fre="VIT Chargement +20%{N}EXP +30%{N}PEN +50%"/>
+	<string key="E7012251" kor="장전 속도 +10%" ger="NL-GES +10%" eng="Reloading SPD +10%" tur="Doldurma SPD +10%" fre="VIT Chargement +10%"/>
+	<string key="E7012252" kor="장전 속도+10%{N}힐로인한 회복력 +5%" ger="NL-GES +10%{N}Heilung +5%" eng="Reloading SPD +10%{N}Regen by Heal +5%" tur="Doldurma SPD +10%{N}Can yenileme +5%" fre="VIT Chargement +10%{N}Régénération lors de Soins +5%"/>
+	<string key="E7012253" kor="장전 속도+20%{N}힐로인한 회복력 +5%" ger="NL-GES +20%{N}Heilung +5%" eng="Reloading SPD +20%{N}Regen by Heal +5%" tur="Doldurma SPD +20%{N}Can yenileme +5%" fre="VIT Chargement +20%{N}Régénération lors de Soins +5%"/>
+	<string key="E7012254" kor="장전 속도+20%{N}힐로인한 회복력 +5%{N}회피 소모 SP -3%{N}벽점프 소모 SP -3%" ger="NL-GES +20%{N}Heilung +5%{N}SP-Verbrauch: Dodge, Wall Jump -3%" eng="Reloading SPD +20%{N}Regen by Heal +5%{N}EVA, Wall Jump SP Consumption -3%" tur="Doldurma SPD +20%{N}Can Yenileme -5%{N}EVA, Duvara Zıplama SP Kullanımı -3%" fre="VIT Chargement +20%{N}Régénération lors de Soins +5%{N}ESQ, PC requis pour Wall Jump -3%"/>
+	<string key="E7012255" kor="장전 속도+20%{N}힐로인한 회복력 +5%{N}회피 소모 SP -5%{N}벽점프 소모 SP -5%" ger="NL-GES +20%{N}Heilung +5%{N}SP-Verbrauch: Dodge, Wall Jump -5%" eng="Reloading SPD +20%{N}Regen by Heal +5%{N}EVA, Wall Jump SP Consumption -5%" tur="Doldurma SPD +20%{N}Can Yenileme -5%{N}EVA, Duvara Zıplama SP Kullanımı -5%" fre="VIT Chargement +20%{N}Régénération lors de Soins +5%{N}ESQ, PC requis pour Wall Jump -5%"/>
+	<string key="2102600001" kor="랜덤 공격력+0~2%" ger="Zufalls-ATK+0~2%" eng="Random ATK +0~2%" tur="Rastgele ATK +0~2%" fre="ATQ +0-2%"/>
+	<string key="2102600002" kor="랜덤 공격력+0~5%" ger="Zufalls-ATK+0~5%" eng="Random ATK +0~5%" tur="Rastgele ATK +0~5%" fre="ATQ +0-5%"/>
+	<string key="2102337001" kor="랜덤 크리티컬의 배율 +3%" ger="Zufalls-KRIT +3%" eng="Random Crit Power +3%" tur="Rastgele Kritik Güç +3%" fre="CRIT +3%"/>
+	<string key="2102337002" kor="랜덤 크리티컬의 배율 +5%" ger="Zufalls-KRIT +5%" eng="Random Crit Power +5%" tur="Rastgele Kritik Güç +5%" fre="CRIT +5%"/>
+	<string key="2102311001" kor="근접 무기 방어력 +5%" ger="Nahkampfwaffen-VTG +5%" eng="Melee Weapons DEF +5%" tur="Melee Silahlar DEF +5%" fre="DÉF arme mêlée +5%"/>
+	<string key="2102311002" kor="근접 무기 방어력 +10%" ger="Nahkampfwaffen-VTG +10%" eng="Melee Weapons DEF +10%" tur="Melee Silahlar DEF +10%" fre="DÉF arme mêlée +10%"/>
+	<string key="2102312001" kor="연사 무기 방어력 +5%" ger="Auto-Feuerwaffen-VTG +5%" eng="Automatic Fire Weapons DEF +5%" tur="Otomatik Ateşli Silahlar DEF +5%" fre="DÉF arme automatique +5%"/>
+	<string key="2102312002" kor="연사 무기 방어력 +10%" ger="Auto-Feuerwaffen-VTG +10%" eng="Automatic Fire Weapons DEF +10%" tur="Otomatik Ateşli Silahlar DEF +10%" fre="DÉF arme automatique +10%"/>
+	<string key="2102314001" kor="단발 무기 방어력 +5%" ger="Single-Shot-VTG +5%" eng="Single Shot Weapons DEF +5%" tur="Tek Vuruş Silahlar DEF +5%" fre="DÉF arme non automatique +5%"/>
+	<string key="2102314002" kor="단발 무기 방어력 +10%" ger="Single-Shot-VTG +10%" eng="Single Shot Weapons DEF +10%" tur="Tek Vuruş Silahlar DEF +10%" fre="DÉF arme non automatique +10%"/>
+	<string key="2102316001" kor="중화기 무기 방어력 +5%" ger="Schwere-Feuerwaffen-VTG +5%" eng="Heavy Weapons DEF +5%" tur="Ağır Silahlar DEF +5%" fre="DÉF arme lourde +5%"/>
+	<string key="2102316002" kor="중화기 무기 방어력 +10%" ger="Schwere-Feuerwaffen-VTG +10%" eng="Heavy Weapons DEF +10%" tur="Ağır Silahlar DEF +10%" fre="DÉF arme lourde +10%"/>
+	<string key="2102318001" kor="저격 무기 방어력 +5%" ger="Fernkampfwaffen-VTG +5%" eng="Ranged Weapon DEF +5%" tur="Menzilli Silahlar DEF +5%" fre="DÉF arme à distance +5%"/>
+	<string key="2102318002" kor="저격 무기 방어력 +10%" ger="Fernkampfwaffen-VTG +10%" eng="Ranged Weapon DEF +10%" tur="Menzilli Silahlar DEF +10%" fre="DÉF arme à distance +10%"/>
+	<string key="2102330001" kor="스턴시간 -3%" ger="Betäubungsdauer -3%" eng="Stun Duration -3%" tur="Şok Süresi -3%" fre="Durée Assommé -3%"/>
+	<string key="2102330002" kor="스턴시간 -5%" ger="Betäubungsdauer -5%" eng="Stun Duration -5%" tur="Şok Süresi -5%" fre="Durée Assommé -5%"/>
+	<string key="2102358001" kor="넉백 거리 -3%" ger="Zurückwerfen-Reichweite -3%" eng="Knockback Distance -3%" tur="Knockback Mesafesi -3%" fre="Portée Repoussé -3%"/>
+	<string key="2102358002" kor="넉백 거리 -5%" ger="Zurückwerfen-Reichweite -5%" eng="Knockback Distance -5%" tur="Knockback Mesafesi -5%" fre="Portée Repoussé -5%"/>
+	<string key="2102357001" kor="블로우 거리 -3%" ger="Stoß-Reichweite -3%" eng="Blow Distance -3%" tur="Patlama Mesafesi -3%" fre="Portée Explosion -3%"/>
+	<string key="2102357002" kor="블로우 거리 -5%" ger="Stoß-Reichweite -5%" eng="Blow Distance -5%" tur="Patlama Mesafesi -5%" fre="Portée Explosion -5%"/>
+	<string key="2102800001" kor="EXP +10%" ger="Erhaltene EXP +10%" eng="EXP +10%" tur="EXP +10%" fre="EXP +10%"/>
+	<string key="2102800002" kor="EXP +20%" ger="Erhaltene EXP +20%" eng="EXP +20%" tur="EXP +20%" fre="EXP +20 %"/>
+	<string key="2102800003" kor="EXP +30%" ger="Erhaltene EXP +30%" eng="EXP +30%" tur="EXP +30%" fre="EXP +30 %"/>
+	<string key="2102800004" kor="EXP +40%" ger="Erhaltene EXP +40%" eng="EXP +40%" tur="EXP +40%" fre="EXP +40 %"/>
+	<string key="2102800005" kor="EXP +50%" ger="Erhaltene EXP +50%" eng="EXP +50%" tur="EXP +50%" fre="EXP +50 %"/>
+	<string key="2102801001" kor="PEN +10%" ger="Erhaltene PEN +10%" eng="PEN +10%" tur="PEN +10%" fre="PEN +10%"/>
+	<string key="2102801002" kor="PEN +20%" ger="Erhaltene PEN +20%" eng="PEN +20%" tur="PEN +20%" fre="PEN +20%"/>
+	<string key="2102801003" kor="PEN +30%" ger="Erhaltene PEN +30%" eng="PEN +30%" tur="PEN +30%" fre="PEN +30%"/>
+	<string key="2102801004" kor="PEN +40%" ger="Erhaltene PEN +40%" eng="PEN +40%" tur="PEN +40%" fre="PEN +40%"/>
+	<string key="2102801005" kor="PEN +50%" ger="Erhaltene PEN +50%" eng="PEN +50%" tur="PEN +50%" fre="PEN +50%"/>
+	<string key="2102331001" kor="힐로 인한 회복력 +5%" ger="Heilung +5%" eng="Regen by Heal +5%" tur="Can yenileme +5%" fre="Régénération lors de Soins +5%"/>
+	<string key="2102331002" kor="힐로 인한 회복력 +10%" ger="Heilung +10%" eng="Regen by Heal +10%" tur="Can yenileme +10%" fre="Régénération lors de Soins +10%"/>
+	<string key="2102342001" kor="벽점프 SP소모량 -3%" ger="SP-Verbrauch: Wall Jump -3%" eng="Wall Jump SP Consumption -3%" tur="Duvara Zıplama SP Kullanımı -3%" fre="PC requis pour Wall Jump -3%"/>
+	<string key="2102342002" kor="벽점프 SP소모량 -5%" ger="SP-Verbrauch: Wall Jump -5%" eng="Wall Jump SP Consumption -5%" tur="Duvara Zıplama SP Kullanımı -5%" fre="PC requis pour Wall Jump -5%"/>
+	<string key="2102343001" kor="회피 SP소모량 -3%" ger="SP-Verbrauch: Dodge -3%" eng="EVA SP Consumption -3%" tur="EVA SP Kullanımı -3%" fre="PC requis pour ESQ -3%"/>
+	<string key="2102343002" kor="회피 SP소모량 -5%" ger="SP-Verbrauch: Dodge -5%" eng="EVA SP Consumption -5%" tur="EVA SP Kullanımı -5%" fre="PC requis pour ESQ -5%"/>
+	<string key="2102301001" kor="SP +2" ger="SP +2" eng="SP +2" tur="SP +2" fre="PC +2"/>
+	<string key="2103301001" kor="SP +1" ger="SP +1" eng="SP +1" tur="SP +1" fre="PC +1"/>
+	<string key="2103301002" kor="SP +2" ger="SP +2" eng="SP +2" tur="SP +2" fre="PC +2"/>
+	<string key="2103301003" kor="SP +3" ger="SP +3" eng="SP +3" tur="SP +3" fre="PC +3"/>
+	<string key="2103301004" kor="SP +4" ger="SP +4" eng="SP +4" tur="SP +4" fre="PC +4"/>
+	<string key="2103301005" kor="SP +5" ger="SP +5" eng="SP +5" tur="SP +5" fre="PC +5"/>
+	<string key="2103301006" kor="SP +6" ger="SP +6" eng="SP +6" tur="SP +6" fre="PC +6"/>
+	<string key="2103301007" kor="SP +7" ger="SP +7" eng="SP +7" tur="SP +7" fre="PC +7"/>
+	<string key="2103301008" kor="SP +8" ger="SP +8" eng="SP +8" tur="SP +8" fre="PC +8"/>
+	<string key="2103301009" kor="SP +10" ger="SP +10" eng="SP +10" tur="SP +10" fre="PC +10"/>
+	<string key="2103300001" kor="HP +1" ger="HP +1" eng="HP +1" tur="HP +1" fre="PV +1"/>
+	<string key="2103300002" kor="HP +2" ger="HP +2" eng="HP +2" tur="HP +2" fre="PV +2"/>
+	<string key="2103300003" kor="HP +3" ger="HP +3" eng="HP +3" tur="HP +3" fre="PV +3"/>
+	<string key="2103300004" kor="HP +4" ger="HP +4" eng="HP +4" tur="HP +4" fre="PV +4"/>
+	<string key="2103300005" kor="HP +5" ger="HP +5" eng="HP +5" tur="HP +5" fre="PV +5"/>
+	<string key="2103300006" kor="HP +6" ger="HP +6" eng="HP +6" tur="HP +6" fre="PV +6"/>
+	<string key="2103300007" kor="HP +7" ger="HP +7" eng="HP +7" tur="HP +7" fre="PV +7"/>
+	<string key="2103300008" kor="HP +8" ger="HP +8" eng="HP +8" tur="HP +8" fre="PV +8"/>
+	<string key="2103300009" kor="HP +10" ger="HP +10" eng="HP +10" tur="HP +10" fre="PV +10"/>
+	<string key="2103302002" kor="방어력 +3%" ger="VTG +3%" eng="DEF +3%" tur="DEF +3%" fre="DÉF +3%"/>
+	<string key="2103302003" kor="방어력 +4%" ger="VTG +4%" eng="DEF +4%" tur="DEF +4%" fre="DÉF +4%"/>
+	<string key="2103302004" kor="방어력 +5%" ger="VTG +5%" eng="DEF +5%" tur="DEF +5%" fre="DÉF +5%"/>
+	<string key="2103302005" kor="방어력 +10%" ger="VTG +10%" eng="DEF +10%" tur="DEF +10%" fre="DÉF +10%"/>
+	<string key="2103606001" kor="방어력 관통 확률 +1%" ger="Chance auf VTG-Durchbruch +1%" eng="DEF Piercing Chance +1%" tur="DEF Delici Şansı +1%" fre="Chance Perforation DÉF +1%"/>
+	<string key="2103606002" kor="방어력 관통 확률 +2%" ger="Chance auf VTG-Durchbruch +2%" eng="DEF Piercing Chance +2%" tur="DEF Delici Şansı +2%" fre="Chance Perforation DÉF +2%"/>
+	<string key="2103606003" kor="방어력 관통 확률 +3%" ger="Chance auf VTG-Durchbruch +3%" eng="DEF Piercing Chance +3%" tur="DEF Delici Şansı +3%" fre="Chance Perforation DÉF +3%"/>
+	<string key="2103606004" kor="방어력 관통 확률 +5%" ger="Chance auf VTG-Durchbruch +5%" eng="DEF Piercing Chance +5%" tur="DEF Delici Şansı +5%" fre="Chance Perforation DÉF +5%"/>
+	<string key="2103606005" kor="방어력 관통 확률 +8%" ger="Chance auf VTG-Durchbruch +8%" eng="DEF Piercing Chance +8%" tur="DEF Delici Şansı +8%" fre="Chance Perforation DÉF +8%"/>
+	<string key="2103606006" kor="방어력 관통 확률 +10%" ger="Chance auf VTG-Durchbruch +10%" eng="DEF Piercing Chance +10%" tur="DEF Delici Şansı +10%" fre="Chance Perforation DÉF +10%"/>
+	<string key="2103800001" kor="EXP +10%" ger="Erhaltene EXP +10%" eng="EXP +10%" tur="EXP +10%" fre="EXP +10%"/>
+	<string key="2103800002" kor="EXP +20%" ger="Erhaltene EXP +20%" eng="EXP +20%" tur="EXP +20%" fre="EXP +20 %"/>
+	<string key="2103800003" kor="EXP +30%" ger="Erhaltene EXP +30%" eng="EXP +30%" tur="EXP +30%" fre="EXP +30 %"/>
+	<string key="2103800004" kor="EXP +40%" ger="Erhaltene EXP +40%" eng="EXP +40%" tur="EXP +40%" fre="EXP +40 %"/>
+	<string key="2103800005" kor="EXP +50%" ger="Erhaltene EXP +50%" eng="EXP +50%" tur="EXP +50%" fre="EXP +50 %"/>
+	<string key="2103801001" kor="PEN +10%" ger="Erhaltene PEN +10%" eng="PEN +10%" tur="PEN +10%" fre="PEN +10%"/>
+	<string key="2103801002" kor="PEN +20%" ger="Erhaltene PEN +20%" eng="PEN +20%" tur="PEN +20%" fre="PEN +20%"/>
+	<string key="2103801003" kor="PEN +30%" ger="Erhaltene PEN +30%" eng="PEN +30%" tur="PEN +30%" fre="PEN +30%"/>
+	<string key="2103801004" kor="PEN +40%" ger="Erhaltene PEN +40%" eng="PEN +40%" tur="PEN +40%" fre="PEN +40%"/>
+	<string key="2103801005" kor="PEN +50%" ger="Erhaltene PEN +50%" eng="PEN +50%" tur="PEN +50%" fre="PEN +50%"/>
+	<string key="2103331001" kor="힐로 인한 회복력 +5%" ger="Heilung +5%" eng="Regen by Heal +5%" tur="Can yenileme +5%" fre="Régénération lors de Soins +5%"/>
+	<string key="2103331002" kor="힐로 인한 회복력 +10%" ger="Heilung +10%" eng="Regen by Heal +10%" tur="Can yenileme +10%" fre="Régénération lors de Soins +10%"/>
+	<string key="2103307001" kor="이동속도 +1%" ger="B-GES +1%" eng="MOVE SPD +1%" tur="HAREKET SPD +1%" fre="VIT DÉP +1%"/>
+	<string key="2103307002" kor="이동속도 +2%" ger="B-GES +2%" eng="MOVE SPD +2%" tur="HAREKET SPD +2%" fre="VIT DÉP +2%"/>
+	<string key="2103307003" kor="이동속도 +3%" ger="B-GES +3%" eng="MOVE SPD +3%" tur="HAREKET SPD +3%" fre="VIT DÉP +3%"/>
+	<string key="2104338001" kor="랜덤 크리티컬 확률 +1" ger="Chance auf Zufalls-KRIT +1" eng="Random Crit Chance +1" tur="Rastgele Kritik Şansı +1" fre="Taux CRIT +1"/>
+	<string key="2104338002" kor="랜덤 크리티컬 확률 +2" ger="Chance auf Zufalls-KRIT +2" eng="Random Crit Chance +2" tur="Rastgele Kritik Şansı +2" fre="Taux CRIT +2"/>
+	<string key="2104338003" kor="랜덤 크리티컬 확률 +3" ger="Chance auf Zufalls-KRIT +3" eng="Random Crit Chance +3" tur="Rastgele Kritik Şansı +3" fre="Taux CRIT +3"/>
+	<string key="2104303001" kor="공격력 +1%" ger="ATK +%1" eng="ATK +1%" tur="ATK +1%" fre="ATQ +1%"/>
+	<string key="2104303002" kor="공격력 +3%" ger="ATK +%3" eng="ATK +3%" tur="ATK +3%" fre="ATQ +3%"/>
+	<string key="2104303003" kor="공격력 +5%" ger="ATK +%5" eng="ATK +5%" tur="ATK +5%" fre="ATQ +5%"/>
+	<string key="2104303004" kor="공격력 +10%" ger="ATK +%10" eng="ATK +10%" tur="ATK +10%" fre="ATQ +10%"/>
+	<string key="2104301001" kor="SP +1" ger="SP +1" eng="SP +1" tur="SP +1" fre="PC +1"/>
+	<string key="2104301002" kor="SP +2" ger="SP +2" eng="SP +2" tur="SP +2" fre="PC +2"/>
+	<string key="2104301003" kor="SP +5 " ger="SP +5" eng="SP +5" tur="SP +5" fre="PC +5"/>
+	<string key="2104301004" kor="SP +4" ger="SP +4" eng="SP +4" tur="SP +4" fre="PC +4"/>
+	<string key="2104301005" kor="SP +3 " ger="SP +3" eng="SP +3" tur="SP +3" fre="PC +3"/>
+	<string key="2104301006" kor="SP +6" ger="SP +6" eng="SP +6" tur="SP +6" fre="PC +6"/>
+	<string key="2104301007" kor="SP +7" ger="SP +7" eng="SP +7" tur="SP +7" fre="PC +7"/>
+	<string key="2104301008" kor="SP +8" ger="SP +8" eng="SP +8" tur="SP +8" fre="PC +8"/>
+	<string key="2104301009" kor="SP +10" ger="SP +10" eng="SP +10" tur="SP +10" fre="PC +10"/>
+	<string key="2104355001" kor="스턴시간 +3%" ger="Betäubungsdauer +3%" eng="Stun Duration +3%" tur="Şok Süresi +3%" fre="Durée Assommé +3%"/>
+	<string key="2104355002" kor="스턴시간 +5%" ger="Betäubungsdauer +5%" eng="Stun Duration +5%" tur="Şok Süresi +5%" fre="Durée Assommé +5%"/>
+	<string key="2104354003" kor="넉백 거리 +3%" ger="Zurückwerfen-Reichweite +3%" eng="Knockback Distance +3%" tur="Knockback Mesafesi +3%" fre="Portée Repoussé +3%"/>
+	<string key="2104354004" kor="넉백 거리 +5%" ger="Zurückwerfen-Reichweite +5%" eng="Knockback Distance +5%" tur="Knockback Mesafesi +5%" fre="Portée Repoussé +5%"/>
+	<string key="2104356002" kor="블로우 거리 +3%" ger="Stoß-Reichweite +3%" eng="Blow Distance +3%" tur="Patlama Mesafesi +3%" fre="Portée Explosion +3%"/>
+	<string key="2104356003" kor="블로우 거리+5%" ger="Stoß-Reichweite +5%" eng="Blow Distance +5%" tur="Patlama Mesafesi +5%" fre="Portée Explosion +5%"/>
+	<string key="2104800001" kor="EXP +10%" ger="Erhaltene EXP +10%" eng="EXP +10%" tur="EXP +10%" fre="EXP +10%"/>
+	<string key="2104800002" kor="EXP +20%" ger="Erhaltene EXP +20%" eng="EXP +20%" tur="EXP +20%" fre="EXP +20 %"/>
+	<string key="2104800003" kor="EXP +30%" ger="Erhaltene EXP +30%" eng="EXP +30%" tur="EXP +30%" fre="EXP +30 %"/>
+	<string key="2104800004" kor="EXP +40%" ger="Erhaltene EXP +40%" eng="EXP +40%" tur="EXP +40%" fre="EXP +40 %"/>
+	<string key="2104800005" kor="EXP +50%" ger="Erhaltene EXP +50%" eng="EXP +50%" tur="EXP +50%" fre="EXP +50 %"/>
+	<string key="2104801001" kor="PEN +10%" ger="Erhaltene PEN +10%" eng="PEN +10%" tur="PEN +10%" fre="PEN +10%"/>
+	<string key="2104801002" kor="PEN +20%" ger="Erhaltene PEN +20%" eng="PEN +20%" tur="PEN +20%" fre="PEN +20%"/>
+	<string key="2104801003" kor="PEN +30%" ger="Erhaltene PEN +30%" eng="PEN +30%" tur="PEN +30%" fre="PEN +30%"/>
+	<string key="2104801004" kor="PEN +40%" ger="Erhaltene PEN +40%" eng="PEN +40%" tur="PEN +40%" fre="PEN +40%"/>
+	<string key="2104801005" kor="PEN +50%" ger="Erhaltene PEN +50%" eng="PEN +50%" tur="PEN +50%" fre="PEN +50%"/>
+	<string key="2104342001" kor="벽점프 SP소모량 -2%" ger="SP-Verbrauch: Wall Jump -2%" eng="Wall Jump SP Consumption -2%" tur="Duvara Zıplama SP Kullanımı -2%" fre="PC requis pour Wall Jump -2%"/>
+	<string key="2104342002" kor="벽점프 SP소모량 -3%" ger="SP-Verbrauch: Wall Jump -3%" eng="Wall Jump SP Consumption -3%" tur="Duvara Zıplama SP Kullanımı -3%" fre="PC requis pour Wall Jump -3%"/>
+	<string key="2104342003" kor="벽점프 SP소모량 -5%" ger="SP-Verbrauch: Wall Jump -5%" eng="Wall Jump SP Consumption -5%" tur="Duvara Zıplama SP Kullanımı -5%" fre="PC requis pour Wall Jump -5%"/>
+	<string key="2104343002" kor="회피 SP소모량 -2%" ger="SP-Verbrauch: Dodge -2%" eng="EVA SP Consumption -2%" tur="EVA SP Kullanımı -2%" fre="PC requis pour ESQ -2%"/>
+	<string key="2104343003" kor="회피 SP소모량 -3%" ger="SP-Verbrauch: Dodge -3%" eng="EVA SP Consumption -3%" tur="EVA SP Kullanımı -3%" fre="PC requis pour ESQ -3%"/>
+	<string key="2104343004" kor="회피 SP소모량 -5%" ger="SP-Verbrauch: Dodge -5%" eng="EVA SP Consumption -5%" tur="EVA SP Kullanımı -5%" fre="PC requis pour ESQ -5%"/>
+	<string key="2105300001" kor="HP +1" ger="HP +1" eng="HP +1" tur="HP +1" fre="PV +1"/>
+	<string key="2105300002" kor="HP +2" ger="HP +2" eng="HP +2" tur="HP +2" fre="PV +2"/>
+	<string key="2105300003" kor="HP +3" ger="HP +3" eng="HP +3" tur="HP +3" fre="PV +3"/>
+	<string key="2105300004" kor="HP +4" ger="HP +4" eng="HP +4" tur="HP +4" fre="PV +4"/>
+	<string key="2105300005" kor="HP +5" ger="HP +5" eng="HP +5" tur="HP +5" fre="PV +5"/>
+	<string key="2105300006" kor="HP +6" ger="HP +6" eng="HP +6" tur="HP +6" fre="PV +6"/>
+	<string key="2105300007" kor="HP +7" ger="HP +7" eng="HP +7" tur="HP +7" fre="PV +7"/>
+	<string key="2105300008" kor="HP +8" ger="HP +8" eng="HP +8" tur="HP +8" fre="PV +8"/>
+	<string key="2105338001" kor="랜덤 크리티컬 확률 +1" ger="Chance auf Zufalls-KRIT +1" eng="Random Crit Chance +1" tur="Rastgele Kritik Şansı +1" fre="Taux CRIT +1"/>
+	<string key="2105338002" kor="랜덤 크리티컬 확률 +2" ger="Chance auf Zufalls-KRIT +2" eng="Random Crit Chance +2" tur="Rastgele Kritik Şansı +2" fre="Taux CRIT +2"/>
+	<string key="2105338003" kor="랜덤 크리티컬 확률 +3" ger="Chance auf Zufalls-KRIT +3" eng="Random Crit Chance +3" tur="Rastgele Kritik Şansı +3" fre="Taux CRIT +3"/>
+	<string key="2105337001" kor="랜덤 크리티컬 배율 +1%" ger="Zufalls-KRIT +1%" eng="Random Crit Power +1%" tur="Rastgele Kritik Güç +1%" fre="CRIT +1%"/>
+	<string key="2105337002" kor="랜덤 크리티컬 배율 +3%" ger="Zufalls-KRIT +3%" eng="Random Crit Power +3%" tur="Rastgele Kritik Güç +3%" fre="CRIT +3%"/>
+	<string key="2105332001" kor="SP 회복력 +1%" ger="SP-Regeneration +1%" eng="SP Regen +1%" tur="SP Yenileme +1%" fre="Récup. PC +1%"/>
+	<string key="2105332002" kor="SP 회복력 +2%" ger="SP-Regeneration +2%" eng="SP Regen +2%" tur="SP Yenileme +2%" fre="Récup. PC +2%"/>
+	<string key="2105332003" kor="SP 회복력 +3%" ger="SP-Regeneration +3%" eng="SP Regen +3%" tur="SP Yenileme +3%" fre="Récup. PC +3%"/>
+	<string key="2105330002" kor="스턴시간 -3%" ger="Betäubungsdauer -3%" eng="Stun Duration -3%" tur="Şok Süresi -3%" fre="Durée Assommé -3%"/>
+	<string key="2105330003" kor="스턴시간 -5%" ger="Betäubungsdauer -5%" eng="Stun Duration -5%" tur="Şok Süresi -5%" fre="Durée Assommé -5%"/>
+	<string key="2105358004" kor="넉백 거리 -3%" ger="Zurückwerfen-Reichweite -3%" eng="Knockback Distance -3%" tur="Knockback Mesafesi -3%" fre="Portée Repoussé -3%"/>
+	<string key="2105358002" kor="넉백 거리 -5%" ger="Zurückwerfen-Reichweite -5%" eng="Knockback Distance -5%" tur="Knockback Mesafesi -5%" fre="Portée Repoussé -5%"/>
+	<string key="2105357002" kor="블로우 거리 -3%" ger="Stoß-Reichweite -3%" eng="Blow Distance -3%" tur="Patlama Mesafesi -3%" fre="Portée Explosion -3%"/>
+	<string key="2105357003" kor="블로우 거리 -5%" ger="Stoß-Reichweite -5%" eng="Blow Distance -5%" tur="Patlama Mesafesi -5%" fre="Portée Explosion -5%"/>
+	<string key="2105800004" kor="EXP +20%" ger="Erhaltene EXP +20%" eng="EXP +20%" tur="EXP +20%" fre="EXP +20 %"/>
+	<string key="2105800005" kor="EXP +30%" ger="Erhaltene EXP +30%" eng="EXP +30%" tur="EXP +30%" fre="EXP +30 %"/>
+	<string key="2105800006" kor="EXP +40%" ger="Erhaltene EXP +40%" eng="EXP +40%" tur="EXP +40%" fre="EXP +40 %"/>
+	<string key="2105800007" kor="EXP +50%" ger="Erhaltene EXP +50%" eng="EXP +50%" tur="EXP +50%" fre="EXP +50 %"/>
+	<string key="2105801001" kor="PEN +10%" ger="Erhaltene PEN +10%" eng="PEN +10%" tur="PEN +%10" fre="PEN +10%"/>
+	<string key="2105801002" kor="PEN +20%" ger="Erhaltene PEN +20%" eng="PEN +20%" tur="PEN +%20" fre="PEN +20%"/>
+	<string key="2105801003" kor="PEN +30%" ger="Erhaltene PEN +30%" eng="PEN +30%" tur="PEN +%30" fre="PEN +30%"/>
+	<string key="2105801004" kor="PEN +40%" ger="Erhaltene PEN +40%" eng="PEN +40%" tur="PEN +%40" fre="PEN +40%"/>
+	<string key="2105801005" kor="PEN +50%" ger="Erhaltene PEN +50%" eng="PEN +50%" tur="PEN +%50" fre="PEN +50%"/>
+	<string key="2105342002" kor="벽점프 SP소모량 -2%" ger="SP-Verbrauch: Wall Jump -2%" eng="Wall Jump SP Consumption -2%" tur="Duvara Zıplama SP Kullanımı -%2" fre="PC requis pour Wall Jump -2%"/>
+	<string key="2105342003" kor="벽점프 SP소모량 -3%" ger="SP-Verbrauch: Wall Jump -3%" eng="Wall Jump SP Consumption -3%" tur="Duvara Zıplama SP Kullanımı -%3" fre="PC requis pour Wall Jump -3%"/>
+	<string key="2105342004" kor="벽점프 SP소모량 -5%" ger="SP-Verbrauch: Wall Jump -5%" eng="Wall Jump SP Consumption -5%" tur="Duvara Zıplama SP Kullanımı -%5" fre="PC requis pour Wall Jump -5%"/>
+	<string key="2105343003" kor="회피 SP소모량 -2%" ger="SP-Verbrauch: Dodge -2%" eng="EVA SP Consumption -2%" tur="EVA SP Kullanımı -%2" fre="PC requis pour ESQ -2%"/>
+	<string key="2105343004" kor="회피 SP소모량 -3%" ger="SP-Verbrauch: Dodge -3%" eng="EVA SP Consumption -3%" tur="EVA SP Kullanımı -%3" fre="PC requis pour ESQ -3%"/>
+	<string key="2105343005" kor="회피 SP소모량 -5%" ger="SP-Verbrauch: Dodge -5%" eng="EVA SP Consumption -5%" tur="EVA SP Kullanımı -%5" fre="PC requis pour ESQ -5%"/>
+	<string key="2105307001" kor="이동속도 +1%" ger="B-GES +1%" eng="MOVE SPD +1%" tur="HAREKET SPD +%1" fre="VIT DÉP +1%"/>
+	<string key="2105307002" kor="이동속도 +1%" ger="B-GES +1%" eng="MOVE SPD +1%" tur="HAREKET SPD +%1" fre="VIT DÉP +1%"/>
+	<string key="2105307003" kor="이동속도 +3%" ger="B-GES +3%" eng="MOVE SPD +3%" tur="HAREKET SPD +%3" fre="VIT DÉP +3%"/>
+	<string key="2105301001" kor="SP +2" ger="SP +2" eng="SP +2" tur="SP +2" fre="PC +2"/>
+	<string key="1999814001" kor="성공 확률 100%" ger="Erfolgswahrscheinlichkeit+100%" eng="Success Chance+100%" tur="Başarı Şansı +%100" fre="Chances de réussite +100%" spa="Éxito Chance+100%" ita="Chance Successo +100%" rus="Успешное чарование +100%" ame="Success Chance+100%" tha="Success Chance+100%" twn="成功機率+100%" jap="ストームバットフォースパック" idn="Kemungkinan Sukses+100%"/>
+	<string key="1999815001" kor="에스퍼 파괴 방지" ger="Verhindert destruction" eng="Prevents destruction" tur="Önlemek imha" fre="destruction Prevent"/>
 </string_table>

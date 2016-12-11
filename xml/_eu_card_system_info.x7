@@ -25,7 +25,7 @@
 					item_id 	= 보상 아이템 키
 					ad_text_key 	= 광고 설명
 		-->
-		<season num="2" buy_capsule ="4020008" shop_id="2">
+		<season num="2" buy_capsule ="4020140" shop_id="2">
 
 			<card num="1" item_id="8020001" shop_id="4" period_type="USECNT" period_value="1" color="0" effect_id="0" grade="1" play_prob="400" try_prob="100" />
 			<card num="2" item_id="8020002" shop_id="4" period_type="USECNT" period_value="1" color="0" effect_id="0" grade="2" play_prob="100" try_prob="100" />
@@ -38,7 +38,7 @@
 			<card num="9" item_id="8020009" shop_id="4" period_type="USECNT" period_value="1" color="0" effect_id="0" grade="0" play_prob="1600" try_prob="100" />
 			<card num="10" item_id="8020010" shop_id="4" period_type="USECNT" period_value="1" color="0" effect_id="0" grade="1" play_prob="1000" try_prob="100" />
 
-			<reward item_id="4051351" shop_id="2" period_type="USECNT" period_value="1" color="0" effect_id="0"/>
+			<reward item_id="4031187" shop_id="2" period_type="USECNT" period_value="1" color="0" effect_id="0"/>
 		</season>
 		<!--
 			카드 공식

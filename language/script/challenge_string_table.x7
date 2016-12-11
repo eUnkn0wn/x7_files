@@ -1170,14 +1170,14 @@
 	</string>
 	<string key="TXT_Weapon_Revolver_08">
 		<kor value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}TIP{N}단발 무기류는{N}근거리의 적이나 HP가 적은 원거리의 적에게 유리합니다." />
-		<ger value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}Tipp{N}Gewehre sind gut geeignet,{N}um Feinde mit niedriger HP aus der Nähe und Ferne anzugreifen." />
-		<eng value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}TIP{N}Melee Weapons are{N}good to attack enemy with short distance or long distance with lower HP." />
-		<fre value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}Astuce{N}Les armes de mêlée sont{N}parfaites pour attaquer les ennemis proches ou à distance qui n&apos;ont plus beaucoup de HP." />
-		<spa value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}Consejo{N}Las armas melee son{N}ideales para atacar enemigos a corta distancia o a larga distancia con bajo HP." />
-		<ita value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}SUGGERIMENTO{N}Le armi di tipo melee sono{N}utili per attaccare il nemico da vicino o da lontano se gli HP sono pochi." />
-		<rus value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}Подсказка{N}Оружия ближнего боя{N}хороши для атаки противника на коротких расстояниях или на длинных расстояниях с малым количеством HP." />
+		<ger value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}Tipp{N}Gun Waffen sind,{N}um Feinde mit niedriger HP aus der Nähe und Ferne anzugreifen." />
+		<eng value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}TIP{N}Gun Weapons are{N}good to attack enemy with short distance or long distance with lower HP." />
+		<fre value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}Astuce{N}Gun armes sont{N}parfaites pour attaquer les ennemis proches ou à distance qui n&apos;ont plus beaucoup de HP." />
+		<spa value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}Consejo{N}Gun Armas son{N}ideales para atacar enemigos a corta distancia o a larga distancia con bajo HP." />
+		<ita value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}SUGGERIMENTO{N}Pistola Armi sono{N}utili per attaccare il nemico da vicino o da lontano se gli HP sono pochi." />
+		<rus value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}Подсказка{N}Gun оружие{N}хороши для атаки противника на коротких расстояниях или на длинных расстояниях с малым количеством HP." />
 		<ame value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}" />
-		<tur value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}tavsiyesi{N}Tabancalar{N} düşük HP&apos;ye sahip yakın dövüş veya kısa menzilli silah kullanan düşmanlara karşı avantajlıdır." />
+		<tur value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}tavsiyesi{N}Silah Silahlar vardır{N} düşük HP&apos;ye sahip yakın dövüş veya kısa menzilli silah kullanan düşmanlara karşı avantajlıdır." />
 		<cns value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}" />
 		<tha value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}" />
 		<twn value="{F-2002_15}{A-C}{S-S}{CB-255,255,255,255}" />

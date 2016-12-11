@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <string_table>
+	<string key="0_P" kor="0명" ger="0 Person" eng="0 person" tur="0 kişi" fre="0 personne" spa="0 persona" ita="0 persona" rus="0 игрок" ame="0 person" tha="0 คน" twn="0人" jap="0人" idn="0 orang"/>
 	<string key="1_P" kor="1명" ger="1 Person" eng="1 person" tur="1 kişi" fre="1 personne" spa="1 persona" ita="1 persona" rus="1 игрок" ame="1 person" tha="1 คน" twn="1人" jap="1人" idn="1 orang"/>
 	<string key="10_P" kor="10명" ger="10 Personen" eng="10 persons" tur="10 kişi" fre="10 personnes" spa="10 personas" ita="10 persone" rus="10 игрок" ame="10 persons" tha="10 คน" twn="10人" jap="10人" idn="10 orang"/>
 	<string key="12_P" kor="12명" ger="12 Personen" eng="12 persons" tur="12 kişi" fre="12 personnes" spa="12 personas" ita="12 persone" rus="12 игрок" ame="12 persons" tha="12 คน" twn="12人" jap="12人" idn="12 orang"/>
@@ -50,8 +51,9 @@
 	<string key="MAPNAME_17" kor="공사장" ger="Construction" eng="Construction" tur="Construction" fre="Construction" spa="Construction" ita="Construction" rus="Construction"/>
 	<string key="MAPNAME_18" kor="스페이드A" ger="Spade A" eng="Spade A" tur="Spade A" fre="Spade A" spa="Spade A" ita="Spade A" rus="Spade A" ame="Spade A" tha="Spade A" twn="T_星際大戰" jap="T_StarWarz" idn="Test"/>
 	<string key="MAPNAME_19" kor="바이오랩" ger="Bio-Lab" eng="Bio-Lab" tur="Bio-Lab" fre="Bio-Lab" spa="Bio-Lab" ita="Bio-Lab" rus="Bio-Lab" ame="Bio-Lab" tha="Bio-Lab" twn="Bio-Lab" jap="Bio-Lab" idn="Bio-Lab"/>
-	<string key="MAPNAME_20" kor="시즌8데스매치" ger="test" eng="test" tur="test" fre="test" spa="test" ita="test" rus="test"/>
-	<string key="MAPNAME_21" kor="시즌8아레나" ger="test" eng="test" tur="test" fre="test" spa="test"/>
+	<string key="MAPNAME_20" kor="워프쉽" ger="Warp-Ship" eng="Warp-Ship" tur="Warp-Ship" fre="Warp-Ship" spa="Warp-Ship" ita="Warp-Ship" rus="Warp-Ship" ame="Warp-Ship" tha="Warp-Ship" twn="Warp-Ship" jap="Warp-Ship" idn="Warp-Ship"/>
+	<string key="MAPNAME_21" kor="네오아레나" ger="Neo-Arena" eng="Neo-Arena" tur="Neo-Arena" fre="Neo-Arena" spa="Neo-Arena" ita="Neo-Arena" rus="Neo-Arena" ame="Neo-Arena" tha="Neo-Arena" twn="Neo-Arena" jap="Neo-Arena" idn="Neo-Arena"/>
+	<string key="MAPNAME_22" kor="신규-데스매치" ger="New-DeathMatch" eng="New-DeathMatch" tur="Neo-Arena" fre="Neo-Arena" spa="Neo-Arena" ita="Neo-Arena" rus="New-DeathMatch" ame="New-DeathMatch" tha="New-DeathMatch" twn="New-DeathMatch" jap="New-DeathMatch" idn="New-DeathMatch"/>
 	<string key="MAPNAME_2" kor="네덴-1" ger="Neden-1 " eng="Neden-1 " tur="Neden-1 " fre="Neden-1 " spa="Neden-1 " ita="Neden-1 " rus="Neden-1 " ame="Neden-1 (DM)" tha="Neden-1 (DM)" twn="後巷 (生死模式)" jap="ネデンⅠ(デスマッチ)" idn="Neden-1 (DM)"/>
 	<string key="MAPNAME_200" kor="퍼즐 디펜스" ger="Puzzle Defence" eng="Puzzle Defence" tur="Puzzle Defence" fre="Puzzle Defence" spa="Puzzle Defence" ita="Puzzle Defence" rus="Puzzle Defence"/>
 	<string key="MAPNAME_220" kor="T_포토존" ger="Test" eng="Test" tur="Test" fre="Test" spa="Test" ita="Test" rus="Test" ame="Test" tha="Test" twn="T_照片區" jap="T_PhotoZone" idn="Test"/>
@@ -62,11 +64,17 @@
 	<string key="MAPNAME_227" kor="T_공장점령" ger="Test" eng="Test" tur="Test" fre="Test" spa="Test" ita="Test" rus="Test" ame="Test" tha="Test" twn="T_工廠佔領" jap="T_工場占領" idn="Test"/>
 	<string key="MAPNAME_228" kor="T_송송송" ger="Test" eng="Test" tur="Test" fre="Test" spa="Test" ita="Test" rus="Test" ame="Test" tha="Test" twn="T_送送送" jap="T_ソンソンソン" idn="Test"/>
 	<string key="MAPNAME_229" kor="T_제국의역습" ger="Test" eng="Test" tur="Test" fre="Test" spa="Test" ita="Test" rus="Test" ame="Test" tha="Test" twn="T_帝國的逆襲" jap="T_帝国の逆襲" idn="Test"/>
-	<string key="MAPNAME_230" kor="T_WAVE_big" ger="Test" eng="Test" tur="Test" fre="Test" spa="Test" ita="Test" rus="Test" idn="Test"/>
+	<string key="MAPNAME_230" kor="T_WAVE_big" ger=" " eng="Test" tur="Test" fre="Test" spa="Test" ita="Test" rus="Test" idn="Test"/>
 	<string key="MAPNAME_232" kor="T_시즌7시티" ger="Test" eng="Test" tur="Test" fre="Test" spa="Test" ita="Test" rus="Test" ame="Test" tha="Test" twn="T_鋼鐵之心 (達陣模式)" jap="T_アイアンハート(タッチダウン)" idn="Test"/>
 	<string key="MAPNAME_233" kor="T_열혈강호" twn="T_熱血江湖" jap="T_熱血江湖"/>
-	<string key="MAPNAME_235" kor="T_JGtest01" ger="Test" eng="Test" tur="Test" fre="Test" spa="Test" ita="Test" rus="Test" ame="Test" tha="Test" twn="T_JGtest01" jap="T_JGtest01"/>
-	<string key="MAPNAME_235" kor="T_Neden_M" ger="Test" eng="Test" tur="Test" fre="Test" spa="Test" ita="Test" rus="Test" ame="Test" tha="Test" idn="Test"/>
+	<string key="MAPNAME_235" kor="네오아레나" ger="Neo-Arena" eng="Neo-Arena" tur="Neo-Arena" fre="Neo-Arena" spa="Neo-Arena" ita="Neo-Arena" rus="Neo-Arena" ame="Neo-Arena" tha="Neo-Arena" twn="Neo-Arena" jap="Neo-Arena" idn="Neo-Arena"/>
+	<string key="MAPNAME_236" kor="주열맵" ger="test"/>
+	<string key="MAPNAME_249" kor="훈련소" ger="Training Center" eng="Training Center" tur="Training Center" fre="Training Center" spa="Training Center" ita="Training Center" rus="Training Center" ame="Training Center" tha="Training Center" twn="Training Center" jap="Training Center" idn="Training Center"/>
+	<string key="MAPNAME_250" kor="훈련소" ger="Training Center" eng="Training Center" tur="Training Center" fre="Training Center" spa="Training Center" ita="Training Center" rus="Training Center" ame="Training Center" tha="Training Center" twn="Training Center" jap="Training Center" idn="Training Center"/>
+	<string key="MAPNAME_251" kor="훈련소" ger="Training Center" eng="Training Center" tur="Training Center" fre="Training Center" spa="Training Center" ita="Training Center" rus="Training Center" ame="Training Center" tha="Training Center" twn="Training Center" jap="Training Center" idn="Training Center"/>
+	<string key="MAPNAME_252" kor="훈련소" ger="Training Center" eng="Training Center" tur="Training Center" fre="Training Center" spa="Training Center" ita="Training Center" rus="Training Center" ame="Training Center" tha="Training Center" twn="Training Center" jap="Training Center" idn="Training Center"/>
+	<string key="MAPNAME_253" kor="훈련소" ger="Training Center" eng="Training Center" tur="Training Center" fre="Training Center" spa="Training Center" ita="Training Center" rus="Training Center" ame="Training Center" tha="Training Center" twn="Training Center" jap="Training Center" idn="Training Center"/>
+	<string key="MAPNAME_254" kor="튜토리얼" ger="Tutorial" eng="Tutorial" tur="Tutorial" fre="Tutorial" spa="Tutorial" ita="Tutorial" rus="Tutorial" ame="Tutorial" tha="Tutorial" twn="新手教學" jap="チュートリアル" idn="Tutorial"/>
 	<string key="MAPNAME_255" kor="튜토리얼" ger="Tutorial" eng="Tutorial" tur="Tutorial" fre="Tutorial" spa="Tutorial" ita="Tutorial" rus="Tutorial" ame="Tutorial" tha="Tutorial" twn="新手教學" jap="チュートリアル" idn="Tutorial"/>
 	<string key="MAPNAME_3" kor="네덴-2" ger="Neden-2" eng="Neden-2" tur="Neden-2" fre="Neden-2" spa="Neden-2" ita="Neden-2" rus="Neden-2" ame="Neden-2" tha="Neden-2" twn="黃昏後巷" jap="ネデンⅡ" idn="Neden-2"/>
 	<string key="MAPNAME_31" kor="라이센스" ger="Licence" eng="Licence" tur="Licence" fre="Licence" spa="Licence" ita="Licence" rus="Licence" ame="Licence" tha="Licence" twn="許可證" jap="ライセンス" idn="Licence"/>
@@ -125,7 +133,10 @@
 	<string key="MODETIP_PRACTICE" kor="타임어택 미션으로 센트리건을 제압하면서 맵을 익혀보자." ger="Zerstöre alle Sentry Guns! Time Attack Mission!!" eng="Destroy all the Sentry Guns!, Time Attack Mission!!" tur="Sentry Gun'lara hakim olurken Zaman Saldırısı göreviyle haritayı öğrenelim." fre="Détruisez tous les fusils automatiques en un temps record !" spa="Destruye todos las Sentry Guns!, Misión de Tiempo!!" ita="Distruggi tutte le Sentry Gun!" rus="Уничтожьте все турели!" tha="ทำลายป้อมปืนของศัตรู!!" twn="利用限時攻擊任務來壓制步哨防禦槍，並熟悉地圖。" jap="タイムアタックミッション。セントリーガンを倒しながらマップを覚えよう。" idn="Kalahkan semua Sentry Gun! Misi Time Attack!"/>
 	<string key="MODETIP_SEIZE" kor="거점을 점령하면 아이템이 우수수!{N}전략적인 팀워크를 통한 신나는 플레이!" ger="Versuche, den Core zu erobern, und sammle die verschiedenen Items!" eng="Try to capture the core! Get various items!" tur="Bir üssü ele geçirme karşılığında ödül olarak bir eşya hazinesi verilir!{N}Stratejik takım oyununun eğlenceyle buluştuğu bir oyundur!" fre="Essayez de capturer la base ! Obtenez des items !" spa="Trata de capturar la base! Obtén varios items!" ita="Prova a ottenere il Core! Trova vari oggetti!" rus="Попробуйте захватить ядро! Берите различные предметы!" twn="佔領據點可獲得超多道具！{N}透過戰略性的團隊工作來達成目標！" jap="拠点を占領し、アイテムをゲット！{N}戦略的なチームワークが光る！" idn="Cobalah untuk menangkap corenya! Dapatkan berbagai macam barang!"/>
 	<string key="MODETIP_TD" kor="볼을 집어 상대 진영의 골 포스트에 터치다운!" ger="Touch Down für den Sieg!" eng="Touch Down for your victory!" tur="Topu kap ve rakibin kalesine bir gol at!" fre="Touch Down pour obtenir la victoire !" spa="Touch Down para la victoria!" ita="Fai un Touch Down!" rus="Забивайте голы для победы!" tha="Touch Down ให้ได้ เพื่อชัยชนะของเรา !!" twn="讓球進到對方陣營的球門，並達陣！" jap="相手陣営のゴールポストにボールをタッチダウンせよ！" idn="Touch Down untuk kemenanganmu!"/>
-	<string key="NEUTRAL_TEAM" kor="중립팁" ger="Neutral Team" eng="Neutral Team" tur="Tarafsız Takım" fre="Team Neutre" spa="Neutral Team" ita="Neutral Team" rus="Нейтральная" ame="Neutral Team" tha="Neutral Team" twn="中立隊" jap="中立チーム" idn="Tim Netral"/>
+	<string key="MODETIP_WF" kor="목표 : 상대팀 퀸 파괴{N}특징: 상대 비숍 파괴시 아군 퀸 회복"/>
+	<string key="MODETIP_ARENA" kor="토너먼트 모드"/>
+	<string key="MODETIP_RD" kor="무작위로 생성되는 모드에서 대결!" ger="Random Mode" eng="Random Mode" tur="Random Mode" fre="Random Mode" spa="Random Mode" ita="Random Mode" rus="Random Mode" ame="Random Mode" tha="Random Mode" twn="在隨機模式來場決鬥吧" jap="Random Mode" idn="Random Mode"/>
+	<string key="NEUTRAL_TEAM" kor="중립팀" ger="Neutral Team" eng="Neutral Team" tur="Tarafsız Takım" fre="Team Neutre" spa="Neutral Team" ita="Neutral Team" rus="Нейтральная" ame="Neutral Team" tha="Neutral Team" twn="中立隊" jap="中立チーム" idn="Tim Netral"/>
 	<string key="PLAY_STATE" kor="게임중" ger="Spielend" eng="Playing" tur="Oyunda" fre="Jeu" spa="Jugando" ita="Gioca" rus="Играет" ame="Playing" tha="กำลังเล่น" twn="遊戲中" jap="プレイ中" idn="Bermain"/>
 	<string key="POINT_2" kor="2점" ger="2 Point" eng="2 Point" tur="2 Puan" fre="2 Point" spa="2 Point" ita="2 Point" rus="2 Point" ame="2 Point" tha="2 P" twn="2分" jap="2点" idn="2 Poin"/>
 	<string key="POINT_3" kor="3점" ger="3 Point" eng="3 Point" tur="3 Puan" fre="3 Point" spa="3 Point" ita="3 Point" rus="3 Point" ame="3 Point" tha="3 P" twn="3分" jap="3点" idn="3 Poin"/>
@@ -137,6 +148,8 @@
 	<string key="ROUND_9" kor="9라운드" ger="9 ROUND" eng="9 ROUND" tur="9 Raunt" fre="9 ROUND" spa="9 ROUND" ita="9 ROUND" rus="9 ROUND" ame="9 ROUND" tha="9 ROUND" twn="9回合" jap="9ラウンド" idn="9 Ronde"/>
 	<string key="SCORE_-" kor="-" ger="-" eng="-" tur="-" fre="-" spa="-" ita="-" rus="-" ame="-" tha="-" twn="-" jap="－" idn="-"/>
 	<string key="SCORE_10" kor="10점" ger="10 P" eng="10 P" tur="10 P" fre="10 P" spa="10 P" ita="10 P" rus="10 P" ame="10 P" tha="10 P" twn="10分" jap="10点" idn="10 P"/>
+	<string key="SCORE_15" kor="15점" ger="15 P" eng="15 P" tur="15 P" fre="15 P" spa="15 P" ita="15 P" rus="15 P" ame="15 P" tha="15 P" twn="15分"/>
+	<string key="SCORE_20" kor="20점" ger="20 P" eng="20 P" tur="20 P" fre="20 P" spa="20 P" ita="20 P" rus="20 P" ame="20 P" tha="20 P" twn="20分" jap="20点" idn="20 P"/>
 	<string key="SCORE_100" kor="100점" ger="100 P" eng="100 P" tur="100 P" fre="100 P" spa="100 P" ita="100 P" rus="100 P" ame="100 P" tha="100 P" twn="100分" jap="100点" idn="100 P"/>
 	<string key="SCORE_1000" kor="1000점" ger="1000 P" eng="1000 P" tur="1000 P" fre="1000 P" spa="1000 P" ita="1000 P" rus="1000 P" ame="1000 P" tha="1000 P" twn="1000分" jap="1000点" idn="1000 P"/>
 	<string key="SCORE_150" kor="150점" ger="150 P" eng="150 P" tur="150 P" fre="150 P" spa="150 P" ita="150 P" rus="150 P" ame="150 P" tha="150 P" twn="150分" jap="150点" idn="150 P"/>
@@ -185,5 +198,13 @@
 	<string key="WIN_4" kor="4승" ger="Gewinne 4 Spiele" eng="Win 4 games" tur="4 Galibiyet" fre="Remporte 4 jeux" spa="4 juegos ganados" ita="Vinci 4 match" rus="Выиграть 4 игры" ame="Win 4 games" tha="ชนะ 4 games" twn="4勝" jap="4勝" idn="Menangkan 4 permainan"/>
 	<string key="WIN_6" kor="6승" ger="Gewinne 6 Spiele" eng="Win 6 games" tur="6 Galibiyet" fre="Remporte 6 jeux" spa="6 juegos ganados" ita="Vinci 6 match" rus="Выиграть 6 игр" ame="Win 6 games" tha="ชนะ 6 games" twn="6勝" jap="6勝" idn="Menangkan 6 permainan"/>
 	<string key="WIN_8" kor="8승" ger="Gewinne 8 Spiele" eng="Win 8 games" tur="8 Galibiyet" fre="Remporte 8 jeux" spa="8 juegos ganados" ita="Vinci 8 match" rus="Выиграть 8 игр" ame="Win 8 games" tha="ชนะ 8 games" twn="8勝" jap="8勝" idn="Menangkan 8 permainan"/>
+	<string key="WARFARE" kor="워페어" ger="Warfare" eng="Warfare" tur="Warfare" fre="Warfare" spa="Warfare" ita="Warfare" rus="Warfare" ame="Warfare" tha="Warfare" twn="Warfare" jap="Warfare" idn="Warfare"/>
 	<string key="MAPNAME_999" kor="Random" ger="Zufall" eng="Random" tur="Rasgele" fre="Aléatoire" spa="Aleatorio" ita="Casuale" rus="Случайно" ame="Random" tha="สุ่ม" twn="隨機" jap="ランダム" idn="Acak"/>
+	<string key="TIME_30SEC" kor="30초"/>
+	<string key="TIME_50SEC" kor="50초"/>
+	<string key="TIME_60SEC" kor="60초"/>
+	<string key="MAPNAME_154" kor="워프쉽" ger="Warp-Ship" eng="Warp-Ship" tur="Warp-Ship" fre="Warp-Ship" spa="Warp-Ship" ita="Warp-Ship" rus="Warp-Ship" ame="Warp-Ship" tha="Warp-Ship" twn="Warp-Ship" jap="Warp-Ship" idn="Warp-Ship"/>
+	<string key="MAPNAME_155" kor="바이오랩" ger="Bio-Lab" eng="Bio-Lab" tur="Bio-Lab" fre="Bio-Lab" spa="Bio-Lab" ita="Bio-Lab" rus="Bio-Lab" ame="Bio-Lab" tha="Bio-Lab" twn="Bio-Lab" jap="Bio-Lab" idn="Bio-Lab"/>
+	<string key="MAPNAME_156" kor="네덴-1" ger="Neden-1 " eng="Neden-1 " tur="Neden-1 " fre="Neden-1 " spa="Neden-1 " ita="Neden-1 " rus="Neden-1 " ame="Neden-1 (DM)" tha="Neden-1 (DM)" twn="後巷 (生死模式)" jap="ネデンⅠ(デスマッチ)" idn="Neden-1 (DM)"/>
+	<string key="MAPNAME_157" kor="하이웨이(데스매치)" ger="Highway " eng="Highway " tur="Highway " fre="Highway " spa="Highway " ita="Highway " rus="Highway " ame="Highway (DM)" tha="Highway (DM)" twn="高速公路 (生死模式)" jap="ハイウェイ(デスマッチ)" idn="Highway (DM)"/>
 </string_table>

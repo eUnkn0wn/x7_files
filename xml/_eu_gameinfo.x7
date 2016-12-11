@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <gameinfo string_table="language/xml/gameinfo_string_table.x7">
 	<!-- GAMERULE_HORDE 컨퀘스트 모드 -->
-	<game_mode id="12" use="true" image="Resources/XUI/Image/Lobby/Mode_select/practice_mode.tga" tip_key="MODETIP_ARCADE" tag="new" category="2">
+	<game_mode id="12" use="true" image="Resources/XUI/Image/Lobby/Mode_select/practice_mode.tga" tip_key="MODETIP_ARCADE" tag="on" category="2">
 		<score_time select="0">
 			<!-- 아케이드의 경우 score는 이벤트 On/Off, time은 난이도 설정 -> score="0" [이벤트씬 끄기], score="1" [이벤트씬 켜기], time="1" [보통], time="2" [어려움], time="3"[에스퍼]-->
 			<data score="0" score_string_key="" time="200" time_string_key="ARCADE_1" />
@@ -230,7 +230,7 @@
 	<game_rule touch_down_key="TOUCH_DOWN" death_match_key="DEATH_MATCH" survival_key="SURVIVAL" mission_key="MISSION" arcade_key="ARCADE" slaughter_key="SLAUGHTER" free_for_all_key="FREE_FOR_ALL" captain_key="CAPTAIN" seize_key="SEIZE"/>
 	
 	<!-- GAMERULE RANDOM 랜덤모드 -->
-	<game_mode id="14" use="true" image="Resources/XUI/Image/Lobby/Mode_select/random_mode.tga" tip_key="MODETIP_RD" tag="new" category="1">
+	<game_mode id="14" use="true" image="Resources/XUI/Image/Lobby/Mode_select/random_mode.tga" tip_key="MODETIP_RD" tag="on" category="1">
 		<score_time select="0">
 			<data score="" score_string_key="MAPNAME_999" time="" time_string_key="" />
 		</score_time>
@@ -240,5 +240,74 @@
 		<player_weapon_drop active="false" prob="100" remove_time="30" respone_reset="true" />
 		<player_weapon_unlimit active="true" />
 	</game_mode>
-	
+	<!-- GAMERULE WARFARE AOS 모드 -->
+	<game_mode id="15" use="true" image="Resources/XUI/Image/Lobby/Mode_select/warfa_mode.tga" tip_key="MODETIP_WF" tag="on" category="1">
+		<score_time select="1">
+			<data score="4" score_string_key="SCORE_4" time="10" time_string_key="TIME_10" />
+			<data score="8" score_string_key="SCORE_8" time="20" time_string_key="TIME_20" />
+		</score_time>
+		<limit_player select="5">
+			<data player="4" player_string_key="4_P" />
+			<data player="6" player_string_key="6_P" />
+			<data player="8" player_string_key="8_P" />
+			<data player="10" player_string_key="10_P" />
+			<data player="12" player_string_key="12_P" />
+			<data player="16" player_string_key="16_P" />
+		</limit_player>
+		<player_weapon_drop active="false" prob="100" remove_time="30" respone_reset="true" />
+		<player_weapon_unlimit active="true" />
+	</game_mode>
+	<!-- 초보자 훈련소 실전 훈련 데스 매치 모드 -->
+	<game_mode id="16" use="false" image="Resources/XUI/Image/Lobby/Mode_select/death_mode.tga" tip_key="MODETIP_DM" tag="on" category="1">
+		<score_time select="0" >
+			<data score="80" score_string_key="SCORE_80" time="20" time_string_key="TIME_20" />
+		</score_time>
+		<limit_player select="0">
+			<data player="1" player_string_key="1_P" />
+		</limit_player>
+		<player_weapon_drop active="false" prob="100" remove_time="30" respone_reset="true" />
+		<player_weapon_unlimit active="true" />
+	</game_mode>	
+	<!-- 초보자 훈련소 실전 훈련 터치 다운 모드 -->
+	<game_mode id="17" use="false" image="Resources/XUI/Image/Lobby/Mode_select/touch_mode.tga" tip_key="MODETIP_TD" tag="on" category="1">
+		<score_time select="0">
+			<data score="6" score_string_key="SCORE_6" time="15" time_string_key="TIME_15" />
+		</score_time>
+		<limit_player select="0">
+			<data player="1" player_string_key="1_P" />
+		</limit_player>
+		<player_weapon_drop active="false" prob="100" remove_time="30" respone_reset="true" />
+		<player_weapon_unlimit active="true" />		
+	</game_mode>
+	<!-- GAMERULE_WEAPONTRAINING 무기훈련 -->
+	<game_mode id="19" use="false" image="" tip_key="" category="0">
+		<score_time select="2">
+			<data score="300" score_string_key="SCORE_300" time="10" time_string_key="TIME_10" />
+			<data score="450" score_string_key="SCORE_450" time="15" time_string_key="TIME_15" />
+			<data score="600" score_string_key="SCORE_600" time="20" time_string_key="TIME_20" />
+			<data score="900" score_string_key="SCORE_900" time="25" time_string_key="TIME_25" />
+		</score_time>
+		<limit_player select="0">
+			<data player="1" player_string_key="1_P" />
+		</limit_player>
+		<player_weapon_unlimit active="true" />
+	</game_mode>
+	<!-- GAMERULE_ARENA 아레나 모드 -->
+	<game_mode id="20" use="true" image="Resources/XUI/Image/Lobby/Mode_select/arena_mode.tga" tip_key="MODETIP_ARENA" tag="New" category="1">
+		<score_time select="0">
+			<data score="10" score_string_key="SCORE_10" time="60" time_string_key="TIME_60SEC" />
+			<data score="15" score_string_key="SCORE_15" time="60" time_string_key="TIME_60SEC" />
+			<data score="20" score_string_key="SCORE_20" time="60" time_string_key="TIME_60SEC" />
+			<data score="30" score_string_key="SCORE_30" time="60" time_string_key="TIME_60SEC" />			
+		</score_time>
+		<limit_player select="1">
+			<data player="4" player_string_key="4_P" />
+			<data player="6" player_string_key="6_P" />
+			<data player="8" player_string_key="8_P" />
+			<data player="10" player_string_key="10_P" />
+			<data player="12" player_string_key="12_P" />
+		</limit_player>
+		<player_weapon_drop active="false" prob="100" remove_time="30" respone_reset="true" />
+		<player_weapon_unlimit active="true" />		
+	</game_mode>	
 </gameinfo>
