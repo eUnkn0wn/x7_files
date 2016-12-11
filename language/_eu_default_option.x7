@@ -21,6 +21,7 @@
 		<bgmvolume value="80" />
 		<voicechat value="false" />
 		<relay value="true" />
+		
 	</sound>
 	<mouse>
 		<sensivility value="25" />
@@ -49,6 +50,7 @@
 		<hot_key id="19" text_key="OP_0020" key="WHEELDOWN" />
 		<hot_key id="20" text_key="OP_0021" key="UP" />
 		<hot_key id="21" text_key="OP_0022" key="DOWN" />
+		<hot_key id="22" text_key="OP_0216" key="F" />
 	</gameplay_hotkey>
 	<chatmsg_hotkey>
 		<data id="0" message_key="OP_0023" />
@@ -107,8 +109,11 @@
 			<data name_key="OP_0042" file="resources/bgm/Real_Over_Drive_S4.ogg" />
 			<data name_key="OP_0043" file="resources/bgm/access.ogg" />
 			<data name_key="OP_0044" file="resources/bgm/dualrock_bgm.ogg" />
-			<data name_key="OP_0104" file="resources/bgm/Braveitout.ogg" /> 시즌3 오픈 시--&gt; &#x0A;&#x09;&#x09;&#x09;
+			<data name_key="OP_0104" file="resources/bgm/Braveitout.ogg" /> 
+			<data name_key="OP_0105" file="resources/bgm/ChaseYourself.ogg" />
 			<data name_key="OP_0212" file="resources/bgm/alice.ogg" />
+			<data name_key="OP_0214" file="resources/bgm/union.ogg" />
+			
 		</bgmlist>
 		<!--(주크박스 수정 부분)맵아이디 바꿀때 고려사항:뮤직박스에 유저가 저장한 데이터가 사라지거나 임의로 바뀔수 있다-->
 		<maplist>
@@ -177,8 +182,9 @@
 			<data map_id="71" bgm1_key="OP_0040" bgm2_key="" bgm3_key="" />
 			<!--러스티가든 터치다운-->
 			<data map_id="14" bgm1_key="OP_0104" bgm2_key="" bgm3_key="" /> --&gt; 
-			<!--아지트EX-->
+			<!--아지트EX&아지트-->
 			<data map_id="47" bgm1_key="OP_0212" bgm2_key="" bgm3_key="" />
+			<data map_id="15" bgm1_key="OP_0212" bgm2_key="" bgm3_key="" />
 			<!--미션아케이드_큐브코드-->
 			<data map_id="72" bgm1_key="OP_0036" bgm2_key="" bgm3_key="" />
 			<!--스테이션-3 터치다운-->
@@ -188,6 +194,17 @@
 			<!--스페이드A-->
 			<data map_id="17" bgm1_key="OP_0030" bgm2_key="" bgm3_key="" />
 			<!--공사장 데스매치-->
+			<data map_id="20" bgm1_key="OP_0037" bgm2_key="" bgm3_key="" />
+			<!--공사장 데스매치-->
+			<data map_id="242" bgm1_key="OP_0038" bgm2_key="" bgm3_key="" />
+			<!--실전훈련 데스매치-->
+			<data map_id="241" bgm1_key="OP_0030" bgm2_key="" bgm3_key="" />
+			<!--실전훈련 터치다운-->
+			<data map_id="235" bgm1_key="OP_0033" bgm2_key="" bgm3_key="" /> <!--네오아레나 아레나-->
+			<data map_id="154" bgm1_key="OP_0037" bgm2_key="" bgm3_key="" />
+			<data map_id="155" bgm1_key="OP_0043" bgm2_key="" bgm3_key="" />
+			<data map_id="156" bgm1_key="OP_0038" bgm2_key="" bgm3_key="" />
+			<data map_id="157" bgm1_key="OP_0032" bgm2_key="" bgm3_key="" />
 		</maplist>
 	</bgm>
 	<etc>
@@ -211,6 +228,7 @@
 		<data id="9" default_pos="9" use="true" name_key="OP_0209" icon="resources/XUI/Image/main_navi/navi_clan.dds" sub_icon="resources/XUI/Image/main_navi/navi_clan_s.dds" disable_icon="resources/XUI/Image/main_navi/navi_clan_d.dds" />
 		<data id="10" default_pos="10" use="true" name_key="OP_0210" icon="resources/XUI/Image/main_navi/navi_help.dds" sub_icon="resources/XUI/Image/main_navi/navi_help_s.dds" disable_icon="resources/XUI/Image/main_navi/navi_help_d.dds" />
 		<data id="11" default_pos="11" use="true" name_key="OP_0211" icon="resources/XUI/Image/main_navi/navi_option.dds" sub_icon="resources/XUI/Image/main_navi/navi_option_s.dds" disable_icon="resources/XUI/Image/main_navi/navi_option_d.dds" />
+	<!-- 	<data id="12" default_pos="12" use = "true" name_key="OP_0215" icon="resources/XUI/Image/main_navi/navi_union.dds" sub_icon="resources/XUI/Image/main_navi/navi_union_s.dds" disable_icon="resources/XUI/Image/main_navi/navi_union_d.dds" /> -->
 	</menu>
 	<camera>
 		<cameratype value="0" use="true" />

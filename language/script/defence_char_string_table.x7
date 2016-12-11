@@ -225,4 +225,19 @@
 		<jap value="" />
 		<tur value="Black King" />
 	</string>
+	<string key="QUEEN_C">
+		<kor value="돌격형 블랙 퀸" />
+		<ger value="Queen" />
+		<eng value="Queen" />
+		<fre value="Queen" />
+		<spa value="Queen" />
+		<ita value="Queen" />
+		<rus value="Queen" />
+		<ame value="" />
+		<cns value="" />
+		<tha value="" />
+		<twn value="" />
+		<jap value="" />
+		<tur value="Kraliçe" />
+	</string>
 </string_table>

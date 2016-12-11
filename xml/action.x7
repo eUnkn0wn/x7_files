@@ -260,4 +260,74 @@
 		<Integer/>
 		<Float Float_Value1="0.92" Float_Value2="1500" Float_Value3="700"/>
 	</Action>
+	<Action name="3050002">
+		<ability required_mp="1" decrement_mp="8" decrement_mp_delay="1.25"/>
+		<resources type="4" slot_image_file="Resources/Image/Action/weapon_slot007.tga" feature_image_file="Resources/Image/Action/Skill_info_shil.tga"/>
+		<Scene Scene_Value1="Resources/Model/Weapon/weapon_shield_u_core.scn"/>
+		<Seq Seq_Value1="Resources/Effects/weapon_shield_u_core_eff_02.seq"/>
+		<Seqsound/>
+		<Texture/>
+		<Integer/>
+		<Float Float_Value1="0.25"/>
+	</Action>
+	<Action name="3070003">
+		<ability required_mp="25" decrement_mp="0" decrement_mp_delay="0"/>
+		<resources type="6" slot_image_file="Resources/Image/Action/weapon_icon009.tga" feature_image_file="Resources/Image/Action/Skill_info_bind.tga"/>
+		<Scene/>
+		<Seq Seq_Value1="Resources/Effects/skill_bind_cook01.seq" Seq_Value2="Resources/Effects/skill_bind_cook02.seq" Seq_Value3="Resources/Effects/skill_bind_cook03.seq"/>
+		<Seqsound Seqsound_Value1="Resources/Sound/press_shot.ogg" Seqsound_Value3="Resources/Sound/bind_lock.ogg"/>
+		<Texture/>
+		<Integer/>
+		<Float Float_Value1="3" Float_Value2="100" Float_Value3="3600"/>
+	</Action>
+	<Action name="3000006">
+		<ability required_mp="0" decrement_mp="0" decrement_mp_delay="0"/>
+		<resources type="10" slot_image_file="Resources/Image/Action/passive2.tga" feature_image_file="Resources/Image/Action/Skill_info_hp30.tga"/>
+		<Scene/>
+		<Seq/>
+		<Seqsound/>
+		<Texture/>
+		<Integer/>
+		<Float/>
+	</Action>
+	<Action name="3050003">
+		<ability required_mp="1" decrement_mp="10" decrement_mp_delay="1.25"/>
+		<resources type="4" slot_image_file="Resources/Image/Action/weapon_slot007.tga" feature_image_file="Resources/Image/Action/Skill_info_shil.tga"/>
+		<Scene Scene_Value1="Resources/Model/Weapon/weapon_shield.scn"/>
+		<Seq/>
+		<Seqsound/>
+		<Texture/>
+		<Integer/>
+		<Float Float_Value1="0.25"/>
+	</Action>
+	<Action name="3050004">
+		<ability required_mp="1" decrement_mp="10" decrement_mp_delay="1.25"/>
+		<resources type="4" slot_image_file="Resources/Image/Action/weapon_slot007.tga" feature_image_file="Resources/Image/Action/Skill_info_shil.tga"/>
+		<Scene Scene_Value1="Resources/Model/Weapon/weapon_shield.scn"/>
+		<Seq/>
+		<Seqsound/>
+		<Texture/>
+		<Integer/>
+		<Float Float_Value1="0.25"/>
+	</Action>
+	<Action name="3020004">
+		<ability required_mp="20" decrement_mp="4.68" decrement_mp_delay="0"/>
+		<resources type="1" slot_image_file="Resources/Image/Action/weapon_icon004.tga" feature_image_file="Resources/Image/Action/Skill_info_fly.tga"/>
+		<Scene/>
+		<Seq Seq_Value1="Resources/Effects/skill_wing_u_vr_start.seq"/>
+		<Seqsound/>
+		<Texture/>
+		<Integer/>
+		<Float Float_Value1="0.92" Float_Value2="1500" Float_Value3="700"/>
+	</Action>
+	<Action name="3070004">
+		<ability required_mp="25" decrement_mp="0" decrement_mp_delay="0"/>
+		<resources type="6" slot_image_file="Resources/Image/Action/weapon_icon009.tga" feature_image_file="Resources/Image/Action/Skill_info_bind.tga"/>
+		<Scene/>
+		<Seq Seq_Value1="Resources/Effects/skill_bind_glitch_01.seq" Seq_Value2="Resources/Effects/skill_bind_glitch_02.seq" Seq_Value3="Resources/Effects/skill_bind_glitch_03.seq"/>
+		<Seqsound Seqsound_Value1="Resources/Sound/press_shot.ogg" Seqsound_Value3="Resources/Sound/bind_lock.ogg"/>
+		<Texture/>
+		<Integer/>
+		<Float Float_Value1="3" Float_Value2="100" Float_Value3="3600"/>
+	</Action>
 </Actionlist>

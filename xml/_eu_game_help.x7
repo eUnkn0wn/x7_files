@@ -36,10 +36,10 @@
 	<category category_id="0" subcategory_id="8" subcategory_key="MODE_PRA" image="Resources/Image/help/PRA_IMAGE_2.DDS" text_key="PRA_TEXT_2"/>
 	<category category_id="0" subcategory_id="8" subcategory_key="MODE_PRA" image="Resources/Image/help/PRA_IMAGE_3.DDS" text_key="PRA_TEXT_3"/>
 	<category category_id="0" subcategory_id="8" subcategory_key="MODE_PRA" image="Resources/Image/help/PRA_IMAGE_4.DDS" text_key="PRA_TEXT_4"/>
-	<category category_id="0" subcategory_id="9" subcategory_key="MODE_CQ" text_key="CQ_TEXT_1"/>
-	<category category_id="0" subcategory_id="9" subcategory_key="MODE_CQ" text_key="CQ_TEXT_2"/>
-	<category category_id="0" subcategory_id="9" subcategory_key="MODE_CQ" text_key="CQ_TEXT_3"/>
-	<category category_id="0" subcategory_id="9" subcategory_key="MODE_CQ" text_key="CQ_TEXT_4"/>
+	<category category_id="0" subcategory_id="10" subcategory_key="MODE_CQ" text_key="CQ_TEXT_1"/>
+	<category category_id="0" subcategory_id="10" subcategory_key="MODE_CQ" text_key="CQ_TEXT_2"/>
+	<category category_id="0" subcategory_id="10" subcategory_key="MODE_CQ" text_key="CQ_TEXT_3"/>
+	<category category_id="0" subcategory_id="10" subcategory_key="MODE_CQ" text_key="CQ_TEXT_4"/>
 	<category category_id="2" subcategory_id="0" subcategory_key="SHOP_RANDOM" image="Resources/Image/help/RAND_IMAGE_1.DDS" text_key="SHOP_RANDOM_TEXT_1"/>
 	<category category_id="2" subcategory_id="0" subcategory_key="SHOP_RANDOM" image="Resources/Image/help/RAND_IMAGE_2.DDS" text_key="SHOP_RANDOM_TEXT_2"/>
 	<category category_id="2" subcategory_id="0" subcategory_key="SHOP_RANDOM" image="Resources/Image/help/RAND_IMAGE_3.DDS" text_key="SHOP_RANDOM_TEXT_3"/>
@@ -72,7 +72,7 @@
 	<category category_id="2" subcategory_id="4" subcategory_key="COMPOSITION_INFO" image="Resources/Image/help/COMPOSITION_INFO_4.DDS" text_key="COMPOSITION_INFO_TEXT_4"/>
 	<category category_id="2" subcategory_id="4" subcategory_key="COMPOSITION_INFO" image="Resources/Image/help/COMPOSITION_INFO_5.DDS" text_key="COMPOSITION_INFO_TEXT_5"/>
 	<category category_id="2" subcategory_id="4" subcategory_key="COMPOSITION_INFO" image="Resources/Image/help/COMPOSITION_INFO_6.DDS" text_key="COMPOSITION_INFO_TEXT_6"/>
-	<category category_id="2" subcategory_id="4" subcategory_key="COMPOSITION_INFO" image="Resources/Image/help/COMPOSITION_INFO_7.DDS" text_key="COMPOSITION_INFO_TEXT_7"/>	
+	<category category_id="2" subcategory_id="4" subcategory_key="COMPOSITION_INFO" image="Resources/Image/help/COMPOSITION_INFO_7.DDS" text_key="COMPOSITION_INFO_TEXT_7"/>
 	<category category_id="2" subcategory_id="5" subcategory_key="Collecting_Book" image="Resources/Image/help/Collct_Book_1.jpg" text_key="Collecting_Book_TEXT_1"/>
 	<category category_id="2" subcategory_id="5" subcategory_key="Collecting_Book" image="Resources/Image/help/Collct_Book_2.jpg" text_key="Collecting_Book_TEXT_2"/>
 	<category category_id="2" subcategory_id="5" subcategory_key="Collecting_Book" image="Resources/Image/help/Collct_Book_2.jpg" text_key="Collecting_Book_TEXT_3"/>
@@ -85,12 +85,12 @@
 	<category category_id="3" subcategory_id="1" subcategory_key="Story_Basic" image="Resources/Image/help/Story_Basic_2.jpg" text_key="Story_Basic_TEXT_2"/>
 	<category category_id="3" subcategory_id="1" subcategory_key="Story_Basic" image="Resources/Image/help/Story_Basic_3.jpg" text_key="Story_Basic_TEXT_3"/>
 	<category category_id="3" subcategory_id="1" subcategory_key="Story_Basic" image="Resources/Image/help/Story_Basic_4.jpg" text_key="Story_Basic_TEXT_4"/>
-	<category category_id="3" subcategory_id="3" subcategory_key="Story_Group" image="Resources/Image/help/Story_Group_1.jpg" text_key="Story_Group_TEXT_1"/>
-	<category category_id="3" subcategory_id="3" subcategory_key="Story_Group" image="Resources/Image/help/Story_Group_1.jpg" text_key="Story_Group_TEXT_2"/>
-	<category category_id="3" subcategory_id="3" subcategory_key="Story_Group" image="Resources/Image/help/Story_Group_2.jpg" text_key="Story_Group_TEXT_3"/>
-	<category category_id="3" subcategory_id="3" subcategory_key="Story_Group" image="Resources/Image/help/Story_Group_2.jpg" text_key="Story_Group_TEXT_4"/>
-	<category category_id="3" subcategory_id="3" subcategory_key="Story_Group" image="Resources/Image/help/Story_Group_3.jpg" text_key="Story_Group_TEXT_5"/>
-	<category category_id="3" subcategory_id="3" subcategory_key="Story_Group" image="Resources/Image/help/Story_Group_3.jpg" text_key="Story_Group_TEXT_6"/>
+	<category category_id="3" subcategory_id="3" subcategory_key="Story_Group" image="Resources/Image/help/Story_Group_1.png" text_key="Story_Group_TEXT_1"/>
+	<category category_id="3" subcategory_id="3" subcategory_key="Story_Group" image="Resources/Image/help/Story_Group_1.png" text_key="Story_Group_TEXT_2"/>
+	<category category_id="3" subcategory_id="3" subcategory_key="Story_Group" image="Resources/Image/help/Story_Group_2.png" text_key="Story_Group_TEXT_3"/>
+	<category category_id="3" subcategory_id="3" subcategory_key="Story_Group" image="Resources/Image/help/Story_Group_2.png" text_key="Story_Group_TEXT_4"/>
+	<category category_id="3" subcategory_id="3" subcategory_key="Story_Group" image="Resources/Image/help/Story_Group_3.png" text_key="Story_Group_TEXT_5"/>
+	<category category_id="3" subcategory_id="3" subcategory_key="Story_Group" image="Resources/Image/help/Story_Group_3.png" text_key="Story_Group_TEXT_6"/>
 	<category category_id="3" subcategory_id="3" subcategory_key="Story_Dark" image="Resources/Image/help/Story_Dark_Title.jpg" text_key="Story_Dark_TEXT_Title"/>
 	<category category_id="3" subcategory_id="3" subcategory_key="Story_Dark" image="Resources/Image/help/Story_Dark_1.jpg" text_key="Story_Dark_TEXT_1"/>
 	<category category_id="3" subcategory_id="3" subcategory_key="Story_Dark" image="Resources/Image/help/Story_Dark_2.jpg" text_key="Story_Dark_TEXT_2"/>
@@ -120,4 +120,24 @@
 	<category category_id="3" subcategory_id="8" subcategory_key="Story_Cyborg" image="Resources/Image/help/Story_Cyborg_3.jpg" text_key="Story_Cyborg_TEXT_3"/>
 	<category category_id="3" subcategory_id="8" subcategory_key="Story_Cyborg" image="Resources/Image/help/Story_Cyborg_4.jpg" text_key="Story_Cyborg_TEXT_4"/>
 	<category category_id="3" subcategory_id="8" subcategory_key="Story_Cyborg" image="Resources/Image/help/Story_Cyborg_5.jpg" text_key="Story_Cyborg_TEXT_5"/>
+	<category category_id="3" subcategory_id="9" subcategory_key="Story_Neonetsphere" image="Resources/Image/help/Story_Neonetsphere_Title.png" text_key="Story_Neonetsphere_TEXT_Title"/>
+	<category category_id="3" subcategory_id="9" subcategory_key="Story_Neonetsphere" image="Resources/Image/help/Story_Neonetsphere_1.png" text_key="Story_Neonetsphere_TEXT_1"/>
+	<category category_id="3" subcategory_id="9" subcategory_key="Story_Neonetsphere" image="Resources/Image/help/Story_Neonetsphere_2.png" text_key="Story_Neonetsphere_TEXT_2"/>
+	<category category_id="3" subcategory_id="9" subcategory_key="Story_Neonetsphere" image="Resources/Image/help/Story_Neonetsphere_3.png" text_key="Story_Neonetsphere_TEXT_3"/>
+	<category category_id="3" subcategory_id="9" subcategory_key="Story_Neonetsphere" image="Resources/Image/help/Story_Neonetsphere_4.png" text_key="Story_Neonetsphere_TEXT_4"/>
+	<category category_id="0" subcategory_id="9" subcategory_key="MODE_AR" image="Resources/Image/help/AR_IMG_1.png" text_key="AR_TEXT_1"/>
+	<category category_id="0" subcategory_id="9" subcategory_key="MODE_AR" image="Resources/Image/help/AR_IMG_2.png" text_key="AR_TEXT_2"/>
+	<category category_id="0" subcategory_id="9" subcategory_key="MODE_AR" image="Resources/Image/help/AR_IMG_3.png" text_key="AR_TEXT_3"/>
+	<category category_id="0" subcategory_id="9" subcategory_key="MODE_AR" image="Resources/Image/help/AR_IMG_4.png" text_key="AR_TEXT_4"/>
+	<category category_id="3" subcategory_id="10" subcategory_key="Story_Union" image="Resources/Image/help/Story_Union_Title.png" text_key="Story_Union_TEXT_Title"/>
+	<category category_id="3" subcategory_id="10" subcategory_key="Story_Union" image="Resources/Image/help/Story_Union_1_7.png" text_key="Story_Union_TEXT_1"/>
+	<category category_id="3" subcategory_id="10" subcategory_key="Story_Union" image="Resources/Image/help/Story_Union_2.png" text_key="Story_Union_TEXT_2"/>
+	<category category_id="3" subcategory_id="10" subcategory_key="Story_Union" image="Resources/Image/help/Story_Union_3.png" text_key="Story_Union_TEXT_3"/>
+	<category category_id="3" subcategory_id="10" subcategory_key="Story_Union" image="Resources/Image/help/Story_Union_4.png" text_key="Story_Union_TEXT_4"/>
+	<category category_id="3" subcategory_id="10" subcategory_key="Story_Union" image="Resources/Image/help/Story_Union_5.png" text_key="Story_Union_TEXT_5"/>
+	<category category_id="3" subcategory_id="10" subcategory_key="Story_Union" image="Resources/Image/help/Story_Union_6.png" text_key="Story_Union_TEXT_6"/>
+	<category category_id="3" subcategory_id="10" subcategory_key="Story_Union" image="Resources/Image/help/Story_Union_1_7.png" text_key="Story_Union_TEXT_7"/>
+	<category category_id="3" subcategory_id="10" subcategory_key="Story_Union" image="Resources/Image/help/Story_Union_8.png" text_key="Story_Union_TEXT_8"/>
+	<category category_id="3" subcategory_id="11" subcategory_key="EP_Glitch" image="Resources/Image/help/EP_Glitch_Title.png" text_key="EP_Glitch_TEXT_Title"/>
+	<category category_id="3" subcategory_id="11" subcategory_key="EP_Glitch" image="Resources/Image/help/EP_Glitch_1.png" text_key="EP_Glitch_TEXT_1"/>
 </game_help>

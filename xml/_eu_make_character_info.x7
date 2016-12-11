@@ -94,7 +94,7 @@
 					<shoes itemid="1050046" variation="5" shopid="1" periodtype="DAYS" period="7" color="0" effectid="1105300004"/>
 				</costume>
 				<costume active_icon="Resources/XUI/Image/Makecharacter/Makecharacter_character_Random.tga" unactive_icon="Resources/XUI/Image/Makecharacter/Makecharacter_character_Random.tga" >
-				</costume>			
+				</costume>
 			</male>
 			<!-- 여성 -->
 			<female>

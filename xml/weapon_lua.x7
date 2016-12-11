@@ -533,7 +533,7 @@
 	<lua_func item_key="2050002" state="run" ani="RunState_EARTH_BOMBER"/>
 	<lua_func item_key="2050002" state="damage" ani="DamageState_EARTH_BOMBER"/>
 	<lua_func item_key="2050002" state="reload" ani="ReloadState_EARTH_BOMBER"/>
-	<lua_func item_key="2050007" state="left_attack" weapon="StandardLightningBomber" ani="UseWeapon1State_EARTH_BOMBER"/>
+	<lua_func item_key="2050007" state="left_attack" weapon="StandardLightningBomberMK2" ani="UseWeapon1State_EARTH_BOMBER"/>
 	<lua_func item_key="2050007" state="normal" ani="NormalState_EARTH_BOMBER"/>
 	<lua_func item_key="2050007" state="run" ani="RunState_EARTH_BOMBER"/>
 	<lua_func item_key="2050007" state="damage" ani="DamageState_EARTH_BOMBER"/>
@@ -543,7 +543,8 @@
 	<lua_func item_key="2050003" state="run" ani="RunState_EARTH_BOMBER"/>
 	<lua_func item_key="2050003" state="damage" ani="DamageState_EARTH_BOMBER"/>
 	<lua_func item_key="2050003" state="reload" ani="ReloadState_EARTH_BOMBER"/>
-	<lua_func item_key="2050008" state="left_attack" weapon="StandardRescueGunLaunch" ani="UseWeapon1State_RESCUE_GUN"/>
+	<lua_func item_key="2050008" state="left_attack" weapon="StandardRescueGunMK2Launch" ani="UseWeapon1State_RESCUE_GUN"/>
+	<lua_func item_key="2050008" state="right_attack" weapon="StandardRescueGunMK2Launch_Ammo" ani="UseWeapon1State_RESCUE_GUN"/>
 	<lua_func item_key="2050008" state="normal" ani="NormalState_RESCUE_GUN"/>
 	<lua_func item_key="2050008" state="run" ani="RunState_RESCUE_GUN"/>
 	<lua_func item_key="2050008" state="damage" ani="DamageState_RESCUE_GUN"/>
@@ -558,22 +559,22 @@
 	<lua_func item_key="2050005" state="run" ani="RunState_RESCUE_GUN"/>
 	<lua_func item_key="2050005" state="damage" ani="DamageState_RESCUE_GUN"/>
 	<lua_func item_key="2050005" state="reload" ani="ReloadState_RESCUE_GUN"/>
-	<lua_func item_key="2060001" state="left_attack" ani="UseWeapon1State_MindEnergy1"/>
+	<lua_func item_key="2060001" state="left_attack" weapon="MindHeal" ani="UseWeapon1State_MindEnergy1"/>
 	<lua_func item_key="2060001" state="normal" ani="NormalState_MindEnergy"/>
 	<lua_func item_key="2060001" state="run" ani="RunState_MindEnergy"/>
 	<lua_func item_key="2060001" state="damage" ani="DamageState_MindEnergy"/>
 	<lua_func item_key="2060001" state="reload" ani="ReloadState_MindEnergy"/>
-	<lua_func item_key="2060002" state="left_attack" ani="UseWeapon1State_MindStorm"/>
+	<lua_func item_key="2060002" state="left_attack" weapon="MindAttack" ani="UseWeapon1State_MindStorm"/>
 	<lua_func item_key="2060002" state="normal" ani="NormalState_MinStorm"/>
 	<lua_func item_key="2060002" state="run" ani="RunState_MinStorm"/>
 	<lua_func item_key="2060002" state="damage" ani="DamageState_MinStorm"/>
 	<lua_func item_key="2060002" state="reload" ani="ReloadState_MinStorm"/>
-	<lua_func item_key="2060003" state="left_attack" ani="UseWeapon1State_MindEnergy1"/>
+	<lua_func item_key="2060003" state="left_attack" weapon="MindHealOrora" ani="UseWeapon1State_MindEnergy1"/>
 	<lua_func item_key="2060003" state="normal" ani="NormalState_MindOrora"/>
 	<lua_func item_key="2060003" state="run" ani="RunState_MindOrora"/>
 	<lua_func item_key="2060003" state="damage" ani="DamageState_MindOrora"/>
 	<lua_func item_key="2060003" state="reload" ani="ReloadState_MindOrora"/>
-	<lua_func item_key="2060004" state="left_attack" ani="UseWeapon1State_MindStorm"/>
+	<lua_func item_key="2060004" state="left_attack" weapon="MindAttackAlice" ani="UseWeapon1State_MindStorm"/>
 	<lua_func item_key="2060004" state="normal" ani="NormalState_MinStorm"/>
 	<lua_func item_key="2060004" state="run" ani="RunState_MinStorm"/>
 	<lua_func item_key="2060004" state="damage" ani="DamageState_MinStorm"/>
@@ -634,7 +635,7 @@
 	<lua_func item_key="2050006" state="run" ani="RunState_EARTH_BOMBER"/>
 	<lua_func item_key="2050006" state="damage" ani="DamageState_EARTH_BOMBER"/>
 	<lua_func item_key="2050006" state="reload" ani="ReloadState_EARTH_BOMBER"/>
-	<lua_func item_key="2060005" state="left_attack" ani="UseWeapon1State_Magic_Cube"/>
+	<lua_func item_key="2060005" state="left_attack" weapon="MindHealUnique" ani="UseWeapon1State_Magic_Cube"/>
 	<lua_func item_key="2060005" state="normal" ani="NormalState_MindEnergy"/>
 	<lua_func item_key="2060005" state="run" ani="RunState_MindEnergy"/>
 	<lua_func item_key="2060005" state="damage" ani="DamageState_MindEnergy"/>
@@ -658,12 +659,12 @@
 	<lua_func item_key="2000029" state="run" ani="RunState_DEATH_SCYTHE"/>
 	<lua_func item_key="2000029" state="damage" ani="Damage_DEATH_SCYTHE"/>
 	<lua_func item_key="2000035" state="left_attack" weapon="IRONBOOTS_Dash_Kick_Attack" ani="ANI_IRONBOOTS_Dash_Kick_Attack"/>
-	<lua_func item_key="2000035" state="left_weak" weapon="IRONBOOTS_First_Kick_Attack" ani="ANI_IRONBOOTS_First_Kick_Attack"/>
+	<lua_func item_key="2000035" state="left_weak" weapon="IRONBOOTS_First_Kick_Attack" ani="ANI_IRONBOOTS_First_Kick_Attack_Normal"/>
 	<lua_func item_key="2000035" state="left_strong1" weapon="IRONBOOTS_Upper_Kick_Attack_Normal" ani="ANI_IRONBOOTS_Upper_Kick_Attack_Normal"/>
 	<lua_func item_key="2000035" state="left_jump" weapon="IRONBOOTS_Jump_Smash_Kick_Attack" ani="ANI_IRONBOOTS_Jump_Smash_Kick_Attack"/>
 	<lua_func item_key="2000035" state="left_attack2" weapon="IRONBOOTS_Second_Kick_Attack_Normal" ani="ANI_IRONBOOTS_Second_Kick_Attack_Normal"/>
 	<lua_func item_key="2000035" state="left_attack3" weapon="IRONBOOTS_Third_Kick_Attack_Normal" ani="ANI_IRONBOOTS_Third_Kick_Attack_Normal"/>
-	<lua_func item_key="2000035" state="left_attack4" weapon="IRONBOOTS_Fourth_Kick_Attack" ani="ANI_IRONBOOTS_Fourth_Kick_Attack"/>
+	<lua_func item_key="2000035" state="left_attack4" weapon="IRONBOOTS_Fourth_Kick_Attack" ani="ANI_IRONBOOTS_Fourth_Kick_Attack_Normal"/>
 	<lua_func item_key="2000035" state="right_attack" weapon="IRONBOOTS_Boost_Dash_Attack_Normal" ani="ANI_IRONBOOTS_Boost_Dash_Attack_Normal"/>
 	<lua_func item_key="2000035" state="normal" ani="NormalState_IRONBOOTS"/>
 	<lua_func item_key="2000035" state="run" ani="RunState_IRONBOOTS"/>
@@ -679,16 +680,16 @@
 	<lua_func item_key="2000030" state="normal" ani="NormalState_IRONBOOTS"/>
 	<lua_func item_key="2000030" state="run" ani="RunState_IRONBOOTS"/>
 	<lua_func item_key="2000030" state="damage" ani="DamageState_IRONBOOTS"/>
-	<lua_func item_key="2020009" state="left_attack" weapon="Standardturret" ani="UseWeapon1State_TURRET"/>
+	<lua_func item_key="2020009" state="left_attack" weapon="Standardturret_MK2" ani="UseWeapon1State_TURRET"/>
 	<lua_func item_key="2020009" state="normal" ani="NormalState_TURRET"/>
 	<lua_func item_key="2020009" state="run" ani="RunState_TURRET"/>
 	<lua_func item_key="2020009" state="damage" ani="DamageState_TURRET"/>
 	<lua_func item_key="2020009" state="reload" ani="ReloadState_TURRET"/>
 	<lua_func item_key="2020009" state="normalinstall" ani="NormalState_TURRETINSTALL"/>
 	<lua_func item_key="2020009" state="reloadinstall" ani="ReloadState_TURRETINSTALL"/>
-	<lua_func item_key="2020009" state="left_attack_install" weapon="StandardturretInstall" ani="UseWeapon1State_TURRETINSTALL"/>
-	<lua_func item_key="2020009" state="right_attack_install" weapon="StandardTurretToNormal" ani="Reload2State_TURRETINSTALL"/>
-	<lua_func item_key="2020009" state="right_attack" weapon="StandardTurretToInstall" ani="Reload2State_TURRET"/>
+	<lua_func item_key="2020009" state="left_attack_install" weapon="StandardturretInstall_MK2" ani="UseWeapon1State_TURRETINSTALL"/>
+	<lua_func item_key="2020009" state="right_attack_install" weapon="StandardTurretToNormal_MK2" ani="Reload2State_TURRETINSTALL"/>
+	<lua_func item_key="2020009" state="right_attack" weapon="StandardTurretToInstall_MK2" ani="Reload2State_TURRET"/>
 	<lua_func item_key="2000032" state="right_attack" weapon="StandardSpyDaggerAttack2" ani="UseWeapon2State_SpyDagger"/>
 	<lua_func item_key="2000032" state="normal" ani="NormalState_SpyDagger"/>
 	<lua_func item_key="2000032" state="run" ani="RunState_SpyDagger"/>
@@ -728,24 +729,133 @@
 	<lua_func item_key="2010038" state="reload" ani="ReloadState_DualGun"/>
 	<lua_func item_key="2000034" state="right_attack" weapon="StandardDoubleSwordAfterDash5" ani="UseWeapon2State_Double"/>
 	<lua_func item_key="2000034" state="left_weak" weapon="StandardDoubleSwordAfterDash1" ani="SwordAtkAfterDash1State_DoubleSword"/>
-	<lua_func item_key="2000034" state="left_jump" weapon="StandardDoubleSwordJumpDash" ani="SwordJumpAtkState_DoubleSword"/>
+	<lua_func item_key="2000034" state="left_jump" weapon="StandardDoubleSwordJumpDash" ani="SwordJumpAtkState_DoubleSword_Unique"/>
 	<lua_func item_key="2000034" state="left_attack2" weapon="StandardDoubleSwordAfterDash2" ani="SwordAtkAfterDash2State_DoubleSword"/>
 	<lua_func item_key="2000034" state="left_attack3" weapon="StandardDoubleSwordAfterDash3" ani="SwordAtkAfterDash3State_DoubleSword"/>
-	<lua_func item_key="2000034" state="left_attack4" weapon="StandardDoubleSwordAfterDash4" ani="SwordAtkAfterDash4State_DoubleSword"/>
+	<lua_func item_key="2000034" state="left_attack4" weapon="StandardDoubleSwordAfterDash4" ani="SwordAtkAfterDash4State_DoubleSword_Unique"/>
 	<lua_func item_key="2000034" state="left_attack5" weapon="StandardDoubleSwordGatherGuage" ani="SwordAtkAfterDash5State_DoubleSword"/>
 	<lua_func item_key="2000034" state="normal" ani="NormalState_DoubleSword"/>
 	<lua_func item_key="2000034" state="run" ani="RunState_DoubleSword"/>
 	<lua_func item_key="2000034" state="damage" ani="DamageState_DoubleSword"/>
-	<lua_func item_key="2020010" state="left_attack" weapon="StandardMineLaunch" ani="UseWeapon1State_MineLauncher"/>
-	<lua_func item_key="2020010" state="normal" ani="NormalState_MineLauncher"/>
-	<lua_func item_key="2020010" state="run" ani="RunState_MineLauncher"/>
-	<lua_func item_key="2020010" state="damage" ani="DamageState_MineLauncher"/>
-	<lua_func item_key="2020010" state="reload" ani="ReloadState_MineLauncher"/>
-	<lua_func item_key="2020011" state="left_attack" weapon="StandardMineLaunch" ani="UseWeapon1State_MineLauncher"/>
-	<lua_func item_key="2020011" state="normal" ani="NormalState_MineLauncher"/>
-	<lua_func item_key="2020011" state="run" ani="RunState_MineLauncher"/>
-	<lua_func item_key="2020011" state="damage" ani="DamageState_MineLauncher"/>
-	<lua_func item_key="2020011" state="reload" ani="ReloadState_MineLauncher"/>
+	<lua_func item_key="2020010" state="left_attack" weapon="StandardRocketLauncherNormal" ani="ANI_UseWeapon1State_RocketLauncher"/>
+	<lua_func item_key="2020010" state="right_attack" weapon="MultiShotRocketLauncherNormal" ani="ANI_UseWeapon2State_RocketLauncher"/>
+	<lua_func item_key="2020010" state="normal" ani="NormalState_RocketLauncher"/>
+	<lua_func item_key="2020010" state="run" ani="RunState_RocketLauncher"/>
+	<lua_func item_key="2020010" state="damage" ani="DamageState_RocketLauncher"/>
+	<lua_func item_key="2020010" state="reload" ani="ReloadState_RocketLauncher"/>
+	<lua_func item_key="2020011" state="left_attack" weapon="StandardRocketLauncher" ani="ANI_UseWeapon1State_RocketLauncher"/>
+	<lua_func item_key="2020011" state="right_attack" weapon="MultiShotRocketLauncher" ani="ANI_UseWeapon2State_RocketLauncher"/>
+	<lua_func item_key="2020011" state="normal" ani="NormalState_RocketLauncher"/>
+	<lua_func item_key="2020011" state="run" ani="RunState_RocketLauncher"/>
+	<lua_func item_key="2020011" state="damage" ani="DamageState_RocketLauncher"/>
+	<lua_func item_key="2020011" state="reload" ani="ReloadState_RocketLauncher"/>
+	<lua_func item_key="2010039" state="left_attack" weapon="StandardSubmachine" ani="UseWeapon1State_SubMachineGunAttack"/>
+	<lua_func item_key="2010039" state="normal" ani="NormalState_SubMachineGun"/>
+	<lua_func item_key="2010039" state="run" ani="RunState_SubMachineGun"/>
+	<lua_func item_key="2010039" state="damage" ani="DamageState_SubMachineGun"/>
+	<lua_func item_key="2010039" state="reload" ani="ReloadState_SubMachineGun"/>
+	<lua_func item_key="2010040" state="left_attack" weapon="StandardRevolver" ani="UseWeapon1State_Revolver"/>
+	<lua_func item_key="2010040" state="normal" ani="NormalState_Revolver"/>
+	<lua_func item_key="2010040" state="run" ani="RunState_Revolver"/>
+	<lua_func item_key="2010040" state="damage" ani="DamageState_Revolver"/>
+	<lua_func item_key="2010040" state="reload" ani="ReloadState_Revolver"/>
+	<lua_func item_key="2000036" state="left_weak" weapon="LeftAttack_DemonicKnuckle" ani="ANI_LeftAttack_DemonicKnuckle"/>
+	<lua_func item_key="2000036" state="left_attack2" weapon="LeftAttack2_DemonicKnuckle" ani="ANI_LeftAttack2_DemonicKnuckle"/>
+	<lua_func item_key="2000036" state="left_jump" weapon="LeftJump_DemonicKnuckle" ani="ANI_LeftJump_DemonicKnuckle"/>
+	<lua_func item_key="2000036" state="right_attack" weapon="RightAttack_DemonicKnuckle" ani="ANI_RightAttack_DemonicKnuckle"/>
+	<lua_func item_key="2000036" state="normal" ani="NormalState_DemonicKnuckle"/>
+	<lua_func item_key="2000036" state="run" ani="RunState_DemonicKnuckle"/>
+	<lua_func item_key="2000036" state="damage" ani="DamageState_DemonicKnuckle"/>
+	<lua_func item_key="2040007" state="left_attack" ani="ANI_LeftAttack_EnergySupplyBuilder"/>
+	<lua_func item_key="2040007" state="normal" ani="NormalState_EnergySupplyBuilder"/>
+	<lua_func item_key="2040007" state="run" ani="RunState_EnergySupplyBuilder"/>
+	<lua_func item_key="2040007" state="damage" ani="DamageState_EnergySupplyBuilder"/>
+	<lua_func item_key="2000037" state="right_attack" weapon="StandardSpyDaggerAttack2" ani="UseWeapon2State_SpyDagger_Mach3"/>
+	<lua_func item_key="2000037" state="normal" ani="NormalState_SpyDagger"/>
+	<lua_func item_key="2000037" state="run" ani="RunState_SpyDagger"/>
+	<lua_func item_key="2000037" state="damage" ani="DamageState_SpyDagger"/>
+	<lua_func item_key="2000037" state="left_attack" weapon="StandardSpyDaggerAttack1" ani="UseWeapon1State_SpyDagger_Mach3"/>
+	<lua_func item_key="2000038" state="left_weak" weapon="LeftAttack_DemonicKnuckle" ani="ANI_LeftAttack_MetalicKnuckle"/>
+	<lua_func item_key="2000038" state="left_attack2" weapon="LeftAttack2_DemonicKnuckle" ani="ANI_LeftAttack2_DemonicKnuckle"/>
+	<lua_func item_key="2000038" state="left_jump" weapon="LeftJump_DemonicKnuckle" ani="ANI_LeftJump_MetalicKnuckle"/>
+	<lua_func item_key="2000038" state="right_attack" weapon="RightAttack_DemonicKnuckle" ani="ANI_RightAttack_MetalicKnuckle"/>
+	<lua_func item_key="2000038" state="normal" ani="NormalState_DemonicKnuckle"/>
+	<lua_func item_key="2000038" state="run" ani="RunState_DemonicKnuckle"/>
+	<lua_func item_key="2000038" state="damage" ani="DamageState_DemonicKnuckle"/>
+	<lua_func item_key="2010041" state="left_attack" weapon="LeftAttack_BustShotGunMK2" ani="UseWeapon1State_SMG4"/>
+	<lua_func item_key="2010041" state="normal" ani="NormalState_SMG4"/>
+	<lua_func item_key="2010041" state="run" ani="RunState_SMG4"/>
+	<lua_func item_key="2010041" state="damage" ani="DamageState_SMG4"/>
+	<lua_func item_key="2010041" state="reload" ani="ReloadState_SMG4"/>
+	<lua_func item_key="2000039" state="left_weak" weapon="BasicAttackByDeathScythe_1" ani="FirstBasicAttack_DEATHSCYTHE"/>
+	<lua_func item_key="2000039" state="left_strong1" weapon="SpecialAttackByDeathScythe" ani="SpecialAttack_DEATHSCYTHE"/>
+	<lua_func item_key="2000039" state="left_jump" weapon="JumpAttackByDeathScythe" ani="JumpAttack_DEATHSCYTHE"/>
+	<lua_func item_key="2000039" state="left_attack2" weapon="BasicAttackByDeathScythe_2" ani="SecondBasicAttack_DEATHSCYTHE"/>
+	<lua_func item_key="2000039" state="left_attack3" weapon="BasicAttackByDeathScythe_3" ani="ThirdBasicAttack_DEATHSCYTHE"/>
+	<lua_func item_key="2000039" state="right_attack" weapon="UpperCutByDeathScythe" ani="StrongUpperCutAttack_DEATHSCYTHE"/>
+	<lua_func item_key="2000039" state="normal" ani="NormalState_DeathScythe"/>
+	<lua_func item_key="2000039" state="run" ani="RunState_DEATH_SCYTHE"/>
+	<lua_func item_key="2000039" state="damage" ani="Damage_DEATH_SCYTHE"/>
+	<lua_func item_key="2020012" state="left_attack" weapon="StandardChainLightGunMK2" ani="UseWeapon1State_SHOCK_WAVE_GUN"/>
+	<lua_func item_key="2020012" state="normal" ani="NormalState_SHOCK_WAVE_GUN"/>
+	<lua_func item_key="2020012" state="run" ani="RunState_SHOCK_WAVE_GUN"/>
+	<lua_func item_key="2020012" state="damage" ani="DamageState_SHOCK_WAVE_GUN"/>
+	<lua_func item_key="2020012" state="reload" ani="ReloadState_SHOCK_WAVE_GUN"/>
+	<lua_func item_key="2040008" state="left_attack" ani="ANI_LeftAttack_EnergySupplyBuilder"/>
+	<lua_func item_key="2040008" state="normal" ani="NormalState_EnergySupplyBuilder"/>
+	<lua_func item_key="2040008" state="run" ani="RunState_EnergySupplyBuilder"/>
+	<lua_func item_key="2040008" state="damage" ani="DamageState_EnergySupplyBuilder"/>
+	<lua_func item_key="2000042" state="right_attack" weapon="StandardSpyDaggerAttack2" ani="UseWeapon2State_SpyDagger_Mach3_Event"/>
+	<lua_func item_key="2000042" state="normal" ani="NormalState_SpyDagger"/>
+	<lua_func item_key="2000042" state="run" ani="RunState_SpyDagger"/>
+	<lua_func item_key="2000042" state="damage" ani="DamageState_SpyDagger"/>
+	<lua_func item_key="2000042" state="left_attack" weapon="StandardSpyDaggerAttack1" ani="UseWeapon1State_SpyDagger_Mach3_Event"/>
+	<lua_func item_key="2010042" state="left_attack" weapon="StandardSmg3gun" ani="UseWeapon1State_SMG3Gun"/>
+	<lua_func item_key="2010042" state="right_weak" weapon="StandardSmg3sword" ani="UseWeapon2WeakState_SMG3Sword"/>
+	<lua_func item_key="2010042" state="right_strong" weapon="StandardSmg3sword" ani="UseWeapon2StrongState_SMG3Sword"/>
+	<lua_func item_key="2010042" state="normal" ani="NormalState_SMG3"/>
+	<lua_func item_key="2010042" state="run" ani="RunState_SMG3"/>
+	<lua_func item_key="2010042" state="damage" ani="DamageState_SMG3"/>
+	<lua_func item_key="2010042" state="reload" ani="ReloadState_SMG3"/>
+	<lua_func item_key="2010043" state="left_attack" weapon="StandardSmg3gun" ani="UseWeapon1State_SMG3Gun"/>
+	<lua_func item_key="2010043" state="right_weak" weapon="StandardSmg3sword" ani="UseWeapon2WeakState_SMG3Sword"/>
+	<lua_func item_key="2010043" state="right_strong" weapon="StandardSmg3sword" ani="UseWeapon2StrongState_SMG3Sword"/>
+	<lua_func item_key="2010043" state="normal" ani="NormalState_SMG3"/>
+	<lua_func item_key="2010043" state="run" ani="RunState_SMG3"/>
+	<lua_func item_key="2010043" state="damage" ani="DamageState_SMG3"/>
+	<lua_func item_key="2010043" state="reload" ani="ReloadState_SMG3"/>
+	<lua_func item_key="2000043" state="left_weak" weapon="StandardCounterSwordAfterDash1" ani="SwordAtkAfterDash1State_CounterSword"/>
+	<lua_func item_key="2000043" state="left_strong1" weapon="StandardCounterSwordCounterAttack" ani="SwordAtkCounterAttack_CounterSword"/>
+	<lua_func item_key="2000043" state="left_jump" weapon="StandardCounterSwordJumpDash" ani="SwordJumpAtkState_CounterSword"/>
+	<lua_func item_key="2000043" state="left_attack2" weapon="StandardCounterSwordAfterDash2" ani="SwordAtkAfterDash2State_CounterSword"/>
+	<lua_func item_key="2000043" state="left_attack3" weapon="StandardCounterSwordAfterDash3" ani="SwordAtkAfterDash3State_CounterSword"/>
+	<lua_func item_key="2000043" state="left_attack4" weapon="StandardCounterSwordAfterDash4" ani="SwordAtkAfterDash4State_CounterSword"/>
+	<lua_func item_key="2000043" state="counter_attack" weapon="StandardCounterSwordCounterAttack" ani="SwordAtkCounterAttack_CounterSword"/>
+	<lua_func item_key="2000043" state="normal" ani="NormalState_CounterSword"/>
+	<lua_func item_key="2000043" state="run" ani="RunState_CounterSword"/>
+	<lua_func item_key="2000043" state="damage" ani="DamageState_CounterSword"/>
+	<lua_func item_key="2000043" state="right_attack" ani="UseWeapon2State_CounterSwordGuard"/>
+	<lua_func item_key="2000044" state="left_weak" weapon="StandardKatana_A_SwordAfterDash1" ani="SwordAtkAfterDash1State_Katana_JIN_Sword"/>
+	<lua_func item_key="2000044" state="left_strong1" weapon="StandardKatana_A_SwordStrong" ani="SwordAtkStrongState_Katana_JIN_Sword"/>
+	<lua_func item_key="2000044" state="left_jump" weapon="StandardKatana_A_SwordJumpDash" ani="SwordJumpAtkState_Katana_JIN_Sword"/>
+	<lua_func item_key="2000044" state="left_attack2" weapon="StandardKatana_A_SwordAfterDash2" ani="SwordAtkAfterDash2State_Katana_JIN_Sword"/>
+	<lua_func item_key="2000044" state="left_attack3" weapon="StandardKatana_A_SwordAfterDash3" ani="SwordAtkAfterDash3State_Katana_JIN_Sword"/>
+	<lua_func item_key="2000044" state="left_attack4" weapon="StandardKatana_A_SwordAttack2Charge" ani="UseWeapon2Charge_Katana_A_Sword"/>
+	<lua_func item_key="2000044" state="left_attack5" weapon="StandardKatana_A_SwordAttack2Dash" ani="UseWeapon2Dash_Katana_JIN_Sword"/>
+	<lua_func item_key="2000044" state="normal" ani="NormalState_Katana_A_Sword"/>
+	<lua_func item_key="2000044" state="run" ani="RunState_Katana_A_Sword"/>
+	<lua_func item_key="2000044" state="damage" ani="DamageState_Katana_A_Sword"/>
+	<lua_func item_key="2000044" state="right_attack" weapon="StandardKatana_A_SwordAttack2BackDash" ani="UseWeapon2BackDash_Katana_A_Sword"/>
+	<lua_func item_key="2010044" state="left_attack" weapon="StandardRevolver" ani="UseWeapon1State_Revolver"/>
+	<lua_func item_key="2010044" state="normal" ani="NormalState_Revolver"/>
+	<lua_func item_key="2010044" state="run" ani="RunState_Revolver"/>
+	<lua_func item_key="2010044" state="damage" ani="DamageState_Revolver"/>
+	<lua_func item_key="2010044" state="reload" ani="ReloadState_Revolver"/>
+	<lua_func item_key="2010041" state="left_attack" weapon="LeftAttack_BustShotGunMK2" ani="UseWeapon1State_SMG4"/>
+	<lua_func item_key="2010041" state="normal" ani="NormalState_SMG4"/>
+	<lua_func item_key="2010041" state="run" ani="RunState_SMG4"/>
+	<lua_func item_key="2010041" state="damage" ani="DamageState_SMG4"/>
+	<lua_func item_key="2010041" state="reload" ani="ReloadState_SMG4"/>
 	<lua_func item_key="2020040" state="left_attack" weapon="GaussRifleMK2_Standard" ani="ANI_GaussRifleMK2_Standard"/>
 	<lua_func item_key="2020040" state="normal" ani="NormalState_MG2"/>
 	<lua_func item_key="2020040" state="run" ani="RunState_MG2"/>
@@ -758,4 +868,286 @@
 	<lua_func item_key="2020041" state="damage" ani="DamageState_MG2"/>
 	<lua_func item_key="2020041" state="reload" ani="ReloadState_MG2"/>
 	<lua_func item_key="2020041" state="right_attack" weapon="GaussRifleMK2_MultiShot" ani="ANI_GaussRifleMK2_MultiShot"/>
+	<lua_func item_key="2000045" state="right_attack" weapon="StandardSpyDaggerAttack2" ani="UseWeapon2State_SpyDagger"/>
+	<lua_func item_key="2000045" state="normal" ani="NormalState_SpyDagger"/>
+	<lua_func item_key="2000045" state="run" ani="RunState_SpyDagger"/>
+	<lua_func item_key="2000045" state="damage" ani="DamageState_SpyDagger"/>
+	<lua_func item_key="2000045" state="left_attack" weapon="StandardSpyDaggerAttack1" ani="UseWeapon1State_SpyDagger"/>
+	<lua_func item_key="2000046" state="right_attack" weapon="StandardPlasmaSwordAttack2" ani="UseWeapon2State_PlasmaSword"/>
+	<lua_func item_key="2000046" state="left_weak" weapon="StandardPlasmaSwordStandAttack_Weak" ani="SwordAtkWeakState_PlasmaSword"/>
+	<lua_func item_key="2000046" state="left_strong1" weapon="StandardPlasmaSwordStandAttack_Strong" ani="SwordAtkStrongState_PlasmaSword"/>
+	<lua_func item_key="2000046" state="left_jump" weapon="StandardPlasmaSwordJumpAttack" ani="SwordJumpAtkState_PlasmaSword"/>
+	<lua_func item_key="2000046" state="left_strong2" weapon="StandardPlasmaSwordStandAttack_Strong1" ani="SwordAtkStrong1State_PlasmaSword"/>
+	<lua_func item_key="2000046" state="normal" ani="NormalState_PlasmaSword"/>
+	<lua_func item_key="2000046" state="run" ani="RunState_PlasmaSword"/>
+	<lua_func item_key="2000046" state="damage" ani="DamageState_PlasmaSword"/>
+	<lua_func item_key="2000047" state="right_attack" weapon="StandardPlasmaSwordAttack2" ani="UseWeapon2State_PlasmaSword"/>
+	<lua_func item_key="2000047" state="left_weak" weapon="StandardPlasmaSwordStandAttack_Weak" ani="SwordAtkWeakState_PlasmaSword"/>
+	<lua_func item_key="2000047" state="left_strong1" weapon="StandardPlasmaSwordStandAttack_Strong" ani="SwordAtkStrongState_PlasmaSword"/>
+	<lua_func item_key="2000047" state="left_jump" weapon="StandardPlasmaSwordJumpAttack" ani="SwordJumpAtkState_PlasmaSword"/>
+	<lua_func item_key="2000047" state="left_strong2" weapon="StandardPlasmaSwordStandAttack_Strong1" ani="SwordAtkStrong1State_PlasmaSword"/>
+	<lua_func item_key="2000047" state="normal" ani="NormalState_PlasmaSword"/>
+	<lua_func item_key="2000047" state="run" ani="RunState_PlasmaSword"/>
+	<lua_func item_key="2000047" state="damage" ani="DamageState_PlasmaSword"/>
+	<lua_func item_key="2000048" state="right_attack" weapon="StandardPlasmaSwordAttack2" ani="UseWeapon2State_PlasmaSword"/>
+	<lua_func item_key="2000048" state="left_weak" weapon="StandardPlasmaSwordStandAttack_Weak" ani="SwordAtkWeakState_PlasmaSword"/>
+	<lua_func item_key="2000048" state="left_strong1" weapon="StandardPlasmaSwordStandAttack_Strong" ani="SwordAtkStrongState_PlasmaSword"/>
+	<lua_func item_key="2000048" state="left_jump" weapon="StandardPlasmaSwordJumpAttack" ani="SwordJumpAtkState_PlasmaSword"/>
+	<lua_func item_key="2000048" state="left_strong2" weapon="StandardPlasmaSwordStandAttack_Strong1" ani="SwordAtkStrong1State_PlasmaSword"/>
+	<lua_func item_key="2000048" state="normal" ani="NormalState_PlasmaSword"/>
+	<lua_func item_key="2000048" state="run" ani="RunState_PlasmaSword"/>
+	<lua_func item_key="2000048" state="damage" ani="DamageState_PlasmaSword"/>
+	<lua_func item_key="2000040" state="right_attack" weapon="StandardBreakerAfterDash5" ani="UseWeapon2State_Breaker"/>
+	<lua_func item_key="2000040" state="left_weak" weapon="StandardBreakerAfterDash1" ani="SwordAtkAfterDash1State_Breaker"/>
+	<lua_func item_key="2000040" state="left_strong1" weapon="StandardBreakerStandAttack_Strong" ani="SwordAtkStrongState_Breaker"/>
+	<lua_func item_key="2000040" state="left_jump" weapon="StandardBreakerJumpDash" ani="SwordJumpAtkState_BreakerUnique"/>
+	<lua_func item_key="2000040" state="left_attack4" weapon="StandardBreakerAfterDash4" ani="SwordAtkAfterDash4State_Breaker"/>
+	<lua_func item_key="2000040" state="left_attack5" weapon="StandardBreakerGatherGuage" ani="SwordAtkAfterDash5State_Breaker"/>
+	<lua_func item_key="2000040" state="normal" ani="NormalState_Breaker"/>
+	<lua_func item_key="2000040" state="run" ani="RunState_Breaker"/>
+	<lua_func item_key="2000040" state="damage" ani="DamageState_Breaker"/>
+	<lua_func item_key="2000041" state="left_weak" weapon="StandardCounterSwordAfterDash1" ani="SwordAtkAfterDash1State_CounterSword"/>
+	<lua_func item_key="2000041" state="left_strong1" weapon="StandardCounterSwordCounterAttack" ani="SwordAtkCounterAttack_CounterSword"/>
+	<lua_func item_key="2000041" state="left_jump" weapon="StandardCounterSwordJumpDash" ani="SwordJumpAtkState_CounterSword"/>
+	<lua_func item_key="2000041" state="left_attack2" weapon="StandardCounterSwordAfterDash2" ani="SwordAtkAfterDash2State_CounterSword"/>
+	<lua_func item_key="2000041" state="left_attack3" weapon="StandardCounterSwordAfterDash3" ani="SwordAtkAfterDash3State_CounterSword"/>
+	<lua_func item_key="2000041" state="left_attack4" weapon="StandardCounterSwordAfterDash4" ani="SwordAtkAfterDash4State_CounterSword"/>
+	<lua_func item_key="2000041" state="counter_attack" weapon="StandardCounterSwordCounterAttack" ani="SwordAtkCounterAttack_CounterSword"/>
+	<lua_func item_key="2000041" state="normal" ani="NormalState_CounterSword"/>
+	<lua_func item_key="2000041" state="run" ani="RunState_CounterSword"/>
+	<lua_func item_key="2000041" state="damage" ani="DamageState_CounterSword"/>
+	<lua_func item_key="2000041" state="right_attack" ani="UseWeapon2State_CounterSwordGuard"/>
+	<lua_func item_key="2050010" state="left_attack" weapon="GrenadeUniqueLaunch" ani="UseWeapon1State_MineLauncher"/>
+	<lua_func item_key="2050010" state="normal" ani="NormalState_MineLauncher"/>
+	<lua_func item_key="2050010" state="run" ani="RunState_MineLauncher"/>
+	<lua_func item_key="2050010" state="damage" ani="DamageState_MineLauncher"/>
+	<lua_func item_key="2050010" state="reload" ani="ReloadState_Grenade_Unique"/>
+	<lua_func item_key="2020042" state="left_attack" weapon="StandardMachinegun" ani="UseWeapon1State_MachineGunAttack"/>
+	<lua_func item_key="2020042" state="normal" ani="NormalState_MachineGun"/>
+	<lua_func item_key="2020042" state="run" ani="RunState_MachineGun"/>
+	<lua_func item_key="2020042" state="damage" ani="DamageState_MachineGun"/>
+	<lua_func item_key="2020042" state="reload" ani="ReloadState_MachineGun"/>
+	<lua_func item_key="2010045" state="left_attack" weapon="StandardSmg3gun" ani="UseWeapon1State_SMG3Gun"/>
+	<lua_func item_key="2010045" state="right_weak" weapon="StandardSmg3sword" ani="UseWeapon2WeakState_SMG3Sword"/>
+	<lua_func item_key="2010045" state="right_strong" weapon="StandardSmg3sword" ani="UseWeapon2StrongState_SMG3Sword"/>
+	<lua_func item_key="2010045" state="normal" ani="NormalState_SMG3"/>
+	<lua_func item_key="2010045" state="run" ani="RunState_SMG3"/>
+	<lua_func item_key="2010045" state="damage" ani="DamageState_SMG3"/>
+	<lua_func item_key="2010045" state="reload" ani="ReloadState_SMG3"/>
+	<lua_func item_key="2000049" state="right_attack" weapon="StandardSpyDaggerAttack2" ani="UseWeapon2State_SpyDagger"/>
+	<lua_func item_key="2000049" state="normal" ani="NormalState_SpyDagger"/>
+	<lua_func item_key="2000049" state="run" ani="RunState_SpyDagger"/>
+	<lua_func item_key="2000049" state="damage" ani="DamageState_SpyDagger"/>
+	<lua_func item_key="2000049" state="left_attack" weapon="StandardSpyDaggerAttack1" ani="UseWeapon1State_SpyDagger"/>
+	<lua_func item_key="2010046" state="left_attack" weapon="StandardSmg2Homing" ani="UseWeapon1State_HOMING_RIFLE"/>
+	<lua_func item_key="2010046" state="normal" ani="NormalState_HOMING_RIFLE"/>
+	<lua_func item_key="2010046" state="run" ani="RunState_HOMING_RIFLE"/>
+	<lua_func item_key="2010046" state="damage" ani="DamageState_HOMING_RIFLE"/>
+	<lua_func item_key="2010046" state="reload" ani="ReloadState_HOMING_RIFLE"/>
+	<lua_func item_key="2050011" state="left_attack" weapon="StandardEarthBomber" ani="UseWeapon1State_EARTH_BOMBER"/>
+	<lua_func item_key="2050011" state="normal" ani="NormalState_EARTH_BOMBER"/>
+	<lua_func item_key="2050011" state="run" ani="RunState_EARTH_BOMBER"/>
+	<lua_func item_key="2050011" state="damage" ani="DamageState_EARTH_BOMBER"/>
+	<lua_func item_key="2050011" state="reload" ani="ReloadState_EARTH_BOMBER"/>
+	<lua_func item_key="2000050" state="left_weak" weapon="BasicAttackByDeathScythe_1" ani="FirstBasicAttack_DEATHSCYTHE"/>
+	<lua_func item_key="2000050" state="left_strong1" weapon="SpecialAttackByDeathScythe" ani="SpecialAttack_DEATHSCYTHE"/>
+	<lua_func item_key="2000050" state="left_jump" weapon="JumpAttackByDeathScythe" ani="JumpAttack_DEATHSCYTHE"/>
+	<lua_func item_key="2000050" state="left_attack2" weapon="BasicAttackByDeathScythe_2" ani="SecondBasicAttack_DEATHSCYTHE"/>
+	<lua_func item_key="2000050" state="left_attack3" weapon="BasicAttackByDeathScythe_3" ani="ThirdBasicAttack_DEATHSCYTHE"/>
+	<lua_func item_key="2000050" state="right_attack" weapon="UpperCutByDeathScythe" ani="StrongUpperCutAttack_DEATHSCYTHE"/>
+	<lua_func item_key="2000050" state="normal" ani="NormalState_DeathScythe"/>
+	<lua_func item_key="2000050" state="run" ani="RunState_DEATH_SCYTHE"/>
+	<lua_func item_key="2000050" state="damage" ani="Damage_DEATH_SCYTHE"/>
+	<lua_func item_key="2010047" state="left_attack" weapon="StandardSubmachine" ani="UseWeapon1State_SubMachineGunAttack"/>
+	<lua_func item_key="2010047" state="normal" ani="NormalState_SubMachineGun"/>
+	<lua_func item_key="2010047" state="run" ani="RunState_SubMachineGun"/>
+	<lua_func item_key="2010047" state="damage" ani="DamageState_SubMachineGun"/>
+	<lua_func item_key="2010047" state="reload" ani="ReloadState_SubMachineGun"/>
+	<lua_func item_key="2040009" state="left_attack" ani="UseWeapon1State_SentryGunBuilder"/>
+	<lua_func item_key="2040009" state="normal" ani="NormalState_SentryGunBuilder"/>
+	<lua_func item_key="2040009" state="run" ani="RunState_SentryGunBuilder"/>
+	<lua_func item_key="2040009" state="damage" ani="DamageState_SentryGunBuilder"/>
+	<lua_func item_key="2000051" state="left_weak" weapon="StandardCounterSwordAfterDash1" ani="SwordAtkAfterDash1State_CounterSword"/>
+	<lua_func item_key="2000051" state="left_strong1" weapon="StandardCounterSwordCounterAttack" ani="SwordAtkCounterAttack_CounterSword"/>
+	<lua_func item_key="2000051" state="left_jump" weapon="StandardCounterSwordJumpDash" ani="SwordJumpAtkState_CounterSword"/>
+	<lua_func item_key="2000051" state="left_attack2" weapon="StandardCounterSwordAfterDash2" ani="SwordAtkAfterDash2State_CounterSword"/>
+	<lua_func item_key="2000051" state="left_attack3" weapon="StandardCounterSwordAfterDash3" ani="SwordAtkAfterDash3State_CounterSword"/>
+	<lua_func item_key="2000051" state="left_attack4" weapon="StandardCounterSwordAfterDash4" ani="SwordAtkAfterDash4State_CounterSword"/>
+	<lua_func item_key="2000051" state="counter_attack" weapon="StandardCounterSwordCounterAttack" ani="SwordAtkCounterAttack_CounterSword"/>
+	<lua_func item_key="2000051" state="normal" ani="NormalState_CounterSword"/>
+	<lua_func item_key="2000051" state="run" ani="RunState_CounterSword"/>
+	<lua_func item_key="2000051" state="damage" ani="DamageState_CounterSword"/>
+	<lua_func item_key="2000051" state="right_attack" ani="UseWeapon2State_CounterSwordGuard"/>
+	<lua_func item_key="2020043" state="left_attack" weapon="StandardMachinegun" ani="UseWeapon1State_MachineGunAttack"/>
+	<lua_func item_key="2020043" state="normal" ani="NormalState_MachineGun"/>
+	<lua_func item_key="2020043" state="run" ani="RunState_MachineGun"/>
+	<lua_func item_key="2020043" state="damage" ani="DamageState_MachineGun"/>
+	<lua_func item_key="2020043" state="reload" ani="ReloadState_MachineGun"/>
+	<lua_func item_key="2000052" state="left_weak" weapon="StandardCounterSwordAfterDash1" ani="SwordAtkAfterDash1State_CounterSword"/>
+	<lua_func item_key="2000052" state="left_strong1" weapon="StandardCounterSwordCounterAttack" ani="SwordAtkCounterAttack_CounterSword"/>
+	<lua_func item_key="2000052" state="left_jump" weapon="StandardCounterSwordJumpDash" ani="SwordJumpAtkState_CounterSword"/>
+	<lua_func item_key="2000052" state="left_attack2" weapon="StandardCounterSwordAfterDash2" ani="SwordAtkAfterDash2State_CounterSword"/>
+	<lua_func item_key="2000052" state="left_attack3" weapon="StandardCounterSwordAfterDash3" ani="SwordAtkAfterDash3State_CounterSword"/>
+	<lua_func item_key="2000052" state="left_attack4" weapon="StandardCounterSwordAfterDash4" ani="SwordAtkAfterDash4State_CounterSword"/>
+	<lua_func item_key="2000052" state="counter_attack" weapon="StandardCounterSwordCounterAttack" ani="SwordAtkCounterAttack_CounterSword"/>
+	<lua_func item_key="2000052" state="normal" ani="NormalState_CounterSword"/>
+	<lua_func item_key="2000052" state="run" ani="RunState_CounterSword"/>
+	<lua_func item_key="2000052" state="damage" ani="DamageState_CounterSword"/>
+	<lua_func item_key="2000052" state="right_attack" ani="UseWeapon2State_CounterSwordGuard"/>
+	<lua_func item_key="2000053" state="left_weak" weapon="StandardKatana_A_SwordAfterDash1" ani="SwordAtkAfterDash1State_Katana_A_Sword"/>
+	<lua_func item_key="2000053" state="left_strong1" weapon="StandardKatana_A_SwordStrong" ani="SwordAtkStrongState_Katana_A_Sword"/>
+	<lua_func item_key="2000053" state="left_jump" weapon="StandardKatana_A_SwordJumpDash" ani="SwordJumpAtkState_Katana_A_Sword"/>
+	<lua_func item_key="2000053" state="left_attack2" weapon="StandardKatana_A_SwordAfterDash2" ani="SwordAtkAfterDash2State_Katana_A_Sword"/>
+	<lua_func item_key="2000053" state="left_attack3" weapon="StandardKatana_A_SwordAfterDash3" ani="SwordAtkAfterDash3State_Katana_A_Sword"/>
+	<lua_func item_key="2000053" state="left_attack4" weapon="StandardKatana_A_SwordAttack2Charge" ani="UseWeapon2Charge_Katana_A_Sword"/>
+	<lua_func item_key="2000053" state="left_attack5" weapon="StandardKatana_A_SwordAttack2Dash" ani="UseWeapon2Dash_Katana_A_Sword"/>
+	<lua_func item_key="2000053" state="normal" ani="NormalState_Katana_A_Sword"/>
+	<lua_func item_key="2000053" state="run" ani="RunState_Katana_A_Sword"/>
+	<lua_func item_key="2000053" state="damage" ani="DamageState_Katana_A_Sword"/>
+	<lua_func item_key="2000053" state="right_attack" weapon="StandardKatana_A_SwordAttack2BackDash" ani="UseWeapon2BackDash_Katana_A_Sword"/>
+	<lua_func item_key="2010048" state="left_attack" weapon="StandardSmg2Homing" ani="UseWeapon1State_HOMING_RIFLE"/>
+	<lua_func item_key="2010048" state="normal" ani="NormalState_HOMING_RIFLE"/>
+	<lua_func item_key="2010048" state="run" ani="RunState_HOMING_RIFLE"/>
+	<lua_func item_key="2010048" state="damage" ani="DamageState_HOMING_RIFLE"/>
+	<lua_func item_key="2010048" state="reload" ani="ReloadState_HOMING_RIFLE"/>
+	<lua_func item_key="2040010" state="left_attack" ani="UseWeapon1State_SentryGunBuilder"/>
+	<lua_func item_key="2040010" state="normal" ani="NormalState_SentryGunBuilder"/>
+	<lua_func item_key="2040010" state="run" ani="RunState_SentryGunBuilder"/>
+	<lua_func item_key="2040010" state="damage" ani="DamageState_SentryGunBuilder"/>
+	<lua_func item_key="2000054" state="left_weak" weapon="StandardKatana_A_SwordAfterDash1" ani="SwordAtkAfterDash1State_Katana_S3_Sword"/>
+	<lua_func item_key="2000054" state="left_strong1" weapon="StandardKatana_A_SwordStrong" ani="SwordAtkStrongState_Katana_S3_Sword"/>
+	<lua_func item_key="2000054" state="left_jump" weapon="StandardKatana_A_SwordJumpDash" ani="SwordJumpAtkState_Katana_S3_Sword"/>
+	<lua_func item_key="2000054" state="left_attack2" weapon="StandardKatana_A_SwordAfterDash2" ani="SwordAtkAfterDash2State_Katana_S3_Sword"/>
+	<lua_func item_key="2000054" state="left_attack3" weapon="StandardKatana_A_SwordAfterDash3" ani="SwordAtkAfterDash3State_Katana_S3_Sword"/>
+	<lua_func item_key="2000054" state="left_attack4" weapon="StandardKatana_A_SwordAttack2Charge" ani="UseWeapon2Charge_Katana_S3_Sword"/>
+	<lua_func item_key="2000054" state="left_attack5" weapon="StandardKatana_A_SwordAttack2Dash" ani="UseWeapon2Dash_Katana_S3_Sword"/>
+	<lua_func item_key="2000054" state="normal" ani="NormalState_Katana_A_Sword"/>
+	<lua_func item_key="2000054" state="run" ani="RunState_Katana_A_Sword"/>
+	<lua_func item_key="2000054" state="damage" ani="DamageState_Katana_A_Sword"/>
+	<lua_func item_key="2000054" state="right_attack" weapon="StandardKatana_A_SwordAttack2BackDash" ani="UseWeapon2BackDash_Katana_S3_Sword"/>
+	<lua_func item_key="2010049" state="left_attack" weapon="StandardAssultRifleUnique" ani="UseWeapon1State_ASSULT_RIFLE_UNIQUE"/>
+	<lua_func item_key="2010049" state="normal" ani="NormalState_ASSULT_RIFLE_UNIQUE"/>
+	<lua_func item_key="2010049" state="run" ani="RunState_ASSULT_RIFLE_UNIQUE"/>
+	<lua_func item_key="2010049" state="damage" ani="DamageState_ASSULT_RIFLE"/>
+	<lua_func item_key="2010049" state="reload" ani="ReloadState_ASSULT_RIFLE_UNIQUE"/>
+	<lua_func item_key="2010050" state="left_attack" weapon="RenewalDualMagnum_SHOT" ani="Attack_NORMAL_RenewalDualMagnum"/>
+	<lua_func item_key="2010050" state="left_weak" weapon="RenewalDualMagnum_SHOT" ani="Attack_NORMAL_RenewalDualMagnum"/>
+	<lua_func item_key="2010050" state="left_strong1" weapon="RenewalDualMagnum_SHOT" ani="Attack_NORMAL_RenewalDualMagnum"/>
+	<lua_func item_key="2010050" state="left_jump" weapon="RenewalDualMagnum_JUMP_SHOT" ani="Attack_JUMP_RenewalDualMagnum"/>
+	<lua_func item_key="2010050" state="left_attack2" weapon="StandardDualgunAfterDash2" ani="UseWeapon2State_DualGunAttack"/>
+	<lua_func item_key="2010050" state="left_attack3" weapon="StandardDualgunAfterDash3" ani="UseWeapon3State_DualGunAttack"/>
+	<lua_func item_key="2010050" state="right_attack" weapon="RenewalDualMagnum_ROLLING_SHOT" ani="Attack_ROLLING_RenewalDualMagnum"/>
+	<lua_func item_key="2010050" state="normal" ani="NormalState_DualGun"/>
+	<lua_func item_key="2010050" state="run" ani="RunState_DualGun"/>
+	<lua_func item_key="2010050" state="damage" ani="DamageState_DualGun"/>
+	<lua_func item_key="2010050" state="reload" ani="ReloadState_DualGun"/>
+	<lua_func item_key="2000055" state="left_weak" weapon="StandardVirtualShieldAfterDash1" ani="SwordAtkAfterDash1State_VirtualShield"/>
+	<lua_func item_key="2000055" state="left_strong1" weapon="StandardVirtualShieldCounterAttack" ani="SwordAtkCounterAttack_VirtualShield"/>
+	<lua_func item_key="2000055" state="left_jump" weapon="StandardVirtualShieldJumpDash" ani="SwordJumpAtkState_VirtualShield"/>
+	<lua_func item_key="2000055" state="left_attack2" weapon="StandardVirtualShieldAfterDash2" ani="SwordAtkAfterDash2State_VirtualShield"/>
+	<lua_func item_key="2000055" state="left_attack3" weapon="StandardVirtualShieldAfterDash3" ani="SwordAtkAfterDash3State_VirtualShield"/>
+	<lua_func item_key="2000055" state="left_attack4" weapon="StandardVirtualShieldAfterDash4" ani="SwordAtkAfterDash4State_VirtualShield"/>
+	<lua_func item_key="2000055" state="counter_attack" weapon="StandardVirtualShieldCounterAttack" ani="SwordAtkCounterAttack_VirtualShield"/>
+	<lua_func item_key="2000055" state="normal" ani="NormalState_VirtualShield"/>
+	<lua_func item_key="2000055" state="run" ani="RunState_VirtualShield"/>
+	<lua_func item_key="2000055" state="damage" ani="DamageState_VirtualShield"/>
+	<lua_func item_key="2000055" state="right_attack" ani="UseWeapon2State_VirtualShieldGuard"/>
+	<lua_func item_key="2030009" state="left_attack" weapon="StandardRailUniqueMarkTinStick" ani="UseWeapon1State_RAIL_MARTINSTICK"/>
+	<lua_func item_key="2030009" state="normal" ani="NormalState_MartinStick"/>
+	<lua_func item_key="2030009" state="run" ani="RunState_RAIL_MARTINSTICK"/>
+	<lua_func item_key="2030009" state="damage" ani="DamageState_Rifle"/>
+	<lua_func item_key="2030009" state="reload" ani="ReloadState_Unipue_MARTINSTICK"/>
+	<lua_func item_key="2000056" state="left_weak" weapon="BasicAttackByDeathScythe_1" ani="FirstBasicAttack_DEATHSCYTHE_Unique"/>
+	<lua_func item_key="2000056" state="left_strong1" weapon="SpecialAttackByDeathScythe" ani="SpecialAttack_DEATHSCYTHE_Unique"/>
+	<lua_func item_key="2000056" state="left_jump" weapon="JumpAttackByDeathScythe" ani="JumpAttack_DEATHSCYTHE_Unique"/>
+	<lua_func item_key="2000056" state="left_attack2" weapon="BasicAttackByDeathScythe_2" ani="SecondBasicAttack_DEATHSCYTHE_Unique"/>
+	<lua_func item_key="2000056" state="left_attack3" weapon="BasicAttackByDeathScythe_3" ani="ThirdBasicAttack_DEATHSCYTHE_Unique"/>
+	<lua_func item_key="2000056" state="right_attack" weapon="UpperCutByDeathScythe" ani="StrongUpperCutAttack_DEATHSCYTHE_Unique"/>
+	<lua_func item_key="2000056" state="normal" ani="NormalState_DeathScythe"/>
+	<lua_func item_key="2000056" state="run" ani="RunState_DEATH_SCYTHE"/>
+	<lua_func item_key="2000056" state="damage" ani="Damage_DEATH_SCYTHE"/>
+	<lua_func item_key="2010051" state="left_attack" weapon="StandardSparkRifleUnique" ani="UseWeapon1State_SPARK_RIFLE_Unique"/>
+	<lua_func item_key="2010051" state="normal" ani="NormalState_SPARK_RIFLE"/>
+	<lua_func item_key="2010051" state="run" ani="RunState_SPARK_RIFLE"/>
+	<lua_func item_key="2010051" state="damage" ani="DamageState_SPARK_RIFLE"/>
+	<lua_func item_key="2010051" state="reload" ani="ReloadState_SPARK_RIFLE"/>
+	<lua_func item_key="2010052" state="left_attack" weapon="StandardAirgunUnique" ani="UseWeapon1State_AIRGUN_Unique"/>
+	<lua_func item_key="2010052" state="normal" ani="NormalState_AIRGUN"/>
+	<lua_func item_key="2010052" state="run" ani="RunState_AIRGUN"/>
+	<lua_func item_key="2010052" state="damage" ani="DamageState_AIRGUN"/>
+	<lua_func item_key="2010052" state="reload" ani="ReloadState_AIRGUN"/>
+	<lua_func item_key="2060006" state="left_attack" weapon="MindAttackUnique" ani="UseWeapon1State_MindStorm_Unique"/>
+	<lua_func item_key="2060006" state="normal" ani="NormalState_MinStorm_Unique"/>
+	<lua_func item_key="2060006" state="run" ani="RunState_MinStorm_Unique"/>
+	<lua_func item_key="2060006" state="damage" ani="DamageState_MinStorm_Unique"/>
+	<lua_func item_key="2060006" state="reload" ani="ReloadState_MinStorm_Unique"/>
+	<lua_func item_key="2000057" state="right_attack" weapon="StandardDoubleSwordAfterDash5" ani="UseWeapon2State_Double"/>
+	<lua_func item_key="2000057" state="left_weak" weapon="StandardDoubleSwordAfterDash1" ani="SwordAtkAfterDash1State_DoubleSword"/>
+	<lua_func item_key="2000057" state="left_jump" weapon="StandardDoubleSwordJumpDash" ani="SwordJumpAtkState_DoubleSword_Glitch"/>
+	<lua_func item_key="2000057" state="left_attack2" weapon="StandardDoubleSwordAfterDash2" ani="SwordAtkAfterDash2State_DoubleSword"/>
+	<lua_func item_key="2000057" state="left_attack3" weapon="StandardDoubleSwordAfterDash3" ani="SwordAtkAfterDash3State_DoubleSword"/>
+	<lua_func item_key="2000057" state="left_attack4" weapon="StandardDoubleSwordAfterDash4" ani="SwordAtkAfterDash4State_DoubleSword_Glitch"/>
+	<lua_func item_key="2000057" state="left_attack5" weapon="StandardDoubleSwordGatherGuage" ani="SwordAtkAfterDash5State_DoubleSword"/>
+	<lua_func item_key="2000057" state="normal" ani="NormalState_DoubleSword_Glitch"/>
+	<lua_func item_key="2000057" state="run" ani="RunState_DoubleSword"/>
+	<lua_func item_key="2000057" state="damage" ani="DamageState_DoubleSword"/>
+	<lua_func item_key="2000058" state="left_weak" weapon="GlitchJoySigmaBladeAfterDash1" ani="SwordAtkAfterDash1State_GlitchJoySigmaBlade"/>
+	<lua_func item_key="2000058" state="left_strong1" weapon="GlitchJoySigmaBladeCounterAttack" ani="SwordAtkCounterAttack_GlitchJoySigmaBlade"/>
+	<lua_func item_key="2000058" state="left_jump" weapon="GlitchJoySigmaBladeJumpDash" ani="SwordJumpAtkState_GlitchJoySigmaBlade"/>
+	<lua_func item_key="2000058" state="left_attack2" weapon="GlitchJoySigmaBladeAfterDash2" ani="SwordAtkAfterDash2State_GlitchJoySigmaBlade"/>
+	<lua_func item_key="2000058" state="left_attack3" weapon="GlitchJoySigmaBladeAfterDash3" ani="SwordAtkAfterDash3State_GlitchJoySigmaBlade"/>
+	<lua_func item_key="2000058" state="left_attack4" weapon="GlitchJoySigmaBladeAfterDash4" ani="SwordAtkAfterDash4State_GlitchJoySigmaBlade"/>
+	<lua_func item_key="2000058" state="counter_attack" weapon="GlitchJoySigmaBladeCounterAttack" ani="SwordAtkCounterAttack_GlitchJoySigmaBlade"/>
+	<lua_func item_key="2000058" state="normal" ani="NormalState_GlitchJoy_SigmaBlade"/>
+	<lua_func item_key="2000058" state="run" ani="RunState_GlitchJoy_SigmaBlade"/>
+	<lua_func item_key="2000058" state="damage" ani="DamageState_GlitchJoy_SigmaBlade"/>
+	<lua_func item_key="2000058" state="right_attack" weapon="GlitchJoySigmaBladeWeaponChange" ani="UseWeapon2State_GlitchJoySigmaBladeWeaponChange"/>
+	<lua_func item_key="2000059" state="right_attack" weapon="GlitchDestroyedSpyDaggerAttack2" ani="UseWeapon2State_GlitchDestroyed_SpyDagger"/>
+	<lua_func item_key="2000059" state="normal" ani="NormalState_SpyDagger"/>
+	<lua_func item_key="2000059" state="run" ani="RunState_SpyDagger"/>
+	<lua_func item_key="2000059" state="damage" ani="DamageState_SpyDagger"/>
+	<lua_func item_key="2000059" state="left_attack" weapon="GlitchDestroyedSpyDaggerAttack1" ani="UseWeapon1State_GlitchDestroyed_SpyDagger"/>
+	<lua_func item_key="2050012" state="left_attack" weapon="GlitchJoyEarthBomber" ani="UseWeapon1State_EARTH_BOMBER"/>
+	<lua_func item_key="2050012" state="normal" ani="NormalState_EARTH_BOMBER"/>
+	<lua_func item_key="2050012" state="run" ani="RunState_EARTH_BOMBER"/>
+	<lua_func item_key="2050012" state="damage" ani="DamageState_EARTH_BOMBER"/>
+	<lua_func item_key="2050012" state="reload" ani="ReloadState_EARTH_BOMBER"/>
+	<lua_func item_key="2050013" state="left_attack" weapon="GlitchDestroyedLightningBomber" ani="UseWeapon1State_EARTH_BOMBER"/>
+	<lua_func item_key="2050013" state="normal" ani="NormalState_EARTH_BOMBER"/>
+	<lua_func item_key="2050013" state="run" ani="RunState_EARTH_BOMBER"/>
+	<lua_func item_key="2050013" state="damage" ani="DamageState_EARTH_BOMBER"/>
+	<lua_func item_key="2050013" state="reload" ani="ReloadState_EARTH_BOMBER"/>
+	<lua_func item_key="2000060" state="right_attack" weapon="StandardPlasmaSwordAttack2" ani="UseWeapon2State_PlasmaSword"/>
+	<lua_func item_key="2000060" state="left_weak" weapon="StandardPlasmaSwordStandAttack_Weak" ani="SwordAtkWeakState_PlasmaSword"/>
+	<lua_func item_key="2000060" state="left_strong1" weapon="StandardPlasmaSwordStandAttack_Strong" ani="SwordAtkStrongState_PlasmaSword"/>
+	<lua_func item_key="2000060" state="left_jump" weapon="StandardPlasmaSwordJumpAttack" ani="SwordJumpAtkState_PlasmaSword"/>
+	<lua_func item_key="2000060" state="left_strong2" weapon="StandardPlasmaSwordStandAttack_Strong1" ani="SwordAtkStrong1State_PlasmaSword"/>
+	<lua_func item_key="2000060" state="normal" ani="NormalState_PlasmaSword"/>
+	<lua_func item_key="2000060" state="run" ani="RunState_PlasmaSword"/>
+	<lua_func item_key="2000060" state="damage" ani="DamageState_PlasmaSword"/>
+	<lua_func item_key="2000061" state="right_attack" weapon="StandardSpyDaggerAttack2" ani="UseWeapon2State_SpyDagger"/>
+	<lua_func item_key="2000061" state="normal" ani="NormalState_SpyDagger"/>
+	<lua_func item_key="2000061" state="run" ani="RunState_SpyDagger"/>
+	<lua_func item_key="2000061" state="damage" ani="DamageState_SpyDagger"/>
+	<lua_func item_key="2000061" state="left_attack" weapon="StandardSpyDaggerAttack1" ani="UseWeapon1State_SpyDagger"/>
+	<lua_func item_key="2010053" state="left_attack" weapon="StandardClassicRifle" ani="UseWeapon1State_ASSULT_RIFLE"/>
+	<lua_func item_key="2010053" state="normal" ani="NormalState_ASSULT_RIFLE"/>
+	<lua_func item_key="2010053" state="run" ani="RunState_ASSULT_RIFLE"/>
+	<lua_func item_key="2010053" state="damage" ani="DamageState_ASSULT_RIFLE"/>
+	<lua_func item_key="2010053" state="reload" ani="ReloadState_ASSULT_RIFLE"/>
+	<lua_func item_key="2000063" state="normal" ani="NormalState_VitalShock"/>
+	<lua_func item_key="2000063" state="run" ani="RunState_VitalShock"/>
+	<lua_func item_key="2000063" state="damage" ani="DamageState_VitalShock"/>
+	<lua_func item_key="2000063" state="left_weak" weapon="StandardVitalShock_Attack" ani="UseWeapon1WeakState_VitalShock"/>
+	<lua_func item_key="2000063" state="right_attack" weapon="StandardVitalShock_Dash" ani="UseWeapon2State_VitalShock"/>
+	<lua_func item_key="2000063" state="left_strong2" weapon="StandardVitalShock_Strong1" ani="UseWeapon1Strong1State_VitalShock"/>
+	<lua_func item_key="2000063" state="left_strong1" weapon="StandardVitalShock_Strong" ani="UseWeapon1StrongState_VitalShock"/>
+	<lua_func item_key="2000063" state="left_jump" weapon="StandardVitalShock_JumpAttack" ani="UseWeapon1JumpState_VitalShock"/>
+	<lua_func item_key="2000064" state="left_weak" weapon="LeftAttack_DemonicKnuckle" ani="ANI_LeftAttack_CatKnuckle"/>
+	<lua_func item_key="2000064" state="left_attack2" weapon="LeftAttack2_DemonicKnuckle" ani="ANI_LeftAttack2_DemonicKnuckle"/>
+	<lua_func item_key="2000064" state="left_jump" weapon="LeftJump_DemonicKnuckle" ani="ANI_LeftJump_MetalicKnuckle"/>
+	<lua_func item_key="2000064" state="right_attack" weapon="RightAttack_CatKnuckle" ani="ANI_RightAttack_CatKnuckle"/>
+	<lua_func item_key="2000064" state="normal" ani="NormalState_DemonicKnuckle"/>
+	<lua_func item_key="2000064" state="run" ani="RunState_DemonicKnuckle"/>
+	<lua_func item_key="2000064" state="damage" ani="DamageState_DemonicKnuckle"/>
 </weapon_lua_list>

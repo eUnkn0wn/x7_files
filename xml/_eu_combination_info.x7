@@ -28,53 +28,74 @@
 	<component key="4"><!--기어5 -->
 		<data item_key="6010003" min_use_cnt="3" max_use_cnt="3"/>
 	</component>
-	<component key="5"><!--체험용 가우스 MK2 -->
-		<data item_key="6010006" min_use_cnt="1" max_use_cnt="0"/>
-	</component>
-	<component key="6"><!--가우스Mk2 기간제 -->
-		<data item_key="6010000" min_use_cnt="12" max_use_cnt="0"/>
-		<data item_key="6010001" min_use_cnt="3" max_use_cnt="0"/>
-		<data item_key="6010002" min_use_cnt="1" max_use_cnt="0"/>
-	</component>
-	<component key="7"><!--가우스Mk2 내구제 포함 -->
+	<component key="5"><!--가우스Mk2 내구제 포함 -->
 		<data item_key="6010000" min_use_cnt="40" max_use_cnt="0"/>
 		<data item_key="6010001" min_use_cnt="20" max_use_cnt="0"/>
 		<data item_key="6010002" min_use_cnt="10" max_use_cnt="0"/>
 		<data item_key="6010003" min_use_cnt="5" max_use_cnt="0"/>
 		<data item_key="6010004" min_use_cnt="1" max_use_cnt="0"/>
 	</component>
-	<component key="8"><!--루시퍼 -->
+	<component key="6"><!--라이트닝봄버MK2 -->
 		<data item_key="6010000" min_use_cnt="40" max_use_cnt="0"/>
 		<data item_key="6010001" min_use_cnt="20" max_use_cnt="0"/>
 		<data item_key="6010002" min_use_cnt="10" max_use_cnt="0"/>
 		<data item_key="6010003" min_use_cnt="5" max_use_cnt="0"/>
 		<data item_key="6010004" min_use_cnt="1" max_use_cnt="0"/>
 	</component>
-	<component key="9"><!--어쌔신스파이대거 -->
+	<component key="7"><!--터렛MK2 -->
 		<data item_key="6010000" min_use_cnt="36" max_use_cnt="0"/>
 		<data item_key="6010001" min_use_cnt="18" max_use_cnt="0"/>
 		<data item_key="6010002" min_use_cnt="9" max_use_cnt="0"/>
 		<data item_key="6010003" min_use_cnt="5" max_use_cnt="0"/>
 		<data item_key="6010004" min_use_cnt="1" max_use_cnt="0"/>
 	</component>
-	<component key="10"><!--앤틱샤프슈터 -->
+	<component key="8"><!--레스큐건MK2 -->
 		<data item_key="6010000" min_use_cnt="36" max_use_cnt="0"/>
 		<data item_key="6010001" min_use_cnt="18" max_use_cnt="0"/>
 		<data item_key="6010002" min_use_cnt="9" max_use_cnt="0"/>
 		<data item_key="6010003" min_use_cnt="5" max_use_cnt="0"/>
 		<data item_key="6010004" min_use_cnt="1" max_use_cnt="0"/>
 	</component>
-	<component key="11"><!--배트래빗 -->
+		<component key="9"><!--버스트샷건mk2-->
+		<data item_key="6010000" min_use_cnt="36" max_use_cnt="0"/>
+		<data item_key="6010001" min_use_cnt="18" max_use_cnt="0"/>
+		<data item_key="6010002" min_use_cnt="9" max_use_cnt="0"/>
+		<data item_key="6010003" min_use_cnt="9" max_use_cnt="0"/>
+		<data item_key="6010004" min_use_cnt="4" max_use_cnt="0"/>
+	</component>
+		<component key="10"><!--루시퍼 -->
+		<data item_key="6010000" min_use_cnt="40" max_use_cnt="0"/>
+		<data item_key="6010001" min_use_cnt="20" max_use_cnt="0"/>
+		<data item_key="6010002" min_use_cnt="10" max_use_cnt="0"/>
+		<data item_key="6010003" min_use_cnt="5" max_use_cnt="0"/>
+		<data item_key="6010004" min_use_cnt="1" max_use_cnt="0"/>
+	</component>
+	<component key="11"><!--어쌔신스파이대거 -->
+		<data item_key="6010000" min_use_cnt="36" max_use_cnt="0"/>
+		<data item_key="6010001" min_use_cnt="18" max_use_cnt="0"/>
+		<data item_key="6010002" min_use_cnt="9" max_use_cnt="0"/>
+		<data item_key="6010003" min_use_cnt="5" max_use_cnt="0"/>
+		<data item_key="6010004" min_use_cnt="1" max_use_cnt="0"/>
+	</component>
+	<component key="12"><!--앤틱샤프슈터 -->
+		<data item_key="6010000" min_use_cnt="36" max_use_cnt="0"/>
+		<data item_key="6010001" min_use_cnt="18" max_use_cnt="0"/>
+		<data item_key="6010002" min_use_cnt="9" max_use_cnt="0"/>
+		<data item_key="6010003" min_use_cnt="5" max_use_cnt="0"/>
+		<data item_key="6010004" min_use_cnt="1" max_use_cnt="0"/>
+	</component>	
+	<component key="13"><!--배트래빗 -->
 		<data item_key="6010005" min_use_cnt="3" max_use_cnt="0"/>
 		<data item_key="6010000" min_use_cnt="2" max_use_cnt="0"/>
 	</component>
-	<component key="12"><!--소시지바인딩 -->
-		<data item_key="6010000" min_use_cnt="30" max_use_cnt="0"/>
-		<data item_key="6010001" min_use_cnt="15" max_use_cnt="0"/>
-		<data item_key="6010002" min_use_cnt="10" max_use_cnt="0"/>
-		<data item_key="6010003" min_use_cnt="3" max_use_cnt="0"/>
-		<data item_key="6010004" min_use_cnt="1" max_use_cnt="0"/>
+	<component key="14"><!--라이트머신건mk2-->
+		<data item_key="6010000" min_use_cnt="36" max_use_cnt="0"/>
+		<data item_key="6010001" min_use_cnt="18" max_use_cnt="0"/>
+		<data item_key="6010002" min_use_cnt="9" max_use_cnt="0"/>
+		<data item_key="6010003" min_use_cnt="9" max_use_cnt="0"/>
+		<data item_key="6010004" min_use_cnt="4" max_use_cnt="0"/>
 	</component>
+
 	<!-- 조합 아이템 정보 -->
 	<!-- 주의: 조합시 보상 아이템은 최소 내구제2개(일반1개, 유니크1개), 기간제or시간제 1개가 필요하다.-->
 	<!-- 주의: 조합시 보상 아이템이 단일 아이템인 경우에는 크립톤, 아르곤 사용이 불가능하고 확률값으 10000으로 고정해야한다.-->
@@ -90,46 +111,64 @@
 	<method key="4" component_key="4" use="on" represent_item_key="6010004">
 		<requital item_key="6010004" probability="10000" shop_id="1" color="0" effect_id="" period_type="USECNT" period="1"/>
 	</method>
-	<method key="5" component_key="5" use="on" represent_item_key="2020040">
-		<requital item_key="2020040" probability="10000" shop_id="3" color="0" effect_id="27001" period_type="DAYS" period="1"/>
-	</method>
-	<method key="6" component_key="6" use="on" represent_item_key="2020041">
-		<requital item_key="2020041" probability="10000" shop_id="3" color="0" effect_id="1299600001" period_type="DAYS" period="3"/>
-	</method>
-	<method key="7" component_key="7" use="on" represent_item_key="2020039">
+	<method key="5" component_key="5" use="on" represent_item_key="2020039">
 		<requital item_key="2020039" probability="4800" shop_id="3" color="0" effect_id="1299600001" period_type="DAYS" period="15"/>
 		<requital item_key="2020039" probability="4800" shop_id="1" color="0" effect_id="1299600006" period_type="HOURS" period="10"/>
 		<requital item_key="2020039" probability="300" shop_id="4" color="0" effect_id="1299600005" period_type="NONE" period="0"/>
 		<requital item_key="2020039" probability="100" shop_id="3" color="0" effect_id="27001" period_type="NONE" period="0"/>
 	</method>
-	<method key="8" component_key="8" use="on" represent_item_key="2000007">
+	<method key="6" component_key="6" use="on" represent_item_key="2050007">
+		<requital item_key="2050007" probability="4800" shop_id="3" color="0" effect_id="1299600001" period_type="DAYS" period="15"/>
+		<requital item_key="2050007" probability="4800" shop_id="3" color="0" effect_id="1299600006" period_type="DAYS" period="15"/>
+		<requital item_key="2050007" probability="300" shop_id="3" color="0" effect_id="1299600005" period_type="NONE" period="0"/>
+		<requital item_key="2050007" probability="100" shop_id="3" color="0" effect_id="29001 " period_type="NONE" period="0"/>
+	</method>
+		<method key="7" component_key="7" use="on" represent_item_key="2020009">
+		<requital item_key="2020009" probability="4800" shop_id="3" color="1" effect_id="1299600001" period_type="DAYS" period="15"/>
+		<requital item_key="2020009" probability="4800" shop_id="3" color="1" effect_id="1299600006" period_type="DAYS" period="15"/>
+		<requital item_key="2020009" probability="300" shop_id="3" color="1" effect_id="1299600005" period_type="NONE" period="0"/>
+		<requital item_key="2020009" probability="100" shop_id="3" color="1" effect_id="24001" period_type="NONE" period="0"/>
+	</method>
+		<method key="8" component_key="8" use="on" represent_item_key="2050008">
+		<requital item_key="2050008" probability="4800" shop_id="3" color="0" effect_id="1299600001" period_type="DAYS" period="15"/>
+		<requital item_key="2050008" probability="4800" shop_id="3" color="0" effect_id="1299600006" period_type="DAYS" period="15"/>
+		<requital item_key="2050008" probability="300" shop_id="4" color="0" effect_id="1299600005" period_type="NONE" period="0"/>
+		<requital item_key="2050008" probability="100" shop_id="4" color="0" effect_id="25001" period_type="NONE" period="0"/>
+	</method>
+	<method key="9" component_key="9" use="on" represent_item_key="2010041">
+		<requital item_key="2010041" probability="4800" shop_id="3" color="0" effect_id="1299600001" period_type="DAYS" period="15"/>
+		<requital item_key="2010041" probability="4800" shop_id="3" color="0" effect_id="1299600006" period_type="DAYS" period="15"/>
+		<requital item_key="2010041" probability="300" shop_id="4" color="0" effect_id="1299600005" period_type="NONE" period="0"/>
+		<requital item_key="2010041" probability="100" shop_id="4" color="0" effect_id="23001" period_type="NONE" period="0"/>
+	</method>
+	<method key="10" component_key="10" use="on" represent_item_key="2000007">
 		<requital item_key="2000007" probability="4800" shop_id="3" color="0" effect_id="1299600001" period_type="DAYS" period="15"/>
 		<requital item_key="2000007" probability="4800" shop_id="4" color="0" effect_id="1299600006" period_type="HOURS" period="10"/>
 		<requital item_key="2000007" probability="300" shop_id="3" color="0" effect_id="1299600005" period_type="NONE" period="0"/>
 		<requital item_key="2000007" probability="100" shop_id="3" color="0" effect_id="27001" period_type="NONE" period="0"/>
 	</method>
-	<method key="9" component_key="9" use="on" represent_item_key="2000027">
+	<method key="11" component_key="11" use="on" represent_item_key="2000027">
 		<requital item_key="2000027" probability="4800" shop_id="2" color="0" effect_id="1299600001" period_type="DAYS" period="15"/>
 		<requital item_key="2000027" probability="4800" shop_id="1" color="0" effect_id="1299600006" period_type="HOURS" period="10"/>
 		<requital item_key="2000027" probability="300" shop_id="3" color="0" effect_id="1299600005" period_type="NONE" period="0"/>
 		<requital item_key="2000027" probability="100" shop_id="3" color="0" effect_id="27001" period_type="NONE" period="0"/>
 	</method>
-	<method key="10" component_key="10" use="on" represent_item_key="2030008">
+	<method key="12" component_key="12" use="on" represent_item_key="2030008">
 		<requital item_key="2030008" probability="4800" shop_id="2" color="0" effect_id="1299600001" period_type="DAYS" period="15"/>
 		<requital item_key="2030008" probability="4800" shop_id="1" color="0" effect_id="1299600006" period_type="HOURS" period="10"/>
 		<requital item_key="2030008" probability="300" shop_id="3" color="0" effect_id="1299600005" period_type="NONE" period="0"/>
 		<requital item_key="2030008" probability="100" shop_id="3" color="0" effect_id="27001" period_type="NONE" period="0"/>
-	</method>
-		<method key="11" component_key="11" use="on" represent_item_key="1070004">
+	</method>	
+	<method key="13" component_key="13" use="on" represent_item_key="1070004">
 		<requital item_key="1070004" probability="4800" shop_id="2" color="0" effect_id="17002" period_type="DAYS" period="1"/>
 		<requital item_key="1070004" probability="4800" shop_id="2" color="0" effect_id="17002" period_type="DAYS" period="7"/>
 		<requital item_key="1070004" probability="300" shop_id="3" color="0" effect_id="17002" period_type="NONE" period="0"/>
 		<requital item_key="1070004" probability="100" shop_id="3" color="0" effect_id="21025" period_type="NONE" period="0"/>
 	</method>
-	<method key="12" component_key="12" use="off" represent_item_key="3070002">
-		<requital item_key="3070002" probability="4800" shop_id="1" color="0" effect_id="" period_type="DAYS" period="1"/>
-		<requital item_key="3070002" probability="4800" shop_id="1" color="0" effect_id="" period_type="DAYS" period="7"/>
-		<requital item_key="3070002" probability="300" shop_id="1" color="0" effect_id="" period_type="DAYS" period="30"/>
-		<requital item_key="3070002" probability="100" shop_id="1" color="0" effect_id="" period_type="NONE" period="0"/>
+		<method key="14" component_key="9" use="on" represent_item_key="2020012">
+		<requital item_key="2020012" probability="4800" shop_id="3" color="0" effect_id="1299600001" period_type="DAYS" period="15"/>
+		<requital item_key="2020012" probability="4800" shop_id="3" color="0" effect_id="1299600006" period_type="DAYS" period="15"/>
+		<requital item_key="2020012" probability="300" shop_id="4" color="0" effect_id="1299600005" period_type="NONE" period="0"/>
+		<requital item_key="2020012" probability="100" shop_id="4" color="0" effect_id="23001" period_type="NONE" period="0"/>
 	</method>
 </combination>
