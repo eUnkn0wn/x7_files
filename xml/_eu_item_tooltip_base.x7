@@ -13434,6 +13434,12 @@
 	<item id="4340001">
 		<base/>
 	</item>
+	<item id="4340002">
+		<base/>
+	</item>
+	<item id="4340003">
+		<base/>
+	</item>
 	<item id="4190001">
 		<base/>
 	</item>
@@ -13450,6 +13456,9 @@
 		<base/>
 	</item>
 	<item id="4240001">
+		<base/>
+	</item>
+	<item id="4350001">
 		<base/>
 	</item>
 	<item id="4250001">
@@ -13564,6 +13573,1269 @@
 		<base/>
 	</item>
 	<item id="4160136">
+		<base/>
+	</item>
+	<item id="4035442">
+		<base/>
+	</item>
+	<item id="4035443">
+		<base/>
+	</item>
+	<item id="1021192">
+		<base/>
+	</item>
+	<item id="1031192">
+		<base/>
+	</item>
+	<item id="1041192">
+		<base/>
+	</item>
+	<item id="1051192">
+		<base/>
+	</item>
+	<item id="1061192">
+		<base/>
+	</item>
+	<item id="1021193">
+		<base/>
+	</item>
+	<item id="1031193">
+		<base/>
+	</item>
+	<item id="1041193">
+		<base/>
+	</item>
+	<item id="1051193">
+		<base/>
+	</item>
+	<item id="1061193">
+		<base/>
+	</item>
+	<item id="2000066">
+		<base/>
+	</item>
+	<item id="4035444">
+		<base/>
+	</item>
+	<item id="4035445">
+		<base/>
+	</item>
+	<item id="4035457">
+		<base/>
+	</item>
+	<item id="4052266">
+		<base/>
+	</item>
+	<item id="4035446">
+		<base/>
+	</item>
+	<item id="4052224">
+		<base/>
+	</item>
+	<item id="4052225">
+		<base/>
+	</item>
+	<item id="4052226">
+		<base/>
+	</item>
+	<item id="4052227">
+		<base/>
+	</item>
+	<item id="4052228">
+		<base/>
+	</item>
+	<item id="4052229">
+		<base/>
+	</item>
+	<item id="4052230">
+		<base/>
+	</item>
+	<item id="4052231">
+		<base/>
+	</item>
+	<item id="4052232">
+		<base/>
+	</item>
+	<item id="4052233">
+		<base/>
+	</item>
+	<item id="4160137">
+		<base/>
+	</item>
+	<item id="4160138">
+		<base/>
+	</item>
+	<item id="2000067">
+		<base diffi_key="DIFFI_NORMAL" effect_attrib_pen_key="EFFECT_PEN_PLASMA" effect_attrib_cash_key="EFFECT_CASH_PLASMA"/>
+	</item>
+	<item id="2000068">
+		<base diffi_key="DIFFI_NORMAL" effect_attrib_pen_key="EFFECT_PEN_PLASMA" effect_attrib_cash_key="EFFECT_CASH_PLASMA"/>
+	</item>
+	<item id="1001194">
+		<base/>
+	</item>
+	<item id="1011194">
+		<base/>
+	</item>
+	<item id="1021194">
+		<base/>
+	</item>
+	<item id="1031194">
+		<base/>
+	</item>
+	<item id="1041194">
+		<base/>
+	</item>
+	<item id="1051194">
+		<base/>
+	</item>
+	<item id="1061194">
+		<base/>
+	</item>
+	<item id="1001195">
+		<base/>
+	</item>
+	<item id="1011195">
+		<base/>
+	</item>
+	<item id="1021195">
+		<base/>
+	</item>
+	<item id="1031195">
+		<base/>
+	</item>
+	<item id="1041195">
+		<base/>
+	</item>
+	<item id="1051195">
+		<base/>
+	</item>
+	<item id="1061195">
+		<base/>
+	</item>
+	<item id="4035447">
+		<base/>
+	</item>
+	<item id="4035448">
+		<base/>
+	</item>
+	<item id="4035449">
+		<base/>
+	</item>
+	<item id="4035450">
+		<base/>
+	</item>
+	<item id="4035451">
+		<base/>
+	</item>
+	<item id="4035452">
+		<base/>
+	</item>
+	<item id="4035453">
+		<base/>
+	</item>
+	<item id="4035454">
+		<base/>
+	</item>
+	<item id="4052234">
+		<base/>
+	</item>
+	<item id="4052235">
+		<base/>
+	</item>
+	<item id="4052236">
+		<base/>
+	</item>
+	<item id="4052237">
+		<base/>
+	</item>
+	<item id="4052238">
+		<base/>
+	</item>
+	<item id="4052239">
+		<base/>
+	</item>
+	<item id="4052240">
+		<base/>
+	</item>
+	<item id="4052241">
+		<base/>
+	</item>
+	<item id="4052242">
+		<base/>
+	</item>
+	<item id="4052243">
+		<base/>
+	</item>
+	<item id="4052244">
+		<base/>
+	</item>
+	<item id="4052245">
+		<base/>
+	</item>
+	<item id="4052246">
+		<base/>
+	</item>
+	<item id="4052247">
+		<base/>
+	</item>
+	<item id="4052248">
+		<base/>
+	</item>
+	<item id="4052249">
+		<base/>
+	</item>
+	<item id="4052250">
+		<base/>
+	</item>
+	<item id="4052251">
+		<base/>
+	</item>
+	<item id="4052252">
+		<base/>
+	</item>
+	<item id="4052253">
+		<base/>
+	</item>
+	<item id="4052254">
+		<base/>
+	</item>
+	<item id="4052255">
+		<base/>
+	</item>
+	<item id="4052256">
+		<base/>
+	</item>
+	<item id="4052257">
+		<base/>
+	</item>
+	<item id="4060106">
+		<base/>
+	</item>
+	<item id="4060107">
+		<base/>
+	</item>
+	<item id="4060108">
+		<base/>
+	</item>
+	<item id="4060109">
+		<base/>
+	</item>
+	<item id="4060110">
+		<base/>
+	</item>
+	<item id="4060111">
+		<base/>
+	</item>
+	<item id="4060112">
+		<base/>
+	</item>
+	<item id="4060113">
+		<base/>
+	</item>
+	<item id="4060114">
+		<base/>
+	</item>
+	<item id="4060115">
+		<base/>
+	</item>
+	<item id="4035455">
+		<base/>
+	</item>
+	<item id="4035456">
+		<base/>
+	</item>
+	<item id="4052258">
+		<base/>
+	</item>
+	<item id="4052259">
+		<base/>
+	</item>
+	<item id="4052260">
+		<base/>
+	</item>
+	<item id="4052261">
+		<base/>
+	</item>
+	<item id="4052262">
+		<base/>
+	</item>
+	<item id="4052263">
+		<base/>
+	</item>
+	<item id="4052264">
+		<base/>
+	</item>
+	<item id="4052265">
+		<base/>
+	</item>
+	<item id="5040007">
+		<base/>
+	</item>
+	<item id="2000069">
+		<base diffi_key="DIFFI_NORMAL" effect_attrib_pen_key="EFFECT_PEN_PLASMA" effect_attrib_cash_key="EFFECT_CASH_PLASMA"/>
+	</item>
+	<item id="2000070">
+		<base diffi_key="DIFFI_VERY_EASY" effect_attrib_pen_key="EFFECT_PEN_DAGGER" effect_attrib_cash_key="EFFECT_CASH_DAGGER"/>
+	</item>
+	<item id="3010003">
+		<base diffi_key="DIFFI_NORMAL" skill_attrib_file="Skill_info_ank.tga"/>
+	</item>
+	<item id="2010054">
+		<base diffi_key="DIFFI_EASY" effect_attrib_pen_key="EFFECT_PEN_REVOLVER" effect_attrib_cash_key="EFFECT_CASH_REVOLVER"/>
+	</item>
+	<item id="2020044">
+		<base diffi_key="DIFFI_EASY" effect_attrib_pen_key="EFFECT_PEN_SHOCKWAVE" effect_attrib_cash_key="EFFECT_CASH_SHOCKWAVE"/>
+	</item>
+	<item id="4052267">
+		<base/>
+	</item>
+	<item id="4052268">
+		<base/>
+	</item>
+	<item id="4052269">
+		<base/>
+	</item>
+	<item id="4052270">
+		<base/>
+	</item>
+	<item id="4052271">
+		<base/>
+	</item>
+	<item id="4052272">
+		<base/>
+	</item>
+	<item id="4052273">
+		<base/>
+	</item>
+	<item id="4052274">
+		<base/>
+	</item>
+	<item id="4160139">
+		<base/>
+	</item>
+	<item id="4160140">
+		<base/>
+	</item>
+	<item id="4052275">
+		<base/>
+	</item>
+	<item id="4052276">
+		<base/>
+	</item>
+	<item id="4059005">
+		<base/>
+	</item>
+	<item id="4059006">
+		<base/>
+	</item>
+	<item id="4059007">
+		<base/>
+	</item>
+	<item id="4059008">
+		<base/>
+	</item>
+	<item id="1061200">
+		<base/>
+	</item>
+	<item id="1061201">
+		<base/>
+	</item>
+	<item id="2000071">
+		<base diffi_key="DIFFI_NORMAL" effect_attrib_pen_key="EFFECT_PEN_STORMBAT" effect_attrib_cash_key="EFFECT_CASH_STORMBAT"/>
+	</item>
+	<item id="2050014">
+		<base diffi_key="DIFFI_VERY_EASY" effect_attrib_pen_key="EFFECT_PEN_EARTHQUAKE_BOMBER" effect_attrib_cash_key="EFFECT_CASH_EARTHQUAKE_BOMBER"/>
+	</item>
+	<item id="1001196">
+		<base/>
+	</item>
+	<item id="1021196">
+		<base/>
+	</item>
+	<item id="1031196">
+		<base/>
+	</item>
+	<item id="1041196">
+		<base/>
+	</item>
+	<item id="1051196">
+		<base/>
+	</item>
+	<item id="1061196">
+		<base/>
+	</item>
+	<item id="1031197">
+		<base/>
+	</item>
+	<item id="1021198">
+		<base/>
+	</item>
+	<item id="1031198">
+		<base/>
+	</item>
+	<item id="1041198">
+		<base/>
+	</item>
+	<item id="1051198">
+		<base/>
+	</item>
+	<item id="1061198">
+		<base/>
+	</item>
+	<item id="1031199">
+		<base/>
+	</item>
+	<item id="1061199">
+		<base/>
+	</item>
+	<item id="4035458">
+		<base/>
+	</item>
+	<item id="4035459">
+		<base/>
+	</item>
+	<item id="4035460">
+		<base/>
+	</item>
+	<item id="4035461">
+		<base/>
+	</item>
+	<item id="4035462">
+		<base/>
+	</item>
+	<item id="4035463">
+		<base/>
+	</item>
+	<item id="4052277">
+		<base/>
+	</item>
+	<item id="4052278">
+		<base/>
+	</item>
+	<item id="4052279">
+		<base/>
+	</item>
+	<item id="4052280">
+		<base/>
+	</item>
+	<item id="4052281">
+		<base/>
+	</item>
+	<item id="4052282">
+		<base/>
+	</item>
+	<item id="4052283">
+		<base/>
+	</item>
+	<item id="4052284">
+		<base/>
+	</item>
+	<item id="4052285">
+		<base/>
+	</item>
+	<item id="4052286">
+		<base/>
+	</item>
+	<item id="4052287">
+		<base/>
+	</item>
+	<item id="4052288">
+		<base/>
+	</item>
+	<item id="4052289">
+		<base/>
+	</item>
+	<item id="4052290">
+		<base/>
+	</item>
+	<item id="4052291">
+		<base/>
+	</item>
+	<item id="4052292">
+		<base/>
+	</item>
+	<item id="4052293">
+		<base/>
+	</item>
+	<item id="4052294">
+		<base/>
+	</item>
+	<item id="4052295">
+		<base/>
+	</item>
+	<item id="4052296">
+		<base/>
+	</item>
+	<item id="1021202">
+		<base/>
+	</item>
+	<item id="1031202">
+		<base/>
+	</item>
+	<item id="1041202">
+		<base/>
+	</item>
+	<item id="1051202">
+		<base/>
+	</item>
+	<item id="1061202">
+		<base/>
+	</item>
+	<item id="1021203">
+		<base/>
+	</item>
+	<item id="1031203">
+		<base/>
+	</item>
+	<item id="1041203">
+		<base/>
+	</item>
+	<item id="1051203">
+		<base/>
+	</item>
+	<item id="1061203">
+		<base/>
+	</item>
+	<item id="2010055">
+		<base/>
+	</item>
+	<item id="1001204">
+		<base/>
+	</item>
+	<item id="1021204">
+		<base/>
+	</item>
+	<item id="1031204">
+		<base/>
+	</item>
+	<item id="1041204">
+		<base/>
+	</item>
+	<item id="1051204">
+		<base/>
+	</item>
+	<item id="1001205">
+		<base/>
+	</item>
+	<item id="1021205">
+		<base/>
+	</item>
+	<item id="1031205">
+		<base/>
+	</item>
+	<item id="1041205">
+		<base/>
+	</item>
+	<item id="1051205">
+		<base/>
+	</item>
+	<item id="2000072">
+		<base diffi_key="DIFFI_NORMAL"/>
+	</item>
+	<item id="2000073">
+		<base diffi_key="DIFFI_NORMAL"/>
+	</item>
+	<item id="4035464">
+		<base/>
+	</item>
+	<item id="4035465">
+		<base/>
+	</item>
+	<item id="4035466">
+		<base/>
+	</item>
+	<item id="4035467">
+		<base/>
+	</item>
+	<item id="4052297">
+		<base/>
+	</item>
+	<item id="4052298">
+		<base/>
+	</item>
+	<item id="4052299">
+		<base/>
+	</item>
+	<item id="4052300">
+		<base/>
+	</item>
+	<item id="4052301">
+		<base/>
+	</item>
+	<item id="4052302">
+		<base/>
+	</item>
+	<item id="4052303">
+		<base/>
+	</item>
+	<item id="4052304">
+		<base/>
+	</item>
+	<item id="4052305">
+		<base/>
+	</item>
+	<item id="4052306">
+		<base/>
+	</item>
+	<item id="4160141">
+		<base/>
+	</item>
+	<item id="4160142">
+		<base/>
+	</item>
+	<item id="1001206">
+		<base/>
+	</item>
+	<item id="1021206">
+		<base/>
+	</item>
+	<item id="1031206">
+		<base/>
+	</item>
+	<item id="1041206">
+		<base/>
+	</item>
+	<item id="1051206">
+		<base/>
+	</item>
+	<item id="1001207">
+		<base/>
+	</item>
+	<item id="1021207">
+		<base/>
+	</item>
+	<item id="1031207">
+		<base/>
+	</item>
+	<item id="1041207">
+		<base/>
+	</item>
+	<item id="1051207">
+		<base/>
+	</item>
+	<item id="4035468">
+		<base/>
+	</item>
+	<item id="4035469">
+		<base/>
+	</item>
+	<item id="4052307">
+		<base/>
+	</item>
+	<item id="4052308">
+		<base/>
+	</item>
+	<item id="4052309">
+		<base/>
+	</item>
+	<item id="4052310">
+		<base/>
+	</item>
+	<item id="4052311">
+		<base/>
+	</item>
+	<item id="4052312">
+		<base/>
+	</item>
+	<item id="4052313">
+		<base/>
+	</item>
+	<item id="4052314">
+		<base/>
+	</item>
+	<item id="4052315">
+		<base/>
+	</item>
+	<item id="4052316">
+		<base/>
+	</item>
+	<item id="4160143">
+		<base/>
+	</item>
+	<item id="4160144">
+		<base/>
+	</item>
+	<item id="1001208">
+		<base/>
+	</item>
+	<item id="1021208">
+		<base/>
+	</item>
+	<item id="1031208">
+		<base/>
+	</item>
+	<item id="1041208">
+		<base/>
+	</item>
+	<item id="1051208">
+		<base/>
+	</item>
+	<item id="1001209">
+		<base/>
+	</item>
+	<item id="1021209">
+		<base/>
+	</item>
+	<item id="1031209">
+		<base/>
+	</item>
+	<item id="1041209">
+		<base/>
+	</item>
+	<item id="1051209">
+		<base/>
+	</item>
+	<item id="2000074">
+		<base diffi_key="DIFFI_NORMAL" effect_attrib_pen_key="EFFECT_PEN_PLASMA" effect_attrib_cash_key="EFFECT_CASH_PLASMA"/>
+	</item>
+	<item id="4035470">
+		<base/>
+	</item>
+	<item id="4035471">
+		<base/>
+	</item>
+	<item id="4035472">
+		<base/>
+	</item>
+	<item id="4052317">
+		<base/>
+	</item>
+	<item id="4052318">
+		<base/>
+	</item>
+	<item id="4052319">
+		<base/>
+	</item>
+	<item id="4052320">
+		<base/>
+	</item>
+	<item id="4052321">
+		<base/>
+	</item>
+	<item id="4052322">
+		<base/>
+	</item>
+	<item id="4052323">
+		<base/>
+	</item>
+	<item id="4052324">
+		<base/>
+	</item>
+	<item id="4052325">
+		<base/>
+	</item>
+	<item id="4052326">
+		<base/>
+	</item>
+	<item id="4160145">
+		<base/>
+	</item>
+	<item id="4160146">
+		<base/>
+	</item>
+	<item id="1011210">
+		<base/>
+	</item>
+	<item id="1021210">
+		<base/>
+	</item>
+	<item id="1031210">
+		<base/>
+	</item>
+	<item id="1041210">
+		<base/>
+	</item>
+	<item id="1051210">
+		<base/>
+	</item>
+	<item id="1061210">
+		<base/>
+	</item>
+	<item id="1011211">
+		<base/>
+	</item>
+	<item id="1021211">
+		<base/>
+	</item>
+	<item id="1031211">
+		<base/>
+	</item>
+	<item id="1041211">
+		<base/>
+	</item>
+	<item id="1051211">
+		<base/>
+	</item>
+	<item id="1061211">
+		<base/>
+	</item>
+	<item id="4035473">
+		<base/>
+	</item>
+	<item id="4035474">
+		<base/>
+	</item>
+	<item id="4052327">
+		<base/>
+	</item>
+	<item id="4052328">
+		<base/>
+	</item>
+	<item id="4052329">
+		<base/>
+	</item>
+	<item id="4052330">
+		<base/>
+	</item>
+	<item id="4052331">
+		<base/>
+	</item>
+	<item id="4052332">
+		<base/>
+	</item>
+	<item id="4052333">
+		<base/>
+	</item>
+	<item id="4052334">
+		<base/>
+	</item>
+	<item id="4052335">
+		<base/>
+	</item>
+	<item id="4052336">
+		<base/>
+	</item>
+	<item id="4160147">
+		<base/>
+	</item>
+	<item id="4160148">
+		<base/>
+	</item>
+	<item id="1021212">
+		<base/>
+	</item>
+	<item id="1031212">
+		<base/>
+	</item>
+	<item id="1041212">
+		<base/>
+	</item>
+	<item id="1051212">
+		<base/>
+	</item>
+	<item id="1061212">
+		<base/>
+	</item>
+	<item id="1021213">
+		<base/>
+	</item>
+	<item id="1031213">
+		<base/>
+	</item>
+	<item id="1041213">
+		<base/>
+	</item>
+	<item id="1051213">
+		<base/>
+	</item>
+	<item id="1001213">
+		<base/>
+	</item>
+	<item id="4035475">
+		<base/>
+	</item>
+	<item id="4035476">
+		<base/>
+	</item>
+	<item id="4052337">
+		<base/>
+	</item>
+	<item id="4052338">
+		<base/>
+	</item>
+	<item id="4052339">
+		<base/>
+	</item>
+	<item id="4052340">
+		<base/>
+	</item>
+	<item id="4052341">
+		<base/>
+	</item>
+	<item id="4052342">
+		<base/>
+	</item>
+	<item id="4052343">
+		<base/>
+	</item>
+	<item id="4052344">
+		<base/>
+	</item>
+	<item id="1061214">
+		<base/>
+	</item>
+	<item id="1061215">
+		<base/>
+	</item>
+	<item id="1061216">
+		<base/>
+	</item>
+	<item id="1061217">
+		<base/>
+	</item>
+	<item id="1061218">
+		<base/>
+	</item>
+	<item id="1061219">
+		<base/>
+	</item>
+	<item id="1061220">
+		<base/>
+	</item>
+	<item id="4052345">
+		<base/>
+	</item>
+	<item id="2010056">
+		<base diffi_key="DIFFI_NORMAL"/>
+	</item>
+	<item id="4035477">
+		<base/>
+	</item>
+	<item id="1021221">
+		<base/>
+	</item>
+	<item id="1031221">
+		<base/>
+	</item>
+	<item id="1041221">
+		<base/>
+	</item>
+	<item id="1051221">
+		<base/>
+	</item>
+	<item id="1001221">
+		<base/>
+	</item>
+	<item id="1021222">
+		<base/>
+	</item>
+	<item id="1031222">
+		<base/>
+	</item>
+	<item id="1041222">
+		<base/>
+	</item>
+	<item id="1051222">
+		<base/>
+	</item>
+	<item id="1001222">
+		<base/>
+	</item>
+	<item id="4035478">
+		<base/>
+	</item>
+	<item id="4035479">
+		<base/>
+	</item>
+	<item id="4052346">
+		<base/>
+	</item>
+	<item id="4052347">
+		<base/>
+	</item>
+	<item id="4052348">
+		<base/>
+	</item>
+	<item id="4052349">
+		<base/>
+	</item>
+	<item id="4052350">
+		<base/>
+	</item>
+	<item id="4052351">
+		<base/>
+	</item>
+	<item id="4052352">
+		<base/>
+	</item>
+	<item id="4052353">
+		<base/>
+	</item>
+	<item id="4052354">
+		<base/>
+	</item>
+	<item id="4052355">
+		<base/>
+	</item>
+	<item id="4160149">
+		<base/>
+	</item>
+	<item id="4160150">
+		<base/>
+	</item>
+	<item id="2000075">
+		<base/>
+	</item>
+	<item id="4035480">
+		<base/>
+	</item>
+	<item id="6000050">
+		<base/>
+	</item>
+	<item id="6000051">
+		<base/>
+	</item>
+	<item id="6000052">
+		<base/>
+	</item>
+	<item id="1021223">
+		<base/>
+	</item>
+	<item id="1031223">
+		<base/>
+	</item>
+	<item id="1041223">
+		<base/>
+	</item>
+	<item id="1051223">
+		<base/>
+	</item>
+	<item id="1061223">
+		<base/>
+	</item>
+	<item id="1011223">
+		<base/>
+	</item>
+	<item id="1021224">
+		<base/>
+	</item>
+	<item id="1031224">
+		<base/>
+	</item>
+	<item id="1041224">
+		<base/>
+	</item>
+	<item id="1051224">
+		<base/>
+	</item>
+	<item id="1061224">
+		<base/>
+	</item>
+	<item id="1001224">
+		<base/>
+	</item>
+	<item id="4035481">
+		<base/>
+	</item>
+	<item id="4035482">
+		<base/>
+	</item>
+	<item id="4052356">
+		<base/>
+	</item>
+	<item id="4052357">
+		<base/>
+	</item>
+	<item id="4052358">
+		<base/>
+	</item>
+	<item id="4052359">
+		<base/>
+	</item>
+	<item id="4052360">
+		<base/>
+	</item>
+	<item id="4052361">
+		<base/>
+	</item>
+	<item id="4052362">
+		<base/>
+	</item>
+	<item id="4052363">
+		<base/>
+	</item>
+	<item id="4052364">
+		<base/>
+	</item>
+	<item id="4052365">
+		<base/>
+	</item>
+	<item id="4160151">
+		<base/>
+	</item>
+	<item id="4160152">
+		<base/>
+	</item>
+	<item id="2000076">
+		<base diffi_key="DIFFI_DIFFICULTY" effect_attrib_pen_key="EFFECT_PEN_COUNTER" effect_attrib_cash_key="EFFECT_CASH_COUNTER"/>
+	</item>
+	<item id="4035483">
+		<base/>
+	</item>
+	<item id="4052366">
+		<base/>
+	</item>
+	<item id="1021225">
+		<base/>
+	</item>
+	<item id="1031225">
+		<base/>
+	</item>
+	<item id="1041225">
+		<base/>
+	</item>
+	<item id="1051225">
+		<base/>
+	</item>
+	<item id="1001225">
+		<base/>
+	</item>
+	<item id="1021226">
+		<base/>
+	</item>
+	<item id="1031226">
+		<base/>
+	</item>
+	<item id="1041226">
+		<base/>
+	</item>
+	<item id="1051226">
+		<base/>
+	</item>
+	<item id="1001226">
+		<base/>
+	</item>
+	<item id="4035484">
+		<base/>
+	</item>
+	<item id="4035485">
+		<base/>
+	</item>
+	<item id="4052367">
+		<base/>
+	</item>
+	<item id="4052368">
+		<base/>
+	</item>
+	<item id="4052369">
+		<base/>
+	</item>
+	<item id="4052370">
+		<base/>
+	</item>
+	<item id="4052371">
+		<base/>
+	</item>
+	<item id="4052372">
+		<base/>
+	</item>
+	<item id="4052373">
+		<base/>
+	</item>
+	<item id="4052374">
+		<base/>
+	</item>
+	<item id="4052375">
+		<base/>
+	</item>
+	<item id="4052376">
+		<base/>
+	</item>
+	<item id="4160153">
+		<base/>
+	</item>
+	<item id="4160154">
+		<base/>
+	</item>
+	<item id="2000077">
+		<base diffi_key="DIFFI_VERY_EASY" effect_attrib_pen_key="EFFECT_PEN_DAGGER" effect_attrib_cash_key="EFFECT_CASH_DAGGER"/>
+	</item>
+	<item id="4035486">
+		<base/>
+	</item>
+	<item id="1021227">
+		<base/>
+	</item>
+	<item id="1031227">
+		<base/>
+	</item>
+	<item id="1041227">
+		<base/>
+	</item>
+	<item id="1051227">
+		<base/>
+	</item>
+	<item id="1061227">
+		<base/>
+	</item>
+	<item id="1001227">
+		<base/>
+	</item>
+	<item id="1011227">
+		<base/>
+	</item>
+	<item id="1021228">
+		<base/>
+	</item>
+	<item id="1031228">
+		<base/>
+	</item>
+	<item id="1041228">
+		<base/>
+	</item>
+	<item id="1051228">
+		<base/>
+	</item>
+	<item id="1061228">
+		<base/>
+	</item>
+	<item id="1001228">
+		<base/>
+	</item>
+	<item id="1011228">
+		<base/>
+	</item>
+	<item id="4035487">
+		<base/>
+	</item>
+	<item id="4035488">
+		<base/>
+	</item>
+	<item id="4052377">
+		<base/>
+	</item>
+	<item id="4052378">
+		<base/>
+	</item>
+	<item id="4052379">
+		<base/>
+	</item>
+	<item id="4052380">
+		<base/>
+	</item>
+	<item id="4052381">
+		<base/>
+	</item>
+	<item id="4052382">
+		<base/>
+	</item>
+	<item id="4052383">
+		<base/>
+	</item>
+	<item id="4052384">
+		<base/>
+	</item>
+	<item id="2000078">
+		<base diffi_key="DIFFI_NORMAL" effect_attrib_pen_key="EFFECT_PEN_TWIN" effect_attrib_cash_key="EFFECT_CASH_TWIN"/>
+	</item>
+	<item id="4035489">
+		<base/>
+	</item>
+	<item id="1070079">
+		<base/>
+	</item>
+	<item id="4030221">
 		<base/>
 	</item>
 </Item_tooltip_base>

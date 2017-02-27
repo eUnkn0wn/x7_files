@@ -17,6 +17,7 @@
 	<trail type="24" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_SpyDagger_05" texture="Resources/Image/slash_mach3_2_violet.dds" blendType="0"/>
 	<trail type="24" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_SpyDagger_06" texture="Resources/Image/slash_glitch_D.dds" blendType="0"/>
 	<trail type="24" sceneIndex="0" shapeName="Line02" trailNodeName="GhostTrail_SpyDagger_07" texture="Resources/Image/slash_glitch_D_black.dds" blendType="1"/>
+	<trail type="24" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_SpyDagger_08" texture="Resources/Image/gi_ice" blendType="0"/>
 	<trail type="26" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_Double_sword_01" texture="Resources/Image/di.tga" blendType="0"/>
 	<trail type="26" sceneIndex="1" shapeName="Line01" trailNodeName="GhostTrail_Double_sword_02" texture="Resources/Image/di2.tga" blendType="0"/>
 	<trail type="33" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_Breaker_01" texture="Resources/Image/hm.tga" blendType="0"/>
@@ -40,4 +41,5 @@
 	<trail type="38" sceneIndex="1" shapeName="Line01" trailNodeName="GhostTrail_GlitchJoySigma_blade_02" texture="Resources/Image/sigma_joy_change.dds" blendType="1"/>
 	<trail type="54" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_two_hand_sword_01" texture="Resources/Image/gi.tga" blendType="0"/>
 	<trail type="54" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_two_hand_sword_02" texture="Resources/Image/gi2.tga" blendType="0"/>
+	<trail type="55" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_two_hand_sword_01" texture="Resources/Image/gi.tga" blendType="0"/>
 </trailList>

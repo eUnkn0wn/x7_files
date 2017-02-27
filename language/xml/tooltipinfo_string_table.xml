@@ -591,4 +591,5 @@
 	<string key="PEN_300000" kor="300,000 PEN"/>
 	<string key="EVENT_100" kor="100개"/>
 	<string key="EVENT_3TIME" kor="3 Hours"/>
+	<string key="CAPSULE_COS_SET_TYPE9" kor="{N}구성 : 상의, 하의, 장갑, 신발 + 추가구성" ger="{N}(Jacket, Pants, Gloves, Shoes + Additional )" eng="{N}(Jacket, Pants, Gloves, Shoes + Additional )" fre="{N}(Jacket, Pants, Gloves, Shoes + Additional )" spa="{N}(Jacket, Pants, Gloves, Shoes + Additional )" ita="{N}(Jacket, Pants, Gloves, Shoes + Additional )" rus="{N}(Jacket, Pants, Gloves, Shoes + Additional )" ame="{N}(Jacket, Pants, Gloves, Shoes + Additional )" tur="{N}(Jacket, Pants, Gloves, Shoes + Additional )" cns="{N}(Jacket, Pants, Gloves, Shoes + Additional )" tha="{N}(Jacket, Pants, Gloves, Shoes + Additional )" twn="{N}(Jacket, Pants, Gloves, Shoes + Additional )" jap="{N}(Jacket, Pants, Gloves, Shoes + Additional )" idn="{N}(Jacket, Pants, Gloves, Shoes + Additional )"/>
 </string_table>

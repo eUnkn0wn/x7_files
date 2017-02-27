@@ -673,7 +673,7 @@
 		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
 	</item>
 	<item id="2000062">
-		<effect_graph power="20" rate_of_fire="10" accuracy="100" accuracy_max="100" move_speed_rate="110" move_speed_rate_max="125" range="500" range_max="8000" max_ammo="-1" max_ammo_max="-1"/>
+		<effect_graph power="20" power_max="130" rate_of_fire="10" rate_of_fire_max="100" accuracy="100" accuracy_max="100" move_speed_rate="110" move_speed_rate_max="125" range="500" range_max="8000" max_ammo="-1" max_ammo_max="-1"/>
 		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
 	</item>
 	<item id="2000063">
@@ -686,6 +686,78 @@
 	</item>
 	<item id="2000065">
 		<effect_graph power="10" power_max="130" rate_of_fire="0" rate_of_fire_max="100" accuracy="100" accuracy_max="100" move_speed_rate="120" move_speed_rate_max="125" range="500" range_max="8000" max_ammo="-1" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2000066">
+		<effect_graph power="20" power_max="130" rate_of_fire="10" rate_of_fire_max="100" accuracy="100" accuracy_max="100" move_speed_rate="110" move_speed_rate_max="125" range="500" range_max="8000" max_ammo="-1" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2000067">
+		<effect_graph power="34" power_max="130" rate_of_fire="0" rate_of_fire_max="100" accuracy="100" accuracy_max="100" move_speed_rate="110" move_speed_rate_max="125" range="500" range_max="8000" max_ammo="-1" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2000068">
+		<effect_graph power="34" power_max="130" rate_of_fire="0" rate_of_fire_max="100" accuracy="100" accuracy_max="100" move_speed_rate="110" move_speed_rate_max="125" range="500" range_max="8000" max_ammo="-1" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2000069">
+		<effect_graph power="34" power_max="130" rate_of_fire="0" rate_of_fire_max="100" accuracy="100" accuracy_max="100" move_speed_rate="110" move_speed_rate_max="125" range="500" range_max="8000" max_ammo="-1" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2000070">
+		<effect_graph power="25" power_max="130" rate_of_fire="0" rate_of_fire_max="100" accuracy="100" accuracy_max="100" move_speed_rate="120" move_speed_rate_max="125" range="500" range_max="8000" max_ammo="-1" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2010054">
+		<effect_graph power="60" power_max="130" rate_of_fire="0" rate_of_fire_max="100" accuracy="92" accuracy_max="100" move_speed_rate="100" move_speed_rate_max="125" range="8000" range_max="8000" max_ammo="7" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2020044">
+		<effect_graph power="9" power_max="130" rate_of_fire="95" rate_of_fire_max="100" accuracy="94" accuracy_max="100" move_speed_rate="95" move_speed_rate_max="125" range="8000" range_max="8000" max_ammo="100" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2000071">
+		<effect_graph power="34" power_max="130" rate_of_fire="0" rate_of_fire_max="100" accuracy="100" accuracy_max="100" move_speed_rate="110" move_speed_rate_max="125" range="500" range_max="8000" max_ammo="-1" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2050014">
+		<effect_graph power="130" power_max="130" rate_of_fire="0" rate_of_fire_max="100" accuracy="100" accuracy_max="100" move_speed_rate="100" move_speed_rate_max="125" range="4750" range_max="8000" max_ammo="1" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2010055">
+		<effect_graph power="8" power_max="130" rate_of_fire="70" rate_of_fire_max="100" accuracy="100" accuracy_max="100" move_speed_rate="100" move_speed_rate_max="125" range="8000" range_max="8000" max_ammo="30" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2000072">
+		<effect_graph power="20" power_max="130" rate_of_fire="0" rate_of_fire_max="100" accuracy="100" accuracy_max="100" move_speed_rate="110" move_speed_rate_max="125" range="500" range_max="8000" max_ammo="-1" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2000073">
+		<effect_graph power="20" power_max="130" rate_of_fire="0" rate_of_fire_max="100" accuracy="100" accuracy_max="100" move_speed_rate="110" move_speed_rate_max="125" range="500" range_max="8000" max_ammo="-1" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2000074">
+		<effect_graph power="34" power_max="130" rate_of_fire="0" rate_of_fire_max="100" accuracy="100" accuracy_max="100" move_speed_rate="110" move_speed_rate_max="125" range="500" range_max="8000" max_ammo="-1" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2010056">
+		<effect_graph power="10" power_max="130" rate_of_fire="80" rate_of_fire_max="100" accuracy="97" accuracy_max="100" move_speed_rate="110" move_speed_rate_max="125" range="8000" range_max="8000" max_ammo="22" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2000075">
+		<effect_graph power="34" power_max="130" rate_of_fire="0" rate_of_fire_max="100" accuracy="100" accuracy_max="100" move_speed_rate="110" move_speed_rate_max="125" range="500" range_max="8000" max_ammo="-1" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2000076">
+		<effect_graph power="30" power_max="130" rate_of_fire="0" rate_of_fire_max="100" accuracy="100" accuracy_max="100" move_speed_rate="110" move_speed_rate_max="125" range="500" range_max="8000" max_ammo="-1" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2000077">
+		<effect_graph power="25" power_max="130" rate_of_fire="0" rate_of_fire_max="100" accuracy="100" accuracy_max="100" move_speed_rate="120" move_speed_rate_max="125" range="500" range_max="8000" max_ammo="-1" max_ammo_max="-1"/>
+		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
+	</item>
+	<item id="2000078">
+		<effect_graph power="30" power_max="130" rate_of_fire="0" rate_of_fire_max="100" accuracy="100" accuracy_max="100" move_speed_rate="110" move_speed_rate_max="125" range="500" range_max="8000" max_ammo="-1" max_ammo_max="-1"/>
 		<plus_graph power_plus="0" rate_of_fire_plus="0" accuracy_plus="0" move_speed_rate_plus="0" range_plus="0" max_ammo_plus="0"/>
 	</item>
 </Item_tooltip_weapongraph>
