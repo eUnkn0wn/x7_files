@@ -75,4 +75,5 @@
 	<weapon type="52" sceneIndex="1" attackAttach="Dummy_R" link="1"/>
 	<weapon type="53" sceneIndex="0" attackAttach="R_Hand_Dummy" link="1"/>
 	<weapon type="54" sceneIndex="0" attackAttach="ber_arm_R" link="1"/>
+	<weapon type="55" sceneIndex="0" attackAttach="R_Hand_Dummy" link="0" idleAttach="Spine_Dummy"/>
 </infoList>

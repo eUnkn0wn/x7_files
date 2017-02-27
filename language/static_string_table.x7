@@ -14740,15 +14740,15 @@
 		<por value="Ataque incrementados, sem perda de SP quando Fumbi obtém"/>
 	</string>
 	<string key="912">
-		<kor value="'Time is Gold!' {N}에스퍼 럭키 박스가 지급 되었습니다.{N}매일매일 출석해서 알찬 보상 놓치지 마세요 ^_^v"/>
-		<ger/>
-		<eng/>
-		<fre/>
+		<kor value="Trick or Treat!! {N}Trick or Treat BOX가 지급 되었습니다."/>
+		<ger value="Trick or Treat BOX verabreicht!"/>
+		<eng value="Trick or Treat BOX awarded"/>
+		<fre value="Trick or Treat BOX obtenu"/>
 		<spa/>
 		<ita/>
 		<rus/>
 		<ame/>
-		<tur/>
+		<tur value="Trick or Treat BOX verildi"/>
 		<cns/>
 		<tha/>
 		<twn/>
@@ -15352,15 +15352,15 @@
 		<por value="Permanente"/>
 	</string>
 	<string key="948">
-		<kor value="사탕 미끼가 지급 되었습니다."/>
-		<ger value="Candy Bait verabreicht!"/>
-		<eng value="Candy Bait awarded"/>
-		<fre value="Candy Bait obtenu"/>
+		<kor value="크리스마스 이벤트 카드가 지급되었습니다."/>
+		<ger value="CandyWeihnachtsevent-Karte ausgegeben."/>
+		<eng value="Christmas event card issued."/>
+		<fre value="Carte du Christmas Event remise."/>
 		<spa/>
 		<ita/>
 		<rus/>
 		<ame/>
-		<tur value="Şekerli yem verildi"/>
+		<tur value="Yılbasi etkinligi karti verildi."/>
 		<cns/>
 		<tha/>
 		<twn/>
@@ -17843,6 +17843,23 @@
 		<rus value=""/>
 		<ame value=""/>
 		<tur value=""/>
+		<cns value=""/>
+		<tha value=""/>
+		<twn value=""/>
+		<jap value=""/>
+		<idn value=""/>
+		<por value=""/>
+	</string>
+	<string key="1096">
+		<kor value="인챈트 내역 없음"/>
+		<ger value="Kein Verzauberungsverlauf"/>
+		<eng value="No Enchant History"/>
+		<fre value="Aucun historique d'enchantement"/>
+		<spa value=""/>
+		<ita value=""/>
+		<rus value=""/>
+		<ame value=""/>
+		<tur value="Güçlendirme Geçmişi Yok"/>
 		<cns value=""/>
 		<tha value=""/>
 		<twn value=""/>

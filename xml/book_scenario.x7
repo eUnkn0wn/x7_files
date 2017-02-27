@@ -1972,7 +1972,7 @@
 		<kor name="멜로우 일반" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}우주고양이 경찰 콘셉트 모델 마르쉬와 멜로우. 최근 어린이프로 진행을 맡아 아이들에게도 대인기!{N}정체는 우연히 넷스피어 접속장치에 연결된 고양이들로, 소속사에 의해 철저한 비밀 유지 중.{N}넷스피어의 아바타를 통해 인간과 동물이 커뮤니케이션할 수 있게된 최초의 사례."/>
 		<ger name="Mallow Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Marsh & Mallow, die einzigartige Katzenkonzeptstudie, die Weltraumpolizei spielen möchte.{N}Wegen ihres letzten Jobs als Moderatoren einer Kindersendung, sind sie bei den Kleinen{N}ziemlich beliebt. Ihre Identität: Die Katzen, die versehentlich mit einem Netsphere-Gerät {N}verbunden wurden. Die Wahrheit unterliegt strikter Geheimhaltung. Es ist der erste{N}Fall von Kommunikation durch einen Netsphere-Avatar zwischen Mensch und Tier."/>
 		<eng name="Mallow Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Marsh and Mallow are both thrilled at the prospect at going into space. {N}They wouldn't be the first animals in orbit, but they don't mind too much.{N}They fight with each other on a regular basis, but deep down, {N}they really care about each other."/>
-		<fre name="Marsh Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Mallow et Marsch veulent aller dans l'espace pour y faire la police.{N}Les enfants les adorent car ils présentent leur propre émission de télévision.{N}Ils ont signé une clause de confidentialité mais ils se sont retrouvés connectés à {N}la Net Sphere par accident. C'est la première fois que les humains et les chats{N}peuvent communiquer sur la Net Sphere par avatar interposés."/>
+		<fre name="Mallow Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Mallow et Marsch veulent aller dans l'espace pour y faire la police.{N}Les enfants les adorent car ils présentent leur propre émission de télévision.{N}Ils ont signé une clause de confidentialité mais ils se sont retrouvés connectés à {N}la Net Sphere par accident. C'est la première fois que les humains et les chats{N}peuvent communiquer sur la Net Sphere par avatar interposés."/>
 		<spa name=""/>
 		<ita name=""/>
 		<rus name=""/>
@@ -1986,11 +1986,569 @@
 		<kor name="멜로우 유니크" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}우주고양이 경찰 콘셉트 모델 마르쉬와 멜로우. 최근 어린이프로 진행을 맡아 아이들에게도 대인기!{N}정체는 우연히 넷스피어 접속장치에 연결된 고양이들로, 소속사에 의해 철저한 비밀 유지 중.{N}넷스피어의 아바타를 통해 인간과 동물이 커뮤니케이션할 수 있게된 최초의 사례."/>
 		<ger name="Mallow Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Marsh & Mallow, die einzigartige Katzenkonzeptstudie, die Weltraumpolizei spielen möchte.{N}Wegen ihres letzten Jobs als Moderatoren einer Kindersendung, sind sie bei den Kleinen{N}ziemlich beliebt. Ihre Identität: Die Katzen, die versehentlich mit einem Netsphere-Gerät {N}verbunden wurden. Die Wahrheit unterliegt strikter Geheimhaltung. Es ist der erste{N}Fall von Kommunikation durch einen Netsphere-Avatar zwischen Mensch und Tier."/>
 		<eng name="Mallow Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Marsh and Mallow are both thrilled at the prospect at going into space. {N}They wouldn't be the first animals in orbit, but they don't mind too much.{N}They fight with each other on a regular basis, but deep down, {N}they really care about each other."/>
-		<fre name="Marsh Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Mallow et Marsch veulent aller dans l'espace pour y faire la police.{N}Les enfants les adorent car ils présentent leur propre émission de télévision.{N}Ils ont signé une clause de confidentialité mais ils se sont retrouvés connectés à {N}la Net Sphere par accident. C'est la première fois que les humains et les chats{N}peuvent communiquer sur la Net Sphere par avatar interposés."/>
+		<fre name="Mallow Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Mallow et Marsch veulent aller dans l'espace pour y faire la police.{N}Les enfants les adorent car ils présentent leur propre émission de télévision.{N}Ils ont signé une clause de confidentialité mais ils se sont retrouvés connectés à {N}la Net Sphere par accident. C'est la première fois que les humains et les chats{N}peuvent communiquer sur la Net Sphere par avatar interposés."/>
 		<spa name=""/>
 		<ita name=""/>
 		<rus name=""/>
 		<tur name="Mallow Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Marsh ve Mallow, kedi uzay polisi tasarı modelleri. Televizyonda bir çocuk {N}programı sunmaya başladıklarından beri küçüklerin sevgilisi oldular!{N}Net Sphere cihazına es kaza bağlanan iki kedi ve bilgiler, ajansları tarafından{N}sır gibi saklanıyor. Net Sphere'den avatar aracılığıyla iletişim kurmayı başaran ilk{N}insan ve kedi vakasının birer parçasıdırlar."/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000168">
+		<kor name="자허 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}악의적인 목적을 가진 실험에 의해 아바타화된 길 고양이.{N}외부에서의 접근이 가능한 코드가 심어져 있어 제3자의 접속에 의해 아바타의 컨트롤을 잃는다.{N}제 3자는 고양이의 심층의식이 구현된 아바타를 조작하여 요인 암살, 정보 탈취 등을 일삼고 있다.{N}함께 실험의 대상이 된 토르테를 어렴풋이 기억하고 있다."/>
+		<ger name="Leo Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Eine Katzenseele, durch Arkanexperimente als Avatar wiedergeboren ...{N}Er wurde gut programmiert und gehorcht auf Knopfdruck.{N}Er soll Feinde ausschalten und Informationen sammeln.{N}Doch ab und zu schießen Erinnerungen an sein Testlabor durch seinen Kopf: Violet?"/>
+		<eng name="Leo Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}A feline spirit reborn as an Avatar through arcane experiments.{N}A shadowy figure controls him using codes planted within him. Under this spell,{N}this feline Avatar is being used to assassinate targets and gather information.{N}He sometimes has flashbacks of Violet, one of his fellow test subjects."/>
+		<fre name="Leo Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Un esprit félin né d'expériences sur les arcanes.{N}Un malade le contrôle au moyen de lignes de codes intégrées.{N}Sous son joug, cet Avatar de chat a mené à bien des missions d'assassinat et de{N}renseignement. Il a parfois des souvenirs confus de Violet, un autre sujet d'expérimentation."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Leo Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Arkana deneyleriyle bir kedigil ruhu Avatar olarak hayat buldu.{N}İçerisine yerleştirilmiş olan kodlar sayesinde tanımsız bir kişilik onu kontrol ediyor.{N}Bu büyünün kontrolünde olan kedigil Avatarı, hedeflere suikast düzenlemek ve bilgi{N}toplamak amacıyla kullanılıyor. Arada sırada diğer deneklerden birisi olan Violet ile{N}ilgili hatırlar gözünde canlanıyor."/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000169">
+    <kor name="자허 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}악의적인 목적을 가진 실험에 의해 아바타화된 길 고양이.{N}외부에서의 접근이 가능한 코드가 심어져 있어 제3자의 접속에 의해 아바타의 컨트롤을 잃는다.{N}제 3자는 고양이의 심층의식이 구현된 아바타를 조작하여 요인 암살, 정보 탈취 등을 일삼고 있다.{N}함께 실험의 대상이 된 토르테를 어렴풋이 기억하고 있다."/>
+		<ger name="Leo Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Eine Katzenseele, durch Arkanexperimente als Avatar wiedergeboren ...{N}Er wurde gut programmiert und gehorcht auf Knopfdruck.{N}Er soll Feinde ausschalten und Informationen sammeln.{N}Doch ab und zu schießen Erinnerungen an sein Testlabor durch seinen Kopf: Violet?"/>
+		<eng name="Leo Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}A feline spirit reborn as an Avatar through arcane experiments.{N}A shadowy figure controls him using codes planted within him. Under this spell,{N}this feline Avatar is being used to assassinate targets and gather information.{N}He sometimes has flashbacks of Violet, one of his fellow test subjects."/>
+		<fre name="Leo Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Un esprit félin né d'expériences sur les arcanes.{N}Un malade le contrôle au moyen de lignes de codes intégrées.{N}Sous son joug, cet Avatar de chat a mené à bien des missions d'assassinat et de{N}renseignement. Il a parfois des souvenirs confus de Violet, un autre sujet d'expérimentation."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Leo Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Arkana deneyleriyle bir kedigil ruhu Avatar olarak hayat buldu.{N}İçerisine yerleştirilmiş olan kodlar sayesinde tanımsız bir kişilik onu kontrol ediyor.{N}Bu büyünün kontrolünde olan kedigil Avatarı, hedeflere suikast düzenlemek ve bilgi{N}toplamak amacıyla kullanılıyor. Arada sırada diğer deneklerden birisi olan Violet ile{N}ilgili hatırlar gözünde canlanıyor."/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000170">
+		<kor name="토르테 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}악의적인 목적을 가진 실험에 의해 아바타화된 애완 고양이.{N}특별한 제어코드 없이 방치된 고양이의 아바타로, 펫의 목적으로 아바타화 되었다. 실험자는 불명.{N}고양이로서의 기억이 지워진 채로 암거래를 통해 더 월드 컴퍼니의 간부에게 팔려나가지만,{N}자허에 의해 구출된다."/>
+		<ger name="Violet Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Eine Katzenseele, durch Arkanexperimente als Avatar wiedergeboren ...{N}Anders als Leo wurde Violet entwickelt, um ein Lächeln auf Kindergesichter zu zaubern.{N}Doch wie Katzen so sind, hat auch sie ihren eigenen Kopf ... {N}Ihre Erinnerungen wurden gelöscht und nachdem sie diverse 'Herrchen' und 'Frauchen'{N}erledigt hatte, wurde sie ausgesetzt. Doch Leo fand und rettete sie."/>
+		<eng name="Violet Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}A feline spirit reborn as an Avatar through arcane experiments.{N}Though a feline Avatar like Leo, she doesn't have any embedded control codes,{N}and was instead developed as a pet by an unknown creator. {N}They wiped out her memories as a cat and sold her to one of the officers of The World-{N}Company through the black market,{N}where she remained until rescued by Leo."/>
+		<fre name="Violet Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Un esprit félin né d'expériences sur les arcanes.{N}Même si c'est un Avatar de chat à l'instar de Leo, elle n'a pas de programme{N}de contrôle intégrés. Elle a été conçue comme un animal de compagnie par son créateur.{N}Sa mémoire a été altérée quand elle était sous forme de chat puis a été vendue au marché{N}noir à un agent de la World Company.{N}C'est à ce moment-là que Leo l'a trouvée et secourue."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Violet Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Arkana deneyleriyle bir kedigil ruhu Avatar olarak hayat buldu.{N}Leo gibi bir kedigil Avatarı olmasına rağmen içerisinde kontrol kodları yoktur ve bilinmeyen{N}bir yaratıcı tarafından evcil hayvan olarak geliştirilmiştir. {N}Kedi hafızasını silip onu The World Company'nin yetkililerinden birisine kara borsa kanalıyla{N}satılmıştır, burada Leo tarafından kurtarılana dek kalmıştır."/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000171">
+		<kor name="토르테 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}악의적인 목적을 가진 실험에 의해 아바타화된 애완 고양이.{N}특별한 제어코드 없이 방치된 고양이의 아바타로, 펫의 목적으로 아바타화 되었다. 실험자는 불명.{N}고양이로서의 기억이 지워진 채로 암거래를 통해 더 월드 컴퍼니의 간부에게 팔려나가지만,{N}자허에 의해 구출된다."/>
+		<ger name="Violet Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Eine Katzenseele, durch Arkanexperimente als Avatar wiedergeboren ...{N}Anders als Leo wurde Violet entwickelt, um ein Lächeln auf Kindergesichter zu zaubern.{N}Doch wie Katzen so sind, hat auch sie ihren eigenen Kopf ... {N}Ihre Erinnerungen wurden gelöscht und nachdem sie diverse 'Herrchen' und 'Frauchen'{N}erledigt hatte, wurde sie ausgesetzt. Doch Leo fand und rettete sie."/>
+		<eng name="Violet Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}A feline spirit reborn as an Avatar through arcane experiments.{N}Though a feline Avatar like Leo, she doesn't have any embedded control codes,{N}and was instead developed as a pet by an unknown creator. {N}They wiped out her memories as a cat and sold her to one of the officers of The World-{N}Company through the black market,{N}where she remained until rescued by Leo."/>
+		<fre name="Violet Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Un esprit félin né d'expériences sur les arcanes.{N}Même si c'est un Avatar de chat à l'instar de Leo, elle n'a pas de programme{N}de contrôle intégrés. Elle a été conçue comme un animal de compagnie par son créateur.{N}Sa mémoire a été altérée quand elle était sous forme de chat puis a été vendue au marché{N}noir à un agent de la World Company.{N}C'est à ce moment-là que Leo l'a trouvée et secourue."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Violet Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Arkana deneyleriyle bir kedigil ruhu Avatar olarak hayat buldu.{N}Leo gibi bir kedigil Avatarı olmasına rağmen içerisinde kontrol kodları yoktur ve bilinmeyen{N}bir yaratıcı tarafından evcil hayvan olarak geliştirilmiştir. {N}Kedi hafızasını silip onu The World Company'nin yetkililerinden birisine kara borsa kanalıyla{N}satılmıştır, burada Leo tarafından kurtarılana dek kalmıştır."/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000172">
+		<kor name="삽오 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}도전 S4 코디네이터 컨테스트 여성부문 1위 복장{N}넷스피어 최고의 젠틀맨 블루 레볼루션"/>
+		<ger name="Blue Revolution Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}1. Platz der Männeroutfits von Korea's Next Top Stylist S4.{N}Ein Gentlemen der Net Sphere, Blue Revolution!"/>
+		<eng name="Blue Revolution Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The No.1 men's outfit by S4's Next Top Stylist!{N}Say hello to Netsphere's most dashing gentleman!"/>
+		<fre name="Blue Revolution Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Tenue 1re place créée par le styliste de Top Model Corée.{N}Blue Revolution, le haut de gamme du prêt à porter masculin !"/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Blue Revolution Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Korea's Next Top Stylist S4'te 1.'lik kazanan kostüm (erkekler için).{N}Net Sphere'in en şık centilmeni için Blue Revolution!"/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000173">
+    <kor name="삽오 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}도전 S4 코디네이터 컨테스트 여성부문 1위 복장{N}넷스피어 최고의 젠틀맨 블루 레볼루션!"/>
+		<ger name="Blue Revolution Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}1. Platz der Männeroutfits von Korea's Next Top Stylist S4.{N}Ein Gentlemen der Net Sphere, Blue Revolution!"/>
+		<eng name="Blue Revolution Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The No.1 men's outfit by S4's Next Top Stylist!{N}Say hello to Netsphere's most dashing gentleman!"/>
+		<fre name="Blue Revolution Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Tenue 1re place créée par le styliste de Top Model Corée.{N}Blue Revolution, le haut de gamme du prêt à porter masculin !"/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Blue Revolution Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Korea's Next Top Stylist S4'te 1.'lik kazanan kostüm (erkekler için).{N}Net Sphere'in en şık centilmeni için Blue Revolution!"/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000174">
+		<kor name="네온사인 그린 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}도전 S4 코디네이터 컨테스트 여성부문 1위 복장{N}넷스피어 최고의 레이디 네온사인 그린!"/>
+		<ger name="Neon Sign:Green Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}1. Platz für Damenmode von Koreas Next Top Stylist S4.{N}Net Sphere's Best Lady, Neon Green!"/>
+		<eng name="Neon Green Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The No.1 women's outfit by S4's Next Top Stylist!{N}Say hello to Netsphere's loveliest lady!"/>
+		<fre name="Neon Green Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Tenue 1re place créée par le styliste de Top Model Corée.{N}Neon Green, le haut de gamme du prêt à porter féminin !"/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Neon Green Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Koreas Next Top Stylist S4'te 1.'lik kazanan kostüm (kadınlar için).{N}Net Sphere'in eşsiz hanımı, Neon Green!"/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000175">
+		<kor name="네온사인 그린 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}도전 S4 코디네이터 컨테스트 여성부문 1위 복장{N}넷스피어 최고의 레이디 네온사인 그린!"/>
+		<ger name="Neon Sign:Green Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}1. Platz für Damenmode von Koreas Next Top Stylist S4.{N}Net Sphere's Best Lady, Neon Green!"/>
+		<eng name="Neon Green Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}The No.1 women's outfit by S4's Next Top Stylist!{N}Say hello to Netsphere's loveliest lady!"/>
+		<fre name="Neon Green Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Tenue 1re place créée par le styliste de Top Model Corée.{N}Neon Green, le haut de gamme du prêt à porter féminin !"/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Neon Green Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Koreas Next Top Stylist S4'te 1.'lik kazanan kostüm (kadınlar için).{N}Net Sphere'in eşsiz hanımı, Neon Green!"/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000176">
+		<kor name="비트 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}넷스피어의 항해사를 자칭하는 꿈꾸는 소년.{N}갤리온 출범 당시의 선원이었으나, 갤리온이 항해를 멈춘 이후 작은 도시가 되어버린 갤리온을{N}관리하는 일을 하고 있다. 언제나 함께 모험을 떠날 동료를 찾고 있는데, 마음에 드는 사람이 보이면{N}‘너, 내 동료가 돼라!’ 하고 끈질기게 매달리는 탓에 골칫덩이로 소문이 나버렸다."/>
+		<ger name="Davy Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Dieser mutige Kerl hat sich selbst zum Netsphere-Matrosen ernannt. {N}Einst war er Mitglied von Galleons Truppe, aber seit die ihre Reise aufgegeben haben, hilft er {N}fleißig in der Stadt aus. Langsam hat er aber die Nase voll vom Alltag, er will wieder Abenteuer{N}erleben! Er mag es lieber direkt. 'Hey, willst du mit mir mitkommen? Da am Horizont winkt ein {N}Abenteuer! Lass das Leben nicht einfach so an dir vorbeiziehen!' Bisher hatte er allerdings kein Glück."/>
+		<eng name="Davy Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}This boy is a self-proclaimed sailor in the Netsphere. {N}Once a member of Galleon's crew, ever since Galleon stopped its voyage, he's helped to manage{N}the small city that it's become. Tired of the quiet life, he's looking for a companion who's in the{N}mood for adventure. He prefers a direct approach. 'Hey, wanna join me?! Adventure is just beyond{N}the horizon. Don't let life pass you by!' So far, he hasn't had much luck."/>
+		<fre name="Davy Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Ce jeune homme s'est autoproclamé marin en chef de la Netsphere. Autrefois matelot à bord du {N}Galleonus, il aide désormais à gérer la petite ville qu'est devenu cet imposant navire qui ne vogue {N}plus. Mais las de cette ennuyeuse routine, il cherche désormais de nouveaux compagnons pour partir{N}à l'aventure. Davy est un gars plutôt direct. «Hé toi, je sens que tu as soif d'aventure ! Viens avec{N}moi, allez! Tu sais que tu ne le regretteras pas!» Jusqu'ici, il n'a pas eu beaucoup de chance."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Davy Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Bu genç Netsphere'de ünlü bir denizcidir. Bir zamanlar Galleon'un mürettabatından birisiydi fakat {N}Galleon'un yolculuklarına son verdiği günden bu yana oluşturduğu küçük şehrin yönetimine yardımcı {N}oluyor. Sessiz yaşantısından sıkıldığı için kendisine maceraya atılmak isteyen bir yoldaş arıyor. {N}Direkt yaklaşımları tercih eder. 'Hey,bana katılmak ister misin? Ufkun ötesindeki maceralar bizi bekliyor.{N}Hayatın geçip gitmesine izin vermemelisin!' Şu ana kadar, aradığını pek bulamadı."/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000177">
+    <kor name="비트 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}넷스피어의 항해사를 자칭하는 꿈꾸는 소년.{N}갤리온 출범 당시의 선원이었으나, 갤리온이 항해를 멈춘 이후 작은 도시가 되어버린 갤리온을{N}관리하는 일을 하고 있다. 언제나 함께 모험을 떠날 동료를 찾고 있는데, 마음에 드는 사람이 보이면{N}‘너, 내 동료가 돼라!’ 하고 끈질기게 매달리는 탓에 골칫덩이로 소문이 나버렸다."/>
+		<ger name="Davy Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Dieser mutige Kerl hat sich selbst zum Netsphere-Matrosen ernannt. {N}Einst war er Mitglied von Galleons Truppe, aber seit die ihre Reise aufgegeben haben, hilft er {N}fleißig in der Stadt aus. Langsam hat er aber die Nase voll vom Alltag, er will wieder Abenteuer{N}erleben! Er mag es lieber direkt. 'Hey, willst du mit mir mitkommen? Da am Horizont winkt ein {N}Abenteuer! Lass das Leben nicht einfach so an dir vorbeiziehen!' Bisher hatte er allerdings kein Glück."/>
+		<eng name="Davy Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}This boy is a self-proclaimed sailor in the Netsphere. {N}Once a member of Galleon's crew, ever since Galleon stopped its voyage, he's helped to manage{N}the small city that it's become. Tired of the quiet life, he's looking for a companion who's in the{N}mood for adventure. He prefers a direct approach. 'Hey, wanna join me?! Adventure is just beyond{N}the horizon. Don't let life pass you by!' So far, he hasn't had much luck."/>
+		<fre name="Davy Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Ce jeune homme s'est autoproclamé marin en chef de la Netsphere. Autrefois matelot à bord du {N}Galleonus, il aide désormais à gérer la petite ville qu'est devenu cet imposant navire qui ne vogue {N}plus. Mais las de cette ennuyeuse routine, il cherche désormais de nouveaux compagnons pour partir{N}à l'aventure. Davy est un gars plutôt direct. «Hé toi, je sens que tu as soif d'aventure ! Viens avec{N}moi, allez! Tu sais que tu ne le regretteras pas!» Jusqu'ici, il n'a pas eu beaucoup de chance."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Davy Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Bu genç Netsphere'de ünlü bir denizcidir. Bir zamanlar Galleon'un mürettabatından birisiydi fakat {N}Galleon'un yolculuklarına son verdiği günden bu yana oluşturduğu küçük şehrin yönetimine yardımcı {N}oluyor. Sessiz yaşantısından sıkıldığı için kendisine maceraya atılmak isteyen bir yoldaş arıyor. {N}Direkt yaklaşımları tercih eder. 'Hey,bana katılmak ister misin? Ufkun ötesindeki maceralar bizi bekliyor.{N}Hayatın geçip gitmesine izin vermemelisin!' Şu ana kadar, aradığını pek bulamadı."/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000178">
+		<kor name="아쿠아 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}어느날 갑자기 갤리온에 나타난 수수께끼의 소녀.{N}갤리온의 폐쇄구역에서 점검 중이던 비트에게 구조되었으나, 기억을 잃은 채로 이름만을 기억하고{N}있었다. 가상세계인 넷스피어에서 기억상실은 있을 수 없는 일이지만, 간혹 접속중인 본체의 사고로{N}인한 문제일 수도 있어 갤리온의 배려로 빈방을 얻어 요양하며 비트의 일을 돕고 있다."/>
+		<ger name="Nautica Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Diese mysteriöse Dame ist eines Tages wie aus dem Nichts aufgetaucht. {N}Sie steckte in Schwierigkeiten und wurde gerettet, erinnert sich aber an nichts, außer an ihren{N}Namen. In der Netsphere ist Gedächtnisverlust ein praktisch nicht existentes Phänomen, {N}doch unter bestimmten Umständen... Dank Galleons Gastfreundschaft hat sie Unterschlupf {N}gefunden und hilft seitdem wo sie nur kann."/>
+		<eng name="Nautica Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}One day, this mysterious girl appeared in Galleon from out of nowhere.{N}She was rescued by someone inspecting a restricted area in Galleon, however, she could remember{N}nothing but her name. Memory loss is almost unheard of in the Netsphere, but sometimes problems{N}arise when connected to the mainframe. Thanks to Galleon's hospitality, she found a spare room {N}and is helping out around the area."/>
+		<fre name="Nautica Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Un jour, un jeune fille sortie de nulle part a atterri sur le Galleonus. Quelqu'un qui passait par cette {N}zone temporairement condamnée du navire l'a secourue, mais elle n'arrivait à se souvenir que de {N}son nom. L'amnésie est très peu répandue dans la Netsphere. Mais on n'est jamais à l'abri d'un {N}bug du système central.  Aujourd'hui, grâce à la bonté de tout l'équipage, elle loge sur le Galleonus {N}et apporte son aide autant que possible."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Nautica Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Bir gün bu gizemli kız, nereden geldiği belirsiz biçimde Galleon'da belirdi. Galleon'da yasaklı bölgeyi {N}araştırmakta olan bir kişi tarafından kurtarıldı fakat ismi haricinde hiçbir şeyi hatırlayamıyor.{N}Netsphere'de hafıza kayıplarına pek rastlanmaz fakat bu gibi durumlar, ana sisteme bağlanıldığında {N}ortaya çıkabilmektedir . Galleon'un misafirperverliği sayesinde kendisine boş bir oda buldu ve etraftaki {N}kişilere yardımcı olarak vaktini geçiriyor."/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000179">
+		<kor name="아쿠아 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}어느날 갑자기 갤리온에 나타난 수수께끼의 소녀.{N}갤리온의 폐쇄구역에서 점검 중이던 비트에게 구조되었으나, 기억을 잃은 채로 이름만을 기억하고{N}있었다. 가상세계인 넷스피어에서 기억상실은 있을 수 없는 일이지만, 간혹 접속중인 본체의 사고로{N}인한 문제일 수도 있어 갤리온의 배려로 빈방을 얻어 요양하며 비트의 일을 돕고 있다."/>"/>
+		<ger name="Nautica Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Diese mysteriöse Dame ist eines Tages wie aus dem Nichts aufgetaucht. {N}Sie steckte in Schwierigkeiten und wurde gerettet, erinnert sich aber an nichts, außer an ihren{N}Namen. In der Netsphere ist Gedächtnisverlust ein praktisch nicht existentes Phänomen, {N}doch unter bestimmten Umständen... Dank Galleons Gastfreundschaft hat sie Unterschlupf {N}gefunden und hilft seitdem wo sie nur kann."/>
+		<eng name="Nautica Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}One day, this mysterious girl appeared in Galleon from out of nowhere.{N}She was rescued by someone inspecting a restricted area in Galleon, however, she could remember{N}nothing but her name. Memory loss is almost unheard of in the Netsphere, but sometimes problems{N}arise when connected to the mainframe. Thanks to Galleon's hospitality, she found a spare room {N}and is helping out around the area."/>
+		<fre name="Nautica Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Un jour, un jeune fille sortie de nulle part a atterri sur le Galleonus. Quelqu'un qui passait par cette {N}zone temporairement condamnée du navire l'a secourue, mais elle n'arrivait à se souvenir que de {N}son nom. L'amnésie est très peu répandue dans la Netsphere. Mais on n'est jamais à l'abri d'un {N}bug du système central.  Aujourd'hui, grâce à la bonté de tout l'équipage, elle loge sur le Galleonus {N}et apporte son aide autant que possible."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Nautica Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Bir gün bu gizemli kız, nereden geldiği belirsiz biçimde Galleon'da belirdi. Galleon'da yasaklı bölgeyi {N}araştırmakta olan bir kişi tarafından kurtarıldı fakat ismi haricinde hiçbir şeyi hatırlayamıyor.{N}Netsphere'de hafıza kayıplarına pek rastlanmaz fakat bu gibi durumlar, ana sisteme bağlanıldığında {N}ortaya çıkabilmektedir . Galleon'un misafirperverliği sayesinde kendisine boş bir oda buldu ve etraftaki {N}kişilere yardımcı olarak vaktini geçiriyor."/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000180">
+		<kor name="올라 블랙" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}언제나 한결같이 해변에 나타나 서핑을 즐기는 프로 서퍼.{N}뛰어난 서핑 실력과 근거없는 자신감탓에 해변에 놀러온 여성들이 자신을 좋아한다는 망상에 빠져있다.{N}어느날 갑자기 나타난 의문의 여인에게 반해 매일 고백을 하지만 번번히 실패하는듯 하다."/>
+		<ger name="Tulio Black Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Tagein tagaus wirft er sich in die Wellen und lässt sich die Sonne auf die Haut brennen.{N}Er ist ein außerordentlich guter Surfer und hat ein riesiges Ego,{N}deshalb ist er davon überzeugt, dass jede Lady sich sofort unsterblich in ihn verliebt.{N}Leider irrt er sich."/>
+		<eng name="Tulio Black Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}A professional surfer always found riding waves at the beach.{N}Due to his excellent surfing skills and his big ego,{N}he's convinced that every woman on the beach has a crush on him.{N}He fell in love at first sight with a mysterious woman who nonetheless keeps refusing him."/>
+		<fre name="Tulio Black Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Un véritable surfeur toujours en train de rider sur les vagues.{N} Grâce à ses talents en surf et son attitude super décontractée,{N}toutes les filles sur la plage en pincent pour lui.{N} Il a un coup de foudre pour une mystérieuse fille qui n'arrête pas de refuser ses avances."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Tulio Black Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Her daim plajda dalgalar üstünde bulunabilecek profesyonel bir sörfçü.{N} Kusursuz sörf yeteneği ve büyük egosu yüzünden plajdaki tüm kadınların ona aşık olduğunu sanıyor.{N} Onu reddetmeye devam eden gizemli bir kadına ilk görüşte aşık oldu."/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000181">
+        <kor name="올라 화이트" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}언제나 한결같이 해변에 나타나 서핑을 즐기는 프로 서퍼.{N}뛰어난 서핑 실력과 근거없는 자신감탓에 해변에 놀러온 여성들이 자신을 좋아한다는 망상에 빠져있다.{N}어느날 갑자기 나타난 의문의 여인에게 반해 매일 고백을 하지만 번번히 실패하는듯 하다."/>
+		<ger name="Tulio White Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Tagein tagaus wirft er sich in die Wellen und lässt sich die Sonne auf die Haut brennen.{N}Er ist ein außerordentlich guter Surfer und hat ein riesiges Ego,{N}deshalb ist er davon überzeugt, dass jede Lady sich sofort unsterblich in ihn verliebt.{N}Leider irrt er sich."/>
+		<eng name="Tulio White Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}A professional surfer always found riding waves at the beach.{N}Due to his excellent surfing skills and his big ego,{N}he's convinced that every woman on the beach has a crush on him.{N}He fell in love at first sight with a mysterious woman who nonetheless keeps refusing him."/>
+		<fre name="Tulio White Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Un véritable surfeur toujours en train de rider sur les vagues.{N} Grâce à ses talents en surf et son attitude super décontractée,{N}toutes les filles sur la plage en pincent pour lui.{N} Il a un coup de foudre pour une mystérieuse fille qui n'arrête pas de refuser ses avances."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Tulio White Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Her daim plajda dalgalar üstünde bulunabilecek profesyonel bir sörfçü.{N} Kusursuz sörf yeteneği ve büyük egosu yüzünden plajdaki tüm kadınların ona aşık olduğunu sanıyor.{N} Onu reddetmeye devam eden gizemli bir kadına ilk görüşte aşık oldu."/>	
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>	
+	<scenario_list key="5000182">
+		<kor name="플라야 블랙" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}가끔씩 해변을 거닐다 사라진다는 여인.{N}도도한 외모와 달리 넷스피어에 접속한지 얼마되지 않은듯한 조작으로 엉뚱한 행동을 하지만{N}과감하고 섹시한 패션으로 어느새 그녀를 보기위한 팬들이 생길정도로 해변의 유명인사가 되어버렷다."/>
+		<ger name="Tully Black Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Man sieht sie oft am Strand spazierengehen.{N}Niemand weiß, wer sie ist, aber man munkelt, dass sie einst eine legendäre Kämpferin war.{N}Sie ist immer modisch angezogen, nur manchmal passt ihr rebellisches Verhalten {N}nicht zu ihrem Kleidungsstil."/>
+		<eng name="Tully Black Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}The mysterious woman often seen wandering around the beach.{N}No one knows who she is, but she is rumored to be a master leaguer in her past.{N}She is occasionally seen exhibiting weird behavior not in keeping with her chic appearance.{N}Her rebellious, sexy style has made her a celebrity at the beach."/>
+		<fre name="Tully Black Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Cette fille mystérieuse se promène souvent sur la plage.{N} Personne ne sait qui elle est, mais on raconte qu'elle était Master Leaguer dans sa jeunesse.{N}Elle a parfois un comportement étrange, en contradiction avec son élégance naturelle.{N} Son style osé et rebelle a fait d'elle une véritable célébrité sur la plage."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Tully Black Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Bu gizemli kadın genellikle plajda dolaşırken görülüyor.{N} Kim olduğu bilinmiyor fakat söylentilere göre eskiden usta bir leaguer'mış.{N}Arada sırada şıklığına yakışmayan tuhaf davranışlar sergiliyor.{N}Asi ve çekici tarzı onu plajda ünlü biri haline getirdi."/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000183">
+		<kor name="플라야 화이트" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}가끔씩 해변을 거닐다 사라진다는 여인.{N}도도한 외모와 달리 넷스피어에 접속한지 얼마되지 않은듯한 조작으로 엉뚱한 행동을 하지만{N}과감하고 섹시한 패션으로 어느새 그녀를 보기위한 팬들이 생길정도로 해변의 유명인사가 되어버렷다."/>
+		<ger name="Tully White Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Man sieht sie oft am Strand spazierengehen.{N}Niemand weiß, wer sie ist, aber man munkelt, dass sie einst eine legendäre Kämpferin war.{N}Sie ist immer modisch angezogen, nur manchmal passt ihr rebellisches Verhalten {N}nicht zu ihrem Kleidungsstil."/>
+		<eng name="Tully White Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}The mysterious woman often seen wandering around the beach.{N}No one knows who she is, but she is rumored to be a master leaguer in her past.{N}She is occasionally seen exhibiting weird behavior not in keeping with her chic appearance.{N}Her rebellious, sexy style has made her a celebrity at the beach."/>
+		<fre name="Tully White Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Cette fille mystérieuse se promène souvent sur la plage.{N} Personne ne sait qui elle est, mais on raconte qu'elle était Master Leaguer dans sa jeunesse.{N}Elle a parfois un comportement étrange, en contradiction avec son élégance naturelle.{N} Son style osé et rebelle a fait d'elle une véritable célébrité sur la plage."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Tully White Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Bu gizemli kadın genellikle plajda dolaşırken görülüyor.{N} Kim olduğu bilinmiyor fakat söylentilere göre eskiden usta bir leaguer'mış.{N}Arada sırada şıklığına yakışmayan tuhaf davranışlar sergiliyor.{N}Asi ve çekici tarzı onu plajda ünlü biri haline getirdi."/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000184">
+		<kor name="시노비 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}카타나의 개발과 함께 비밀리에 창설한 도미닉의 용병부대 [코드네임 어쌔신]의 일원.{N}넷 스피어 내부 해커들의 정보수집 및 위협 요소 제거를 목표로 창설된 부대였으나{N}해커G의 해킹 사건과 함께 자취를 감춘다.{N}하지만 아직도 각종 사고현장에서 금빛 섬광을 목격했다는 괴담이 끊이지 않고있다."/>
+		<ger name="Shinobi Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Shinobi war einer der Assassinen aus Dominics geheimem Lager, das zusammen mit der Katana-{N}Forschung erschaffen wurde. Hauptzweck der Söldner war, die Hacker der Netsphere zu töten,{N}damit sie an keine Geheiminformationen kommen konnten. Leider verschwanden die Assassinen nach{N}dem Angriff von Hacker G. Es gibt Gerüchte über eine unbekannte Person, die immer wieder bei{N}Hacker-Verstecken aufzutauchen scheint – kurz bevor die Hacker auf mysteriöse Art sterben."/>
+		<eng name="Shinobi Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Shinobi was one of the assassins from Dominic's secret camp, which was founded in tandem with{N}katana development. The purpose of this camp was to assassinate the Net Sphere's hackers to{N}prevent them from gathering top-secret information. Unfortunately, the assassins vanished after{N}Hacker G's unexpected attack. There have been many unconfirmed sightings of an unknown figure{N}appearing around hacker hideouts just before the the hackers have mysteriously disappeared."/>
+		<fre name="Shinobi Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Shinobi était un des mercenaires du camp secret de Dominic.C'est à cet endroit qu'on améliorait{N}les prototypes de katanas. La mission principale des mercenaires ? Assassiner les hackers de la{N}Netsphere afin de protéger des données confidentielles. Malheureusement, les mercenaires se{N}sont volatilisés après l'attaque surprise de Hacker G. Néanmoins, des témoins auraient aperçu{N}une silhouette près de la cachette des hackers juste avant qu’ils ne disparaissent."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Shinobi Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Shinobi, Dominic'in gizli asker kampındaki suikastçılarından biriydi, bu oluşum katana{N}gelişimiyle eş zamanlıydı. Bu kampın esas amacı Net Sphere'in hacker'larını infaz ederek çok{N}gizli bilgileri ele geçirmelerine engellemekti. Malesef suikastçılar Hacker G'nin beklenmedik{N}beklenmedik saldırısından sonra ortadan kayboldular. Hacker'ların yaşadıkları simalarda bu{N}hacker'lar ortadan kaybolmadan önce tanımsız bir siluetin görüldüğüne dair ihbarlar mevcutur."/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000185">
+        <kor name="시노비 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}카타나의 개발과 함께 비밀리에 창설한 도미닉의 용병부대 [코드네임 어쌔신]의 일원.{N}넷 스피어 내부 해커들의 정보수집 및 위협 요소 제거를 목표로 창설된 부대였으나{N}해커G의 해킹 사건과 함께 자취를 감춘다.{N}하지만 아직도 각종 사고현장에서 금빛 섬광을 목격했다는 괴담이 끊이지 않고있다."/>
+		<ger name="Shinobi Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Shinobi war einer der Assassinen aus Dominics geheimem Lager, das zusammen mit der Katana-{N}Forschung erschaffen wurde. Hauptzweck der Söldner war, die Hacker der Netsphere zu töten,{N}damit sie an keine Geheiminformationen kommen konnten. Leider verschwanden die Assassinen nach{N}dem Angriff von Hacker G. Es gibt Gerüchte über eine unbekannte Person, die immer wieder bei{N}Hacker-Verstecken aufzutauchen scheint – kurz bevor die Hacker auf mysteriöse Art sterben."/>
+		<eng name="Shinobi Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Shinobi was one of the assassins from Dominic's secret camp, which was founded in tandem with{N}katana development. The purpose of this camp was to assassinate the Net Sphere's hackers to{N}prevent them from gathering top-secret information. Unfortunately, the assassins vanished after{N}Hacker G's unexpected attack. There have been many unconfirmed sightings of an unknown figure{N}appearing around hacker hideouts just before the the hackers have mysteriously disappeared."/>
+		<fre name="Shinobi Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Shinobi était un des mercenaires du camp secret de Dominic.C'est à cet endroit qu'on améliorait{N}les prototypes de katanas. La mission principale des mercenaires ? Assassiner les hackers de la{N}Netsphere afin de protéger des données confidentielles. Malheureusement, les mercenaires se{N}sont volatilisés après l'attaque surprise de Hacker G. Néanmoins, des témoins auraient aperçu{N}une silhouette près de la cachette des hackers juste avant qu’ils ne disparaissent."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Shinobi Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Shinobi, Dominic'in gizli asker kampındaki suikastçılarından biriydi, bu oluşum katana{N}gelişimiyle eş zamanlıydı. Bu kampın esas amacı Net Sphere'in hacker'larını infaz ederek çok{N}gizli bilgileri ele geçirmelerine engellemekti. Malesef suikastçılar Hacker G'nin beklenmedik{N}beklenmedik saldırısından sonra ortadan kayboldular. Hacker'ların yaşadıkları simalarda bu{N}hacker'lar ortadan kaybolmadan önce tanımsız bir siluetin görüldüğüne dair ihbarlar mevcutur."/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>	
+	<scenario_list key="5000186">
+		<kor name="쿠노이치 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}카타나의 개발과 함께 비밀리에 창설한 도미닉의 용병부대 [코드네임 어쌔신]의 일원.{N}넷 스피어 내부 해커들의 정보수집 및 위협 요소 제거를 목표로 창설된 부대였으나{N}해커G의 해킹 사건과 함께 자취를 감춘다.{N}현장에서 긴머리의 여인을 봣다는 소문이 돌고있으나 그녀의 얼굴을 본 목격자는 나타나지 않고있다."/>
+		<ger name="Kunoichi Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Kunoichi war einer der Assassinen aus Dominics geheimem Lager, das zusammen mit der Katana-{N}Forschung erschaffen wurde. Hauptzweck der Söldner war, die Hacker der Netsphere zu töten,{N}damit sie an keine Geheiminformationen kommen konnten. Leider verschwanden die Assassinen nach{N}dem Angriff von Hacker G. Es gibt Gerüchte über eine langhaarige Person, die immer wieder bei{N}Hacker-Verstecken aufzutauchen scheint – kurz bevor die Hacker auf mysteriöse Art sterben."/>
+		<eng name="Kunoichi Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Kunoichi was one of the assassins from Dominic's secret camp, which was founded in tandem with{N}katana development. The purpose of this camp was to assassinate the Net Sphere's hackers to{N}prevent them from gathering top-secret information. Unfortunately, the assassins vanished after{N}Hacker G's unexpected attack. There have been many unconfirmed sightings of an unknown figure{N}appearing around hacker hideouts just before the the hackers have mysteriously disappeared."/>
+		<fre name="Kunoichi Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Kunoichi était un des mercenaires du camp secret deDominic.C'est à cet endroit qu'on améliorait{N}les prototypes de katanas. La mission principale des mercenaires ? Assassiner les hackers de la{N}Netsphere afin de protéger des données confidentielles. Malheureusement, les mercenaires se{N}sont volatilisés après l'attaque surprise de Hacker G. Néanmoins, des témoins auraient aperçu{N}une silhouette près de la cachette des hackers juste avant qu’ils ne disparaissent."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Kunoichi Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Kunoichi, Dominic'in gizli asker kampındaki suikastçılarından biriydi, bu oluşum katana{N}gelişimiyle eş zamanlıydı. Bu kampın esas amacı Net Sphere'in hacker'larını infaz ederek çok{N}gizli bilgileri ele geçirmelerine engellemekti. Malesef suikastçılar Hacker G'nin beklenmedik{N}beklenmedik saldırısından sonra ortadan kayboldular. Hacker'ların yaşadıkları simalarda bu{N}hacker'lar ortadan kaybolmadan önce tanımsız bir siluetin görüldüğüne dair ihbarlar mevcutur."/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000187">
+		<kor name="쿠노이치 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}카타나의 개발과 함께 비밀리에 창설한 도미닉의 용병부대 [코드네임 어쌔신]의 일원.{N}넷 스피어 내부 해커들의 정보수집 및 위협 요소 제거를 목표로 창설된 부대였으나{N}해커G의 해킹 사건과 함께 자취를 감춘다.{N}현장에서 긴머리의 여인을 봣다는 소문이 돌고있으나 그녀의 얼굴을 본 목격자는 나타나지 않고있다."/>
+		<ger name="Kunoichi Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Kunoichi war einer der Assassinen aus Dominics geheimem Lager, das zusammen mit der Katana-{N}Forschung erschaffen wurde. Hauptzweck der Söldner war, die Hacker der Netsphere zu töten,{N}damit sie an keine Geheiminformationen kommen konnten. Leider verschwanden die Assassinen nach{N}dem Angriff von Hacker G. Es gibt Gerüchte über eine langhaarige Person, die immer wieder bei{N}Hacker-Verstecken aufzutauchen scheint – kurz bevor die Hacker auf mysteriöse Art sterben."/>
+		<eng name="Kunoichi Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Kunoichi was one of the assassins from Dominic's secret camp, which was founded in tandem with{N}katana development. The purpose of this camp was to assassinate the Net Sphere's hackers to{N}prevent them from gathering top-secret information. Unfortunately, the assassins vanished after{N}Hacker G's unexpected attack. There have been many unconfirmed sightings of an unknown figure{N}appearing around hacker hideouts just before the the hackers have mysteriously disappeared."/>
+		<fre name="Kunoichi Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Kunoichi était un des mercenaires du camp secret deDominic.C'est à cet endroit qu'on améliorait{N}les prototypes de katanas. La mission principale des mercenaires ? Assassiner les hackers de la{N}Netsphere afin de protéger des données confidentielles. Malheureusement, les mercenaires se{N}sont volatilisés après l'attaque surprise de Hacker G. Néanmoins, des témoins auraient aperçu{N}une silhouette près de la cachette des hackers juste avant qu’ils ne disparaissent."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Kunoichi Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Kunoichi, Dominic'in gizli asker kampındaki suikastçılarından biriydi, bu oluşum katana{N}gelişimiyle eş zamanlıydı. Bu kampın esas amacı Net Sphere'in hacker'larını infaz ederek çok{N}gizli bilgileri ele geçirmelerine engellemekti. Malesef suikastçılar Hacker G'nin beklenmedik{N}beklenmedik saldırısından sonra ortadan kayboldular. Hacker'ların yaşadıkları simalarda bu{N}hacker'lar ortadan kaybolmadan önce tanımsız bir siluetin görüldüğüne dair ihbarlar mevcutur."/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000188">
+		<kor name="블라드 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}할로윈이 되면 모습을 들어내는 검은 고성.{N}수많은 탐험가들이 검은 고성에 도전했지만, 오직 소수의 사람들만이 그곳에서 나올 수 있었다.{N}무사히 나온 사람들은 공포에 질린 채 같은 이야기를 말했다.{N}(그곳에서 아름다운 남자를 만났고 그를 따라간 사람들은 더 이상 볼 수 없었다.)"/>
+		<ger name="Vlad Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Nur zu Halloween erscheint ein geheimnisvolles dunkles Schloss.{N}Das Reinkommen war nicht allzu schwer,{N}doch nur wenige kamen wieder heraus.{N}Die Überlebenden, vom Schrecken gezeichnet, erzählten alle dasselbe:{N}(Sie sahen einen eleganten Herren, folgten ihm und verschwanden spurlos.)"/>
+		<eng name="Vlad Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}There's a mysterious black castle which only reveals itself on Halloween...{N}A number of foolhardy adventurers have tried to conquer the castle.{N}However, few have lived to tell the tale.{N}All the terrified survivors tell the same story...{N}(A mysterious nobleman lured me inside and vanished! Then the horror began!)"/>
+		<fre name="Vlad Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Un Château noir qui n'apparaît que lors des festivités d'Halloween.{N}De nombreux aventuriers ont tenté de conquérir ce château mystérieux,{N}mais peu ont réussi à s'en échapper.{N}Les survivants, tous effrayés, racontent la même histoire.{N}(Un homme vit dans ce château. Tous ceux qui l'ont suivi ont disparu.)"/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Vlad Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Gerçek yüzünü sadece Cadılar Bayramı'nda gösteren gizemli siyah bir kale.{N}Birçok maceraperest bu kaleyi fethetmeye çalışmıştır{N}ancak, sadece birkaç tanesi geri dönebilmiştir.{N}Tüm kurtulanlar korkmuş görünüyorlardı ve aynı şeyi söylediler.{N}(Kalede yakışıklı birini gördüm. Birçoğu peşinden gitti ama dönen olmadı.)"/> 
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000189">
+        <kor name="블라드 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}할로윈이 되면 모습을 들어내는 검은 고성.{N}수많은 탐험가들이 검은 고성에 도전했지만, 오직 소수의 사람들만이 그곳에서 나올 수 있었다.{N}무사히 나온 사람들은 공포에 질린 채 같은 이야기를 말했다.{N}(그곳에서 아름다운 남자를 만났고 그를 따라간 사람들은 더 이상 볼 수 없었다.)"/>
+		<ger name="Vlad Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Nur zu Halloween erscheint ein geheimnisvolles dunkles Schloss.{N}Das Reinkommen war nicht allzu schwer,{N}doch nur wenige kamen wieder heraus.{N}Die Überlebenden, vom Schrecken gezeichnet, erzählten alle dasselbe:{N}(Sie sahen einen eleganten Herren, folgten ihm und verschwanden spurlos.)"/>
+		<eng name="Vlad Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}There's a mysterious black castle which only reveals itself on Halloween...{N}A number of foolhardy adventurers have tried to conquer the castle.{N}However, few have lived to tell the tale.{N}All the terrified survivors tell the same story...{N}(A mysterious nobleman lured me inside and vanished! Then the horror began!)"/>
+		<fre name="Vlad Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Un Château noir qui n'apparaît que lors des festivités d'Halloween.{N}De nombreux aventuriers ont tenté de conquérir ce château mystérieux,{N}mais peu ont réussi à s'en échapper.{N}Les survivants, tous effrayés, racontent la même histoire.{N}(Un homme vit dans ce château. Tous ceux qui l'ont suivi ont disparu.)"/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Vlad Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Gerçek yüzünü sadece Cadılar Bayramı'nda gösteren gizemli siyah bir kale.{N}Birçok maceraperest bu kaleyi fethetmeye çalışmıştır{N}ancak, sadece birkaç tanesi geri dönebilmiştir.{N}Tüm kurtulanlar korkmuş görünüyorlardı ve aynı şeyi söylediler.{N}(Kalede yakışıklı birini gördüm. Birçoğu peşinden gitti ama dönen olmadı.)"/> 
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>	
+	<scenario_list key="5000190">
+		<kor name="바토리 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}할로윈이 되면 버려진 성당 앞에 붉은 드레스를 입은 한 여인이 나타난다.{N}할로윈에 버려진 성당을 갔다가 그녀와 만난 사람들은, 그녀의 아름다운 외모와 미소에{N}홀린 체 그녀를 따라 버려진 성당 안으로 들어갔다. 그리고 그녀를 따라간 사람들에 대한 소식은{N}어디에서도 들을 수 없었다. 성당에는 핏빛 드레스를 입은 그녀만 있을 뿐이었다."/>
+		<ger name="Carmilla Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Zu Halloween erschien vor der verlassenen Kirche eine rot gewandete Frau.{N}Wer sie erblickte, war von ihr verzaubert{N}und folgte ihr ins Kircheninnere.{N}Von den Vermissten fehlte jede Spur.{N}Nur die Frau im roten Kleid kommt jedes Jahr wieder."/>
+		<eng name="Carmilla Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}One Halloween, a mysterious woman appeared before the abandoned cathedral.{N}Those passing by were bewitched by her crimson dress and alluring gaze.{N}Seemingly in a trance, they followed her into the cathedral's depths,{N}never to be heard from again.{N}A blood-soaked dress strewn on the ground hints at a gruesome fate..."/>
+		<fre name="Carmilla Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Pendant Halloween, une femme habillée de rouge apparaît devant la Cathédrale.{N}Ceux qui ont osé s'en approcher ont tous été ensorcelés par cette femme{N}et ont été forcés de la suivre dans la Cathédrale abandonnée.{N}Et dès lors, plus personne ne les a revus vivants.{N}Les rares témoins présents n'ont aperçu que la femme vêtue de rouge."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Carmilla Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Cadılar Bayramı'nda kırmızı elbiseli gizemli bir kadın katedralde belirir.{N}Katedralin önündeki bu kadına yaklaşanlar, onun etkisi altına girip{N}katedralin derinliklerine doğru onu takip ederler.{N}Bu olaydan sonra, peşinden gidenlerden bir daha haber alınamaz.{N}Sadece kırmızı elbideli kadını bulmak mümkün olmuştur."/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000191">
+		<kor name="바토리 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}할로윈이 되면 버려진 성당 앞에 붉은 드레스를 입은 한 여인이 나타난다.{N}할로윈에 버려진 성당을 갔다가 그녀와 만난 사람들은, 그녀의 아름다운 외모와 미소에{N}홀린 체 그녀를 따라 버려진 성당 안으로 들어갔다. 그리고 그녀를 따라간 사람들에 대한 소식은{N}어디에서도 들을 수 없었다. 성당에는 핏빛 드레스를 입은 그녀만 있을 뿐이었다."/>
+		<ger name="Carmilla Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Zu Halloween erschien vor der verlassenen Kirche eine rot gewandete Frau.{N}Wer sie erblickte, war von ihr verzaubert{N}und folgte ihr ins Kircheninnere.{N}Von den Vermissten fehlte jede Spur.{N}Nur die Frau im roten Kleid kommt jedes Jahr wieder."/>
+		<eng name="Carmilla Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}One Halloween, a mysterious woman appeared before the abandoned cathedral.{N}Those passing by were bewitched by her crimson dress and alluring gaze.{N}Seemingly in a trance, they followed her into the cathedral's depths,{N}never to be heard from again.{N}A blood-soaked dress strewn on the ground hints at a gruesome fate..."/>
+		<fre name="Carmilla Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Pendant Halloween, une femme habillée de rouge apparaît devant la Cathédrale.{N}Ceux qui ont osé s'en approcher ont tous été ensorcelés par cette femme{N}et ont été forcés de la suivre dans la Cathédrale abandonnée.{N}Et dès lors, plus personne ne les a revus vivants.{N}Les rares témoins présents n'ont aperçu que la femme vêtue de rouge."/>
+		<spa name=""/>
+		<ita name=""/>
+		<rus name=""/>
+		<tur name="Carmilla Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Cadılar Bayramı'nda kırmızı elbiseli gizemli bir kadın katedralde belirir.{N}Katedralin önündeki bu kadına yaklaşanlar, onun etkisi altına girip{N}katedralin derinliklerine doğru onu takip ederler.{N}Bu olaydan sonra, peşinden gidenlerden bir daha haber alınamaz.{N}Sadece kırmızı elbideli kadını bulmak mümkün olmuştur."/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000192">
+		<kor name="라이더 블리츠 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}어떠한 상황에서도 최대의 스피드를 유지해야만 한다.{N}넷 스피어의 스피드  광들이 모여 만든 집단 라이더의 구호이다.{N}라이더들은 빠른 스피드를 위해서 다양한 실험과 도전을 실행하고 있으며 그들이 만들어 낸 제품들에는 {N}라이더의 정신이 담겨있다."/>
+		<ger name="Blitz Rider Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Diese Kostüme wurden vom Gewinner des European User Contests 2016 entworfen (birdybob).{N}Blitz, auch als der 'Flash Rider' bekannt, ist einer der schnellsten Typen in der Netsphere.{N}Zusammen mit Jess jagt er auf seiner hochtourigen Höllenmaschine durch die virtuelle Welt.{N}Wenn er schnell genug ist, schafft er es vielleicht, der Netsphere Hoffnung zu bringen."/>
+		<eng name="Blitz Rider Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}These costumes were designed by the winner of the 2016 European User Contest (birdybob).{N}Also known as the 'Flash Rider', Blitz is one of the fastest residents of the Netsphere.{N}With Jess by his side, he blazes through the virtual world on his high-revving speed machine.{N}If he's fast enough, he might just be able to spread hope throughout the Netsphere!"/>
+		<fre name="Blitz Rider Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Ces costumes ont été créés par le gagnant du European User Contest 2016 (birdybob).{N}Blitz est l'homme le plus rapide du monde. Ce n'est pas pour rienqu'on l'appelle Flash Rider!{N}Toujours accompagné de Jess, il fonce à toute allure sur les routes de la Netsphere,{N}répandant derrière lui une vague d'espoir."/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Blitz Rider Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Bu kostümler 2016 Avrupa Kullanıcı Yarışması'nın kazananı tarafından tasarlandı (birdybob).{N}(Flash Rider) olarak da tanınan Blitz, Netsphere'in en hızlı sakinlerinden biridir.{N}Jess ile birlikte yüksek-devirli hız makinesinin üzerinde sanal dünyayı kasıp kavuruyor.{N}Yeterince hızlı olabilirse Netsphere'e umut dağıtmayı bile başarabilir!"/> 
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000193">
+        <kor name="라이더 블리츠 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}어떠한 상황에서도 최대의 스피드를 유지해야만 한다.{N}넷 스피어의 스피드  광들이 모여 만든 집단 라이더의 구호이다.{N}라이더들은 빠른 스피드를 위해서 다양한 실험과 도전을 실행하고 있으며 그들이 만들어 낸 제품들에는 {N}라이더의 정신이 담겨있다."/>
+		<ger name="Blitz Rider Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Diese Kostüme wurden vom Gewinner des European User Contests 2016 entworfen (birdybob).{N}Blitz, auch als der 'Flash Rider' bekannt, ist einer der schnellsten Typen in der Netsphere.{N}Zusammen mit Jess jagt er auf seiner hochtourigen Höllenmaschine durch die virtuelle Welt.{N}Wenn er schnell genug ist, schafft er es vielleicht, der Netsphere Hoffnung zu bringen."/>
+		<eng name="Blitz Rider Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}These costumes were designed by the winner of the 2016 European User Contest (birdybob).{N}Also known as the 'Flash Rider', Blitz is one of the fastest residents of the Netsphere.{N}With Jess by his side, he blazes through the virtual world on his high-revving speed machine.{N}If he's fast enough, he might just be able to spread hope throughout the Netsphere!"/>
+		<fre name="Blitz Rider Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Ces costumes ont été créés par le gagnant du European User Contest 2016 (birdybob).{N}Blitz est l'homme le plus rapide du monde. Ce n'est pas pour rienqu'on l'appelle Flash Rider!{N}Toujours accompagné de Jess, il fonce à toute allure sur les routes de la Netsphere,{N}répandant derrière lui une vague d'espoir."/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Blitz Rider Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Bu kostümler 2016 Avrupa Kullanıcı Yarışması'nın kazananı tarafından tasarlandı (birdybob).{N}(Flash Rider) olarak da tanınan Blitz, Netsphere'in en hızlı sakinlerinden biridir.{N}Jess ile birlikte yüksek-devirli hız makinesinin üzerinde sanal dünyayı kasıp kavuruyor.{N}Yeterince hızlı olabilirse Netsphere'e umut dağıtmayı bile başarabilir!"/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>	
+	<scenario_list key="5000194">
+		<kor name="라이더 제스 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}어떠한 상황에서도 최대의 스피드를 유지해야만 한다.{N}넷 스피어의 스피드  광들이 모여 만든 집단 라이더의 구호이다.{N}라이더들은 빠른 스피드를 위해서 다양한 제품을 제작하는데 그 중 제스의 작품은 스타일과 활동성이 {N}보장되는 제품이다."/>
+		<ger name="Jess Rider Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Diese Kostüme wurden vom Gewinner des European User Contests 2016 entworfen (birdybob).{N}Coole Klamotten, coolere Ausstrahlung? Das ist Jess, das schnellste Girl in der Netsphere.{N}Wenn sie ihr Rux Plasma Sword schwingt, kann man sie leicht für eine Göttin halten.{N}Wenn sie sich nicht abreagiert, bringen sie und Blitz die Straßen in der Netsphere zum Glühen!"/>
+		<eng name="Jess Rider Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}These costumes were designed by the winner of the 2016 European User Contest (birdybob).{N}Cool clothes and a cooler attitude? Jess has 'em. She's the fastest girl in the Netsphere!{N}Wielding the Rux Plasma Sword, Jess could easily be mistaken for a goddess.{N}If she's not kicking butt, you'll find her burning up the Netsphere roads with Blitz!"/>
+		<fre name="Jess Rider Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Ces costumes ont été créés par le gagnant du European User Contest 2016 (birdybob).{N}Fringues au top, attitude décontractée, rapidité décoiffante : Jess est la coolitude incarnée!{N}Avec sa Plasma Sword, on pourrait facilement la prendre pour une cyberdéesse.{N}Quand elle n'est pas en quête de justice, elle parcourt les routes de la Netsphere avec Blitz!"/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Jess Rider Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Bu kostümler 2016 Avrupa Kullanıcı Yarışması'nın kazananı tarafından tasarlandı (birdybob).{N}Havalı kıyafetler ve daha da havalı tavırlar mı? Jess'te ikisi de var.{N}Netsphere'deki en hızlı kadın o! Rux Plasma Sword'u kuşanan Jess'i görenler{N}onu kolaylıkla bir tanrıça sanabilir. Rakiplerini pataklamadığı zamanlarda onu,{N}Blitz ile birlikte Netsphere'in yollarını kasıp kavururken görebilirsiniz!"/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000195">
+		<kor name="라이더 제스 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}어떠한 상황에서도 최대의 스피드를 유지해야만 한다.{N}넷 스피어의 스피드  광들이 모여 만든 집단 라이더의 구호이다.{N}라이더들은 빠른 스피드를 위해서 다양한 제품을 제작하는데 그 중 제스의 작품은 스타일과 활동성이 {N}보장되는 제품이다."/>
+		<ger name="Jess Rider Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Diese Kostüme wurden vom Gewinner des European User Contests 2016 entworfen (birdybob).{N}Coole Klamotten, coolere Ausstrahlung? Das ist Jess, das schnellste Girl in der Netsphere.{N}Wenn sie ihr Rux Plasma Sword schwingt, kann man sie leicht für eine Göttin halten.{N}Wenn sie sich nicht abreagiert, bringen sie und Blitz die Straßen in der Netsphere zum Glühen!"/>
+		<eng name="Jess Rider Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}These costumes were designed by the winner of the 2016 European User Contest (birdybob).{N}Cool clothes and a cooler attitude? Jess has 'em. She's the fastest girl in the Netsphere!{N}Wielding the Rux Plasma Sword, Jess could easily be mistaken for a goddess.{N}If she's not kicking butt, you'll find her burning up the Netsphere roads with Blitz!"/>
+		<fre name="Jess Rider Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Ces costumes ont été créés par le gagnant du European User Contest 2016 (birdybob).{N}Fringues au top, attitude décontractée, rapidité décoiffante : Jess est la coolitude incarnée!{N}Avec sa Plasma Sword, on pourrait facilement la prendre pour une cyberdéesse.{N}Quand elle n'est pas en quête de justice, elle parcourt les routes de la Netsphere avec Blitz!"/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Jess Rider Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Bu kostümler 2016 Avrupa Kullanıcı Yarışması'nın kazananı tarafından tasarlandı (birdybob).{N}Havalı kıyafetler ve daha da havalı tavırlar mı? Jess'te ikisi de var.{N}Netsphere'deki en hızlı kadın o! Rux Plasma Sword'u kuşanan Jess'i görenler{N}onu kolaylıkla bir tanrıça sanabilir. Rakiplerini pataklamadığı zamanlarda onu,{N}Blitz ile birlikte Netsphere'in yollarını kasıp kavururken görebilirsiniz!"/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000196">
+		<kor name="크리스 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}2016년 크리스마스가 왔습니다.{N}넷 스피어의 사람들에게 선물을 나눠주는 멋쟁이 크리스{N}산타 복장과 루돌프를 닮은 코가 매력 포인트랍니다.{N}크리스와 함께 s4리그에서 다 함께 메리 크리스마스!"/>
+		<ger name="Klaus Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Die Weihnachtszeit 2016 ist angebrochen!{N}Klaus ist gekommen, um Weihnachtsgeschenke an die Bewohner der Netsphere zu verteilen.{N}Sein weihnachtliches Kostüm und die rote Rentiernase{N}erfreuen das Herz eines jeden Weihnachtsfans. Klaus und S4 League wünschen ein Frohes Fest!"/>
+		<eng name="Klaus Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Christmas 2016 is here!{N}Klaus has arrived to distribute Christmas presents to the residents of the Netsphere.{N}His spot-on Santa costume and Rudolph nose are sure to charm holiday revelers everywhere.{N}Merry Christmas from Klaus and S4 League!"/>
+		<fre name="Klaus Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Noël approche !{N}Klaus distribue des cadeaux à tous les occupants de la Netsphere.{N}Avec son nez de Rudolphe assorti à son manteau de père Noël, il fera des envieux cette année.{N}Klaus et l'équipe de S4 League vous souhaitent un joyeux Noël !"/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Klaus Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}2016 Yılbaşı geldi!{N}Klaus, Netsphere'in sakinlerine Yılbaşı hediyeleri dağıtmak için geldi.{N}Kusursuz Noel Baba kostümü ve Rudolph burnu, tatil meraklılarını kesinlikle etkileyecektir.{N}Klaus ve S4 League, Yeni Yılınızı kutluyor!"/>  
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000197">
+        <kor name="크리스 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}2016년 크리스마스가 왔습니다.{N}넷 스피어의 사람들에게 선물을 나눠주는 멋쟁이 크리스{N}산타 복장과 루돌프를 닮은 코가 매력 포인트랍니다.{N}크리스와 함께 s4리그에서 다 함께 메리 크리스마스!"/>
+		<ger name="Klaus Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Die Weihnachtszeit 2016 ist angebrochen!{N}Klaus ist gekommen, um Weihnachtsgeschenke an die Bewohner der Netsphere zu verteilen.{N}Sein weihnachtliches Kostüm und die rote Rentiernase{N}erfreuen das Herz eines jeden Weihnachtsfans. Klaus und S4 League wünschen ein Frohes Fest!"/>
+		<eng name="Klaus Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Christmas 2016 is here!{N}Klaus has arrived to distribute Christmas presents to the residents of the Netsphere.{N}His spot-on Santa costume and Rudolph nose are sure to charm holiday revelers everywhere.{N}Merry Christmas from Klaus and S4 League!"/>
+		<fre name="Klaus Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Noël approche !{N}Klaus distribue des cadeaux à tous les occupants de la Netsphere.{N}Avec son nez de Rudolphe assorti à son manteau de père Noël, il fera des envieux cette année.{N}Klaus et l'équipe de S4 League vous souhaitent un joyeux Noël !"/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Klaus Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}2016 Yılbaşı geldi!{N}Klaus, Netsphere'in sakinlerine Yılbaşı hediyeleri dağıtmak için geldi.{N}Kusursuz Noel Baba kostümü ve Rudolph burnu, tatil meraklılarını kesinlikle etkileyecektir.{N}Klaus ve S4 League, Yeni Yılınızı kutluyor!"/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>	
+	<scenario_list key="5000198">
+		<kor name="메리 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}넷 스피어의 크리스마스가 왔음을 알려주는 메신저 메리{N}머리에 있는 붉은 색 리본은 넷 스피어 사람들에게 주어지는 선물이라는 뜻입니다.{N}선물을 한 가득 품고 크리스와 함께 행복을 전달하는 메리{N}2016년 크리스마스에는 S4리그 메리와 함께하세요!"/>
+		<ger name="Klaudia Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Klaudia ist in die Netsphere gekommen, um alle daran zu erinnern, dass das Weihnachtsfest{N}vor der Tür steht. Mit der Schleife in ihrem Haar ist sie vielleicht sogar{N}das schönste Geschenk von allen! Bepackt mit Geschenken bringen sie und Klaus alle Augen{N}zum Leuchten und jedes Herz zum Schmelzen! Klaudia und S4 League wünschen ein Frohes Fest!"/>
+		<eng name="Klaudia Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Klaudia has come to the Netsphere to remind everyone that Christmas is just around{N}the corner. The ribbon in her hair signals that she, herself, may be the greatest gift of all!{N}With armfuls of presents, she and Klaus are ready to deliver happiness wherever they go!{N}Merry Christmas from Klaudia and S4 League!"/>
+		<fre name="Klaudia Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Klaudia a rejoint la Netsphere pour apporter joie et bonheur à tous.{N}D'un engouement débordant pour les fêtes de fin d'année, elle porte un joli ruban dans ses{N}cheveux ondulés. Klaus et elle répandent la bonne humeur autour d'eux,{N}les bras chargés de cadeaux. Klaudia et l'équipe de S4 League vous souhaitent un joyeux Noël !"/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Klaudia Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Yılbaşının yaklaştığını Netsphere'deki herkese hatırlatmak için Klaudia burada.{N}Saçındaki kurdele, en büyük hediyenin kendisi olduğunu gösteriyor!{N}Kucak dolusu hediyeleriyle o ve Klaus gittikleri her yere mutluluk götürüyorlar!{N}Klaudia ve S4 League, Yeni Yılınızı kutluyor!"/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000199">
+		<kor name="메리 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}넷 스피어의 크리스마스가 왔음을 알려주는 메신저 메리{N}머리에 있는 붉은 색 리본은 넷 스피어 사람들에게 주어지는 선물이라는 뜻입니다.{N}선물을 한 가득 품고 크리스와 함께 행복을 전달하는 메리{N}2016년 크리스마스에는 S4리그 메리와 함께하세요!"/>
+		<ger name="Klaudia Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Klaudia ist in die Netsphere gekommen, um alle daran zu erinnern, dass das Weihnachtsfest{N}vor der Tür steht. Mit der Schleife in ihrem Haar ist sie vielleicht sogar{N}das schönste Geschenk von allen! Bepackt mit Geschenken bringen sie und Klaus alle Augen{N}zum Leuchten und jedes Herz zum Schmelzen! Klaudia und S4 League wünschen ein Frohes Fest!"/>
+		<eng name="Klaudia Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Klaudia has come to the Netsphere to remind everyone that Christmas is just around{N}the corner. The ribbon in her hair signals that she, herself, may be the greatest gift of all!{N}With armfuls of presents, she and Klaus are ready to deliver happiness wherever they go!{N}Merry Christmas from Klaudia and S4 League!"/>
+		<fre name="Klaudia Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Klaudia a rejoint la Netsphere pour apporter joie et bonheur à tous.{N}D'un engouement débordant pour les fêtes de fin d'année, elle porte un joli ruban dans ses{N}cheveux ondulés. Klaus et elle répandent la bonne humeur autour d'eux,{N}les bras chargés de cadeaux. Klaudia et l'équipe de S4 League vous souhaitent un joyeux Noël !"/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Klaudia Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Yılbaşının yaklaştığını Netsphere'deki herkese hatırlatmak için Klaudia burada.{N}Saçındaki kurdele, en büyük hediyenin kendisi olduğunu gösteriyor!{N}Kucak dolusu hediyeleriyle o ve Klaus gittikleri her yere mutluluk götürüyorlar!{N}Klaudia ve S4 League, Yeni Yılınızı kutluyor!"/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000200">
+		<kor name="플레어 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}플레어는 폭발하듯이 터져나와, 전율을 느끼게 만드는 특유의 목소리와{N}천재적인 음악적 재능을 가진 넷스피어 최고의 슈퍼 락스타이다.{N}뛰어난 보컬리스트이자 작곡가로 많은 팬들의 관심을 받고 있지만{N}정작 그는 자신과 함께 다니는 기타리스트의 관심을 받고 싶어한다."/>
+		<ger name="Iggy Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Iggy ist der berühmteste Rockmusiker der Netsphere. Sein Talent und sein{N}utes Aussehen bescheren ihm jede Menge Fans und ausverkaufte Konzerte.{N}Trotz seines Rufs als Bad Boy, der nichts anbrennen lässt, gibt es{N}Gerüchte, dass Iggy schwer in seine Bandkollegin Stella verknallt ist."/>
+		<eng name="Iggy Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Iggy is the most popular rocker in the Netsphere. Blessed with both talent{N}and stunning good looks, he plays to sold-out crowds almost every night.{N}Despite his bad-to-the-bone persona much loved by his fans,{N}he's rumored to be madly in love with his lead guitarist, Stella."/>
+		<fre name="Iggy Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Iggy est le rockeur le plus populaire de la Netsphere. Ce musicien{N}aussi beau que talentueux fait salle comble presque tous les soirs.{N}Ses plus grands fans racontent que ce badboy au cœur d'or{N}serait éperdument amoureux de sa guitariste solo, Stella."/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Iggy Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Iggy, Netsphere'in en popüler rock müzisyenidir. Hem yeteneği{N}hem de görünüşüyle göz dolduran Iggy'nin fanları, gittiği yeri doldururlar.{N}Fanları, Iggy'nin atarlı karizmasına bayılsalar da, söylendiğine göre{N}gitaristi Stella'ya deliler gibi aşıkmış."/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000201">
+        <kor name="플레어 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}플레어는 폭발하듯이 터져나와, 전율을 느끼게 만드는 특유의 목소리와{N}천재적인 음악적 재능을 가진 넷스피어 최고의 슈퍼 락스타이다.{N}뛰어난 보컬리스트이자 작곡가로 많은 팬들의 관심을 받고 있지만{N}정작 그는 자신과 함께 다니는 기타리스트의 관심을 받고 싶어한다."/>
+		<ger name="Iggy Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Iggy ist der berühmteste Rockmusiker der Netsphere. Sein Talent und sein{N}utes Aussehen bescheren ihm jede Menge Fans und ausverkaufte Konzerte.{N}Trotz seines Rufs als Bad Boy, der nichts anbrennen lässt, gibt es{N}Gerüchte, dass Iggy schwer in seine Bandkollegin Stella verknallt ist."/>
+		<eng name="Iggy Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Iggy is the most popular rocker in the Netsphere. Blessed with both talent{N}and stunning good looks, he plays to sold-out crowds almost every night.{N}Despite his bad-to-the-bone persona much loved by his fans,{N}he's rumored to be madly in love with his lead guitarist, Stella."/>
+		<fre name="Iggy Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Iggy est le rockeur le plus populaire de la Netsphere. Ce musicien{N}aussi beau que talentueux fait salle comble presque tous les soirs.{N}Ses plus grands fans racontent que ce badboy au cœur d'or{N}serait éperdument amoureux de sa guitariste solo, Stella."/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Iggy Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Iggy, Netsphere'in en popüler rock müzisyenidir. Hem yeteneği{N}hem de görünüşüyle göz dolduran Iggy'nin fanları, gittiği yeri doldururlar.{N}Fanları, Iggy'nin atarlı karizmasına bayılsalar da, söylendiğine göre{N}gitaristi Stella'ya deliler gibi aşıkmış."/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000202">
+		<kor name="폴링 스타 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}폴링스타는 파워풀한 플레이와 과격한 퍼포먼스를 자랑하는 슈퍼 기타리스트이다. {N}많은 사랑을 받고있는 그녀는, 공연 중 분위기에 휩쓸려 과격한 퍼포먼스를 하는것이{N}프로답지 못한다고 생각한다.{N}하지만 정작 그녀의 팬들은 그녀의 퍼포먼스에 열광하고 있다."/>
+		<ger name="Stella Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Stella spielt in Iggys Band und ist die beste Gitarristin der Netsphere.{N}Auf der Bühne lässt sie regelmäßig die Puppen tanzen und zieht eine Show{N}der Superlative ab. Wenn sie spielt, tobt die Hütte und{N}die Fans gehen ab!"/>
+		<eng name="Stella Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Part of Iggy’s band, Stella is the most talented guitarist in the Netshere.{N}She's famous for letting loose on stage and stealing the show{N}with her extreme performances. Whenever she plays, she's{N}sure to bring down the house and drive her fans wild."/>
+		<fre name="Stella Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Stella, meilleure guitariste de la Netsphere, joue dans le groupe d'Iggy.{N}Plus d'une fois, elle a volé la vedette au chanteur.{N}Voilà une artiste qui sait mettre le feu{N}et rendre ses fans fous d'admiration!"/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Stella Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Stella spielt in Iggys Band und ist die beste Gitarristin der Netsphere.{N}Auf der Bühne lässt sie regelmäßig die Puppen tanzen und zieht eine Show{N}der Superlative ab. Wenn sie spielt, tobt die Hütte und{N}die Fans gehen ab!"/>   
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000203">
+		<kor name="폴링 스타 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}폴링스타는 파워풀한 플레이와 과격한 퍼포먼스를 자랑하는 슈퍼 기타리스트이다. {N}많은 사랑을 받고있는 그녀는, 공연 중 분위기에 휩쓸려 과격한 퍼포먼스를 하는것이{N}프로답지 못한다고 생각한다.{N}하지만 정작 그녀의 팬들은 그녀의 퍼포먼스에 열광하고 있다."/>
+		<ger name="Stella Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Stella spielt in Iggys Band und ist die beste Gitarristin der Netsphere.{N}Auf der Bühne lässt sie regelmäßig die Puppen tanzen und zieht eine Show{N}der Superlative ab. Wenn sie spielt, tobt die Hütte und{N}die Fans gehen ab!"/>
+		<eng name="Stella Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}Part of Iggy’s band, Stella is the most talented guitarist in the Netshere.{N}She's famous for letting loose on stage and stealing the show{N}with her extreme performances. Whenever she plays, she's{N}sure to bring down the house and drive her fans wild."/>
+		<fre name="Stella Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Stella, meilleure guitariste de la Netsphere, joue dans le groupe d'Iggy.{N}Plus d'une fois, elle a volé la vedette au chanteur.{N}Voilà une artiste qui sait mettre le feu{N}et rendre ses fans fous d'admiration!"/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Stella Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Stella spielt in Iggys Band und ist die beste Gitarristin der Netsphere.{N}Auf der Bühne lässt sie regelmäßig die Puppen tanzen und zieht eine Show{N}der Superlative ab. Wenn sie spielt, tobt die Hütte und{N}die Fans gehen ab!"/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000204">
+		<kor name="윈터 스피릿 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}얼어 붙은 호수 위에서 아름답게 춤추는 윈터 픽시를 보고 사랑에 빠진 남자가 있다.{N}그녀와 함께 호수 위에서 아름다운 춤을 출 수 있기를 꿈꾸지만{N}사람들의 박수 소리와 함께 사라지는 그녀를 멀리서 바라만 볼 뿐이다.{N}언제나 윈터 픽시를 따라다니는 그를 사람들은 윈터 스피릿이라 불렀다."/>
+		<ger name="Winter Spirit Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Ein Mann verliebte sich in die auf dem See tanzende Pixie.{N}Er träumte immer davon, mit ihr zu tanzen, tat es aber nie.{N}Er schaute aus der Ferne zu, als die Leute ihr applaudierten.{N}Die Fans der Pixie nennen diesen rätselhaften Mann Winter Spirit."/>
+		<eng name="Winter Spirit Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}There is a man who fell in love with Pixie dancing on the frozen lake.{N}He always dreamt of dancing with her but never did.{N}He watched from afar and disappeared as people gave her a round of applause.{N}The fans of the Winter Pixie called this enigmatic man the Winter Spirit."/> 
+		<fre name="Winter Spirit Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Il existe un homme fou d'amour pour la Pixie dansante du lac gelé.{N}Il rêvait de danser avec elle mais n'osa jamais s'approcher.{N}Il se contentait de regarder de loin et disparut dans la foule de curieux.{N}Les fans de Pixie appelèrent cet homme mystérieux Winter Spirit."/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Winter Spirit Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Donan gölde danseden piksiye aşık bir adam vardır.{N}Hep onunla dans etmenin hayalini kurar ama asla yapamaz.{N}Onu uzaktan izler ve herkes piksiyi alkışlarken adam uzaklaşır.{N}Winter Pixie fanları bu gizemli adama Winter Spirit derler."/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000205">
+        <kor name="윈터 스피릿 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}얼어 붙은 호수 위에서 아름답게 춤추는 윈터 픽시를 보고 사랑에 빠진 남자가 있다.{N}그녀와 함께 호수 위에서 아름다운 춤을 출 수 있기를 꿈꾸지만{N}사람들의 박수 소리와 함께 사라지는 그녀를 멀리서 바라만 볼 뿐이다.{N}언제나 윈터 픽시를 따라다니는 그를 사람들은 윈터 스피릿이라 불렀다."/>
+		<ger name="Winter Spirit Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Ein Mann verliebte sich in die auf dem See tanzende Pixie.{N}Er träumte immer davon, mit ihr zu tanzen, tat es aber nie.{N}Er schaute aus der Ferne zu, als die Leute ihr applaudierten.{N}Die Fans der Pixie nennen diesen rätselhaften Mann Winter Spirit."/>
+		<eng name="Winter Spirit Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}There is a man who fell in love with Pixie dancing on the frozen lake.{N}He always dreamt of dancing with her but never did.{N}He watched from afar and disappeared as people gave her a round of applause.{N}The fans of the Winter Pixie called this enigmatic man the Winter Spirit."/>
+		<fre name="Winter Spirit Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Il existe un homme fou d'amour pour la Pixie dansante du lac gelé.{N}Il rêvait de danser avec elle mais n'osa jamais s'approcher.{N}Il se contentait de regarder de loin et disparut dans la foule de curieux.{N}Les fans de Pixie appelèrent cet homme mystérieux Winter Spirit."/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Winter Spirit Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Donan gölde danseden piksiye aşık bir adam vardır.{N}Hep onunla dans etmenin hayalini kurar ama asla yapamaz.{N}Onu uzaktan izler ve herkes piksiyi alkışlarken adam uzaklaşır.{N}Winter Pixie fanları bu gizemli adama Winter Spirit derler."/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>	
+	<scenario_list key="5000206">
+		<kor name="윈터 픽시 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}차디찬 냉기가 호수에 흩날려 얼어 붙으면 그녀가 나타난다.{N}그녀는 스케이트를 타고 호수위에서 아름다운 춤을 선보이며 보는 이에게 감동을 선사한다.{N}음악과 함께 그녀의 춤이 끝나면, 수줍은 미소와 함께 어디론가 사라진다.{N}넷 스피어의 겨울에만 볼수 있는 그녀를 사람들은 윈터  픽시라 부른다."/>
+		<ger name="Winter Pixie Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Sobald der Winter die Seen mit einer Eisfläche überzieht, erscheint sie.{N}Sie gleitet über den See und verzaubert alle mit ihrem wunderschönen tanz.{N}Sobald die Musik erlischt, verschwindet sie mit einem Lächeln.{N}Ihr Name ist Winter Pixie und sie kann nur während des Winters in der{N}Netsphere gefunden werden."/>
+		<eng name="Winter Pixie Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}When the cold freezes the lake, she appears.{N}She skates on the lake and impresses with her beautiful dance.{N}As soon as the music is over, she disappears with a shy smile.{N}She is called the Winter Pixie as she can only be seen in the Netsphere{N}during winter."/>
+		<fre name="Winter Pixie Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Quand le froid hivernal gèle les lacs, elle apparaît.{N}Elle patine sur la glace et émerveille avec sa dance envoûtante.{N}Dès que la musique s'interrompt, elle disparaît derrière un sourire timide.{N}Elle s'appele Winter Pixie et ne peut être aperçue que dans la Netsphère{N}pendant l'hiver."/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Winter Pixie Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Soğuk hava gölü dondurduğunda o ortaya çıkar.{N}Gölde kayar ve harikulade dansıyla herkesi etkiler.{N}Müzik sona erdiğinde utangaç bir gülümsemeyle kaybolur.{N}Ona Winter Pixie derler ve sadece Netsphere'in{N}kış mevsiminde görülür."/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000207">
+		<kor name="윈터 픽시 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}차디찬 냉기가 호수에 흩날려 얼어 붙으면 그녀가 나타난다.{N}그녀는 스케이트를 타고 호수위에서 아름다운 춤을 선보이며 보는 이에게 감동을 선사한다.{N}음악과 함께 그녀의 춤이 끝나면, 수줍은 미소와 함께 어디론가 사라진다.{N}넷 스피어의 겨울에만 볼수 있는 그녀를 사람들은 윈터  픽시라 부른다."/>
+		<ger name="Winter Pixie Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Sobald der Winter die Seen mit einer Eisfläche überzieht, erscheint sie.{N}Sie gleitet über den See und verzaubert alle mit ihrem wunderschönen tanz.{N}Sobald die Musik erlischt, verschwindet sie mit einem Lächeln.{N}Ihr Name ist Winter Pixie und sie kann nur während des Winters in der{N}Netsphere gefunden werden."/>
+		<eng name="Winter Pixie Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}When the cold freezes the lake, she appears.{N}She skates on the lake and impresses with her beautiful dance.{N}As soon as the music is over, she disappears with a shy smile.{N}She is called the Winter Pixie as she can only be seen in the Netsphere{N}during winter."/>
+		<fre name="Winter Pixie Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Quand le froid hivernal gèle les lacs, elle apparaît.{N}Elle patine sur la glace et émerveille avec sa dance envoûtante.{N}Dès que la musique s'interrompt, elle disparaît derrière un sourire timide.{N}Elle s'appele Winter Pixie et ne peut être aperçue que dans la Netsphère{N}pendant l'hiver."/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Winter Pixie Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Soğuk hava gölü dondurduğunda o ortaya çıkar.{N}Gölde kayar ve harikulade dansıyla herkesi etkiler.{N}Müzik sona erdiğinde utangaç bir gülümsemeyle kaybolur.{N}Ona Winter Pixie derler ve sadece Netsphere'in{N}kış mevsiminde görülür."/>
+		<rus name=""/>
 		<tha name=""/>
 		<twn name=""/>
 		<jap name=""/>

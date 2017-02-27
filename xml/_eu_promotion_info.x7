@@ -2,16 +2,17 @@
 <promotion_info>
 	<eventbaseInfo>
 		<guide>
-			<event string="SE_TEXT_53" image="Resources/Image/help/event_img_01.jpg"/>
+			<!--<event string="SE_TEXT_53" image="Resources/Image/help/event_img_01.jpg"/> <!--(고양이 이벤트)-->
+			<!--<event string="SE_TEXT_51" image="Resources/Image/help/Event_card_2016.png" /> <!--(글리치 이벤트)-->
 			<!--<event string="SE_TEXT_2" image="Resources/Image/help/Event_Easter_2012.dds" />(가이드 페이지가 2장 이상일 경우 사용)-->
 			<!--<event string="SE_TEXT_3" image="Resources/Image/help/Event_Easter_2012.dds" />-->
+			<event string="SE_TEXT_55" image="Resources/Image/help/Event_xmas_2014.jpg" /><!--(2016 크리스마스 이벤트)-->
 		</guide>
 		<sound ingame_coin_drop="Resources/Sound/event_coindrop.ogg" ingame_coin_get="Resources/sound/event_coinget.ogg" rolling_coin="Resources/Sound/event_coineffect.ogg" rolling_coin_success="Resources/Sound/event_Success.ogg" rolling_coin_faild="Resources/Sound/event_Failed.ogg" attend_item_get="Resources/Sound/event_Success.ogg" />
 	</eventbaseInfo>
 	<event_notice>
 		<notice key="SE_TEXT_24" repeat_period="300000" active="false"/>
 	</event_notice>
-
 
 
 
@@ -29,6 +30,7 @@
 		effect_id	=	이펙트 아이디
 		type		=	보상조건 ( 기본은 모두 지급,  none_or_all 꽝 or 모두 지급,  none_or_once 꽝이 or 한개만 지급 , min="0" max="5" 인챈트 구간 )
 		prob		=	확률
+		Item_string_key	=	아이템 획득 시 출력 설정 XML_String_Table의 event_guide)
 	-->
 
 
@@ -210,17 +212,19 @@
 		<requital key="100000"gift_type="item" item_key="4031170" shop_id="2" period_type="USECNT" period="10" color="0" effect_id="0" Item_string_key = "" />
 	</using_cash>
 	-->
-		<!-- 일일 지급 보상 : 접속시 하루에 한번씩 무조건 지급 -->
+		<!-- 일일 지급 보상 : 접속시 하루에 한번씩 무조건 지급 / KR: 쿠폰, 에스퍼 럭키박스 -->
 	<daily_gift active="false">
+		<requital key="1"gift_type="item" item_key="6000001" shop_id="1" period_type="USECNT" period="1" color="0" effect_id="0" Item_string_key = "" />
 		<!--<requital key="1"gift_type="item" item_key="4020090" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" Item_string_key = "" />-->
-		<!--<requital key="1"gift_type="item" item_key="2000063" shop_id="4" period_type="DAYS" period="1" color="0" effect_id="21001" Item_string_key = "" />-->
+		<!-- 할로윈 이벤트 사탕 아이템 지급
+		<requital key="2"gift_type="item" item_key="6000037" shop_id="1" period_type="USECNT" period="1" color="0" effect_id="0" Item_string_key = "" />-->
 	</daily_gift>
 
-	<!-- 일일 플레이 타임 보상 -->
+	<!-- 일일 플레이 타임 보상 (하루 30/60분 플레이시 지급되는 프로모션 이벤트)-->
 
 	<daily_play_time active="false">
-		<requital key="30" gift_type="item" item_key="4020090" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" Item_string_key = "" />
-		<requital key="60" gift_type="item" item_key="4020090" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" Item_string_key = "" />
+		<requital key="30" gift_type="item" item_key="4052345" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" Item_string_key = "SE_TEXT_55" />
+		<requital key="60" gift_type="item" item_key="4052345" shop_id="2" period_type="USECNT" period="2" color="0" effect_id="0" Item_string_key = "SE_TEXT_55" />
 
 		<!-- <requital key="20" gift_type="item" item_key="4020045" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" Item_string_key = "" />
 		<requital key="30" gift_type="item" item_key="6000001" shop_id="1" period_type="USECNT" period="3" color="0" effect_id="0" Item_string_key = "" />
@@ -233,39 +237,87 @@
 	</daily_play_time>
 
 	<!--  [event_state 0=None 1=InGame(playing), 2=OutGame(NotPlaying)] [event_attribute 0=None, 1=Action, 2=Time] [game_mode EGameRule 참고] [min_time 초단위] -->
-<!--
-	<event_system>
-		<event_info event_type="1" active="false" event_title="11Event" reward_type="24" event_state="2" event_attribute="2"    min_player="1" activate_time="00000000171100" min_time="0" channel_id="0" map_id="0" game_mode="0" gift_type="item" item_key="6000023" shop_id="1" period_type="USECNT" period="1" color="0" effect_id="0" prob = "10000" Item_string_key = ""/>
-		<event_info event_type="2" active="false" event_title="11Event" reward_type="24" event_state="2" event_attribute="2"    min_player="1" activate_time="00000000181100" min_time="0" channel_id="0" map_id="0" game_mode="0" gift_type="item" item_key="6000023" shop_id="1" period_type="USECNT" period="1" color="0" effect_id="0" prob = "10000" Item_string_key = ""/>
-		<event_info event_type="3" active="false" event_title="11Event" reward_type="24" event_state="2" event_attribute="2"    min_player="1" activate_time="00000000191100" min_time="0" channel_id="0" map_id="0" game_mode="0" gift_type="item" item_key="6000023" shop_id="1" period_type="USECNT" period="1" color="0" effect_id="0" prob = "10000" Item_string_key = ""/>
-		<event_info event_type="4" active="false" event_title="11Event" reward_type="24" event_state="2" event_attribute="2"    min_player="1" activate_time="00000000201100" min_time="0" channel_id="0" map_id="0" game_mode="0" gift_type="item" item_key="6000023" shop_id="1" period_type="USECNT" period="1" color="0" effect_id="0" prob = "10000" Item_string_key = ""/>
-		<event_info event_type="5" active="false" event_title="11Event" reward_type="24" event_state="2" event_attribute="2"    min_player="1" activate_time="00000000211100" min_time="0" channel_id="0" map_id="0" game_mode="0" gift_type="item" item_key="6000023" shop_id="1" period_type="USECNT" period="2" color="0" effect_id="0" prob = "10000" Item_string_key = ""/>
-		<event_info event_type="6" active="false" event_title="11Event" reward_type="24" event_state="2" event_attribute="2"    min_player="1" activate_time="00000000221100" min_time="0" channel_id="0" map_id="0" game_mode="0" gift_type="item" item_key="6000023" shop_id="1" period_type="USECNT" period="2" color="0" effect_id="0" prob = "10000" Item_string_key = ""/>
-		<event_info event_type="7" active="false" event_title="11Event" reward_type="24" event_state="2" event_attribute="2"    min_player="1" activate_time="00000000231100" min_time="0" channel_id="0" map_id="0" game_mode="0" gift_type="item" item_key="6000023" shop_id="1" period_type="USECNT" period="3" color="0" effect_id="0" prob = "10000" Item_string_key = ""/>
-	</event_system>
--->
-	<!--  [event_state 0=None 1=InGame(playing), 2=OutGame(NotPlaying)] [event_attribute 0=None, 1=Action, 2=Time ] [game_mode EGameRule 참고] [min_time 초단위] -->
 
-	<event_system>
+	<!-- 2015 추석 송편 이벤트_지정 시간에 아이템 지급 -->
+	<!--<event_system>
+		<event_info event_type="1" active="true" event_title="11Event" reward_type="24" event_state="2" event_attribute="2"    min_player="1" activate_time="00000000172700" min_time="0" channel_id="0" map_id="0" game_mode="0" gift_type="item" item_key="6000036" shop_id="1" period_type="USECNT" period="1" color="0" effect_id="0" prob = "10000" Item_string_key = ""/>
+		<event_info event_type="2" active="true" event_title="11Event" reward_type="24" event_state="2" event_attribute="2"    min_player="1" activate_time="00000000182700" min_time="0" channel_id="0" map_id="0" game_mode="0" gift_type="item" item_key="6000036" shop_id="1" period_type="USECNT" period="1" color="0" effect_id="0" prob = "10000" Item_string_key = ""/>
+		<event_info event_type="3" active="true" event_title="11Event" reward_type="24" event_state="2" event_attribute="2"    min_player="1" activate_time="00000000192700" min_time="0" channel_id="0" map_id="0" game_mode="0" gift_type="item" item_key="6000036" shop_id="1" period_type="USECNT" period="1" color="0" effect_id="0" prob = "10000" Item_string_key = ""/>
+		<event_info event_type="4" active="true" event_title="11Event" reward_type="24" event_state="2" event_attribute="2"    min_player="1" activate_time="00000000202700" min_time="0" channel_id="0" map_id="0" game_mode="0" gift_type="item" item_key="6000036" shop_id="1" period_type="USECNT" period="1" color="0" effect_id="0" prob = "10000" Item_string_key = ""/>
+		<event_info event_type="5" active="true" event_title="11Event" reward_type="24" event_state="2" event_attribute="2"    min_player="1" activate_time="00000000212700" min_time="0" channel_id="0" map_id="0" game_mode="0" gift_type="item" item_key="6000036" shop_id="1" period_type="USECNT" period="1" color="0" effect_id="0" prob = "10000" Item_string_key = ""/>
+		<event_info event_type="6" active="true" event_title="11Event" reward_type="24" event_state="2" event_attribute="2"    min_player="1" activate_time="00000000222700" min_time="0" channel_id="0" map_id="0" game_mode="0" gift_type="item" item_key="6000036" shop_id="1" period_type="USECNT" period="2" color="0" effect_id="0" prob = "10000" Item_string_key = ""/>
+		<event_info event_type="7" active="true" event_title="11Event" reward_type="24" event_state="2" event_attribute="2"    min_player="1" activate_time="00000000232700" min_time="0" channel_id="0" map_id="0" game_mode="0" gift_type="item" item_key="6000036" shop_id="1" period_type="USECNT" period="3" color="0" effect_id="0" prob = "10000" Item_string_key = ""/>
+	</event_system>-->
+
+	<!--  [event_state 0=None 1=InGame(playing), 2=OutGame(NotPlaying)] [event_attribute 0=None, 1=Action, 2=Time ] [game_mode EGameRule 참고] [min_time 초단위] [min_score 최소 점수 (현재 TDM(Kill), FootBall(종합점수)에만 처리되있음 다른모드에서 사용하려면 프로그램팀에 말씀하세요)]-->
+
+	<!-- <event_system>
 		<event_info
-			event_type="1" active="true" event_title="2016_CAT" reward_type="7" event_state="2" event_attribute="1"  min_player="4" min_time="300" channel_id="0" map_id="0" game_mode="1" min_score="5"
+			event_type="1" active="false" event_title="icesquare_evnet" reward_type="7" event_state="2" event_attribute="1"  min_player="0" min_time="30" channel_id="0" map_id="71" game_mode="0" min_score="0"
+			     gift_type="item"      item_key="4020013 "      shop_id="2"      period_type="USECNT"      period="1"      color="0"      effect_id="0"      prob = "10000"      reward_item_limit_cnt="0"      Item_string_key ="N4020013"
+			lose_gift_type="item" lose_item_key="4020014 " lose_shop_id="2" lose_period_type="USECNT" lose_period="1" lose_color="0" lose_effect_id="0" lose_prob = "10000" lose_reward_item_limit_cnt="0" lose_Item_string_key ="N4020014"/>
+	</event_system> -->
+	<!-- 춘장 이벤트 --> <!-- 게임 플레이시 확률적으로 추가 아이템 지급-->
+	<event_system>
+
+		<!-- 에스퍼칩 캡슐 지급 이벤트 1일 전체모드 플레이 시 에스퍼칩 캡슐 추가 지급 -->
+		<event_info
+			event_type="2" active="false" event_title="EsperChip" reward_type="7" event_state="2" event_attribute="1"  min_player="4" min_time="300" channel_id="0" map_id="0" game_mode="0" min_score="0"
+			     gift_type="item"      item_key="4051310"      shop_id="2"      period_type="USECNT"      period="1"      color="0"      effect_id="0"      prob = "500"      reward_item_limit_cnt="0"      Item_string_key ="N4051310"
+			lose_gift_type="item" lose_item_key="4051310" lose_shop_id="2" lose_period_type="USECNT" lose_period="1" lose_color="0" lose_effect_id="0" lose_prob = "500" lose_reward_item_limit_cnt="0" lose_Item_string_key ="N4051310"/>
+		<!-- 엽전 지급 -->
+		<event_info
+			event_type="1" active="false" event_title="xmas2015" reward_type="7" event_state="2" event_attribute="1"  min_player="4" min_time="300" channel_id="0" map_id="0" game_mode="1" min_score="5"
 			     gift_type="item"      item_key="6000045"      shop_id="1"      period_type="USECNT"      period="1"      color="0"      effect_id="0"      prob = "10000"      reward_item_limit_cnt="10"      Item_string_key ="N6000045"
 			lose_gift_type="item" lose_item_key="6000045" lose_shop_id="1" lose_period_type="USECNT" lose_period="1" lose_color="0" lose_effect_id="0" lose_prob = "10000" lose_reward_item_limit_cnt="10" lose_Item_string_key ="N6000045"/>
 		<event_info
-			event_type="3" active="true" event_title="2016_CAT" reward_type="7" event_state="2" event_attribute="1"  min_player="4" min_time="300" channel_id="0" map_id="0" game_mode="2" min_score="30"
+			event_type="3" active="false" event_title="xmas2015" reward_type="7" event_state="2" event_attribute="1"  min_player="4" min_time="300" channel_id="0" map_id="0" game_mode="2" min_score="30"
 			     gift_type="item"      item_key="6000045"      shop_id="1"      period_type="USECNT"      period="1"      color="0"      effect_id="0"      prob = "10000"      reward_item_limit_cnt="10"      Item_string_key ="N6000045"
 			lose_gift_type="item" lose_item_key="6000045" lose_shop_id="1" lose_period_type="USECNT" lose_period="1" lose_color="0" lose_effect_id="0" lose_prob = "10000" lose_reward_item_limit_cnt="10" lose_Item_string_key ="N6000045"/>
 		<event_info
-			event_type="2" active="false" event_title="Warpship" reward_type="7" event_state="2" event_attribute="1"  min_player="0" min_time="240" channel_id="0" map_id="20" game_mode="0" min_score="2"
-			     gift_type="item"      item_key="6000036 "      shop_id="1"      period_type="USECNT"      period="5"      color="0"      effect_id="0"      prob = "10000"      reward_item_limit_cnt="50"      Item_string_key ="N6000035"
-			lose_gift_type="item" lose_item_key="6000036 " lose_shop_id="1" lose_period_type="USECNT" lose_period="5" lose_color="0" lose_effect_id="0" lose_prob = "10000" lose_reward_item_limit_cnt="50" lose_Item_string_key ="N6000035"/>
+			event_type="4" active="false" event_title="xmas2015" reward_type="7" event_state="2" event_attribute="1"  min_player="4" min_time="300" channel_id="0" map_id="0" game_mode="0" min_score="0"
+			     gift_type="item"      item_key="4052159"      shop_id="2"      period_type="USECNT"      period="1"      color="0"      effect_id="0"      prob = "500"      reward_item_limit_cnt="0"      Item_string_key ="N4052159"
+			lose_gift_type="item" lose_item_key="4052159" lose_shop_id="2" lose_period_type="USECNT" lose_period="1" lose_color="0" lose_effect_id="0" lose_prob = "500" lose_reward_item_limit_cnt="0" lose_Item_string_key ="N4052159"/>
+		<!-- 글리치 카드 지급 -->
+		<event_info
+			event_type="5" active="false" event_title="xmas2015" reward_type="7" event_state="2" event_attribute="1"  min_player="4" min_time="300" channel_id="0" map_id="24" game_mode="1" min_score="0"
+			     gift_type="item"      item_key="6000047"      shop_id="1"      period_type="USECNT"      period="1"      color="0"      effect_id="0"      prob = "5000"      reward_item_limit_cnt="1"      Item_string_key ="N6000047"
+			lose_gift_type="item" lose_item_key="6000047" lose_shop_id="1" lose_period_type="USECNT" lose_period="1" lose_color="0" lose_effect_id="0" lose_prob = "5000" lose_reward_item_limit_cnt="1" lose_Item_string_key ="N6000047"/>
+		<event_info
+			event_type="6" active="false" event_title="xmas2015" reward_type="7" event_state="2" event_attribute="1"  min_player="4" min_time="300" channel_id="0" map_id="23" game_mode="1" min_score="0"
+			     gift_type="item"      item_key="6000048"      shop_id="1"      period_type="USECNT"      period="1"      color="0"      effect_id="0"      prob = "5000"      reward_item_limit_cnt="1"      Item_string_key ="N6000048"
+			lose_gift_type="item" lose_item_key="6000048" lose_shop_id="1" lose_period_type="USECNT" lose_period="1" lose_color="0" lose_effect_id="0" lose_prob = "5000" lose_reward_item_limit_cnt="1" lose_Item_string_key ="N6000048"/>
+			<event_info
+			event_type="7" active="false" event_title="xmas2015" reward_type="7" event_state="2" event_attribute="1"  min_player="4" min_time="300" channel_id="0" map_id="73" game_mode="2" min_score="0"
+			     gift_type="item"      item_key="6000046"      shop_id="1"      period_type="USECNT"      period="1"      color="0"      effect_id="0"      prob = "5000"      reward_item_limit_cnt="1"      Item_string_key ="N6000046"
+			lose_gift_type="item" lose_item_key="6000046" lose_shop_id="1" lose_period_type="USECNT" lose_period="1" lose_color="0" lose_effect_id="0" lose_prob = "5000" lose_reward_item_limit_cnt="1" lose_Item_string_key ="N6000046"/>
+	<!-- 2016 크리스마스 카드 지급 -->
+		<event_info
+			event_type="8" active="false" event_title="xmas2015" reward_type="7" event_state="2" event_attribute="1"  min_player="4" min_time="300" channel_id="0" map_id="0" game_mode="1" min_score="0"
+			     gift_type="item"      item_key="6000050"      shop_id="1"      period_type="USECNT"      period="1"      color="0"      effect_id="0"      prob = "10000"      reward_item_limit_cnt="3"      Item_string_key ="N6000050"
+			lose_gift_type="item" lose_item_key="6000050" lose_shop_id="1" lose_period_type="USECNT" lose_period="1" lose_color="0" lose_effect_id="0" lose_prob = "10000" lose_reward_item_limit_cnt="3" lose_Item_string_key ="N6000050"/>
+		<event_info
+			event_type="9" active="false" event_title="xmas2015" reward_type="7" event_state="2" event_attribute="1"  min_player="4" min_time="300" channel_id="0" map_id="0" game_mode="2" min_score="0"
+			     gift_type="item"      item_key="6000051"      shop_id="1"      period_type="USECNT"      period="1"      color="0"      effect_id="0"      prob = "10000"      reward_item_limit_cnt="3"      Item_string_key ="N6000051"
+			lose_gift_type="item" lose_item_key="6000051" lose_shop_id="1" lose_period_type="USECNT" lose_period="1" lose_color="0" lose_effect_id="0" lose_prob = "10000" lose_reward_item_limit_cnt="3" lose_Item_string_key ="N6000051"/>
+		<event_info
+			event_type="10" active="false" event_title="xmas2015" reward_type="7" event_state="2" event_attribute="1"  min_player="4" min_time="300" channel_id="0" map_id="0" game_mode="8" min_score="0"
+			     gift_type="item"      item_key="6000052"      shop_id="1"      period_type="USECNT"      period="1"      color="0"      effect_id="0"      prob = "10000"      reward_item_limit_cnt="3"      Item_string_key ="N6000052"
+			lose_gift_type="item" lose_item_key="6000052" lose_shop_id="1" lose_period_type="USECNT" lose_period="1" lose_color="0" lose_effect_id="0" lose_prob = "10000" lose_reward_item_limit_cnt="3" lose_Item_string_key ="N6000052"/>
+		<!--<event_info
+			event_type="11" active="true" event_title="xmas2015" reward_type="7" event_state="2" event_attribute="1"  min_player="4" min_time="300" channel_id="0" map_id="0" game_mode="9" min_score="0"
+			     gift_type="item"      item_key="6000052"      shop_id="1"      period_type="USECNT"      period="1"      color="0"      effect_id="0"      prob = "10000"      reward_item_limit_cnt="1"      Item_string_key ="N6000052"
+			lose_gift_type="item" lose_item_key="6000052" lose_shop_id="1" lose_period_type="USECNT" lose_period="1" lose_color="0" lose_effect_id="0" lose_prob = "10000" lose_reward_item_limit_cnt="1" lose_Item_string_key ="N6000052"/>
+		<event_info
+			event_type="12" active="true" event_title="xmas2015" reward_type="7" event_state="2" event_attribute="1"  min_player="4" min_time="300" channel_id="0" map_id="0" game_mode="10" min_score="0"
+			     gift_type="item"      item_key="6000052"      shop_id="1"      period_type="USECNT"      period="1"      color="0"      effect_id="0"      prob = "10000"      reward_item_limit_cnt="1"      Item_string_key ="N6000052"
+			lose_gift_type="item" lose_item_key="6000052" lose_shop_id="1" lose_period_type="USECNT" lose_period="1" lose_color="0" lose_effect_id="0" lose_prob = "10000" lose_reward_item_limit_cnt="1" lose_Item_string_key ="N6000052"/> -->		
 	</event_system>
-
 
 	<!-- 룰렛머신의 확률은 룰렛머신 확률의 총합에 따라 확률이 분포된다 확률을 선택 못하는 예외사항이 발생할 가능성이 있기때문에 맨마지막 확률을 가장 높은 확률로 지정하는게 좋다 -->
 	<!-- event_type의 순서대로 클라에서 등수를 정한다 .아이템 key를 0 으로 넣으면 꽝이다 -->
 	<!-- 룰렛 머신 토큰은 6000045 아이템을 고정으로 사용 -->
-	<roulette_machine active="true" active_clientGuide="true" use_item_key="6000045" use_item_cnt="2" event_title="warfare_event" reward_type="23">
+	<roulette_machine active="false" active_clientGuide="false" use_item_key="6000045" use_item_cnt="2" event_title="warfare_event" reward_type="23">
 		<event_info event_type="1"  gift_type="item" item_key="4052207" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "1" Item_string_key="N4052207" result_image="321"/>
 		<event_info event_type="2"  gift_type="item" item_key="4052207" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "99" Item_string_key="N4052207" result_image="111"/>
 		<event_info event_type="3"  gift_type="item" item_key="4052206" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "500" Item_string_key="N4052206" result_image="222"/>
@@ -274,31 +326,54 @@
 		<event_info event_type="6"  gift_type="item" item_key="4052203" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "4500" Item_string_key="N4052203"  result_image="123,213"/>
 	</roulette_machine>
 
-<!--
-	<roulette_machine active="false" active_clientGuide="false" use_item_key="6000037" use_item_cnt="5" event_title="warfare_event" reward_type="23">
-		<event_info event_type="1"  gift_type="item" item_key="4020075" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "100" Item_string_key="N4020075"   result_image="321"/>
-		<event_info event_type="2"  gift_type="item" item_key="4020076" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "300" Item_string_key="N4020076" result_image="111"/>
-		<event_info event_type="3"  gift_type="item" item_key="4020035" shop_id="2" period_type="USECNT" period="4" color="0" effect_id="0" prob = "600" Item_string_key="N4020035" result_image="222"/>
-		<event_info event_type="4"  gift_type="item" item_key="4020035" shop_id="2" period_type="USECNT" period="2" color="0" effect_id="0" prob = "1000" Item_string_key="N4020035" result_image="333"/>
-		<event_info event_type="5"  gift_type="item" item_key="4031173" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "3000" Item_string_key = "N4031173" result_image="221,223,113,112,332,331"/>
-		<event_info event_type="6"  gift_type="item" item_key="6000001" shop_id="1" period_type="USECNT" period="3" color="0" effect_id="0" prob = "5000" Item_string_key="N6000001"  result_image="123,213"/>
-	</roulette_machine>
--->
-
+	<!--크리스마스 이벤트 2013 2014--><!--active 이벤트 on/off active_clientGuide 클라이언트 출력 on/off--> <!-- reward_item_limit_cnt 서버 갯수제한-->
 	<!-- 확률은 낮은순으로 배치하시고 이벤트타입 맨마지막 번호는 은 1,2,3번 카드가 (1,2,3 번의 위치변경시 서버에게 알려주세요) 전부 모였을때 지급되는 내구제 아이템 정보입니다. -->
-	<x_mas_card_event active="fasle" active_clientGuide="false" use_item_key="6000028" use_item_cnt="1" event_title="x-mas" reward_type="7" unique1 = "6000024" unique2 = "6000025" unique3 = "6000026" reward_delay="500" >
-		<event_info event_type="1"  gift_type="item" item_key="6000025" shop_id="4" period_type="USECNT" period="1" color="0" effect_id="0" prob = "10"  reward_item_limit_cnt="20" Item_string_key="N6000025"  />
-		<event_info event_type="2"  gift_type="item" item_key="6000024" shop_id="4" period_type="USECNT" period="1" color="0" effect_id="0" prob = "100" reward_item_limit_cnt="0" Item_string_key="N6000024"   />
-		<event_info event_type="3"  gift_type="item" item_key="6000026" shop_id="4" period_type="USECNT" period="1" color="0" effect_id="0" prob = "400" reward_item_limit_cnt="0" Item_string_key="N6000026" />
-		<event_info event_type="4"  gift_type="item" item_key="4033004" shop_id="2" period_type="USECNT" period="5" color="0" effect_id="0" prob = "500" reward_item_limit_cnt="0" Item_string_key="N4033004"  />
-		<event_info event_type="5"  gift_type="item" item_key="4035266" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "500" reward_item_limit_cnt="0" Item_string_key="N4035266" />
-		<event_info event_type="6"  gift_type="item" item_key="4035272" shop_id="2" period_type="USECNT" period="5" color="0" effect_id="0" prob = "500" reward_item_limit_cnt="0" Item_string_key="N4035272" />
-		<event_info event_type="7"  gift_type="item" item_key="4033003" shop_id="2" period_type="USECNT" period="3" color="0" effect_id="0" prob = "500" reward_item_limit_cnt="0" Item_string_key="N4033003"  />
-		<event_info event_type="8"  gift_type="item" item_key="4051332" shop_id="2" period_type="USECNT" period="3" color="0" effect_id="0" prob = "1500" reward_item_limit_cnt="0" Item_string_key="N4051332"  />
-		<event_info event_type="9"  gift_type="item" item_key="4031175" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "1500" reward_item_limit_cnt="0" Item_string_key="N4031175"  />
-		<event_info event_type="10"  gift_type="item" item_key="4031174" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "2000" reward_item_limit_cnt="0" Item_string_key="N4031174"  />
-		<event_info event_type="11"  gift_type="item" item_key="4031173" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "2490" reward_item_limit_cnt="0" Item_string_key="N4031173"  />
-		<event_info event_type="12"  gift_type="item" is_unique = "1" item_key="2010038" shop_id="3" period_type="NONE" period="0" color="0" effect_id="22001" prob = "0" reward_item_limit_cnt="0" Item_string_key="N2010038"  />
+	<!--<x_mas_card_event active="false" active_clientGuide="false" use_item_key="6000028" use_item_cnt="1" event_title="x-mas" reward_type="7" unique1 = "6000046" unique2 = "6000047" unique3 = "6000048" reward_delay="500" ><!--이벤트 아이템 정보-->
+		<!--<event_info event_type="1"  gift_type="item" item_key="6000046" shop_id="4" period_type="USECNT" period="1" color="0" effect_id="0" prob = "333"  reward_item_limit_cnt="0" Item_string_key="N6000046"  /><!-- 크리스마스 카드 New -->
+		<!--<event_info event_type="2"  gift_type="item" item_key="6000047" shop_id="4" period_type="USECNT" period="1" color="0" effect_id="0" prob = "333" reward_item_limit_cnt="0" Item_string_key="N6000047"   /><!-- 크리스마스 카드 Happy -->
+		<!--<event_info event_type="3"  gift_type="item" item_key="6000048" shop_id="4" period_type="USECNT" period="1" color="0" effect_id="0" prob = "334" reward_item_limit_cnt="0" Item_string_key="N6000048" /><!-- 크리스마스 카드 Year -->
+		<!--<event_info event_type="4"  gift_type="item" item_key="4035331" shop_id="2" period_type="USECNT" period="5" color="0" effect_id="0" prob = "500" reward_item_limit_cnt="0" Item_string_key="N4035331"  /><!-- G의 마하3 스파이대거 캡슐 -->
+		<!--<event_info event_type="5"  gift_type="item" item_key="4035335" shop_id="2" period_type="USECNT" period="3" color="0" effect_id="0" prob = "500" reward_item_limit_cnt="0" Item_string_key="N4035335" /><!-- 크리스마스 언더웨어 캡슐 -->
+		<!--<event_info event_type="6"  gift_type="item" item_key="4035334" shop_id="2" period_type="USECNT" period="3" color="0" effect_id="0" prob = "500" reward_item_limit_cnt="0" Item_string_key="N4035334" /><!-- 크리스마스 오필리아 캡슐 -->
+		<!--<event_info event_type="7"  gift_type="item" item_key="4035266" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "500" reward_item_limit_cnt="0" Item_string_key="N4035266"  /><!-- 유니크 확률 아이템 캡슐 -->
+		<!--<event_info event_type="8"  gift_type="item" item_key="4020036" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "1500" reward_item_limit_cnt="0" Item_string_key="N4020036"  /><!-- 아이템 조합 세트 (고가형) -->
+		<!--<event_info event_type="9"  gift_type="item" item_key="4035333" shop_id="2" period_type="USECNT" period="5" color="0" effect_id="0" prob = "1500" reward_item_limit_cnt="0" Item_string_key="N4035333"  /><!-- 베이비 베어돌 펫 캡슐 -->
+		<!--<event_info event_type="10"  gift_type="item" item_key="4020035" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "2000" reward_item_limit_cnt="0" Item_string_key="N4020035"  /><!-- 아이템 조합 세트 (저가형) -->
+		<!--<event_info event_type="11"  gift_type="item" item_key="4031174" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "2500" reward_item_limit_cnt="0" Item_string_key="N4031174"  /><!-- 1000펜 캡슐 -->
+		<!--<event_info event_type="4"  gift_type="item" is_unique = "1" item_key="4052165" shop_id="2" period_type="NONE" period="0" color="0" effect_id="21001" prob = "0" reward_item_limit_cnt="0" Item_string_key="N4052165"  /><!--보상 레어 아이템 정보-->
+	<!--</x_mas_card_event>
+	<!--카드뒤집기(글리치 이벤트)-->
+	<!--<x_mas_card_event active="false" active_clientGuide="false" use_item_key="6000028" use_item_cnt="1" event_title="x-mas" reward_type="7" unique1 = "6000046" unique2 = "6000047" unique3 = "6000048" reward_delay="500" ><!--이벤트 아이템 정보-->
+		<!--<event_info event_type="1"  gift_type="item" item_key="6000046" shop_id="4" period_type="USECNT" period="1" color="0" effect_id="0" prob = "333"  reward_item_limit_cnt="0" Item_string_key="N6000046"  /><!-- 크리스마스 카드 New -->
+		<!--<event_info event_type="2"  gift_type="item" item_key="6000047" shop_id="4" period_type="USECNT" period="1" color="0" effect_id="0" prob = "333" reward_item_limit_cnt="0" Item_string_key="N6000047"   /><!-- 크리스마스 카드 Happy -->
+		<!--<event_info event_type="3"  gift_type="item" item_key="6000048" shop_id="4" period_type="USECNT" period="1" color="0" effect_id="0" prob = "334" reward_item_limit_cnt="0" Item_string_key="N6000048" /><!-- 크리스마스 카드 Year -->
+		<!--<event_info event_type="4"  gift_type="item" item_key="4035331" shop_id="2" period_type="USECNT" period="5" color="0" effect_id="0" prob = "500" reward_item_limit_cnt="0" Item_string_key="N4035331"  /><!-- G의 마하3 스파이대거 캡슐 -->
+		<!--<event_info event_type="5"  gift_type="item" item_key="4035335" shop_id="2" period_type="USECNT" period="3" color="0" effect_id="0" prob = "500" reward_item_limit_cnt="0" Item_string_key="N4035335" /><!-- 크리스마스 언더웨어 캡슐 -->
+		<!--<event_info event_type="6"  gift_type="item" item_key="4035334" shop_id="2" period_type="USECNT" period="3" color="0" effect_id="0" prob = "500" reward_item_limit_cnt="0" Item_string_key="N4035334" /><!-- 크리스마스 오필리아 캡슐 -->
+		<!--<event_info event_type="7"  gift_type="item" item_key="4035266" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "500" reward_item_limit_cnt="0" Item_string_key="N4035266"  /><!-- 유니크 확률 아이템 캡슐 -->
+		<!--<event_info event_type="8"  gift_type="item" item_key="4020036" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "1500" reward_item_limit_cnt="0" Item_string_key="N4020036"  /><!-- 아이템 조합 세트 (고가형) -->
+		<!--<event_info event_type="9"  gift_type="item" item_key="4035333" shop_id="2" period_type="USECNT" period="5" color="0" effect_id="0" prob = "1500" reward_item_limit_cnt="0" Item_string_key="N4035333"  /><!-- 베이비 베어돌 펫 캡슐 -->
+		<!--<event_info event_type="10"  gift_type="item" item_key="4020035" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "2000" reward_item_limit_cnt="0" Item_string_key="N4020035"  /><!-- 아이템 조합 세트 (저가형) -->
+		<!--<event_info event_type="11"  gift_type="item" item_key="4031174" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "2500" reward_item_limit_cnt="0" Item_string_key="N4031174"  /><!-- 1000펜 캡슐 -->
+		<!--<event_info event_type="4"  gift_type="item" item_key="4052165" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "0" reward_item_limit_cnt="0" Item_string_key="N4052165"  /><!--보상 레어 아이템 정보-->
+	<!--</x_mas_card_event>
+	
+	<!--크리스마스 이벤트 2016-->
+	
+	<x_mas_card_event active="false" active_clientGuide="false" use_item_key="6000028" use_item_cnt="1" event_title="x-mas" reward_type="7" unique1 = "6000050" unique2 = "6000051" unique3 = "6000052" reward_delay="500" ><!--이벤트 아이템 정보-->
+		<event_info event_type="1"  gift_type="item" item_key="6000050" shop_id="1" period_type="USECNT" period="1" color="0" effect_id="0" prob = "333"  reward_item_limit_cnt="0" Item_string_key="N6000050"  /><!-- 크리스마스 카드 New -->
+		<event_info event_type="2"  gift_type="item" item_key="6000051" shop_id="1" period_type="USECNT" period="1" color="0" effect_id="0" prob = "333" reward_item_limit_cnt="0" Item_string_key="N6000051"   /><!-- 크리스마스 카드 Happy -->
+		<event_info event_type="3"  gift_type="item" item_key="6000052" shop_id="1" period_type="USECNT" period="1" color="0" effect_id="0" prob = "334" reward_item_limit_cnt="0" Item_string_key="N6000052" /><!-- 크리스마스 카드 Year -->
+		<!--<event_info event_type="4"  gift_type="item" item_key="4035331" shop_id="2" period_type="USECNT" period="5" color="0" effect_id="0" prob = "500" reward_item_limit_cnt="0" Item_string_key="N4035331"  /><!-- G의 마하3 스파이대거 캡슐 -->
+		<!--<event_info event_type="5"  gift_type="item" item_key="4035335" shop_id="2" period_type="USECNT" period="3" color="0" effect_id="0" prob = "500" reward_item_limit_cnt="0" Item_string_key="N4035335" /><!-- 크리스마스 언더웨어 캡슐 -->
+		<!--<event_info event_type="6"  gift_type="item" item_key="4035334" shop_id="2" period_type="USECNT" period="3" color="0" effect_id="0" prob = "500" reward_item_limit_cnt="0" Item_string_key="N4035334" /><!-- 크리스마스 오필리아 캡슐 -->
+		<!--<event_info event_type="7"  gift_type="item" item_key="4035266" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "500" reward_item_limit_cnt="0" Item_string_key="N4035266"  /><!-- 유니크 확률 아이템 캡슐 -->
+		<!--<event_info event_type="8"  gift_type="item" item_key="4020036" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "1500" reward_item_limit_cnt="0" Item_string_key="N4020036"  /><!-- 아이템 조합 세트 (고가형) -->
+		<!--<event_info event_type="9"  gift_type="item" item_key="4035333" shop_id="2" period_type="USECNT" period="5" color="0" effect_id="0" prob = "1500" reward_item_limit_cnt="0" Item_string_key="N4035333"  /><!-- 베이비 베어돌 펫 캡슐 -->
+		<!--<event_info event_type="10"  gift_type="item" item_key="4020035" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "2000" reward_item_limit_cnt="0" Item_string_key="N4020035"  /><!-- 아이템 조합 세트 (저가형) -->
+		<!--<event_info event_type="11"  gift_type="item" item_key="4031174" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "2500" reward_item_limit_cnt="0" Item_string_key="N4031174"  /><!-- 1000펜 캡슐 -->
+		<event_info event_title = "x_mas_2016" event_type="4"  gift_type="item" item_key="4052366" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "0" reward_item_limit_cnt="3" Item_string_key="N4052366"  /><!--보상 레어 아이템 정보-->
+		<!--<event_info event_type="4"  gift_type="item" item_key="4052366" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" prob = "0" reward_item_limit_cnt="10" Item_string_key="N4052366"  /><!--보상 레어 아이템 정보-->
 	</x_mas_card_event>
 
 	<!-- 2016 유럽 스프링 이벤트 -->
@@ -315,5 +390,77 @@
 		<requital key="1" gift_type="item" item_key="4031164" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0" Item_string_key = "" />
 		<requital key="1" gift_type="item" item_key="4080003" shop_id="2" period_type="USECNT" period="3" color="0" effect_id="0" Item_string_key = "" />
 	</recommend_event>
+	
+	<daily_attendance>
+		<daily_item_info item_index="0" user_type="1" year="2016" week="1" day_of_week="1" item_key="4031152" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="1" user_type="1" year="2016" week="1" day_of_week="1" item_key="4030051" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="2" user_type="1" year="2016" week="1" day_of_week="1" item_key="0" shop_id="0" period_type="USECNT" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="3" user_type="1" year="2016" week="1" day_of_week="2" item_key="4031151" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="4" user_type="1" year="2016" week="1" day_of_week="2" item_key="4020095" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="5" user_type="1" year="2016" week="1" day_of_week="2" item_key="0" shop_id="0" period_type="USECNT" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="6" user_type="1" year="2016" week="1" day_of_week="3" item_key="4031151" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="7" user_type="1" year="2016" week="1" day_of_week="3" item_key="5020002" shop_id="2" period_type="DAYS" period="1" color="0" effect_id="1999800007"/>
+		<daily_item_info item_index="8" user_type="1" year="2016" week="1" day_of_week="3" item_key="0" shop_id="0" period_type="USECNT" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="9" user_type="1" year="2016" week="1" day_of_week="4" item_key="4031176" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="10" user_type="1" year="2016" week="1" day_of_week="4" item_key="4030051" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="11" user_type="1" year="2016" week="1" day_of_week="4" item_key="0" shop_id="0" period_type="USECNT" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="12" user_type="1" year="2016" week="1" day_of_week="5" item_key="4031151" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="13" user_type="1" year="2016" week="1" day_of_week="5" item_key="4020096" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="14" user_type="1" year="2016" week="1" day_of_week="5" item_key="0" shop_id="0" period_type="USECNT" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="15" user_type="1" year="2016" week="1" day_of_week="6" item_key="4031151" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="16" user_type="1" year="2016" week="1" day_of_week="6" item_key="5000005" shop_id="2" period_type="DAYS" period="1" color="0" effect_id="1999801005"/>
+		<daily_item_info item_index="17" user_type="1" year="2016" week="1" day_of_week="6" item_key="0" shop_id="0" period_type="USECNT" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="18" user_type="1" year="2016" week="1" day_of_week="7" item_key="4031176" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="19" user_type="1" year="2016" week="1" day_of_week="7" item_key="4030051" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="20" user_type="1" year="2016" week="1" day_of_week="7" item_key="0" shop_id="0" period_type="USECNT" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="21" user_type="1" year="2016" week="1" day_of_week="8" item_key="4020096" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="22" user_type="1" year="2016" week="1" day_of_week="9" item_key="4020095" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="23" user_type="2" year="2016" week="1" day_of_week="1" item_key="4031157" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="24" user_type="2" year="2016" week="1" day_of_week="1" item_key="4000001" shop_id="2" period_type="NONE" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="25" user_type="2" year="2016" week="1" day_of_week="1" item_key="4020096" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="26" user_type="2" year="2016" week="1" day_of_week="2" item_key="4031153" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="27" user_type="2" year="2016" week="1" day_of_week="2" item_key="4030051" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="28" user_type="2" year="2016" week="1" day_of_week="2" item_key="0" shop_id="0" period_type="USECNT" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="29" user_type="2" year="2016" week="1" day_of_week="3" item_key="4031157" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="30" user_type="2" year="2016" week="1" day_of_week="3" item_key="4031187" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="31" user_type="2" year="2016" week="1" day_of_week="3" item_key="0" shop_id="0" period_type="USECNT" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="32" user_type="2" year="2016" week="1" day_of_week="4" item_key="4031153" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="33" user_type="2" year="2016" week="1" day_of_week="4" item_key="4030051" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="34" user_type="2" year="2016" week="1" day_of_week="4" item_key="0" shop_id="0" period_type="USECNT" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="35" user_type="2" year="2016" week="1" day_of_week="5" item_key="4031153" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="36" user_type="2" year="2016" week="1" day_of_week="5" item_key="4020095" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="37" user_type="2" year="2016" week="1" day_of_week="5" item_key="0" shop_id="0" period_type="USECNT" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="38" user_type="2" year="2016" week="1" day_of_week="6" item_key="4031153" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="39" user_type="2" year="2016" week="1" day_of_week="6" item_key="4010001" shop_id="2" period_type="NONE" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="40" user_type="2" year="2016" week="1" day_of_week="6" item_key="0" shop_id="0" period_type="USECNT" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="41" user_type="2" year="2016" week="1" day_of_week="7" item_key="4031157" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="42" user_type="2" year="2016" week="1" day_of_week="7" item_key="5020002" shop_id="2" period_type="DAYS" period="1" color="0" effect_id="1999800007"/>
+		<daily_item_info item_index="43" user_type="2" year="2016" week="1" day_of_week="7" item_key="5000005" shop_id="2" period_type="DAYS" period="1" color="0" effect_id="1999801005"/>
+		<daily_item_info item_index="44" user_type="2" year="2016" week="1" day_of_week="8" item_key="4020096" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="45" user_type="2" year="2016" week="1" day_of_week="9" item_key="4020095" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="46" user_type="3" year="2016" week="1" day_of_week="1" item_key="4031163" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="47" user_type="3" year="2016" week="1" day_of_week="1" item_key="3000003" shop_id="1" period_type="DAYS" period="7" color="0" effect_id="30001"/>
+		<daily_item_info item_index="48" user_type="3" year="2016" week="1" day_of_week="1" item_key="4020096" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="49" user_type="3" year="2016" week="1" day_of_week="2" item_key="4031157" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="50" user_type="3" year="2016" week="1" day_of_week="2" item_key="4030051" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="51" user_type="3" year="2016" week="1" day_of_week="2" item_key="0" shop_id="0" period_type="USECNT" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="52" user_type="3" year="2016" week="1" day_of_week="3" item_key="4031157" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="53" user_type="3" year="2016" week="1" day_of_week="3" item_key="4035266" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="54" user_type="3" year="2016" week="1" day_of_week="3" item_key="4020095" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="55" user_type="3" year="2016" week="1" day_of_week="4" item_key="4031157" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="56" user_type="3" year="2016" week="1" day_of_week="4" item_key="5020001" shop_id="2" period_type="DAYS" period="1" color="0" effect_id="1999800006"/>
+		<daily_item_info item_index="57" user_type="3" year="2016" week="1" day_of_week="4" item_key="5000001" shop_id="2" period_type="DAYS" period="1" color="0" effect_id="1999801001"/>
+		<daily_item_info item_index="58" user_type="3" year="2016" week="1" day_of_week="5" item_key="4031163" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="59" user_type="3" year="2016" week="1" day_of_week="5" item_key="4035266" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="60" user_type="3" year="2016" week="1" day_of_week="5" item_key="0" shop_id="0" period_type="USECNT" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="61" user_type="3" year="2016" week="1" day_of_week="6" item_key="4031157" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="62" user_type="3" year="2016" week="1" day_of_week="6" item_key="4000001" shop_id="2" period_type="NONE" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="63" user_type="3" year="2016" week="1" day_of_week="6" item_key="4010001" shop_id="2" period_type="NONE" period="0" color="0" effect_id="0"/>
+		<daily_item_info item_index="64" user_type="3" year="2016" week="1" day_of_week="7" item_key="4031157" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="65" user_type="3" year="2016" week="1" day_of_week="7" item_key="4030051" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="66" user_type="3" year="2016" week="1" day_of_week="7" item_key="4020085" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="67" user_type="3" year="2016" week="1" day_of_week="8" item_key="4020096" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+		<daily_item_info item_index="68" user_type="3" year="2016" week="1" day_of_week="9" item_key="4020095" shop_id="2" period_type="USECNT" period="1" color="0" effect_id="0"/>
+	</daily_attendance>
 
 </promotion_info>

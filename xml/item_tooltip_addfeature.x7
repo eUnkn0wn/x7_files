@@ -736,4 +736,76 @@
 		<feature_icon feature_icon_1="feature_approach.tga"/>
 		<feature_info feature_comment_key_1="FEAT_APPROCH"/>
 	</item>
+	<item id="2000066">
+		<feature_icon feature_icon_1="feature_approach.tga" feature_icon_2="feature_knockback.tga"/>
+		<feature_info feature_comment_key_1="FEAT_APPROCH" feature_comment_key_2="FEAT_KNOCKBACK"/>
+	</item>
+	<item id="2000067">
+		<feature_icon feature_icon_1="feature_approach.tga"/>
+		<feature_info feature_comment_key_1="FEAT_APPROCH"/>
+	</item>
+	<item id="2000068">
+		<feature_icon feature_icon_1="feature_approach.tga"/>
+		<feature_info feature_comment_key_1="FEAT_APPROCH"/>
+	</item>
+	<item id="2000069">
+		<feature_icon feature_icon_1="feature_approach.tga"/>
+		<feature_info feature_comment_key_1="FEAT_APPROCH"/>
+	</item>
+	<item id="2000070">
+		<feature_icon feature_icon_1="feature_approach.tga"/>
+		<feature_info feature_comment_key_1="FEAT_APPROCH"/>
+	</item>
+	<item id="2010054">
+		<feature_icon feature_icon_1="feature_singleshot.tga" feature_icon_2="feature_buckshot.tga" feature_icon_3="feature_knockback.tga"/>
+		<feature_info feature_comment_key_1="FEAT_SINGLESHOT" feature_comment_key_2="FEAT_BUCKSHOT" feature_comment_key_3="FEAT_KNOCKBACK"/>
+	</item>
+	<item id="2020044">
+		<feature_icon feature_icon_1="feature_ratefire.tga"/>
+		<feature_info feature_comment_key_1="FEAT_RATEFIRE"/>
+	</item>
+	<item id="2000071">
+		<feature_icon feature_icon_1="feature_approach.tga" feature_icon_2="feature_blow.tga"/>
+		<feature_info feature_comment_key_1="FEAT_APPROCH" feature_comment_key_2="FEAT_BLOW"/>
+	</item>
+	<item id="2050014">
+		<feature_icon feature_icon_1="feature_throw.tga" feature_icon_2="feature_splash.tga"/>
+		<feature_info feature_comment_key_1="FEAT_THROW" feature_comment_key_2="FEAT_BOMB"/>
+	</item>
+	<item id="2010055">
+		<feature_icon feature_icon_1="feature_ratefire.tga" feature_icon_2="feature_homing.tga"/>
+		<feature_info feature_comment_key_1="FEAT_RATEFIRE" feature_comment_key_2="FEAT_HOMING"/>
+	</item>
+	<item id="2000072">
+		<feature_icon feature_icon_1="feature_approach.tga" feature_icon_2="feature_blow.tga"/>
+		<feature_info feature_comment_key_1="FEAT_APPROCH" feature_comment_key_2="FEAT_BLOW"/>
+	</item>
+	<item id="2000073">
+		<feature_icon feature_icon_1="feature_approach.tga" feature_icon_2="feature_blow.tga"/>
+		<feature_info feature_comment_key_1="FEAT_APPROCH" feature_comment_key_2="FEAT_BLOW"/>
+	</item>
+	<item id="2000074">
+		<feature_icon feature_icon_1="feature_approach.tga" feature_icon_2="feature_stun.tga" feature_icon_3="feature_blow.tga"/>
+		<feature_info feature_comment_key_1="FEAT_APPROCH" feature_comment_key_2="FEAT_STUN" feature_comment_key_3="FEAT_BLOW"/>
+	</item>
+	<item id="2010056">
+		<feature_icon feature_icon_1="feature_ratefire.tga" feature_icon_2="feature_knockback.tga" feature_icon_3="feature_revision.tga"/>
+		<feature_info feature_comment_key_1="FEAT_RATEFIRE" feature_comment_key_2="FEAT_KNOCKBACK" feature_comment_key_3="FEAT_REVISION"/>
+	</item>
+	<item id="2000075">
+		<feature_icon feature_icon_1="feature_approach.tga" feature_icon_2="feature_blow.tga"/>
+		<feature_info feature_comment_key_1="FEAT_APPROCH" feature_comment_key_2="FEAT_BLOW"/>
+	</item>
+	<item id="2000076">
+		<feature_icon feature_icon_1="feature_approach.tga" feature_icon_2="feature_stun.tga" feature_icon_3="feature_blow.tga"/>
+		<feature_info feature_comment_key_1="FEAT_APPROCH" feature_comment_key_2="FEAT_STUN" feature_comment_key_3="FEAT_BLOW"/>
+	</item>
+	<item id="2000077">
+		<feature_icon feature_icon_1="feature_approach.tga"/>
+		<feature_info feature_comment_key_1="FEAT_APPROCH"/>
+	</item>
+	<item id="2000078">
+		<feature_icon feature_icon_1="feature_approach.tga" feature_icon_2="feature_blow.tga"/>
+		<feature_info feature_comment_key_1="FEAT_APPROCH" feature_comment_key_2="FEAT_BLOW"/>
+	</item>
 </Item_tooltip_addfeature>

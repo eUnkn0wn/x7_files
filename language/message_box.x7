@@ -238,6 +238,40 @@
 		<idn value=""/>
 		<por value="Continuar"/>
 	</button>
+	<button key="EXTRACTING_BUTTON">
+		<kor value="추출"/>
+		<ger value="EXTRACTING"/>
+		<eng value="EXTRACTING"/>
+		<fre value="EXTRACTING"/>
+		<spa value="EXTRACTING"/>
+		<ita value=""/>
+		<rus value=""/>
+		<ame value=""/>
+		<tur value="EXTRACTING"/>
+		<cns value=""/>
+		<tha value="EXTRACTING"/>
+		<twn value=""/>
+		<jap value=""/>
+		<idn value=""/>
+		<por value="EXTRACTING"/>
+	</button>
+	<button key="LAST_CANCEL_BUTTON">
+		<kor value="취소"/>
+		<ger value="Cancel"/>
+		<eng value="Cancel"/>
+		<fre value="Cancel"/>
+		<spa value="Cancel"/>
+		<ita value=""/>
+		<rus value=""/>
+		<ame value=""/>
+		<tur value="Cancel"/>
+		<cns value=""/>
+		<tha value="Cancel"/>
+		<twn value=""/>
+		<jap value=""/>
+		<idn value=""/>
+		<por value="Cancel"/>
+	</button>
 		<message key="COMMON_UNKNOWN">
 		<kor value="알 수 없는 에러"/>
 		<ger value="Unbekannter Fehler"/>
@@ -2653,9 +2687,9 @@
 		<por value="Se abandonar o jogo agora,{N}você receberá um penalty na durabilidade do ítem,{N}e não receberá PEN, EXP ou Mastery Points.{N}?Deseja ir na Sala de Jogo agora?"/>
 	</message>
 	<message key="INGAME_IS_MOVE_LOBBY">
-		<kor value="게임 중 나갈 경우{N}경험치와 펜, 아이템 숙련도(MP)를 얻을 수 없습니다.{N}로비로 이동하시겠습니까?"/>
+		<kor value="게임 중 로비로 나갈 경우{N}경험치와 펜, 아이템 숙련도(MP)를 얻을 수 없으며{N}{CB-255,0,0,255}20 초 간 해당 방에 재 입장 할 수 없습니다.{CB-255,255,255,255}{N}로비로 이동하시겠습니까?"/>
 		<ger value="Wenn du das Spiel jetztverlässt,{N}wird zur Strafe deine Itemdauer verkürzt{N}und du erhältst keine PEN, EXP und auch keine Mastery Points.{N}Möchtest du wirklich zurück zur Lobby?"/>
-		<eng value="If you leave the game now,{N}you will have the penatly for Item durability,{N}and Even no PEN, EXP, and Mastery Poiint is not given.{N}Will you move to Lobby now?"/>
+		<eng value="If you leave the game, you will not get{N}experience points, pens or MP and{N}you will not be able to re-enter the room for 20 seconds.{N}Are you sure you want to move to the lobby?"/>
 		<fre value="Si vous quittez le jeu maintenant,{N}vos objets subiront une pénalité de durabilité,{N}et vous ne recevrez pas de PEN, d'EXP et de Points de Maîtrise.{N}Voulez-vous vraiment retourner dans le lobby ?"/>
 		<spa value="Si abandonas el juego ahora,{N}recibirás un penalty en la durabilidad del ítem,{N}y no recibirás PEN, EXP o Mastery Points.{N}?Quieres ir al Lobby ahora?"/>
 		<ita value="Se ora lasci la partita,{N}la durata degli oggetti si riduce{N}e non ottieni PEN, EXP e punti Mastery.{N}Vuoi spostarti nella Lobby?"/>
@@ -10013,19 +10047,19 @@
 	</message>
 	<message key="EVENT_WHITEDAY_ITEM">
 		<kor value="달콤한 왕사탕을 받았습니다! 인벤토리에서 확인해보세요." />
-		<ger />
-		<eng />
-		<fre />
-		<spa />
-		<ita />
-		<rus />
-		<tur />
-		<ame />
-		<cns />
-		<tha />
-		<twn />
-		<jap />
-		<idn />
+		<ger value=""/>
+		<eng value=""/>
+		<fre value=""/>
+		<spa value=""/>
+		<ita value=""/>
+		<rus value=""/>
+		<tur value=""/>
+		<ame value=""/>
+		<cns value=""/>
+		<tha value=""/>
+		<twn value=""/>
+		<jap value=""/>
+		<idn value=""/>
 		<por value=""/>
 	</message>
 	<message key="IP_BAN_USER">
@@ -10037,46 +10071,46 @@
 		<ita value="Access denied - this version of S4L does not support the country you are trying to enter the game from." />
 		<rus value="Access denied - this version of S4L does not support the country you are trying to enter the game from." />
 		<tur value="Access denied - this version of S4L does not support the country you are trying to enter the game from." />
-		<ame />
-		<cns />
+		<ame value=""/>
+		<cns value=""/>
 		<tha value="You cannot play with your IP in your region."/>
-		<twn />
-		<jap />
-		<idn />
+		<twn value=""/>
+		<jap value=""/>
+		<idn value=""/>
 		<por value="Access denied - this version of S4L does not support the country you are trying to enter the game from."/>
 	</message>
 		<message key="EXP_USE">
 		<kor value="경험치 아이템 사용으로 인하여 서버 선택창으로 이동 됩니다."/>
-		<ger />
-		<eng />
-		<fre />
+		<ger value=""/>
+		<eng value=""/>
+		<fre value=""/>
 		<spa value="Serás movido a la pantalla de selección de servidor debido el uso de un item de experiencia." />
-		<ita />
-		<rus />
-		<tur />
-		<ame />
-		<cns />
+		<ita value=""/>
+		<rus value=""/>
+		<tur value=""/>
+		<ame value=""/>
+		<cns value=""/>
 		<tha value="คุณจะถูกย้ายไปยังหน้าเลือก Server เนื่องจากการใช้ Item."/>
-		<twn />
-		<jap />
-		<idn />
+		<twn value=""/>
+		<jap value=""/>
+		<idn value=""/>
 		<por value="Serás movido a la pantalla de selección de servidor debido el uso de un item de experiencia." />
 	</message>
 	<message key="FAIL_USE_ITEM">
 		<kor value="아이템 사용에 실패하였습니다."/>
-		<ger />
-		<eng />
-		<fre />
+		<ger value=""/>
+		<eng value=""/>
+		<fre value=""/>
 		<spa value="Has fallado al usar el ítem"/>
-		<ita />
-		<rus />
-		<tur />
-		<ame />
-		<cns />
+		<ita value=""/>
+		<rus value=""/>
+		<tur value=""/>
+		<ame value=""/>
+		<cns value=""/>
 		<tha value="ไม่สามารถใช้ไอเทมได้"/>
-		<twn />
-		<jap />
-		<idn />
+		<twn value=""/>
+		<jap value=""/>
+		<idn value=""/>
 		<por value="Has fallado al usar el ítem"/>
 	</message>
 	<message key="ASK_MISSION_RESET">
@@ -10085,15 +10119,15 @@
 		<eng value="Do you want to reset the mission?{N}To reset the mission, you need %d PEN."/>
 		<fre value="Voulez-vous recommencer la mission ?{N}Réinitialiser la mission vous coûtera %d PEN."/>
 		<spa value="Deseas iniciar la Misión? {N} Requerirá usar %d PEN para iniciar."/>
-		<ita />
-		<rus />
-		<ame />
+		<ita value=""/>
+		<rus value=""/>
+		<ame value=""/>
 		<tur value="Görevi sıfırlamak isteğine emin misin? Görevi yeniden başlatmak için{N}%d PEN'e ihtiyacın var."/>
-		<cns />
+		<cns value=""/>
 		<tha value="คุณต้องการเริ่ม Mission หรือไม่ ? {N}คุณต้องใช้ Pen จำนวน %d เพื่อเริ่มต้น"/>
-		<twn />
-		<jap />
-		<idn />
+		<twn value=""/>
+		<jap value=""/>
+		<idn value=""/>
 		<por value="Deseas iniciar la Misión? {N} Requerirá usar %d PEN para iniciar."/>
 	</message>
 	<message key="MISSION_RESET_FAIL">
@@ -10472,10 +10506,10 @@
 	</message>
 	<message key="QUICKMATCH_USER_INFO_SAVE_FILE_MESSAGE">
 		<kor value=" 퀵매치 정보를 저장 했습니다. " />
-		<ger value=" T^T "/>
-		<eng value=" T^T "/>
-		<fre value=" T^T "/>
-		<tur value=" T^T "/>
+		<ger value=" Quick-Match-Info gespeichert."/>
+		<eng value=" Quick Match Information has been saved."/>
+		<fre value=" Les informations de la partie rapide ont été sauvegardées."/>
+		<tur value=" Quick Match Bilgisi kaydedildi. "/>
 		<spa />
 		<ita />
 		<rus />
@@ -10488,10 +10522,10 @@
 	</message>
 	<message key="QUICKMATCH_USER_INFO_INITIALIZE_MESSAGE">
 		<kor value=" 퀵매치 정보를 초기화 했습니다. " />
-		<ger value=" T^T "/>
-		<eng value=" T^T "/>
-		<fre value=" T^T "/>
-		<tur value=" T^T "/>
+		<ger value=" Quick-Match-Info zurückgesetzt."/>
+		<eng value=" Quick Match Information has been reset."/>
+		<fre value=" Les informations de la partie rapide ont été réinitialisées."/>
+		<tur value=" Quick Match Bilgisi sıfırlandı."/>
 		<spa />
 		<ita />
 		<rus />
@@ -10502,12 +10536,12 @@
 		<jap />
 		<idn />
 	</message>
-	<message key="EXTRACTING_ENCHAT_USE_MESSAGE">
-		<kor value=" 사용한 장비의 인챈트를 추출하시겠습니까?{N}추출된 장비의 인챈트는 사라집니다. " />
-		<ger value=" T^T "/>
-		<eng value=" T^T "/>
-		<fre value=" T^T "/>
-		<tur value=" T^T "/>
+	<message key="EXTRACTING_ENCHAT_EXTRACTING_USE_MESSAGE">
+		<kor value=" 사용한 장비의 인챈트를 추출하시겠습니까?{N}{CB-255,0,0,255}추출된 장비의 인챈트는 사라집니다. " />
+		<ger value="Möchtest du die Verzauberung von {N}der Ausrüstung entfernen?{N}{CB-255,0,0,255}Die entfernte Verzauberung wird vom Item entfernt. "/>
+		<eng value="Extract the Enchant of the designated equipment?{N}{CB-255,0,0,255}The extracted Enchants will be removed from the item."/>
+		<fre value="Voulez-vous extraire l'enchantement de l'équipement actuel ?{N}{CB-255,0,0,255}L'enchantement extrait sera retiré de l'objet."/>
+		<tur value="Kullanılan ekipmanın Güçlendirmesini ayırmak istiyor musun?{N}{CB-255,0,0,255}Sökme işlemi sonunda kaynak eşyadaki efsunlar kalkacak. "/>
 		<spa />
 		<ita />
 		<rus />
@@ -10518,12 +10552,12 @@
 		<jap />
 		<idn />
 	</message>
-	<message key="EXTRACTING_ENCHAT_WARNING_MESSAGE">
-		<kor value=" <주의>{N}현재 장비에 적용된 인챈트는 사라집니다.{N}사용하시겠습니까? " />
-		<ger value=" T^T "/>
-		<eng value=" T^T "/>
-		<fre value=" T^T "/>
-		<tur value=" T^T "/>
+	<message key="EXTRACTING_ENCHAT_CHANGE_USE_MESSAGE">
+		<kor value=" 해당 장비의 인챈트를 변경하시겠습니까? " />
+		<ger value=" Möchtest du die Verzauberung für diese Ausrüstung ändern?"/>
+		<eng value=" Do you want to change the Enchant of the designated equipment?"/>
+		<fre value=" Voulez-vous changer l'enchantement de l'équipement utilisé ? "/>
+		<tur value=" Kullanılan ekipmanın Güçlendirmesini değiştirmek istiyor musun?"/>
 		<spa />
 		<ita />
 		<rus />
@@ -10536,10 +10570,10 @@
 	</message>
 	<message key="EXTRACTING_ENCHAT_COMPLETE_MESSAGE">
 		<kor value=" 인챈트 추출이 완료되었습니다. " />
-		<ger value=" T^T "/>
-		<eng value=" T^T "/>
-		<fre value=" T^T "/>
-		<tur value=" T^T "/>
+		<ger value=" Verzauberung erfolgreich entfernt."/>
+		<eng value=" Enchant extraction complete."/>
+		<fre value=" Extraction terminée."/>
+		<tur value=" Güçlendirme ayırma tamamlandı."/>
 		<spa />
 		<ita />
 		<rus />
@@ -10550,12 +10584,12 @@
 		<jap />
 		<idn />
 	</message>
-	<message key="EXTRACTING_ENCHAT_CHANGE_MESSAGE">
-		<kor value=" 인챈트 정보가 변경되었습니다. " />
-		<ger value=" T^T "/>
-		<eng value=" T^T "/>
-		<fre value=" T^T "/>
-		<tur value=" T^T "/>
+	<message key="EXTRACTING_ENCHAT_FAILED_MESSAGE">
+		<kor value="해당 아이템을 추출 할 수 없습니다. {N} {CB-255,255,0,255}인챈트 %d레벨 ~ %d레벨 추출 가능"/>
+		<ger value="Verzauberung kann von diesem Item nicht entfernt werden. {N} {CB-255,255,0,255}Nur Verzauberungen von Lv.%d – %d können entfernt werden."/>
+		<eng value="The Enchant cannot be extracted from this item. {N} {CB-255,255,0,255}Only Lv %d - Lv %d Enchants can be extracted."/>
+		<fre value="Extraction impossible.{N} {CB-255,255,0,255} Niv. %d - Niv. %d ne peuvent pas être extraits."/>
+		<tur value="Eşyada ayırma işlemi yapılamadı. {N} {CB-255,255,0,255}%d. Sv. ila %d. Sv. Güçlendirmeler ayrılabilir."/>
 		<spa />
 		<ita />
 		<rus />

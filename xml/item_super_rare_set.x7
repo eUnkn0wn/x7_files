@@ -32,4 +32,12 @@
 		<item id1="1021185" color1="4" id2="1031185" color2="4" id3="1041185" color3="0" id4="1051185" color4="4" id5="1061185" color5="4"/>
 		<sequence node1="Bip01 Spine2" file1="Resources\Effects\nb_black_eff.seq"/>
 	</list>
+	<list>
+		<item id1="1021223" color1="1" id2="1031223" color2="1" id3="1041223" color3="1" id4="1051223" color4="1" id5="1061223" color5="1" id6="1011223" color6="1"/>
+		<sequence node1="Bip01 Spine2" file1="Resources\Effects\114_super_rare_eff.seq"/>
+	</list>
+	<list>
+		<item id1="1021224" color1="1" id2="1031224" color2="1" id3="1041224" color3="1" id4="1051224" color4="1" id5="1061224" color5="1" id6="1001224" color6="1"/>
+		<sequence node1="Bip01 Spine2" file1="Resources\Effects\114_super_rare_eff.seq"/>
+	</list>
 </setlist>
