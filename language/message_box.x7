@@ -2688,14 +2688,14 @@
 	</message>
 	<message key="INGAME_IS_MOVE_LOBBY">
 		<kor value="게임 중 로비로 나갈 경우{N}경험치와 펜, 아이템 숙련도(MP)를 얻을 수 없으며{N}{CB-255,0,0,255}20 초 간 해당 방에 재 입장 할 수 없습니다.{CB-255,255,255,255}{N}로비로 이동하시겠습니까?"/>
-		<ger value="Wenn du das Spiel jetztverlässt,{N}wird zur Strafe deine Itemdauer verkürzt{N}und du erhältst keine PEN, EXP und auch keine Mastery Points.{N}Möchtest du wirklich zurück zur Lobby?"/>
-		<eng value="If you leave the game, you will not get{N}experience points, pens or MP and{N}you will not be able to re-enter the room for 20 seconds.{N}Are you sure you want to move to the lobby?"/>
-		<fre value="Si vous quittez le jeu maintenant,{N}vos objets subiront une pénalité de durabilité,{N}et vous ne recevrez pas de PEN, d'EXP et de Points de Maîtrise.{N}Voulez-vous vraiment retourner dans le lobby ?"/>
+		<ger value="Wenn du das Spiel verlässt, erhältst du keine {N} Erfahrungspunkte, PEN oder MP und {N}{CB-255,0,0,255}du kannst für 20 Sekunden diesen Raum nicht mehr betreten.{CB-255,255,255,255}{N} Bist du sicher, dass du zur Lobby zurückkehren willst?"/>
+		<eng value="If you leave the game, you will not get{N}experience points, pens or MP and{N}{CB-255,0,0,255}you will not be able to re-enter the room for 20 seconds.{CB-255,255,255,255}{N}Are you sure you want to move to the lobby?"/>
+		<fre value="Si vous quittez une partie en cours, vous n'obtiendrez pas {N} de points d'expérience, de pens ou de MP {N}{CB-255,0,0,255}et vous ne serez pas capable de retourner dans le même room avant 20 secondes d'attente.{CB-255,255,255,255}{N} Êtes-vous sûr de vouloir retourner dans le lobby ?"/>
 		<spa value="Si abandonas el juego ahora,{N}recibirás un penalty en la durabilidad del ítem,{N}y no recibirás PEN, EXP o Mastery Points.{N}?Quieres ir al Lobby ahora?"/>
 		<ita value="Se ora lasci la partita,{N}la durata degli oggetti si riduce{N}e non ottieni PEN, EXP e punti Mastery.{N}Vuoi spostarti nella Lobby?"/>
 		<rus value="Если вы выйдете сейчас,{N}экипированные вещи сохранят полученный износ,{N}а также вы не получите PEN, EXP и Mastery Point.{N}Желаете перейти в комнату ожидания?"/>
 		<ame/>
-		<tur value="Oyun devam ederken çıkarsan{N}eşyaların dayanıklılığı kısalacak{N}ve PEN, EXP ve MP de alınamayacak.{N}Lobiye geçmek istiyor musun?"/>
+		<tur value="Eğer oyundan şimdi ayrılırsan {N} tecrübe puanı, pen, ya da MP alamazsın {N}{CB-255,0,0,255}ve odaya yirmi saniye boyunca giremezsin.{CB-255,255,255,255}{N} Lobiye çıkmak istediğine emin misin?"/>
 		<cns/>
 		<tha value="ถ้าคุณออกจากเกมตอนนี้ ความทนทานอาวุธและสกิลของคุณจะลดลง{N}และคุณจะไม่ได้รับ EXP กับ PEN ที่ได้จากเกม{N}คุณต้องการออกไปยังห้องรอหรือไม่?"/>
 		<twn value="遊戲進行中若中途離場，會減少道具的耐久度，{N}且無法得到經驗值、P幣和道具熟練度(MP)。{N}您確定要回到大廳嗎?"/>
@@ -10569,11 +10569,11 @@
 		<idn />
 	</message>
 	<message key="EXTRACTING_ENCHAT_COMPLETE_MESSAGE">
-		<kor value=" 인챈트 추출이 완료되었습니다. " />
-		<ger value=" Verzauberung erfolgreich entfernt."/>
-		<eng value=" Enchant extraction complete."/>
-		<fre value=" Extraction terminée."/>
-		<tur value=" Güçlendirme ayırma tamamlandı."/>
+		<kor value=" 인챈트 추출이 완료되었습니다. {N} 인벤토리를 확인해보세요." />
+		<ger value="Verbesserungs-Extraktion erfolgreich! {N} Es befindet sich nun in deinem Inventar."/>
+		<eng value="Enchant extraction complete! {N} It is now in your inventory."/>
+		<fre value="Extraction de l'enchantement complète ! {N} Il est maintenant dans votre inventaire."/>
+		<tur value="Enchant koparma başarılı! {N} Çantanızda bulabilirsiniz."/>
 		<spa />
 		<ita />
 		<rus />
@@ -10590,6 +10590,102 @@
 		<eng value="The Enchant cannot be extracted from this item. {N} {CB-255,255,0,255}Only Lv %d - Lv %d Enchants can be extracted."/>
 		<fre value="Extraction impossible.{N} {CB-255,255,0,255} Niv. %d - Niv. %d ne peuvent pas être extraits."/>
 		<tur value="Eşyada ayırma işlemi yapılamadı. {N} {CB-255,255,0,255}%d. Sv. ila %d. Sv. Güçlendirmeler ayrılabilir."/>
+		<spa />
+		<ita />
+		<rus />
+		<ame />
+		<cns />
+		<tha />
+		<twn />
+		<jap />
+		<idn />
+	</message>
+		<message key="ENCHAT_EXTRACTING_FAIL">
+		<kor value="정상적인 접근이 아닙니다. {N} 다시 시도해주세요." />
+		<ger value="Extraktion fehlgeschlagen! {N} Bitte versuche es nochmal."/>
+		<eng value="Something went wrong. {N} Please try again."/>
+		<fre value="Erreur lors du process. {N} Veuillez tenter à nouveau."/>
+		<tur value="Bir şeyler yanlış gitti. {N} Lütfen tekrar deneyin."/>
+		<spa />
+		<ita />
+		<rus />
+		<ame />
+		<cns />
+		<tha />
+		<twn />
+		<jap />
+		<idn />
+	</message>
+		<message key="ENCHAT_CHANGE_FAIL">
+		<kor value="정상적인 접근이 아닙니다. {N} 다시 시도해주세요." />
+		<ger value="Extraktion fehlgeschlagen! {N} Bitte versuche es nochmal."/>
+		<eng value="Something went wrong. {N} Please try again."/>
+		<fre value="Erreur lors du process. {N} Veuillez tenter à nouveau."/>
+		<tur value="Bir şeyler yanlış gitti. {N} Lütfen tekrar deneyin."/>
+		<spa />
+		<ita />
+		<rus />
+		<ame />
+		<cns />
+		<tha />
+		<twn />
+		<jap />
+		<idn />
+	</message>
+		<message key="NETWORK_CONNECT_ERROR">
+		<kor value="네트워크 상태가 불안정합니다.  {N} 다시 시도해주세요." />
+		<ger />
+		<eng value="The network is unstable.{N}Please try again."/>
+		<fre />
+		<tur />
+		<spa />
+		<ita />
+		<rus />
+		<ame />
+		<cns />
+		<tha />
+		<twn />
+		<jap />
+		<idn />
+	</message>
+		<message key="CLUB_REQUEST_CANCEL">
+		<kor value="클럽 신청을 취소하였습니다." />
+		<ger />
+		<eng />
+		<fre />
+		<tur />
+		<spa />
+		<ita />
+		<rus />
+		<ame />
+		<cns />
+		<tha />
+		<twn />
+		<jap />
+		<idn />
+	</message>
+		<message key="CLUB_REQUEST_REFUSAL">
+		<kor value="클럽 신청이 거절당했습니다." />
+		<ger />
+		<eng />
+		<fre />
+		<tur />
+		<spa />
+		<ita />
+		<rus />
+		<ame />
+		<cns />
+		<tha />
+		<twn />
+		<jap />
+		<idn />
+	</message>
+		<message key="CLUB_COMPULSORY_LEAVING">
+		<kor value="클럽에서 강퇴당했습니다." />
+		<ger />
+		<eng />
+		<fre />
+		<tur />
 		<spa />
 		<ita />
 		<rus />

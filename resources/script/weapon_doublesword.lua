@@ -216,7 +216,7 @@ function StandardDoubleSwordAfterDash4(  OneShotTime, Power, Accuracy, Additiona
 	STATE:SetCameraShakeFactor2( 60, 0, 2000, 3000 );
 		
 	--[[ 현재 쌍검에서 사용할 소모 sp 설정 ]]--
-	STATE:SetSpendSp( 50 );							
+	STATE:SetSpendSp( 30 );							
 	
 	STATE:InitLua( "", "", 800, 1000, 40, false , 2000 );
 	
@@ -275,14 +275,14 @@ function StandardDoubleSwordAfterDash5(  OneShotTime, Power, Accuracy, Additiona
 	STATE:SetMoveBoxMultiplier( 2.0 );	
 	
 	--[[ 현재 상태로 들어갈수 있는 최소 sp 설정 ]]--
-	STATE:SetStateMinSp( 50 );
+	STATE:SetStateMinSp( 30 );
 	STATE:SetChargeTimer( true );
 	
 	STATE:InitLua( 40, 0, 2000, false, true, 4 );
 	STATE:InitLuaInputSecond( 2000, 0, 0, "R_Hand_Dummy", "L_Hand_Dummy" );
 	
-	-- 풀차지 후 유지시간 설정
-	STATE:SetFullChargeWaitDelay( 2000 );
+	-- 풀차지 후 유지시간 설정 (적용: 20170208 / 기존 2초에서 20초로 상향 밸런스 조정)
+	STATE:SetFullChargeWaitDelay( 20000 );
 end
 
 

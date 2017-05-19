@@ -3151,7 +3151,7 @@
 		<color_index/>
 	</item>
 	<item id="4031098">
-		<capsule_icon ID_1="4031163" ID_2="4030086" ID_3="4050004" ID_4="5000004" ID_5="5020003" ID_6="4035266" ID_7="4020037"/>
+		<capsule_icon ID_1="4031163" ID_2="4030086" ID_3="4050004" ID_4="5000004" ID_5="5020003" ID_6="4035266" ID_7="4020037" ID_8="5040006"/>
 		<capsule_slot/>
 		<capsule_info effect_key_1="LEVEL_REWARD_EFFECT_10000PEN" effect_key_6="LEVEL_REWARD_UNIQUE_UP_CAPSULE" effect_key_8="LEVEL_REWARD_UNIQUE_100"/>
 		<color_index/>
@@ -10639,7 +10639,7 @@
 		<color_index/>
 	</item>
 	<item id="4031082">
-		<capsule_icon ID_1="4031177" ID_2="4031179"/>
+		<capsule_icon ID_1="4031177" ID_2="4031179" ID_3="5040006"/>
 		<capsule_slot/>
 		<capsule_info effect_key_2="CAPSULE_PEN_REWARD_ROOKIE" effect_key_4="LEVEL_REWARD_UNIQUE_100"/>
 		<color_index/>
@@ -15906,90 +15906,6 @@
 		<capsule_info effect_key_1="CAPSULE_COS_SET_TYPE1" effect_key_2="CAPSULE_COUPON_2TO5" effect_key_3="CAPSULE_COS_SET_TYPE1" effect_key_4="CAPSULE_COS_SET_TYPE1" effect_key_5="CAPSULE_COS_SET_TYPE1" effect_key_6="CAPSULE_PEN_REWARD_NEW"/>
 		<color_index/>
 	</item>
-	<item id="4035468">
-		<capsule_icon ID_1="4052310" ID_2="6000001" ID_3="4052307" ID_4="4052308" ID_5="4052309" ID_6="4040003"/>
-		<capsule_slot slot_1="1" slot_2="1" slot_3="2" slot_4="2" slot_5="2" slot_6="3"/>
-		<capsule_info effect_key_1="CAPSULE_COS_SET_TYPE1" effect_key_2="CAPSULE_COUPON_2TO5" effect_key_3="CAPSULE_COS_SET_TYPE1" effect_key_4="CAPSULE_COS_SET_TYPE1" effect_key_5="CAPSULE_COS_SET_TYPE1" effect_key_6="CAPSULE_PEN_REWARD_NEW"/>
-		<color_index/>
-	</item>
-	<item id="4035469">
-		<capsule_icon ID_1="4052314" ID_2="6000001" ID_3="4052311" ID_4="4052312" ID_5="4052313" ID_6="4040003"/>
-		<capsule_slot slot_1="1" slot_2="1" slot_3="2" slot_4="2" slot_5="2" slot_6="3"/>
-		<capsule_info effect_key_1="CAPSULE_COS_SET_TYPE1" effect_key_2="CAPSULE_COUPON_2TO5" effect_key_3="CAPSULE_COS_SET_TYPE1" effect_key_4="CAPSULE_COS_SET_TYPE1" effect_key_5="CAPSULE_COS_SET_TYPE1" effect_key_6="CAPSULE_PEN_REWARD_NEW"/>
-		<color_index/>
-	</item>
-	<item id="4052307">
-		<capsule_icon ID_1="1001206" ID_2="1021206" ID_3="1031206" ID_4="1041206" ID_5="1051206"/>
-		<capsule_slot/>
-		<capsule_info/>
-		<color_index/>
-	</item>
-	<item id="4052308">
-		<capsule_icon ID_1="1001206" ID_2="1021206" ID_3="1031206" ID_4="1041206" ID_5="1051206"/>
-		<capsule_slot/>
-		<capsule_info/>
-		<color_index/>
-	</item>
-	<item id="4052309">
-		<capsule_icon ID_1="1001206" ID_2="1021206" ID_3="1031206" ID_4="1041206" ID_5="1051206"/>
-		<capsule_slot/>
-		<capsule_info/>
-		<color_index/>
-	</item>
-	<item id="4052310">
-		<capsule_icon ID_1="1001206" ID_2="1021206" ID_3="1031206" ID_4="1041206" ID_5="1051206"/>
-		<capsule_slot/>
-		<capsule_info/>
-		<color_index/>
-	</item>
-	<item id="4052311">
-		<capsule_icon ID_1="1001207" ID_2="1021207" ID_3="1031207" ID_4="1041207" ID_5="1051207"/>
-		<capsule_slot/>
-		<capsule_info/>
-		<color_index/>
-	</item>
-	<item id="4052312">
-		<capsule_icon ID_1="1001207" ID_2="1021207" ID_3="1031207" ID_4="1041207" ID_5="1051207"/>
-		<capsule_slot/>
-		<capsule_info/>
-		<color_index/>
-	</item>
-	<item id="4052313">
-		<capsule_icon ID_1="1001207" ID_2="1021207" ID_3="1031207" ID_4="1041207" ID_5="1051207"/>
-		<capsule_slot/>
-		<capsule_info/>
-		<color_index/>
-	</item>
-	<item id="4052314">
-		<capsule_icon ID_1="1001207" ID_2="1021207" ID_3="1031207" ID_4="1041207" ID_5="1051207"/>
-		<capsule_slot/>
-		<capsule_info/>
-		<color_index/>
-	</item>
-	<item id="4052315">
-		<capsule_icon ID_1="1001206" ID_2="1021206" ID_3="1031206" ID_4="1041206" ID_5="1051206"/>
-		<capsule_slot/>
-		<capsule_info/>
-		<color_index/>
-	</item>
-	<item id="4052316">
-		<capsule_icon ID_1="1001207" ID_2="1021207" ID_3="1031207" ID_4="1041207" ID_5="1051207"/>
-		<capsule_slot/>
-		<capsule_info/>
-		<color_index/>
-	</item>
-	<item id="4160143">
-		<capsule_icon ID_1="4052310" ID_2="6000001" ID_3="4052307" ID_4="4052308" ID_5="4052309" ID_6="4040003"/>
-		<capsule_slot/>
-		<capsule_info/>
-		<color_index/>
-	</item>
-	<item id="4160144">
-		<capsule_icon ID_1="4052314" ID_2="6000001" ID_3="4052311" ID_4="4052312" ID_5="4052313" ID_6="4040003"/>
-		<capsule_slot/>
-		<capsule_info/>
-		<color_index/>
-	</item>
 	<item id="4035470">
 		<capsule_icon ID_1="4052320" ID_2="6000001" ID_3="4052317" ID_4="4052318" ID_5="4052319" ID_6="4040003"/>
 		<capsule_slot slot_1="1" slot_2="1" slot_3="2" slot_4="2" slot_5="2" slot_6="3"/>
@@ -16546,7 +16462,7 @@
 		<capsule_icon ID_1="1021227" ID_2="1031227" ID_3="1041227" ID_4="1051227" ID_5="1061227" ID_6="1001227" ID_7="1011227"/>
 		<capsule_slot/>
 		<capsule_info effect_key_1="SET_TOP_EVENT_EU_PERMANENT" effect_key_2="SET_BOTTOM_EVENT_EU_PERMANENT" effect_key_3="SET_GLOVE_EVENT_EU_PERMANENT" effect_key_4="SET_SHOES_EVENT_EU_PERMANENT" effect_key_5="SET_ACC_EVENT_EU_PERMANENT" effect_key_6="SET_HAIR_EVENT_EU_PERMANENT" effect_key_7="SET_ACC_EVENT_EU_PERMANENT"/>
-		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1" color_6="1" color_7="1"/>
 	</item>
 	<item id="4052381">
 		<capsule_icon ID_1="1021228" ID_2="1031228" ID_3="1041228" ID_4="1051228" ID_5="1061228" ID_6="1001228" ID_7="1011228"/>
@@ -16570,7 +16486,7 @@
 		<capsule_icon ID_1="1021228" ID_2="1031228" ID_3="1041228" ID_4="1051228" ID_5="1061228" ID_6="1001228" ID_7="1011228"/>
 		<capsule_slot/>
 		<capsule_info effect_key_1="SET_TOP_EVENT_EU_PERMANENT" effect_key_2="SET_BOTTOM_EVENT_EU_PERMANENT" effect_key_3="SET_GLOVE_EVENT_EU_PERMANENT" effect_key_4="SET_SHOES_EVENT_EU_PERMANENT" effect_key_5="SET_ACC_EVENT_EU_PERMANENT" effect_key_6="SET_HAIR_EVENT_EU_PERMANENT" effect_key_7="SET_ACC_EVENT_EU_PERMANENT"/>
-		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1" color_6="1" color_7="1"/>
 	</item>
 	<item id="4035489">
 		<capsule_icon ID_1="2000078" ID_2="6000001" ID_3="2000010" ID_4="4040003"/>
@@ -16579,9 +16495,753 @@
 		<color_index/>
 	</item>
 	<item id="4030221">
-		<capsule_icon ID_1="1070079" ID_2="6000001" ID_3="1060020" ID_4="1060086" ID_5="1061037" ID_6="1061224" ID_7="3060001" ID_8="1070079" ID_9="4040003"/>
-		<capsule_slot slot_1="1" slot_2="1" slot_3="2" slot_4="2" slot_5="2" slot_6="2" slot_7="2" slot_8="2" slot_9="3"/>
-		<capsule_info effect_key_1="CAPSULE_ACC_SMARTPACK" effect_key_2="CAPSULE_COUPON_1" effect_key_3="CAPSULE_ACC_1DP" effect_key_4="CAPSULE_ACC_1DP" effect_key_5="CAPSULE_ACC_1DP" effect_key_6="CAPSULE_ACC_1DP" effect_key_7="CAPSULE_SKILL3" effect_key_8="CAPSULE_PET_1DP" effect_key_9="CAPSULE_PEN_REWARD_EVENT"/>
+		<capsule_icon ID_1="1070079" ID_2="6000001" ID_3="1061088" ID_4="1061074" ID_5="1061223" ID_6="1061173" ID_7="3060001" ID_8="4040003"/>
+		<capsule_slot slot_1="1" slot_2="1" slot_3="2" slot_4="2" slot_5="2" slot_6="2" slot_7="2" slot_8="3"/>
+		<capsule_info effect_key_1="CAPSULE_ACC_SMARTPACK" effect_key_2="CAPSULE_COUPON_1" effect_key_3="CAPSULE_ACC_1DP" effect_key_4="CAPSULE_ACC_1DP" effect_key_5="CAPSULE_ACC_1DP" effect_key_6="CAPSULE_ACC_1DP" effect_key_7="CAPSULE_SKILL3" effect_key_8="CAPSULE_PEN_REWARD_EVENT"/>
+		<color_index/>
+	</item>
+	<item id="4035490">
+		<capsule_icon ID_1="4052388" ID_2="6000001" ID_3="4052385" ID_4="4052386" ID_5="4052387" ID_6="4040003"/>
+		<capsule_slot slot_1="1" slot_2="1" slot_3="2" slot_4="2" slot_5="2" slot_6="3"/>
+		<capsule_info effect_key_1="CAPSULE_COUPON_2TO5" effect_key_2="CAPSULE_COUPON_2TO5" effect_key_3="CAPSULE_COUPON_2TO5" effect_key_4="CAPSULE_COUPON_2TO5" effect_key_5="CAPSULE_COUPON_2TO5" effect_key_6="CAPSULE_PEN_REWARD_NEW"/>
+		<color_index/>
+	</item>
+	<item id="4035491">
+		<capsule_icon ID_1="4052392" ID_2="6000001" ID_3="4052389" ID_4="4052390" ID_5="4052391" ID_6="4040003"/>
+		<capsule_slot slot_1="1" slot_2="1" slot_3="2" slot_4="2" slot_5="2" slot_6="3"/>
+		<capsule_info effect_key_1="CAPSULE_COUPON_2TO5" effect_key_2="CAPSULE_COUPON_2TO5" effect_key_3="CAPSULE_COUPON_2TO5" effect_key_4="CAPSULE_COUPON_2TO5" effect_key_5="CAPSULE_COUPON_2TO5" effect_key_6="CAPSULE_PEN_REWARD_NEW"/>
+		<color_index/>
+	</item>
+	<item id="4052385">
+		<capsule_icon ID_1="1021229" ID_2="1031229" ID_3="1041229" ID_4="1051229"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="SET_TOP_CASH_EU_1DAYS" effect_key_2="SET_BOTTOM_CASH_EU_1DAYS" effect_key_3="SET_GLOVE_CASH_EU_1DAYS" effect_key_4="SET_GLOVE_CASH_EU_1DAYS"/>
+		<color_index/>
+	</item>
+	<item id="4052386">
+		<capsule_icon ID_1="1021229" ID_2="1031229" ID_3="1041229" ID_4="1051229"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="SET_TOP_CASH_EU_7DAYS" effect_key_2="SET_BOTTOM_CASH_EU_7DAYS" effect_key_3="SET_GLOVE_CASH_EU_7DAYS" effect_key_4="SET_GLOVE_CASH_EU_7DAYS"/>
+		<color_index/>
+	</item>
+	<item id="4052387">
+		<capsule_icon ID_1="1021229" ID_2="1031229" ID_3="1041229" ID_4="1051229"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="SET_TOP_CASH_EU_30DAYS" effect_key_2="SET_BOTTOM_CASH_EU_30DAYS" effect_key_3="SET_GLOVE_CASH_EU_30DAYS" effect_key_4="SET_GLOVE_CASH_EU_30DAYS"/>
+		<color_index/>
+	</item>
+	<item id="4052388">
+		<capsule_icon ID_1="1021229" ID_2="1031229" ID_3="1041229" ID_4="1051229"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="SET_TOP_EVENT_EU_PERMANENT" effect_key_2="SET_BOTTOM_EVENT_EU_PERMANENT" effect_key_3="SET_GLOVE_EVENT_EU_PERMANENT" effect_key_4="SET_SHOES_EVENT_EU_PERMANENT"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1"/>
+	</item>
+	<item id="4052389">
+		<capsule_icon ID_1="1021230" ID_2="1031230" ID_3="1041230" ID_4="1051230"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="SET_TOP_CASH_EU_1DAYS" effect_key_2="SET_BOTTOM_CASH_EU_1DAYS" effect_key_3="SET_GLOVE_CASH_EU_1DAYS" effect_key_4="SET_GLOVE_CASH_EU_1DAYS"/>
+		<color_index/>
+	</item>
+	<item id="4052390">
+		<capsule_icon ID_1="1021230" ID_2="1031230" ID_3="1041230" ID_4="1051230"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="SET_TOP_CASH_EU_7DAYS" effect_key_2="SET_BOTTOM_CASH_EU_7DAYS" effect_key_3="SET_GLOVE_CASH_EU_7DAYS" effect_key_4="SET_GLOVE_CASH_EU_7DAYS"/>
+		<color_index/>
+	</item>
+	<item id="4052391">
+		<capsule_icon ID_1="1021230" ID_2="1031230" ID_3="1041230" ID_4="1051230"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="SET_TOP_CASH_EU_30DAYS" effect_key_2="SET_BOTTOM_CASH_EU_30DAYS" effect_key_3="SET_GLOVE_CASH_EU_30DAYS" effect_key_4="SET_GLOVE_CASH_EU_30DAYS"/>
+		<color_index/>
+	</item>
+	<item id="4052392">
+		<capsule_icon ID_1="1021230" ID_2="1031230" ID_3="1041230" ID_4="1051230"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="SET_TOP_EVENT_EU_PERMANENT" effect_key_2="SET_BOTTOM_EVENT_EU_PERMANENT" effect_key_3="SET_GLOVE_EVENT_EU_PERMANENT" effect_key_4="SET_SHOES_EVENT_EU_PERMANENT"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1"/>
+	</item>
+	<item id="4035492">
+		<capsule_icon ID_1="2010057" ID_2="6000001" ID_3="2010024" ID_4="4040003"/>
+		<capsule_slot slot_1="1" slot_2="1" slot_3="2" slot_4="3"/>
+		<capsule_info effect_key_1="CAPSULE_WEAPON_FORCEPACK" effect_key_2="CAPSULE_COUPON_2TO5" effect_key_3="CAPSULE_WEAPON_NORMAL" effect_key_4="CAPSULE_PEN_REWARD_NEW"/>
+		<color_index/>
+	</item>
+	<item id="4035498">
+		<capsule_icon ID_1="4052505" ID_2="2000080" ID_3="1070080"/>
+		<capsule_slot slot_1="1" slot_2="2" slot_3="3"/>
+		<capsule_info effect_key_1="SET_TYPE_FC_CP_1" effect_key_2="CAPSULE_WEAPON_FORCEPACK_1" effect_key_3="CAPSULE_ACC_SMARTPACK_5"/>
+		<color_index/>
+	</item>
+	<item id="4035499">
+		<capsule_icon ID_1="4052511" ID_2="2000080" ID_3="1070081"/>
+		<capsule_slot slot_1="1" slot_2="2" slot_3="3"/>
+		<capsule_info effect_key_1="SET_TYPE_FC_CP_1" effect_key_2="CAPSULE_WEAPON_FORCEPACK_1" effect_key_3="CAPSULE_ACC_SMARTPACK_5"/>
+		<color_index/>
+	</item>
+	<item id="4035500">
+		<capsule_icon ID_1="4052505" ID_2="4052506" ID_3="4052507" ID_4="4052508" ID_5="4052509" ID_6="4052510"/>
+		<capsule_slot slot_1="1" slot_2="1" slot_3="1" slot_4="1" slot_5="1" slot_6="1"/>
+		<capsule_info effect_key_1="SET_TYPE_FC_CP_1" effect_key_2="CAPSULE_COS_SET_TYPE1" effect_key_3="CAPSULE_COS_SET_TYPE1" effect_key_4="CAPSULE_COS_SET_TYPE2" effect_key_5="CAPSULE_COS_SET_TYPE1" effect_key_6="CAPSULE_COS_SET_TYPE1"/>
+		<color_index/>
+	</item>
+	<item id="4035501">
+		<capsule_icon ID_1="4052511" ID_2="4052512" ID_3="4052513" ID_4="4052514" ID_5="4052515" ID_6="4052516"/>
+		<capsule_slot slot_1="1" slot_2="1" slot_3="1" slot_4="1" slot_5="1" slot_6="1"/>
+		<capsule_info effect_key_1="SET_TYPE_FC_CP_1" effect_key_2="CAPSULE_COS_SET_TYPE1" effect_key_3="CAPSULE_COS_SET_TYPE1" effect_key_4="CAPSULE_COS_SET_TYPE2" effect_key_5="CAPSULE_COS_SET_TYPE2" effect_key_6="CAPSULE_COS_SET_TYPE1"/>
+		<color_index/>
+	</item>
+	<item id="4035502">
+		<capsule_icon ID_1="4052517" ID_2="4052518" ID_3="4052519" ID_4="4052520" ID_5="4052521" ID_6="4052522"/>
+		<capsule_slot slot_1="1" slot_2="1" slot_3="1" slot_4="1" slot_5="1" slot_6="1"/>
+		<capsule_info effect_key_1="SET_TYPE_FC_CP_1" effect_key_2="CAPSULE_COS_SET_TYPE1" effect_key_3="CAPSULE_COS_SET_TYPE1" effect_key_4="CAPSULE_COS_SET_TYPE2" effect_key_5="CAPSULE_COS_SET_TYPE1" effect_key_6="CAPSULE_COS_SET_TYPE1"/>
+		<color_index/>
+	</item>
+	<item id="4035503">
+		<capsule_icon ID_1="4052523" ID_2="4052524" ID_3="4052525" ID_4="4052526" ID_5="4052527" ID_6="4052528"/>
+		<capsule_slot slot_1="1" slot_2="1" slot_3="1" slot_4="1" slot_5="1" slot_6="1"/>
+		<capsule_info effect_key_1="SET_TYPE_FC_CP_1" effect_key_2="CAPSULE_COS_SET_TYPE1" effect_key_3="CAPSULE_COS_SET_TYPE1" effect_key_4="CAPSULE_COS_SET_TYPE2" effect_key_5="CAPSULE_COS_SET_TYPE2" effect_key_6="CAPSULE_COS_SET_TYPE1"/>
+		<color_index/>
+	</item>
+	<item id="4052409">
+		<capsule_icon ID_1="1001231" ID_2="1011231" ID_3="1021231" ID_4="1031231" ID_5="1041231" ID_6="1051231"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="HAIR_FC_CP_1_7" effect_key_2="ACC_FC_CP_1_7" effect_key_3="TOP_FC_CP_1_7" effect_key_4="BOTTOM_FC_CP_1_7" effect_key_5="GLOVE_FC_CP_1_7" effect_key_6="GLOVE_FC_CP_1_7"/>
+		<color_index/>
+	</item>
+	<item id="4052410">
+		<capsule_icon ID_1="1001231" ID_2="1011231" ID_3="1021231" ID_4="1031231" ID_5="1041231" ID_6="1051231"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="HAIR_FC_CP_1_15" effect_key_2="ACC_FC_CP_1_15" effect_key_3="TOP_FC_CP_1_15" effect_key_4="BOTTOM_FC_CP_1_15" effect_key_5="GLOVE_FC_CP_1_15" effect_key_6="GLOVE_FC_CP_1_15"/>
+		<color_index/>
+	</item>
+	<item id="4052411">
+		<capsule_icon ID_1="1001231" ID_2="1011231" ID_3="1021231" ID_4="1031231" ID_5="1041231" ID_6="1051231"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="HAIR_FC_CP_1_30" effect_key_2="ACC_FC_CP_1_30" effect_key_3="TOP_FC_CP_1_30" effect_key_4="BOTTOM_FC_CP_1_30" effect_key_5="GLOVE_FC_CP_1_30" effect_key_6="GLOVE_FC_CP_1_30"/>
+		<color_index/>
+	</item>
+	<item id="4052412">
+		<capsule_icon ID_1="1001231" ID_2="1011231" ID_3="1021231" ID_4="1031231" ID_5="1041231" ID_6="1051231"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="HAIR_FC_CP_1_PERMANENT" effect_key_2="ACC_FC_CP_1_PERMANENT" effect_key_3="TOP_FC_CP_1_PERMANENT" effect_key_4="BOTTOM_FC_CP_1_PERMANENT" effect_key_5="GLOVE_FC_CP_1_PERMANENT" effect_key_6="GLOVE_FC_CP_1_PERMANENT"/>
+		<color_index/>
+	</item>
+	<item id="4052413">
+		<capsule_icon ID_1="1021077" ID_2="1031077" ID_3="1041077" ID_4="1051077" ID_5="1001077"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_7" effect_key_2="BOTTOM_FC_CP_1_7" effect_key_3="GLOVE_FC_CP_1_7" effect_key_4="GLOVE_FC_CP_1_7" effect_key_5="HAIR_FC_CP_1_7"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052414">
+		<capsule_icon ID_1="1021077" ID_2="1031077" ID_3="1041077" ID_4="1051077" ID_5="1001077"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_15" effect_key_2="BOTTOM_FC_CP_1_15" effect_key_3="GLOVE_FC_CP_1_15" effect_key_4="GLOVE_FC_CP_1_15" effect_key_5="HAIR_FC_CP_1_15"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052415">
+		<capsule_icon ID_1="1021077" ID_2="1031077" ID_3="1041077" ID_4="1051077" ID_5="1001077"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_30" effect_key_2="BOTTOM_FC_CP_1_30" effect_key_3="GLOVE_FC_CP_1_30" effect_key_4="GLOVE_FC_CP_1_30" effect_key_5="HAIR_FC_CP_1_30"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052416">
+		<capsule_icon ID_1="1021077" ID_2="1031077" ID_3="1041077" ID_4="1051077" ID_5="1001077"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_PERMANENT" effect_key_2="BOTTOM_FC_CP_1_PERMANENT" effect_key_3="GLOVE_FC_CP_1_PERMANENT" effect_key_4="GLOVE_FC_CP_1_PERMANENT" effect_key_5="HAIR_FC_CP_1_PERMANENT"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052417">
+		<capsule_icon ID_1="1021204" ID_2="1031204" ID_3="1041204" ID_4="1051204" ID_5="1001204"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_7" effect_key_2="BOTTOM_FC_CP_1_7" effect_key_3="GLOVE_FC_CP_1_7" effect_key_4="GLOVE_FC_CP_1_7" effect_key_5="HAIR_FC_CP_1_7"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052418">
+		<capsule_icon ID_1="1021204" ID_2="1031204" ID_3="1041204" ID_4="1051204" ID_5="1001204"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_15" effect_key_2="BOTTOM_FC_CP_1_15" effect_key_3="GLOVE_FC_CP_1_15" effect_key_4="GLOVE_FC_CP_1_15" effect_key_5="HAIR_FC_CP_1_15"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052419">
+		<capsule_icon ID_1="1021204" ID_2="1031204" ID_3="1041204" ID_4="1051204" ID_5="1001204"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_30" effect_key_2="BOTTOM_FC_CP_1_30" effect_key_3="GLOVE_FC_CP_1_30" effect_key_4="GLOVE_FC_CP_1_30" effect_key_5="HAIR_FC_CP_1_30"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052420">
+		<capsule_icon ID_1="1021204" ID_2="1031204" ID_3="1041204" ID_4="1051204" ID_5="1001204"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_PERMANENT" effect_key_2="BOTTOM_FC_CP_1_PERMANENT" effect_key_3="GLOVE_FC_CP_1_PERMANENT" effect_key_4="GLOVE_FC_CP_1_PERMANENT" effect_key_5="HAIR_FC_CP_1_PERMANENT"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052421">
+		<capsule_icon ID_1="1021132" ID_2="1031132" ID_3="1041132" ID_4="1051132" ID_5="1061132"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_7" effect_key_2="BOTTOM_FC_CP_1_7" effect_key_3="GLOVE_FC_CP_1_7" effect_key_4="GLOVE_FC_CP_1_7" effect_key_5="ACC_FC_CP_1_7"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052422">
+		<capsule_icon ID_1="1021132" ID_2="1031132" ID_3="1041132" ID_4="1051132" ID_5="1061132"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_15" effect_key_2="BOTTOM_FC_CP_1_15" effect_key_3="GLOVE_FC_CP_1_15" effect_key_4="GLOVE_FC_CP_1_15" effect_key_5="ACC_FC_CP_1_15"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052423">
+		<capsule_icon ID_1="1021132" ID_2="1031132" ID_3="1041132" ID_4="1051132" ID_5="1061132"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_30" effect_key_2="BOTTOM_FC_CP_1_30" effect_key_3="GLOVE_FC_CP_1_30" effect_key_4="GLOVE_FC_CP_1_30" effect_key_5="ACC_FC_CP_1_30"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052424">
+		<capsule_icon ID_1="1021132" ID_2="1031132" ID_3="1041132" ID_4="1051132" ID_5="1061132"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_PERMANENT" effect_key_2="BOTTOM_FC_CP_1_PERMANENT" effect_key_3="GLOVE_FC_CP_1_PERMANENT" effect_key_4="GLOVE_FC_CP_1_PERMANENT" effect_key_5="ACC_FC_CP_1_PERMANENT"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052425">
+		<capsule_icon ID_1="1021083" ID_2="1031083" ID_3="1041083" ID_4="1051083" ID_5="1001083"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_7" effect_key_2="BOTTOM_FC_CP_1_7" effect_key_3="GLOVE_FC_CP_1_7" effect_key_4="GLOVE_FC_CP_1_7" effect_key_5="HAIR_FC_CP_1_7"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052426">
+		<capsule_icon ID_1="1021083" ID_2="1031083" ID_3="1041083" ID_4="1051083" ID_5="1001083"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_15" effect_key_2="BOTTOM_FC_CP_1_15" effect_key_3="GLOVE_FC_CP_1_15" effect_key_4="GLOVE_FC_CP_1_15" effect_key_5="HAIR_FC_CP_1_15"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052427">
+		<capsule_icon ID_1="1021083" ID_2="1031083" ID_3="1041083" ID_4="1051083" ID_5="1001083"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_30" effect_key_2="BOTTOM_FC_CP_1_30" effect_key_3="GLOVE_FC_CP_1_30" effect_key_4="GLOVE_FC_CP_1_30" effect_key_5="HAIR_FC_CP_1_30"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052428">
+		<capsule_icon ID_1="1021083" ID_2="1031083" ID_3="1041083" ID_4="1051083" ID_5="1001083"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_PERMANENT" effect_key_2="BOTTOM_FC_CP_1_PERMANENT" effect_key_3="GLOVE_FC_CP_1_PERMANENT" effect_key_4="GLOVE_FC_CP_1_PERMANENT" effect_key_5="HAIR_FC_CP_1_PERMANENT"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052429">
+		<capsule_icon ID_1="1021110" ID_2="1031110" ID_3="1041110" ID_4="1051110" ID_5="1001110"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_7" effect_key_2="BOTTOM_FC_CP_1_7" effect_key_3="GLOVE_FC_CP_1_7" effect_key_4="GLOVE_FC_CP_1_7" effect_key_5="HAIR_FC_CP_1_7"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052430">
+		<capsule_icon ID_1="1021110" ID_2="1031110" ID_3="1041110" ID_4="1051110" ID_5="1001110"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_15" effect_key_2="BOTTOM_FC_CP_1_15" effect_key_3="GLOVE_FC_CP_1_15" effect_key_4="GLOVE_FC_CP_1_15" effect_key_5="HAIR_FC_CP_1_15"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052431">
+		<capsule_icon ID_1="1021110" ID_2="1031110" ID_3="1041110" ID_4="1051110" ID_5="1001110"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_30" effect_key_2="BOTTOM_FC_CP_1_30" effect_key_3="GLOVE_FC_CP_1_30" effect_key_4="GLOVE_FC_CP_1_30" effect_key_5="HAIR_FC_CP_1_30"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052432">
+		<capsule_icon ID_1="1021110" ID_2="1031110" ID_3="1041110" ID_4="1051110" ID_5="1001110"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_PERMANENT" effect_key_2="BOTTOM_FC_CP_1_PERMANENT" effect_key_3="GLOVE_FC_CP_1_PERMANENT" effect_key_4="GLOVE_FC_CP_1_PERMANENT" effect_key_5="HAIR_FC_CP_1_PERMANENT"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052433">
+		<capsule_icon ID_1="1001232" ID_2="1011232" ID_3="1021232" ID_4="1031232" ID_5="1041232" ID_6="1051232"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="HAIR_FC_CP_1_7" effect_key_2="ACC_FC_CP_1_7" effect_key_3="TOP_FC_CP_1_7" effect_key_4="BOTTOM_FC_CP_1_7" effect_key_5="GLOVE_FC_CP_1_7" effect_key_6="GLOVE_FC_CP_1_7"/>
+		<color_index/>
+	</item>
+	<item id="4052434">
+		<capsule_icon ID_1="1001232" ID_2="1011232" ID_3="1021232" ID_4="1031232" ID_5="1041232" ID_6="1051232"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="HAIR_FC_CP_1_15" effect_key_2="ACC_FC_CP_1_15" effect_key_3="TOP_FC_CP_1_15" effect_key_4="BOTTOM_FC_CP_1_15" effect_key_5="GLOVE_FC_CP_1_15" effect_key_6="GLOVE_FC_CP_1_15"/>
+		<color_index/>
+	</item>
+	<item id="4052435">
+		<capsule_icon ID_1="1001232" ID_2="1011232" ID_3="1021232" ID_4="1031232" ID_5="1041232" ID_6="1051232"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="HAIR_FC_CP_1_30" effect_key_2="ACC_FC_CP_1_30" effect_key_3="TOP_FC_CP_1_30" effect_key_4="BOTTOM_FC_CP_1_30" effect_key_5="GLOVE_FC_CP_1_30" effect_key_6="GLOVE_FC_CP_1_30"/>
+		<color_index/>
+	</item>
+	<item id="4052436">
+		<capsule_icon ID_1="1001232" ID_2="1011232" ID_3="1021232" ID_4="1031232" ID_5="1041232" ID_6="1051232"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="HAIR_FC_CP_1_PERMANENT" effect_key_2="ACC_FC_CP_1_PERMANENT" effect_key_3="TOP_FC_CP_1_PERMANENT" effect_key_4="BOTTOM_FC_CP_1_PERMANENT" effect_key_5="GLOVE_FC_CP_1_PERMANENT" effect_key_6="GLOVE_FC_CP_1_PERMANENT"/>
+		<color_index/>
+	</item>
+	<item id="4052437">
+		<capsule_icon ID_1="1021078" ID_2="1031078" ID_3="1041078" ID_4="1051078" ID_5="1001078"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_7" effect_key_2="BOTTOM_FC_CP_1_7" effect_key_3="GLOVE_FC_CP_1_7" effect_key_4="GLOVE_FC_CP_1_7" effect_key_5="HAIR_FC_CP_1_7"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052438">
+		<capsule_icon ID_1="1021078" ID_2="1031078" ID_3="1041078" ID_4="1051078" ID_5="1001078"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_15" effect_key_2="BOTTOM_FC_CP_1_15" effect_key_3="GLOVE_FC_CP_1_15" effect_key_4="GLOVE_FC_CP_1_15" effect_key_5="HAIR_FC_CP_1_15"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052439">
+		<capsule_icon ID_1="1021078" ID_2="1031078" ID_3="1041078" ID_4="1051078" ID_5="1001078"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_30" effect_key_2="BOTTOM_FC_CP_1_30" effect_key_3="GLOVE_FC_CP_1_30" effect_key_4="GLOVE_FC_CP_1_30" effect_key_5="HAIR_FC_CP_1_30"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052440">
+		<capsule_icon ID_1="1021078" ID_2="1031078" ID_3="1041078" ID_4="1051078" ID_5="1001078"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_PERMANENT" effect_key_2="BOTTOM_FC_CP_1_PERMANENT" effect_key_3="GLOVE_FC_CP_1_PERMANENT" effect_key_4="GLOVE_FC_CP_1_PERMANENT" effect_key_5="HAIR_FC_CP_1_PERMANENT"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052441">
+		<capsule_icon ID_1="1021205" ID_2="1031205" ID_3="1041205" ID_4="1051205" ID_5="1001205"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_7" effect_key_2="BOTTOM_FC_CP_1_7" effect_key_3="GLOVE_FC_CP_1_7" effect_key_4="GLOVE_FC_CP_1_7" effect_key_5="HAIR_FC_CP_1_7"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052442">
+		<capsule_icon ID_1="1021205" ID_2="1031205" ID_3="1041205" ID_4="1051205" ID_5="1001205"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_15" effect_key_2="BOTTOM_FC_CP_1_15" effect_key_3="GLOVE_FC_CP_1_15" effect_key_4="GLOVE_FC_CP_1_15" effect_key_5="HAIR_FC_CP_1_15"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052443">
+		<capsule_icon ID_1="1021205" ID_2="1031205" ID_3="1041205" ID_4="1051205" ID_5="1001205"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_30" effect_key_2="BOTTOM_FC_CP_1_30" effect_key_3="GLOVE_FC_CP_1_30" effect_key_4="GLOVE_FC_CP_1_30" effect_key_5="HAIR_FC_CP_1_30"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052444">
+		<capsule_icon ID_1="1021205" ID_2="1031205" ID_3="1041205" ID_4="1051205" ID_5="1001205"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_PERMANENT" effect_key_2="BOTTOM_FC_CP_1_PERMANENT" effect_key_3="GLOVE_FC_CP_1_PERMANENT" effect_key_4="GLOVE_FC_CP_1_PERMANENT" effect_key_5="HAIR_FC_CP_1_PERMANENT"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052445">
+		<capsule_icon ID_1="1021133" ID_2="1031133" ID_3="1041133" ID_4="1051133" ID_5="1061133"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_7" effect_key_2="BOTTOM_FC_CP_1_7" effect_key_3="GLOVE_FC_CP_1_7" effect_key_4="GLOVE_FC_CP_1_7" effect_key_5="ACC_FC_CP_1_7"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052446">
+		<capsule_icon ID_1="1021133" ID_2="1031133" ID_3="1041133" ID_4="1051133" ID_5="1061133"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_15" effect_key_2="BOTTOM_FC_CP_1_15" effect_key_3="GLOVE_FC_CP_1_15" effect_key_4="GLOVE_FC_CP_1_15" effect_key_5="ACC_FC_CP_1_15"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052447">
+		<capsule_icon ID_1="1021133" ID_2="1031133" ID_3="1041133" ID_4="1051133" ID_5="1061133"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_30" effect_key_2="BOTTOM_FC_CP_1_30" effect_key_3="GLOVE_FC_CP_1_30" effect_key_4="GLOVE_FC_CP_1_30" effect_key_5="ACC_FC_CP_1_30"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052448">
+		<capsule_icon ID_1="1021133" ID_2="1031133" ID_3="1041133" ID_4="1051133" ID_5="1061133"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_PERMANENT" effect_key_2="BOTTOM_FC_CP_1_PERMANENT" effect_key_3="GLOVE_FC_CP_1_PERMANENT" effect_key_4="GLOVE_FC_CP_1_PERMANENT" effect_key_5="ACC_FC_CP_1_PERMANENT"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052449">
+		<capsule_icon ID_1="1021084" ID_2="1031084" ID_3="1041084" ID_4="1051084" ID_5="1061087"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_7" effect_key_2="BOTTOM_FC_CP_1_7" effect_key_3="GLOVE_FC_CP_1_7" effect_key_4="GLOVE_FC_CP_1_7" effect_key_5="ACC_FC_CP_1_7"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052450">
+		<capsule_icon ID_1="1021084" ID_2="1031084" ID_3="1041084" ID_4="1051084" ID_5="1061087"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_15" effect_key_2="BOTTOM_FC_CP_1_15" effect_key_3="GLOVE_FC_CP_1_15" effect_key_4="GLOVE_FC_CP_1_15" effect_key_5="ACC_FC_CP_1_15"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052451">
+		<capsule_icon ID_1="1021084" ID_2="1031084" ID_3="1041084" ID_4="1051084" ID_5="1061087"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_30" effect_key_2="BOTTOM_FC_CP_1_30" effect_key_3="GLOVE_FC_CP_1_30" effect_key_4="GLOVE_FC_CP_1_30" effect_key_5="ACC_FC_CP_1_30"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052452">
+		<capsule_icon ID_1="1021084" ID_2="1031084" ID_3="1041084" ID_4="1051084" ID_5="1061087"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_PERMANENT" effect_key_2="BOTTOM_FC_CP_1_PERMANENT" effect_key_3="GLOVE_FC_CP_1_PERMANENT" effect_key_4="GLOVE_FC_CP_1_PERMANENT" effect_key_5="ACC_FC_CP_1_PERMANENT"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052453">
+		<capsule_icon ID_1="1021111" ID_2="1031111" ID_3="1041111" ID_4="1051111" ID_5="1001111"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_7" effect_key_2="BOTTOM_FC_CP_1_7" effect_key_3="GLOVE_FC_CP_1_7" effect_key_4="GLOVE_FC_CP_1_7" effect_key_5="HAIR_FC_CP_1_7"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052454">
+		<capsule_icon ID_1="1021111" ID_2="1031111" ID_3="1041111" ID_4="1051111" ID_5="1001111"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_15" effect_key_2="BOTTOM_FC_CP_1_15" effect_key_3="GLOVE_FC_CP_1_15" effect_key_4="GLOVE_FC_CP_1_15" effect_key_5="HAIR_FC_CP_1_15"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052455">
+		<capsule_icon ID_1="1021111" ID_2="1031111" ID_3="1041111" ID_4="1051111" ID_5="1001111"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_30" effect_key_2="BOTTOM_FC_CP_1_30" effect_key_3="GLOVE_FC_CP_1_30" effect_key_4="GLOVE_FC_CP_1_30" effect_key_5="HAIR_FC_CP_1_30"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052456">
+		<capsule_icon ID_1="1021111" ID_2="1031111" ID_3="1041111" ID_4="1051111" ID_5="1001111"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_FC_CP_1_PERMANENT" effect_key_2="BOTTOM_FC_CP_1_PERMANENT" effect_key_3="GLOVE_FC_CP_1_PERMANENT" effect_key_4="GLOVE_FC_CP_1_PERMANENT" effect_key_5="HAIR_FC_CP_1_PERMANENT"/>
+		<color_index color_1="1" color_2="1" color_3="1" color_4="1" color_5="1"/>
+	</item>
+	<item id="4052457">
+		<capsule_icon ID_1="1001231" ID_2="1011231" ID_3="1021231" ID_4="1031231" ID_5="1041231" ID_6="1051231"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="HAIR_PEN_CP_1_7" effect_key_2="ACC_PEN_CP_1_7" effect_key_3="TOP_PEN_CP_1_7" effect_key_4="BOTTOM_PEN_CP_1_7" effect_key_5="GLOVE_PEN_CP_1_7" effect_key_6="GLOVE_PEN_CP_1_7"/>
+		<color_index/>
+	</item>
+	<item id="4052458">
+		<capsule_icon ID_1="1001231" ID_2="1011231" ID_3="1021231" ID_4="1031231" ID_5="1041231" ID_6="1051231"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="HAIR_PEN_CP_1_15" effect_key_2="ACC_PEN_CP_1_15" effect_key_3="TOP_PEN_CP_1_15" effect_key_4="BOTTOM_PEN_CP_1_15" effect_key_5="GLOVE_PEN_CP_1_15" effect_key_6="GLOVE_PEN_CP_1_15"/>
+		<color_index/>
+	</item>
+	<item id="4052459">
+		<capsule_icon ID_1="1001231" ID_2="1011231" ID_3="1021231" ID_4="1031231" ID_5="1041231" ID_6="1051231"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="HAIR_PEN_CP_1_30" effect_key_2="ACC_PEN_CP_1_30" effect_key_3="TOP_PEN_CP_1_30" effect_key_4="BOTTOM_PEN_CP_1_30" effect_key_5="GLOVE_PEN_CP_1_30" effect_key_6="GLOVE_PEN_CP_1_30"/>
+		<color_index/>
+	</item>
+	<item id="4052460">
+		<capsule_icon ID_1="1001231" ID_2="1011231" ID_3="1021231" ID_4="1031231" ID_5="1041231" ID_6="1051231"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="HAIR_PEN_CP_1_PERMANENT" effect_key_2="ACC_PEN_CP_1_PERMANENT" effect_key_3="TOP_PEN_CP_1_PERMANENT" effect_key_4="BOTTOM_PEN_CP_1_PERMANENT" effect_key_5="GLOVE_PEN_CP_1_PERMANENT" effect_key_6="GLOVE_PEN_CP_1_PERMANENT"/>
+		<color_index/>
+	</item>
+	<item id="4052461">
+		<capsule_icon ID_1="1021077" ID_2="1031077" ID_3="1041077" ID_4="1051077" ID_5="1001077"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_7" effect_key_2="BOTTOM_PEN_CP_1_7" effect_key_3="GLOVE_PEN_CP_1_7" effect_key_4="GLOVE_PEN_CP_1_7" effect_key_5="HAIR_PEN_CP_1_7"/>
+		<color_index/>
+	</item>
+	<item id="4052462">
+		<capsule_icon ID_1="1021077" ID_2="1031077" ID_3="1041077" ID_4="1051077" ID_5="1001077"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_15" effect_key_2="BOTTOM_PEN_CP_1_15" effect_key_3="GLOVE_PEN_CP_1_15" effect_key_4="GLOVE_PEN_CP_1_15" effect_key_5="HAIR_PEN_CP_1_15"/>
+		<color_index/>
+	</item>
+	<item id="4052463">
+		<capsule_icon ID_1="1021077" ID_2="1031077" ID_3="1041077" ID_4="1051077" ID_5="1001077"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_30" effect_key_2="BOTTOM_PEN_CP_1_30" effect_key_3="GLOVE_PEN_CP_1_30" effect_key_4="GLOVE_PEN_CP_1_30" effect_key_5="HAIR_PEN_CP_1_30"/>
+		<color_index/>
+	</item>
+	<item id="4052464">
+		<capsule_icon ID_1="1021077" ID_2="1031077" ID_3="1041077" ID_4="1051077" ID_5="1001077"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_PERMANENT" effect_key_2="BOTTOM_PEN_CP_1_PERMANENT" effect_key_3="GLOVE_PEN_CP_1_PERMANENT" effect_key_4="GLOVE_PEN_CP_1_PERMANENT" effect_key_5="HAIR_PEN_CP_1_PERMANENT"/>
+		<color_index/>
+	</item>
+	<item id="4052465">
+		<capsule_icon ID_1="1021204" ID_2="1031204" ID_3="1041204" ID_4="1051204" ID_5="1001204"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_7" effect_key_2="BOTTOM_PEN_CP_1_7" effect_key_3="GLOVE_PEN_CP_1_7" effect_key_4="GLOVE_PEN_CP_1_7" effect_key_5="HAIR_PEN_CP_1_7"/>
+		<color_index/>
+	</item>
+	<item id="4052466">
+		<capsule_icon ID_1="1021204" ID_2="1031204" ID_3="1041204" ID_4="1051204" ID_5="1001204"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_15" effect_key_2="BOTTOM_PEN_CP_1_15" effect_key_3="GLOVE_PEN_CP_1_15" effect_key_4="GLOVE_PEN_CP_1_15" effect_key_5="HAIR_PEN_CP_1_15"/>
+		<color_index/>
+	</item>
+	<item id="4052467">
+		<capsule_icon ID_1="1021204" ID_2="1031204" ID_3="1041204" ID_4="1051204" ID_5="1001204"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_30" effect_key_2="BOTTOM_PEN_CP_1_30" effect_key_3="GLOVE_PEN_CP_1_30" effect_key_4="GLOVE_PEN_CP_1_30" effect_key_5="HAIR_PEN_CP_1_30"/>
+		<color_index/>
+	</item>
+	<item id="4052468">
+		<capsule_icon ID_1="1021204" ID_2="1031204" ID_3="1041204" ID_4="1051204" ID_5="1001204"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_PERMANENT" effect_key_2="BOTTOM_PEN_CP_1_PERMANENT" effect_key_3="GLOVE_PEN_CP_1_PERMANENT" effect_key_4="GLOVE_PEN_CP_1_PERMANENT" effect_key_5="HAIR_PEN_CP_1_PERMANENT"/>
+		<color_index/>
+	</item>
+	<item id="4052469">
+		<capsule_icon ID_1="1021132" ID_2="1031132" ID_3="1041132" ID_4="1051132" ID_5="1061132"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_7" effect_key_2="BOTTOM_PEN_CP_1_7" effect_key_3="GLOVE_PEN_CP_1_7" effect_key_4="GLOVE_PEN_CP_1_7" effect_key_5="ACC_PEN_CP_1_7"/>
+		<color_index/>
+	</item>
+	<item id="4052470">
+		<capsule_icon ID_1="1021132" ID_2="1031132" ID_3="1041132" ID_4="1051132" ID_5="1061132"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_15" effect_key_2="BOTTOM_PEN_CP_1_15" effect_key_3="GLOVE_PEN_CP_1_15" effect_key_4="GLOVE_PEN_CP_1_15" effect_key_5="ACC_PEN_CP_1_15"/>
+		<color_index/>
+	</item>
+	<item id="4052471">
+		<capsule_icon ID_1="1021132" ID_2="1031132" ID_3="1041132" ID_4="1051132" ID_5="1061132"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_30" effect_key_2="BOTTOM_PEN_CP_1_30" effect_key_3="GLOVE_PEN_CP_1_30" effect_key_4="GLOVE_PEN_CP_1_30" effect_key_5="ACC_PEN_CP_1_30"/>
+		<color_index/>
+	</item>
+	<item id="4052472">
+		<capsule_icon ID_1="1021132" ID_2="1031132" ID_3="1041132" ID_4="1051132" ID_5="1061132"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_PERMANENT" effect_key_2="BOTTOM_PEN_CP_1_PERMANENT" effect_key_3="GLOVE_PEN_CP_1_PERMANENT" effect_key_4="GLOVE_PEN_CP_1_PERMANENT" effect_key_5="ACC_PEN_CP_1_PERMANENT"/>
+		<color_index/>
+	</item>
+	<item id="4052473">
+		<capsule_icon ID_1="1021083" ID_2="1031083" ID_3="1041083" ID_4="1051083" ID_5="1001083"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_7" effect_key_2="BOTTOM_PEN_CP_1_7" effect_key_3="GLOVE_PEN_CP_1_7" effect_key_4="GLOVE_PEN_CP_1_7" effect_key_5="HAIR_PEN_CP_1_7"/>
+		<color_index/>
+	</item>
+	<item id="4052474">
+		<capsule_icon ID_1="1021083" ID_2="1031083" ID_3="1041083" ID_4="1051083" ID_5="1001083"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_15" effect_key_2="BOTTOM_PEN_CP_1_15" effect_key_3="GLOVE_PEN_CP_1_15" effect_key_4="GLOVE_PEN_CP_1_15" effect_key_5="HAIR_PEN_CP_1_15"/>
+		<color_index/>
+	</item>
+	<item id="4052475">
+		<capsule_icon ID_1="1021083" ID_2="1031083" ID_3="1041083" ID_4="1051083" ID_5="1001083"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_30" effect_key_2="BOTTOM_PEN_CP_1_30" effect_key_3="GLOVE_PEN_CP_1_30" effect_key_4="GLOVE_PEN_CP_1_30" effect_key_5="HAIR_PEN_CP_1_30"/>
+		<color_index/>
+	</item>
+	<item id="4052476">
+		<capsule_icon ID_1="1021083" ID_2="1031083" ID_3="1041083" ID_4="1051083" ID_5="1001083"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_PERMANENT" effect_key_2="BOTTOM_PEN_CP_1_PERMANENT" effect_key_3="GLOVE_PEN_CP_1_PERMANENT" effect_key_4="GLOVE_PEN_CP_1_PERMANENT" effect_key_5="HAIR_PEN_CP_1_PERMANENT"/>
+		<color_index/>
+	</item>
+	<item id="4052477">
+		<capsule_icon ID_1="1021110" ID_2="1031110" ID_3="1041110" ID_4="1051110" ID_5="1001110"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_7" effect_key_2="BOTTOM_PEN_CP_1_7" effect_key_3="GLOVE_PEN_CP_1_7" effect_key_4="GLOVE_PEN_CP_1_7" effect_key_5="HAIR_PEN_CP_1_7"/>
+		<color_index/>
+	</item>
+	<item id="4052478">
+		<capsule_icon ID_1="1021110" ID_2="1031110" ID_3="1041110" ID_4="1051110" ID_5="1001110"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_15" effect_key_2="BOTTOM_PEN_CP_1_15" effect_key_3="GLOVE_PEN_CP_1_15" effect_key_4="GLOVE_PEN_CP_1_15" effect_key_5="HAIR_PEN_CP_1_15"/>
+		<color_index/>
+	</item>
+	<item id="4052479">
+		<capsule_icon ID_1="1021110" ID_2="1031110" ID_3="1041110" ID_4="1051110" ID_5="1001110"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_30" effect_key_2="BOTTOM_PEN_CP_1_30" effect_key_3="GLOVE_PEN_CP_1_30" effect_key_4="GLOVE_PEN_CP_1_30" effect_key_5="HAIR_PEN_CP_1_30"/>
+		<color_index/>
+	</item>
+	<item id="4052480">
+		<capsule_icon ID_1="1021110" ID_2="1031110" ID_3="1041110" ID_4="1051110" ID_5="1001110"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_PERMANENT" effect_key_2="BOTTOM_PEN_CP_1_PERMANENT" effect_key_3="GLOVE_PEN_CP_1_PERMANENT" effect_key_4="GLOVE_PEN_CP_1_PERMANENT" effect_key_5="HAIR_PEN_CP_1_PERMANENT"/>
+		<color_index/>
+	</item>
+	<item id="4052481">
+		<capsule_icon ID_1="1001232" ID_2="1011232" ID_3="1021232" ID_4="1031232" ID_5="1041232" ID_6="1051232"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="HAIR_PEN_CP_1_7" effect_key_2="ACC_PEN_CP_1_7" effect_key_3="TOP_PEN_CP_1_7" effect_key_4="BOTTOM_PEN_CP_1_7" effect_key_5="GLOVE_PEN_CP_1_7" effect_key_6="GLOVE_PEN_CP_1_7"/>
+		<color_index/>
+	</item>
+	<item id="4052482">
+		<capsule_icon ID_1="1001232" ID_2="1011232" ID_3="1021232" ID_4="1031232" ID_5="1041232" ID_6="1051232"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="HAIR_PEN_CP_1_15" effect_key_2="ACC_PEN_CP_1_15" effect_key_3="TOP_PEN_CP_1_15" effect_key_4="BOTTOM_PEN_CP_1_15" effect_key_5="GLOVE_PEN_CP_1_15" effect_key_6="GLOVE_PEN_CP_1_15"/>
+		<color_index/>
+	</item>
+	<item id="4052483">
+		<capsule_icon ID_1="1001232" ID_2="1011232" ID_3="1021232" ID_4="1031232" ID_5="1041232" ID_6="1051232"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="HAIR_PEN_CP_1_30" effect_key_2="ACC_PEN_CP_1_30" effect_key_3="TOP_PEN_CP_1_30" effect_key_4="BOTTOM_PEN_CP_1_30" effect_key_5="GLOVE_PEN_CP_1_30" effect_key_6="GLOVE_PEN_CP_1_30"/>
+		<color_index/>
+	</item>
+	<item id="4052484">
+		<capsule_icon ID_1="1001232" ID_2="1011232" ID_3="1021232" ID_4="1031232" ID_5="1041232" ID_6="1051232"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="HAIR_PEN_CP_1_PERMANENT" effect_key_2="ACC_PEN_CP_1_PERMANENT" effect_key_3="TOP_PEN_CP_1_PERMANENT" effect_key_4="BOTTOM_PEN_CP_1_PERMANENT" effect_key_5="GLOVE_PEN_CP_1_PERMANENT" effect_key_6="GLOVE_PEN_CP_1_PERMANENT"/>
+		<color_index/>
+	</item>
+	<item id="4052485">
+		<capsule_icon ID_1="1021078" ID_2="1031078" ID_3="1041078" ID_4="1051078" ID_5="1001078"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_7" effect_key_2="BOTTOM_PEN_CP_1_7" effect_key_3="GLOVE_PEN_CP_1_7" effect_key_4="GLOVE_PEN_CP_1_7" effect_key_5="HAIR_PEN_CP_1_7"/>
+		<color_index/>
+	</item>
+	<item id="4052486">
+		<capsule_icon ID_1="1021078" ID_2="1031078" ID_3="1041078" ID_4="1051078" ID_5="1001078"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_15" effect_key_2="BOTTOM_PEN_CP_1_15" effect_key_3="GLOVE_PEN_CP_1_15" effect_key_4="GLOVE_PEN_CP_1_15" effect_key_5="HAIR_PEN_CP_1_15"/>
+		<color_index/>
+	</item>
+	<item id="4052487">
+		<capsule_icon ID_1="1021078" ID_2="1031078" ID_3="1041078" ID_4="1051078" ID_5="1001078"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_30" effect_key_2="BOTTOM_PEN_CP_1_30" effect_key_3="GLOVE_PEN_CP_1_30" effect_key_4="GLOVE_PEN_CP_1_30" effect_key_5="HAIR_PEN_CP_1_30"/>
+		<color_index/>
+	</item>
+	<item id="4052488">
+		<capsule_icon ID_1="1021078" ID_2="1031078" ID_3="1041078" ID_4="1051078" ID_5="1001078"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_PERMANENT" effect_key_2="BOTTOM_PEN_CP_1_PERMANENT" effect_key_3="GLOVE_PEN_CP_1_PERMANENT" effect_key_4="GLOVE_PEN_CP_1_PERMANENT" effect_key_5="HAIR_PEN_CP_1_PERMANENT"/>
+		<color_index/>
+	</item>
+	<item id="4052489">
+		<capsule_icon ID_1="1021205" ID_2="1031205" ID_3="1041205" ID_4="1051205" ID_5="1001205"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_7" effect_key_2="BOTTOM_PEN_CP_1_7" effect_key_3="GLOVE_PEN_CP_1_7" effect_key_4="GLOVE_PEN_CP_1_7" effect_key_5="HAIR_PEN_CP_1_7"/>
+		<color_index/>
+	</item>
+	<item id="4052490">
+		<capsule_icon ID_1="1021205" ID_2="1031205" ID_3="1041205" ID_4="1051205" ID_5="1001205"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_15" effect_key_2="BOTTOM_PEN_CP_1_15" effect_key_3="GLOVE_PEN_CP_1_15" effect_key_4="GLOVE_PEN_CP_1_15" effect_key_5="HAIR_PEN_CP_1_15"/>
+		<color_index/>
+	</item>
+	<item id="4052491">
+		<capsule_icon ID_1="1021205" ID_2="1031205" ID_3="1041205" ID_4="1051205" ID_5="1001205"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_30" effect_key_2="BOTTOM_PEN_CP_1_30" effect_key_3="GLOVE_PEN_CP_1_30" effect_key_4="GLOVE_PEN_CP_1_30" effect_key_5="HAIR_PEN_CP_1_30"/>
+		<color_index/>
+	</item>
+	<item id="4052492">
+		<capsule_icon ID_1="1021205" ID_2="1031205" ID_3="1041205" ID_4="1051205" ID_5="1001205"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_PERMANENT" effect_key_2="BOTTOM_PEN_CP_1_PERMANENT" effect_key_3="GLOVE_PEN_CP_1_PERMANENT" effect_key_4="GLOVE_PEN_CP_1_PERMANENT" effect_key_5="HAIR_PEN_CP_1_PERMANENT"/>
+		<color_index/>
+	</item>
+	<item id="4052493">
+		<capsule_icon ID_1="1021133" ID_2="1031133" ID_3="1041133" ID_4="1051133" ID_5="1061133"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_7" effect_key_2="BOTTOM_PEN_CP_1_7" effect_key_3="GLOVE_PEN_CP_1_7" effect_key_4="GLOVE_PEN_CP_1_7" effect_key_5="ACC_PEN_CP_1_7"/>
+		<color_index/>
+	</item>
+	<item id="4052494">
+		<capsule_icon ID_1="1021133" ID_2="1031133" ID_3="1041133" ID_4="1051133" ID_5="1061133"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_15" effect_key_2="BOTTOM_PEN_CP_1_15" effect_key_3="GLOVE_PEN_CP_1_15" effect_key_4="GLOVE_PEN_CP_1_15" effect_key_5="ACC_PEN_CP_1_15"/>
+		<color_index/>
+	</item>
+	<item id="4052495">
+		<capsule_icon ID_1="1021133" ID_2="1031133" ID_3="1041133" ID_4="1051133" ID_5="1061133"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_30" effect_key_2="BOTTOM_PEN_CP_1_30" effect_key_3="GLOVE_PEN_CP_1_30" effect_key_4="GLOVE_PEN_CP_1_30" effect_key_5="ACC_PEN_CP_1_30"/>
+		<color_index/>
+	</item>
+	<item id="4052496">
+		<capsule_icon ID_1="1021133" ID_2="1031133" ID_3="1041133" ID_4="1051133" ID_5="1061133"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_PERMANENT" effect_key_2="BOTTOM_PEN_CP_1_PERMANENT" effect_key_3="GLOVE_PEN_CP_1_PERMANENT" effect_key_4="GLOVE_PEN_CP_1_PERMANENT" effect_key_5="ACC_PEN_CP_1_PERMANENT"/>
+		<color_index/>
+	</item>
+	<item id="4052497">
+		<capsule_icon ID_1="1021084" ID_2="1031084" ID_3="1041084" ID_4="1051084" ID_5="1061087"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_7" effect_key_2="BOTTOM_PEN_CP_1_7" effect_key_3="GLOVE_PEN_CP_1_7" effect_key_4="GLOVE_PEN_CP_1_7" effect_key_5="ACC_PEN_CP_1_7"/>
+		<color_index/>
+	</item>
+	<item id="4052498">
+		<capsule_icon ID_1="1021084" ID_2="1031084" ID_3="1041084" ID_4="1051084" ID_5="1061087"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_15" effect_key_2="BOTTOM_PEN_CP_1_15" effect_key_3="GLOVE_PEN_CP_1_15" effect_key_4="GLOVE_PEN_CP_1_15" effect_key_5="ACC_PEN_CP_1_15"/>
+		<color_index/>
+	</item>
+	<item id="4052499">
+		<capsule_icon ID_1="1021084" ID_2="1031084" ID_3="1041084" ID_4="1051084" ID_5="1061087"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_30" effect_key_2="BOTTOM_PEN_CP_1_30" effect_key_3="GLOVE_PEN_CP_1_30" effect_key_4="GLOVE_PEN_CP_1_30" effect_key_5="ACC_PEN_CP_1_30"/>
+		<color_index/>
+	</item>
+	<item id="4052500">
+		<capsule_icon ID_1="1021084" ID_2="1031084" ID_3="1041084" ID_4="1051084" ID_5="1061087"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_PERMANENT" effect_key_2="BOTTOM_PEN_CP_1_PERMANENT" effect_key_3="GLOVE_PEN_CP_1_PERMANENT" effect_key_4="GLOVE_PEN_CP_1_PERMANENT" effect_key_5="ACC_PEN_CP_1_PERMANENT"/>
+		<color_index/>
+	</item>
+	<item id="4052501">
+		<capsule_icon ID_1="1021111" ID_2="1031111" ID_3="1041111" ID_4="1051111" ID_5="1001111"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_7" effect_key_2="BOTTOM_PEN_CP_1_7" effect_key_3="GLOVE_PEN_CP_1_7" effect_key_4="GLOVE_PEN_CP_1_7" effect_key_5="HAIR_PEN_CP_1_7"/>
+		<color_index/>
+	</item>
+	<item id="4052502">
+		<capsule_icon ID_1="1021111" ID_2="1031111" ID_3="1041111" ID_4="1051111" ID_5="1001111"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_15" effect_key_2="BOTTOM_PEN_CP_1_15" effect_key_3="GLOVE_PEN_CP_1_15" effect_key_4="GLOVE_PEN_CP_1_15" effect_key_5="HAIR_PEN_CP_1_15"/>
+		<color_index/>
+	</item>
+	<item id="4052503">
+		<capsule_icon ID_1="1021111" ID_2="1031111" ID_3="1041111" ID_4="1051111" ID_5="1001111"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_30" effect_key_2="BOTTOM_PEN_CP_1_30" effect_key_3="GLOVE_PEN_CP_1_30" effect_key_4="GLOVE_PEN_CP_1_30" effect_key_5="HAIR_PEN_CP_1_30"/>
+		<color_index/>
+	</item>
+	<item id="4052504">
+		<capsule_icon ID_1="1021111" ID_2="1031111" ID_3="1041111" ID_4="1051111" ID_5="1001111"/>
+		<capsule_slot/>
+		<capsule_info effect_key_1="TOP_PEN_CP_1_PERMANENT" effect_key_2="BOTTOM_PEN_CP_1_PERMANENT" effect_key_3="GLOVE_PEN_CP_1_PERMANENT" effect_key_4="GLOVE_PEN_CP_1_PERMANENT" effect_key_5="HAIR_PEN_CP_1_PERMANENT"/>
+		<color_index/>
+	</item>
+	<item id="4035495">
+		<capsule_icon/>
+		<capsule_slot/>
+		<capsule_info/>
+		<color_index/>
+	</item>
+	<item id="4035496">
+		<capsule_icon/>
+		<capsule_slot/>
+		<capsule_info/>
+		<color_index/>
+	</item>
+	<item id="4052401">
+		<capsule_icon/>
+		<capsule_slot/>
+		<capsule_info/>
+		<color_index/>
+	</item>
+	<item id="4052402">
+		<capsule_icon/>
+		<capsule_slot/>
+		<capsule_info/>
+		<color_index/>
+	</item>
+	<item id="4052403">
+		<capsule_icon/>
+		<capsule_slot/>
+		<capsule_info/>
+		<color_index/>
+	</item>
+	<item id="4052404">
+		<capsule_icon/>
+		<capsule_slot/>
+		<capsule_info/>
+		<color_index/>
+	</item>
+	<item id="4052405">
+		<capsule_icon/>
+		<capsule_slot/>
+		<capsule_info/>
+		<color_index/>
+	</item>
+	<item id="4052406">
+		<capsule_icon/>
+		<capsule_slot/>
+		<capsule_info/>
+		<color_index/>
+	</item>
+	<item id="4052407">
+		<capsule_icon/>
+		<capsule_slot/>
+		<capsule_info/>
+		<color_index/>
+	</item>
+	<item id="4052408">
+		<capsule_icon/>
+		<capsule_slot/>
+		<capsule_info/>
+		<color_index/>
+	</item>
+	<item id="4035497">
+		<capsule_icon/>
+		<capsule_slot/>
+		<capsule_info/>
 		<color_index/>
 	</item>
 </Item_tooltip_addcapsule>

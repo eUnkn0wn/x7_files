@@ -17855,7 +17855,7 @@
 		<ger value="Kein Verzauberungsverlauf"/>
 		<eng value="No Enchant History"/>
 		<fre value="Aucun historique d'enchantement"/>
-		<spa value=""/>
+		<spa value="No hay historial de enchant"/>
 		<ita value=""/>
 		<rus value=""/>
 		<ame value=""/>
@@ -17865,6 +17865,143 @@
 		<twn value=""/>
 		<jap value=""/>
 		<idn value=""/>
-		<por value=""/>
+		<por value="Não existe histórico de encantamentos"/>
+	</string>
+	<!-- 인챈트 변경후 텍스트 폰트 형식--->
+	<string key="1097">  
+		<kor value="{W}{F-2002_10}"/>
+		<ger value="{W}{F-2002_10}"/>
+		<eng value="{W}{F-2002_10}"/>
+		<fre value="{W}{F-2002_10}"/>
+		<spa value="{W}{F-2002_10}"/>
+		<ita value="{W}{F-2002_10}"/>
+		<rus value="{W}{F-2002_10}"/>
+		<ame value="{W}{F-2002_10}"/>
+		<tur value="{W}{F-2002_10}"/>
+		<cns value="{W}{F-2002_10}"/>
+		<tha value="{W}{F-2002_10}"/>
+		<twn value="{W}{F-2002_10}"/>
+		<jap value="{W}{F-2002_10}"/>
+		<idn value="{W}{F-2002_10}"/>
+		<por value="{W}{F-2002_10}"/>
+	</string>
+	<string key="1098">
+		<kor/>
+		<ger/>
+		<eng/>
+		<fre/>
+		<spa/>
+		<ita/>
+		<rus/>
+		<ame/>
+		<tur/>
+		<cns value="{F-2002_12}{A-L}{CS-0,0,0,255}{CB-255,255,0,255} 您已累计在线 %d小时。为了您的健康，请合理安排游戏时间，连续在线时间超过3小时，游戏收益将减半。"/>
+		<tha/>
+		<twn/>
+		<jap/>
+		<idn/>
+		<por/>
+	</string>
+	<string key="1099">
+		<kor/>
+		<ger/>
+		<eng/>
+		<fre/>
+		<spa/>
+		<ita/>
+		<rus/>
+		<ame/>
+		<tur/>
+		<cns value="{F-2002_12}{A-L}{CS-0,0,0,255}{CB-255,255,0,255} 您已累计在线%d小时。为了您的健康，请您立即下线休息。如不下线，您的身体将受到损害，您的收益已减半，直到您的下线时间累计满5小时后，才能恢复正常。"/>
+		<tha/>
+		<twn/>
+		<jap/>
+		<idn/>
+		<por/>
+	</string>
+	<string key="1100">
+		<kor/>
+		<ger/>
+		<eng/>
+		<fre/>
+		<spa/>
+		<ita/>
+		<rus/>
+		<ame/>
+		<tur/>
+		<cns value="{F-2002_12}{A-L}{CS-0,0,0,255}{CB-255,255,0,255} 您已累计在线%d小时。为了您的健康，请您立即下线休息。如不下线，您的身体将受到损害，您的收益已降为0，直到您的下线时间累计满5小时后，才能恢复正常。"/>
+		<tha/>
+		<twn/>
+		<jap/>
+		<idn/>
+		<por/>
+	</string>
+	<string key="1101">
+		<kor value="To %s : "/>
+		<ger value="To %s : "/>
+		<eng value="To %s : "/>
+		<fre value="To %s : "/>
+		<spa value="To %s : "/>
+		<ita value="To %s : "/>
+		<rus value="To %s : "/>
+		<ame value="To %s : "/>
+		<tur value="To %s : "/>
+		<cns value="对 %s"/>
+		<tha value="To %s : "/>
+		<twn value="To %s : "/>
+		<jap value="To %s : "/>
+		<idn value="To %s : "/>
+		<por value="To %s : "/>
+	</string>
+	<string key="1102">
+		<kor value="To"/>
+		<ger value="To"/>
+		<eng value="To"/>
+		<fre value="To"/>
+		<spa value="To"/>
+		<ita value="To"/>
+		<rus value="To"/>
+		<ame value="To"/>
+		<tur value="To"/>
+		<cns value="对"/>
+		<tha value="To"/>
+		<twn value="To"/>
+		<jap value="To"/>
+		<idn value="To"/>
+		<por value="To"/>
+	</string>
+	<string key="1103">
+		<kor value="Time"/>
+		<ger value="Time"/>
+		<eng value="Time"/>
+		<fre value="Time"/>
+		<spa value="Time"/>
+		<ita value="Time"/>
+		<rus value="Time"/>
+		<ame value="Time"/>
+		<tur value="Time"/>
+		<cns value="时间"/>
+		<tha value="Time"/>
+		<twn value="Time"/>
+		<jap value="Time"/>
+		<idn value="Time"/>
+		<por value="Time"/>
+	</string>
+	<string key="1104">
+		<kor value="Target"/>
+		<ger value="Target"/>
+		<eng value="Target"/>
+		<fre value="Target"/>
+		<spa value="Target"/>
+		<ita value="Target"/>
+		<rus value="Target"/>
+		<ame value="Target"/>
+		<tur value="Target"/>
+		<cns value="机器人数量"/>
+		<tha value="Target"/>
+		<twn value="Target"/>
+		<jap value="Target"/>
+		<idn value="Target"/>
+		<por value="Target"/>
 	</string>
 </string_table>

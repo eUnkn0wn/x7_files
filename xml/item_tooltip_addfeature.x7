@@ -808,4 +808,12 @@
 		<feature_icon feature_icon_1="feature_approach.tga" feature_icon_2="feature_blow.tga"/>
 		<feature_info feature_comment_key_1="FEAT_APPROCH" feature_comment_key_2="FEAT_BLOW"/>
 	</item>
+	<item id="2010057">
+		<feature_icon feature_icon_1="feature_ratefire.tga"/>
+		<feature_info feature_comment_key_1="FEAT_RATEFIRE"/>
+	</item>
+	<item id="2000079">
+		<feature_icon feature_icon_1="feature_approach.tga" feature_icon_2="feature_blow.tga"/>
+		<feature_info feature_comment_key_1="FEAT_APPROCH" feature_comment_key_2="FEAT_BLOW"/>
+	</item>
 </Item_tooltip_addfeature>

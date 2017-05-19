@@ -2500,7 +2500,7 @@
 	</scenario_list>
 	<scenario_list key="5000204">
 		<kor name="윈터 스피릿 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}얼어 붙은 호수 위에서 아름답게 춤추는 윈터 픽시를 보고 사랑에 빠진 남자가 있다.{N}그녀와 함께 호수 위에서 아름다운 춤을 출 수 있기를 꿈꾸지만{N}사람들의 박수 소리와 함께 사라지는 그녀를 멀리서 바라만 볼 뿐이다.{N}언제나 윈터 픽시를 따라다니는 그를 사람들은 윈터 스피릿이라 불렀다."/>
-		<ger name="Winter Spirit Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Ein Mann verliebte sich in die auf dem See tanzende Pixie.{N}Er träumte immer davon, mit ihr zu tanzen, tat es aber nie.{N}Er schaute aus der Ferne zu, als die Leute ihr applaudierten.{N}Die Fans der Pixie nennen diesen rätselhaften Mann Winter Spirit."/>
+		<ger name="Winter Spirit Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Ein Mann verliebte sich in die auf dem See tanzende Pixie.{N}Er träumte immer davon, mit ihr zu tanzen, tat es aber nie.{N}Er schaute aus der Ferne zu, als die Leute ihr applaudierten.{N}Die Fans der Pixie nennen diesen rätselhaften Mann Winter Spirit."/>
 		<eng name="Winter Spirit Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}There is a man who fell in love with Pixie dancing on the frozen lake.{N}He always dreamt of dancing with her but never did.{N}He watched from afar and disappeared as people gave her a round of applause.{N}The fans of the Winter Pixie called this enigmatic man the Winter Spirit."/> 
 		<fre name="Winter Spirit Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Il existe un homme fou d'amour pour la Pixie dansante du lac gelé.{N}Il rêvait de danser avec elle mais n'osa jamais s'approcher.{N}Il se contentait de regarder de loin et disparut dans la foule de curieux.{N}Les fans de Pixie appelèrent cet homme mystérieux Winter Spirit."/>
 		<spa name=""/>
@@ -2514,7 +2514,7 @@
 	</scenario_list>
 	<scenario_list key="5000205">
         <kor name="윈터 스피릿 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}얼어 붙은 호수 위에서 아름답게 춤추는 윈터 픽시를 보고 사랑에 빠진 남자가 있다.{N}그녀와 함께 호수 위에서 아름다운 춤을 출 수 있기를 꿈꾸지만{N}사람들의 박수 소리와 함께 사라지는 그녀를 멀리서 바라만 볼 뿐이다.{N}언제나 윈터 픽시를 따라다니는 그를 사람들은 윈터 스피릿이라 불렀다."/>
-		<ger name="Winter Spirit Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Ein Mann verliebte sich in die auf dem See tanzende Pixie.{N}Er träumte immer davon, mit ihr zu tanzen, tat es aber nie.{N}Er schaute aus der Ferne zu, als die Leute ihr applaudierten.{N}Die Fans der Pixie nennen diesen rätselhaften Mann Winter Spirit."/>
+		<ger name="Winter Spirit Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Ein Mann verliebte sich in die auf dem See tanzende Pixie.{N}Er träumte immer davon, mit ihr zu tanzen, tat es aber nie.{N}Er schaute aus der Ferne zu, als die Leute ihr applaudierten.{N}Die Fans der Pixie nennen diesen rätselhaften Mann Winter Spirit."/>
 		<eng name="Winter Spirit Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}There is a man who fell in love with Pixie dancing on the frozen lake.{N}He always dreamt of dancing with her but never did.{N}He watched from afar and disappeared as people gave her a round of applause.{N}The fans of the Winter Pixie called this enigmatic man the Winter Spirit."/>
 		<fre name="Winter Spirit Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Il existe un homme fou d'amour pour la Pixie dansante du lac gelé.{N}Il rêvait de danser avec elle mais n'osa jamais s'approcher.{N}Il se contentait de regarder de loin et disparut dans la foule de curieux.{N}Les fans de Pixie appelèrent cet homme mystérieux Winter Spirit."/>
 		<spa name=""/>
@@ -2528,7 +2528,7 @@
 	</scenario_list>	
 	<scenario_list key="5000206">
 		<kor name="윈터 픽시 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}차디찬 냉기가 호수에 흩날려 얼어 붙으면 그녀가 나타난다.{N}그녀는 스케이트를 타고 호수위에서 아름다운 춤을 선보이며 보는 이에게 감동을 선사한다.{N}음악과 함께 그녀의 춤이 끝나면, 수줍은 미소와 함께 어디론가 사라진다.{N}넷 스피어의 겨울에만 볼수 있는 그녀를 사람들은 윈터  픽시라 부른다."/>
-		<ger name="Winter Pixie Normal" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Sobald der Winter die Seen mit einer Eisfläche überzieht, erscheint sie.{N}Sie gleitet über den See und verzaubert alle mit ihrem wunderschönen tanz.{N}Sobald die Musik erlischt, verschwindet sie mit einem Lächeln.{N}Ihr Name ist Winter Pixie und sie kann nur während des Winters in der{N}Netsphere gefunden werden."/>
+		<ger name="Winter Pixie Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Sobald der Winter die Seen mit einer Eisfläche überzieht, erscheint sie.{N}Sie gleitet über den See und verzaubert alle mit ihrem wunderschönen tanz.{N}Sobald die Musik erlischt, verschwindet sie mit einem Lächeln.{N}Ihr Name ist Winter Pixie und sie kann nur während des Winters in der{N}Netsphere gefunden werden."/>
 		<eng name="Winter Pixie Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}When the cold freezes the lake, she appears.{N}She skates on the lake and impresses with her beautiful dance.{N}As soon as the music is over, she disappears with a shy smile.{N}She is called the Winter Pixie as she can only be seen in the Netsphere{N}during winter."/>
 		<fre name="Winter Pixie Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Quand le froid hivernal gèle les lacs, elle apparaît.{N}Elle patine sur la glace et émerveille avec sa dance envoûtante.{N}Dès que la musique s'interrompt, elle disparaît derrière un sourire timide.{N}Elle s'appele Winter Pixie et ne peut être aperçue que dans la Netsphère{N}pendant l'hiver."/>
 		<spa name=""/>
@@ -2542,12 +2542,124 @@
 	</scenario_list>
 	<scenario_list key="5000207">
 		<kor name="윈터 픽시 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}차디찬 냉기가 호수에 흩날려 얼어 붙으면 그녀가 나타난다.{N}그녀는 스케이트를 타고 호수위에서 아름다운 춤을 선보이며 보는 이에게 감동을 선사한다.{N}음악과 함께 그녀의 춤이 끝나면, 수줍은 미소와 함께 어디론가 사라진다.{N}넷 스피어의 겨울에만 볼수 있는 그녀를 사람들은 윈터  픽시라 부른다."/>
-		<ger name="Winter Pixie Unique" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}Sobald der Winter die Seen mit einer Eisfläche überzieht, erscheint sie.{N}Sie gleitet über den See und verzaubert alle mit ihrem wunderschönen tanz.{N}Sobald die Musik erlischt, verschwindet sie mit einem Lächeln.{N}Ihr Name ist Winter Pixie und sie kann nur während des Winters in der{N}Netsphere gefunden werden."/>
+		<ger name="Winter Pixie Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Sobald der Winter die Seen mit einer Eisfläche überzieht, erscheint sie.{N}Sie gleitet über den See und verzaubert alle mit ihrem wunderschönen tanz.{N}Sobald die Musik erlischt, verschwindet sie mit einem Lächeln.{N}Ihr Name ist Winter Pixie und sie kann nur während des Winters in der{N}Netsphere gefunden werden."/>
 		<eng name="Winter Pixie Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}When the cold freezes the lake, she appears.{N}She skates on the lake and impresses with her beautiful dance.{N}As soon as the music is over, she disappears with a shy smile.{N}She is called the Winter Pixie as she can only be seen in the Netsphere{N}during winter."/>
 		<fre name="Winter Pixie Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Quand le froid hivernal gèle les lacs, elle apparaît.{N}Elle patine sur la glace et émerveille avec sa dance envoûtante.{N}Dès que la musique s'interrompt, elle disparaît derrière un sourire timide.{N}Elle s'appele Winter Pixie et ne peut être aperçue que dans la Netsphère{N}pendant l'hiver."/>
 		<spa name=""/>
 		<ita name=""/>
 		<tur name="Winter Pixie Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Soğuk hava gölü dondurduğunda o ortaya çıkar.{N}Gölde kayar ve harikulade dansıyla herkesi etkiler.{N}Müzik sona erdiğinde utangaç bir gülümsemeyle kaybolur.{N}Ona Winter Pixie derler ve sadece Netsphere'in{N}kış mevsiminde görülür."/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+		<scenario_list key="5000208">
+		<kor name="무인 조윤 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}조윤은 해어화의 호위무사로 선정되었을 때, 매우 귀찮은 일을 떠맡았다고 생각했다.{N}강해지고 싶은 그에게, 여자를 지키는 일 따위는 아무런 도움이 되지 않는다고 생각했다.{N}하지만 그가 해어화와 처음 만나는 순간, 강함보다 더욱 중요한 것이 있다는 것을 알았다.{N}가면 밑으로 살짝 보이는 해어화의 신비로운 미소가, 조윤의 마음을 사로잡아 버렸기 때문이다."/>
+		<ger name="Mingyu Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Als Minhyu zur Wache der Kaiserin ernannt wurde, bereute er sein Schicksal.{N}Er dachte, dies würde sein Ziel, der stärkste Mann zu werden, verzögern.{N}Als er sie traf, wusste er, das sein Ziel vergebens war.{N}Mit einem einzigen Lächeln schlug sie ihn in ihren Bann.{N}Er schwor sie bis zum Ende der Zeit zu beschützen."/>
+		<eng name="Mingyu Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}When Mingyu was appointed as the Empress' guard, he resented this decision.{N}He thought this would slow his quest of being the strongest man alive.{N}Once he met her, he realized that his quest was futile.{N}With a single smile, she captivated him.{N}He then swore to protect her until the end of time."/>
+		<fre name="Mingyu Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Quand Mingyu fût chargé de la protection de l'impératrice, Cela ne{N}l'enchantait guère et lui semblait un obstacle à sa quête de puissance.{N}Dès qu'il la rencontra, il se rendit compte de la futilité de sa quête.{N}Un sourire lui suffit à captiver le brave soldat.{N}Il jura de la protéger jusqu'à la fin des temps."/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Mingyu Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Mingyu İmparatoriçe'nin muhafızı olarak atanmaktan memnun kalmamıştı.{N}Dünyadaki en güçlü adam olma amacını yavaşlatacağını düşünüyordu.{N}Ama İmparatoriçeyle tanıştıktan sonra görevinin anlamsızlığını farketti.{N}Tek gülümsemesiyle Mingyu'nun kalbini çalmıştı.{N}Mingyu ömrünün sonuna kadar onu korumaya yemin etti."/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000209">
+        <kor name="무인 조윤 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}조윤은 해어화의 호위무사로 선정되었을 때, 매우 귀찮은 일을 떠맡았다고 생각했다.{N}강해지고 싶은 그에게, 여자를 지키는 일 따위는 아무런 도움이 되지 않는다고 생각했다.{N}하지만 그가 해어화와 처음 만나는 순간, 강함보다 더욱 중요한 것이 있다는 것을 알았다.{N}가면 밑으로 살짝 보이는 해어화의 신비로운 미소가, 조윤의 마음을 사로잡아 버렸기 때문이다."/>
+		<ger name="Mingyu Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Als Minhyu zur Wache der Kaiserin ernannt wurde, bereute er sein Schicksal.{N}Er dachte, dies würde sein Ziel, der stärkste Mann zu werden, verzögern.{N}Als er sie traf, wusste er, das sein Ziel vergebens war.{N}Mit einem einzigen Lächeln schlug sie ihn in ihren Bann.{N}Er schwor sie bis zum Ende der Zeit zu beschützen."/>
+		<eng name="Mingyu Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}When Mingyu was appointed as the Empress' guard, he resented this decision.{N}He thought this would slow his quest of being the strongest man alive.{N}Once he met her, he realized that his quest was futile.{N}With a single smile, she captivated him.{N}He then swore to protect her until the end of time."/>
+		<fre name="Mingyu Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Quand Mingyu fût chargé de la protection de l'impératrice, Cela ne{N}l'enchantait guère et lui semblait un obstacle à sa quête de puissance.{N}Dès qu'il la rencontra, il se rendit compte de la futilité de sa quête.{N}Un sourire lui suffit à captiver le brave soldat.{N}Il jura de la protéger jusqu'à la fin des temps."/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Mingyu Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Mingyu İmparatoriçe'nin muhafızı olarak atanmaktan memnun kalmamıştı.{N}Dünyadaki en güçlü adam olma amacını yavaşlatacağını düşünüyordu.{N}Ama İmparatoriçeyle tanıştıktan sonra görevinin anlamsızlığını farketti.{N}Tek gülümsemesiyle Mingyu'nun kalbini çalmıştı.{N}Mingyu ömrünün sonuna kadar onu korumaya yemin etti."/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>	
+	<scenario_list key="5000210">
+		<kor name="해어화 진이 일반" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}진이는 아름다운 외모 때문에, 말하는 꽃이라는 뜻으로 해어화라 불린다.{N}매혹적인 그녀의 미모는 수많은 남자의 마음을 흔들기 충분했다.{N}그녀는 자신을 향한 남자들의 마음이 부담스러워  하얀 가면을 쓰고 다니지만,{N}가면 밑으로 살짝 보이는 미소는 가면이 없을 때 보다, 더욱더 신비로움을 자아낸다."/>
+		<ger name="Jiyeon Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Die Kaiserin Jiyeon wird auf Grund ihrer Schönheit auch 'Die Blüte' genannt.{N}Sie kann die Herzen zahlloser Männer mit einem einzigen Lächeln brechen.{N}Von ihren Bewunderern bedrängt, trug sie oft eine weiße Maske.{N}Trotz der Maske war ihr mysteriöses Lächeln stets sichtbar.{N}Dies verlieh ihr ein noch mysteriöseres Aussehen."/>
+		<eng name="Jiyeon Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}The Empress Jiyeon is also called 'The Flower' due to her extreme beauty.{N}She could sway the hearts of countless men with a single smile.{N}She often wore a white mask when burdened by her numerous admirers.{N}Her mystical smile remained visible when wearing the mask,{N}giving her an even more mysterious look."/>
+		<fre name="Jiyeon Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}La beauté de l'impératrice Jiyeon lui valût le surnom 'La Fleur'.{N}Son sourire suffit pour faire chavirer le coeur d'innombrables hommes.{N}Elle porte un masque blanc pour ne pas être dérangé par ses prétendants.{N}Son sourire mystique reste cependant visible{N}et lui donne un air plus mystérieux."/> 
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Jiyeon Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}İmparatoriçe Jiyeon'a güzelliğinden ötürü 'Çiçek' denirdi{N}Sayısız erkeğin kalbini bir gülümsemeyle çalmıştı.{N}Hayranları etrafını sardığında genelde beyaz bir maske giyerdi.{N}Gizemli gülüşü maskeyi takarken de görülür ve{N}Jiyeon'u da daha gizemli gösterirdi."/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000211">
+		<kor name="해어화 진이 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}진이는 아름다운 외모 때문에, 말하는 꽃이라는 뜻으로 해어화라 불린다.{N}매혹적인 그녀의 미모는 수많은 남자의 마음을 흔들기 충분했다.{N}그녀는 자신을 향한 남자들의 마음이 부담스러워  하얀 가면을 쓰고 다니지만,{N}가면 밑으로 살짝 보이는 미소는 가면이 없을 때 보다, 더욱더 신비로움을 자아낸다."/>
+		<ger name="Jiyeon Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Die Kaiserin Jiyeon wird auf Grund ihrer Schönheit auch 'Die Blüte' genannt.{N}Sie kann die Herzen zahlloser Männer mit einem einzigen Lächeln brechen.{N}Von ihren Bewunderern bedrängt, trug sie oft eine weiße Maske.{N}Trotz der Maske war ihr mysteriöses Lächeln stets sichtbar.{N}Dies verlieh ihr ein noch mysteriöseres Aussehen."/>
+		<eng name="Jiyeon Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}The Empress Jiyeon is also called 'The Flower' due to her extreme beauty.{N}She could sway the hearts of countless men with a single smile.{N}She often wore a white mask when burdened by her numerous admirers.{N}Her mystical smile remained visible when wearing the mask,{N}giving her an even more mysterious look."/>
+		<fre name="Jiyeon Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}La beauté de l'impératrice Jiyeon lui valût le surnom 'La Fleur'.{N}Son sourire suffit pour faire chavirer le coeur d'innombrables hommes.{N}Elle porte un masque blanc pour ne pas être dérangé par ses prétendants.{N}Son sourire mystique reste cependant visible{N}et lui donne un air plus mystérieux."/> 
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Jiyeon Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}İmparatoriçe Jiyeon'a güzelliğinden ötürü 'Çiçek' denirdi{N}Sayısız erkeğin kalbini bir gülümsemeyle çalmıştı.{N}Hayranları etrafını sardığında genelde beyaz bir maske giyerdi.{N}Gizemli gülüşü maskeyi takarken de görülür ve{N}Jiyeon'u da daha gizemli gösterirdi."/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000212">
+		<kor name="신선조 노말" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}에도 막부 말기에 활동한 무사집단 '신선조' {N}늑대와도 같던 삶을 살았던 그들의 복장이 넷스피어 세계에 나타났다 {N}전통적인 사무라이 복장과 넷 스피어의 세계가 만나 새로운 디자인으로 탄생 {N}아름다운 신선조 캐릭터의 주인이 되어보자 "/>
+		<ger name="Shinsengumi Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Man sagt sich, dass die besten der Shinsengumi Samurai vom Himmeln gesegnet waren.{N}Diese himmlische Samurai waren für eine lange Zeit ein Gerücht.{N}Ihre Erscheinung bestätigt zwar ihre Existenz, jedoch sind sie immer noch geheimnisvoll{N}Niemand weiß, ob sie wirklich gesegnet sind oder ob sie die Netsphere gehackt haben."/>
+		<eng name="Shinsengumi Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}The best of the Shinsengumi samurai were said to be blessed by the heavens.{N}These celestial samurai used to be a rumor for a long time.{N}While their appearance confirms their existence, they are still mysterious.{N}No one knows if they are somehow blessed or if they hacked the Netsphere."/>
+		<fre name="Shinsengumi Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}On dit que les meilleurs samuraïs Shinsengumi seraient bénis par les cieux.{N}Ces samuraïs célèstes n'étaient jusque là que des mythes de longues années.{N}Bien que leur apparence prouve leur existence, ils restent mystérieux.{N}Personne ne peut dire s'ils sont bénis ou s'ils ont hacké la Netshphère."/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Shinsengumi Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}En güçlü Shinsengumi samuraylarının nurla parladığı söylenir.{N}Bu kutsanmış samuraylar uzun süre söylentilerde yaşamıştı.{N}Görünmeleriyle varlıkları kesinleştiyse de, hâlâ gizemlerini koruyorlar.{N}Kimse gerçekten kutsandılar mı yoksa Netsphere'i mi hacklediler bilmiyor."/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000213">
+		<kor name="신선조 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}에도 막부 말기에 활동한 무사집단 '신선조' {N}늑대와도 같던 삶을 살았던 그들의 복장이 넷스피어 세계에 나타났다 {N}전통적인 사무라이 복장과 넷 스피어의 세계가 만나 새로운 디자인으로 탄생 {N}아름다운 신선조 캐릭터의 주인이 되어보자 "/>
+		<ger name="Shinsengumi Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Man sagt sich, dass die besten der Shinsengumi Samurai vom Himmeln gesegnet waren.{N}Diese himmlische Samurai waren für eine lange Zeit ein Gerücht.{N}Ihre Erscheinung bestätigt zwar ihre Existenz, jedoch sind sie immer noch geheimnisvoll{N}Niemand weiß, ob sie wirklich gesegnet sind oder ob sie die Netsphere gehackt haben."/>
+		<eng name="Shinsengumi Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}The best of the Shinsengumi samurai were said to be blessed by the heavens.{N}These celestial samurai used to be a rumor for a long time.{N}While their appearance confirms their existence, they are still mysterious.{N}No one knows if they are somehow blessed or if they hacked the Netsphere."/>
+		<fre name="Shinsengumi Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}On dit que les meilleurs samuraïs Shinsengumi seraient bénis par les cieux.{N}Ces samuraïs célèstes n'étaient jusque là que des mythes de longues années.{N}Bien que leur apparence prouve leur existence, ils restent mystérieux.{N}Personne ne peut dire s'ils sont bénis ou s'ils ont hacké la Netshphère."/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Shinsengumi Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}En güçlü Shinsengumi samuraylarının nurla parladığı söylenir.{N}Bu kutsanmış samuraylar uzun süre söylentilerde yaşamıştı.{N}Görünmeleriyle varlıkları kesinleştiyse de, hâlâ gizemlerini koruyorlar.{N}Kimse gerçekten kutsandılar mı yoksa Netsphere'i mi hacklediler bilmiyor."/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000214">
+		<kor name="게이샤 노말" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}동양의 먼 동쪽 섬나라, 그곳에서 춤 무용 시를 짓는 가희를 게이샤라 부른다 {N}에도 시대 중기 이전에는 그녀들은 춤과 시를 짓는 예술인이였으며 아름다운 여자들이였다{N}그녀들의 화려한 삶이 묻어있는 기모노 복장이 넷 스피어 세계에 등장 {N}남들과 다른 유니크한 모습을 만들고 싶다면 망설이지 말고 게이샤 복장을 노려 보는건 어떨까?"/>
+		<ger name="Kimono Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Diese Frau in Kimono könnte mit Leichtigkeit einen Mann mit ihrem Aussehen entwaffnen.{N}Unbekannt für Außenseiter ist sie ein Meister von vielen Fähigkeiten.{N}Alle Männer die sie unterschätzen würden es bereuen.{N}Aber sie würden niemals lange genug leben, um diese Geschichte zu erzählen."/>
+		<eng name="Kimono Normal" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}This woman in Kimono could easily disarm a man with her looks.{N}Unknown to outsiders, she's a master of many skills.{N}Any men who would underestimate her would regret it.{N}But they would never live long enough to tell the story."/> 
+		<fre name="Kimono Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Cette femme en Kimono peut désarmer un homme d'un simple regard.{N}Méconnue d'un oeil nouveau, elle possède de nombreux talents.{N}On dit que la sous-estimer serait le dernier regret de tout homme.{N}Mais personne n'a vécu assez longtemps pour le confirmer."/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Kimono Normal" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Bu Kimonolu kadın bir erkeği bakışlarıyla kolayca etkisiz hâle getirebilir.{N}Dışarıdan bilinmeyense, pek çok becerisi olduğudur.{N}Onu küçümseyen her erkek buna pişman olur.{N}Ama asla bunu anlatacak kadar uzun yaşayamazlar."/>
+		<rus name=""/>
+		<tha name=""/>
+		<twn name=""/>
+		<jap name=""/>
+		<idn name=""/>
+	</scenario_list>
+	<scenario_list key="5000215">
+		<kor name="게이샤 유니크" data="{N}{A-L}{F-2002_11}{CB-255,255,255,255}동양의 먼 동쪽 섬나라, 그곳에서 춤 무용 시를 짓는 가희를 게이샤라 부른다 {N}에도 시대 중기 이전에는 그녀들은 춤과 시를 짓는 예술인이였으며 아름다운 여자들이였다{N}그녀들의 화려한 삶이 묻어있는 기모노 복장이 넷 스피어 세계에 등장 {N}남들과 다른 유니크한 모습을 만들고 싶다면 망설이지 말고 게이샤 복장을 노려 보는건 어떨까?"/>
+		<ger name="Kimono Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Diese Frau in Kimono könnte mit Leichtigkeit einen Mann mit ihrem Aussehen entwaffnen.{N}Unbekannt für Außenseiter ist sie ein Meister von vielen Fähigkeiten.{N}Alle Männer die sie unterschätzen würden es bereuen.{N}Aber sie würden niemals lange genug leben, um diese Geschichte zu erzählen."/>
+		<eng name="Kimono Unique" data="{N}{A-L}{F-2002_10}{CB-255,255,255,255}This woman in Kimono could easily disarm a man with her looks.{N}Unknown to outsiders, she's a master of many skills.{N}Any men who would underestimate her would regret it.{N}But they would never live long enough to tell the story."/> 
+		<fre name="Kimono Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Cette femme en Kimono peut désarmer un homme d'un simple regard.{N}Méconnue d'un oeil nouveau, elle possède de nombreux talents.{N}On dit que la sous-estimer serait le dernier regret de tout homme.{N}Mais personne n'a vécu assez longtemps pour le confirmer."/>
+		<spa name=""/>
+		<ita name=""/>
+		<tur name="Kimono Unique" data="{N}{A-L}{F-2002_9}{CB-255,255,255,255}Bu Kimonolu kadın bir erkeği bakışlarıyla kolayca etkisiz hâle getirebilir.{N}Dışarıdan bilinmeyense, pek çok becerisi olduğudur.{N}Onu küçümseyen her erkek buna pişman olur.{N}Ama asla bunu anlatacak kadar uzun yaşayamazlar."/>
 		<rus name=""/>
 		<tha name=""/>
 		<twn name=""/>

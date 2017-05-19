@@ -804,4 +804,12 @@
 		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_right_holdon.tga" control_icon_3="con_space_left_click.tga"/>
 		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_CHARGE_WIDE_ATTACK" control_comment_key_3="CON_JUMP_ATTACK"/>
 	</item>
+	<item id="2010057">
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_reload.tga"/>
+		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_RELOAD"/>
+	</item>
+	<item id="2000079">
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_right_holdon.tga" control_icon_3="con_space_left_click.tga"/>
+		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_CHARGE_WIDE_ATTACK" control_comment_key_3="CON_JUMP_ATTACK"/>
+	</item>
 </Item_tooltip_addcontrol>
