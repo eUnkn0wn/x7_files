@@ -1724,7 +1724,7 @@
 	</item>
 	<item item_key="1020038">
 		<base name="마스터 포스" name_key="NAME60" attrib_comment_key="TIP60" feature_comment_key="F_TEXT60" sex="man"/>
-		<graphic icon_image="15_male_body.tga" to_part_scene_file="15_male_body.scn" hiding_option="gloves_part2"/>
+		<graphic icon_image="15_male_body.tga" to_part_scene_file="15_male_body.scn" hiding_option="gloves_part1,gloves_part2"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
@@ -2011,7 +2011,7 @@
 	</item>
 	<item item_key="1020056">
 		<base name="밴드 후드-티" name_key="N1020056" attrib_comment_key="T1020056" sex="man"/>
-		<graphic icon_image="19_male_body.tga" to_part_scene_file="19_male_body.scn"/>
+		<graphic icon_image="19_male_body.tga" to_part_scene_file="19_male_body.scn" hiding_option="gloves_part1,gloves_part2"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
@@ -5476,7 +5476,7 @@
 	</item>
 	<item item_key="1021089">
 		<base name="헌터 다르텐 상의" name_key="N1021089" attrib_comment_key="T1021089" sex="man"/>
-		<graphic icon_image="71_male_body.dds" to_node_scene_file1="71_male_body_part.scn" to_node_parent_node1="Bip01 Pelvis" to_node_animation_part1="1" to_part_scene_file="71_male_body.scn"/>
+		<graphic icon_image="71_male_body.dds" to_node_scene_file1="71_male_body_part.scn" to_node_parent_node1="Bip01 Pelvis" to_node_animation_part1="1" to_part_scene_file="71_male_body.scn" hiding_option="gloves_part1,gloves_part2"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
@@ -6316,7 +6316,7 @@
 	</item>
 	<item item_key="1021122">
 		<base name="다크 바론 상의" name_key="N1021122" attrib_comment_key="T1021122" sex="man"/>
-		<graphic icon_image="81_male_body.dds" to_part_scene_file="81_male_body.scn"/>
+		<graphic icon_image="81_male_body.dds" to_part_scene_file="81_male_body.scn" hiding_option="gloves_part1,gloves_part2"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
@@ -6477,7 +6477,7 @@
 	</item>
 	<item item_key="1021124">
 		<base name="블레이크 상의" name_key="N1021124" attrib_comment_key="T1021124" sex="man"/>
-		<graphic icon_image="83_male_body.dds" to_part_scene_file="83_male_body.scn"/>
+		<graphic icon_image="83_male_body.dds" to_part_scene_file="83_male_body.scn" hiding_option="gloves_part1,gloves_part2"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
@@ -6890,14 +6890,14 @@
 	</item>
 	<item item_key="1021140">
 		<base name="펑키가이 체인 라이더 자켓" name_key="N1021140" attrib_comment_key="T1021140" sex="man"/>
-		<graphic icon_image="88_male_body.dds" to_part_scene_file="88_male_body.scn"/>
+		<graphic icon_image="88_male_body.dds" to_part_scene_file="88_male_body.scn" hiding_option="gloves_part1,gloves_part2"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="1021146">
 		<base name="펑키가이 체인 라이더 자켓 SR" name_key="N1021146" attrib_comment_key="T1021146" sex="man"/>
-		<graphic icon_image="88_male_body.dds" to_part_scene_file="88_male_body.scn"/>
+		<graphic icon_image="88_male_body.dds" to_part_scene_file="88_male_body.scn" hiding_option="gloves_part1,gloves_part2"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
@@ -9272,7 +9272,7 @@
 		<base name="브레이커" name_key="N2000013" attrib_comment_key="T2000013" feature_comment_key="F2000007" sex="unisex"/>
 		<graphic icon_image="icon_breaker.dds"/>
 		<esperchip/>
-		<etc/>
+		<etc parent_number="13"/>
 		<sequence/>
 	</item>
 	<item item_key="2000040">
@@ -26098,7 +26098,7 @@
 	</item>
 	<item item_key="1021164">
 		<base name="퍼 칼라 더블 코트" name_key="N1021164" attrib_comment_key="T1021164" sex="man"/>
-		<graphic icon_image="90_male_body.dds" to_part_scene_file="90_male_body.scn"/>
+		<graphic icon_image="90_male_body.dds" to_part_scene_file="90_male_body.scn" hiding_option="gloves_part1,gloves_part2"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
@@ -28023,7 +28023,7 @@
 	</item>
 	<item item_key="1021172">
 		<base name="마틴 롱 블레이저" name_key="N1021172" attrib_comment_key="T1021172" sex="man"/>
-		<graphic icon_image="94_male_body.dds" to_part_scene_file="94_male_body.scn"/>
+		<graphic icon_image="94_male_body.dds" to_part_scene_file="94_male_body.scn" hiding_option="gloves_part1,gloves_part2"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
@@ -28093,7 +28093,7 @@
 	</item>
 	<item item_key="1021174">
 		<base name="블러디 헌터 재킷" name_key="N1021174" attrib_comment_key="T1021174" sex="man"/>
-		<graphic icon_image="96_male_body.dds" to_part_scene_file="96_male_body.scn"/>
+		<graphic icon_image="96_male_body.dds" to_part_scene_file="96_male_body.scn" hiding_option="gloves_part1,gloves_part2"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
@@ -32398,7 +32398,7 @@
 	</item>
 	<item item_key="1021192">
 		<base name="비트 세일러 볼레로 " name_key="N1021192" attrib_comment_key="T1021192" sex="man"/>
-		<graphic icon_image="104_male_body.dds" to_part_scene_file="104_male_body.scn"/>
+		<graphic icon_image="104_male_body.dds" to_part_scene_file="104_male_body.scn" hiding_option="gloves_part1,gloves_part2"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
@@ -33810,174 +33810,6 @@
 		<etc/>
 		<sequence/>
 	</item>
-	<item item_key="1001206">
-		<base name="사무라이 남자 헤어" name_key="N1001206" attrib_comment_key="T1001206" sex="man"/>
-		<graphic icon_image="32_male_hair.dds" to_node_scene_file1="32_male_hair_1_tail.scn" to_node_parent_node1="Bip01 Head" to_node_animation_part1="0" to_part_scene_file="32_male_hair_1.scn"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="1021206">
-		<base name="사무라이 남자 상의" name_key="N1021206" attrib_comment_key="T1021206" sex="man"/>
-		<graphic icon_image="32_male_body.dds" to_node_scene_file1="32_male_bodypart_1.scn" to_node_parent_node1="Bip01 Pelvis" to_node_animation_part1="1" to_part_scene_file="32_male_body_1.scn"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="1031206">
-		<base name="사무라이 남자 하의" name_key="N1031206" attrib_comment_key="T1031206" sex="man"/>
-		<graphic icon_image="32_male_leg.dds" to_part_scene_file="32_male_leg_1.scn"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="1041206">
-		<base name="사무라이 남자 장갑" name_key="N1041206" attrib_comment_key="T1041206" sex="man"/>
-		<graphic to_part_scene_file="32_male_hand_1.scn"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="1051206">
-		<base name="사무라이 남자 신발" name_key="N1051206" attrib_comment_key="T1051206" sex="man"/>
-		<graphic icon_image="32_male_foot.dds" to_part_scene_file="32_male_foot_1.scn"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="1001207">
-		<base name="사무라이 여자 헤어" name_key="N1001207" attrib_comment_key="T1001207" sex="woman"/>
-		<graphic icon_image="36_female_hair.dds" to_node_scene_file1="36_female_hair_1_tail.scn" to_node_parent_node1="Bip01 Head" to_node_animation_part1="0" to_part_scene_file="36_female_hair_1.scn"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="1021207">
-		<base name="사무라이 여자 상의" name_key="N1021207" attrib_comment_key="T1021207" sex="woman"/>
-		<graphic icon_image="36_female_body.dds" to_node_scene_file1="36_female_ribbon_1.scn" to_node_parent_node1="Bip01 Spine1" to_node_animation_part1="1" to_part_scene_file="36_female_body_1.scn"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="1031207">
-		<base name="사무라이 여자 하의" name_key="N1031207" attrib_comment_key="T1031207" sex="woman"/>
-		<graphic icon_image="36_female_leg.dds" to_part_scene_file="36_female_leg_1.scn"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="1041207">
-		<base name="사무라이 여자 장갑" name_key="N1041207" attrib_comment_key="T1041207" sex="woman"/>
-		<graphic to_part_scene_file="36_Female_Hand_1.scn"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="1051207">
-		<base name="사무라이 여자 신발" name_key="N1051207" attrib_comment_key="T1051207" sex="woman"/>
-		<graphic icon_image="36_female_foot.dds" to_part_scene_file="36_female_foot_1.scn"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="4035468">
-		<base name="사무라이 남자 캡슐" name_key="N4035468" attrib_comment_key="T4035468" sex="man"/>
-		<graphic icon_image="icon_g_kimono_m.dds"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="4035469">
-		<base name="사무라이 여자 캡슐" name_key="N4035469" attrib_comment_key="T4035469" sex="woman"/>
-		<graphic icon_image="icon_g_kimono.dds"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="4052307">
-		<base name="사무라이 남자 세트 (1일)" name_key="N4052307" attrib_comment_key="T4052307" sex="man"/>
-		<graphic icon_image="icon_s_kimono_m_set.dds"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="4052308">
-		<base name="사무라이 남자 세트 (7일)" name_key="N4052308" attrib_comment_key="T4052308" sex="man"/>
-		<graphic icon_image="icon_s_kimono_m_set.dds"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="4052309">
-		<base name="사무라이 남자 세트 (30일)" name_key="N4052309" attrib_comment_key="T4052309" sex="man"/>
-		<graphic icon_image="icon_s_kimono_m_set.dds"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="4052310">
-		<base name="사무라이 남자 세트 (내구제)" name_key="N4052310" attrib_comment_key="T4052310" sex="man"/>
-		<graphic icon_image="icon_s_kimono_m_set_1.dds"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="4052311">
-		<base name="사무라이 여자 세트 (1일)" name_key="N4052311" attrib_comment_key="T4052311" sex="woman"/>
-		<graphic icon_image="icon_s_kimono_set.dds"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="4052312">
-		<base name="사무라이 여자 세트 (7일)" name_key="N4052312" attrib_comment_key="T4052312" sex="woman"/>
-		<graphic icon_image="icon_s_kimono_set.dds"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="4052313">
-		<base name="사무라이 여자 세트 (30일)" name_key="N4052313" attrib_comment_key="T4052313" sex="woman"/>
-		<graphic icon_image="icon_s_kimono_set.dds"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="4052314">
-		<base name="사무라이 여자 세트 (내구제)" name_key="N4052314" attrib_comment_key="T4052314" sex="woman"/>
-		<graphic icon_image="icon_s_kimono_set_1.dds"/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="4052315">
-		<base name="C의 사무라이 남자 세트 (내구제)" name_key="N4052315" attrib_comment_key="T4052315" sex="man"/>
-		<graphic/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="4052316">
-		<base name="C의 사무라이 여자 세트 (내구제)" name_key="N4052316" attrib_comment_key="T4052316" sex="woman"/>
-		<graphic/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="4160143">
-		<base name="C의 사무라이 남자 세트  캡슐" name_key="N4160143" attrib_comment_key="T4160143" sex="man"/>
-		<graphic/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
-	<item item_key="4160144">
-		<base name="C의 사무라이 여자 세트  캡슐" name_key="N4160144" attrib_comment_key="T4160144" sex="woman"/>
-		<graphic/>
-		<esperchip/>
-		<etc/>
-		<sequence/>
-	</item>
 	<item item_key="1001208">
 		<base name="라이더 블리츠 헤어" name_key="N1001208" attrib_comment_key="T1001208" sex="man"/>
 		<graphic icon_image="106_male_hair.dds" to_part_scene_file="106_male_hair.scn"/>
@@ -35191,7 +35023,7 @@
 	</item>
 	<item item_key="1021228">
 		<base name="해어화의 저고리" name_key="N1021228" attrib_comment_key="T1021228" sex="woman"/>
-		<graphic icon_image="116_female_body.png" to_node_scene_file1="116_female_body_part1.scn" to_node_parent_node1="Bip01 Spine" to_node_animation_part1="1" to_part_scene_file="116_female_body.scn"/>
+		<graphic icon_image="116_female_body.png" to_node_scene_file1="116_female_body_part1.scn" to_node_parent_node1="Bip01 Spine" to_node_animation_part1="1" to_part_scene_file="116_female_body.scn" hiding_option="gloves_part1,gloves_part2"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
@@ -35324,7 +35156,7 @@
 	</item>
 	<item item_key="1070079">
 		<base name="설날 까치 펫" name_key="N1070079" attrib_comment_key="T1070079" sex="unisex"/>
-		<graphic icon_image="116_pat_icon.png" to_node_scene_file1="116_pet_magpie.scn" to_node_parent_node1="Bip01" to_node_animation_part1="0"/>
+		<graphic icon_image="116_pat_icon.png" to_node_scene_file1="116_pet_magpie.scn" to_node_parent_node1="Bip01" to_node_animation_part1="1"/>
 		<esperchip/>
 		<etc/>
 		<sequence node_name1="eff_dummy" file_name1="resources/effects/116_pet_effect.seq"/>
@@ -35337,143 +35169,1361 @@
 		<sequence/>
 	</item>
 	<item item_key="1021229">
-		<base name="남자 교복 상의" name_key="N1021229" attrib_comment_key="T1021229" sex="man"/>
-		<graphic to_node_scene_file1="117_male_body_part1.scn" to_node_parent_node1="Bip01 Spine2" to_node_animation_part1="0" to_part_scene_file="117_male_body.scn"/>
+		<base name="프리스티져스 스쿨 남자 교복" name_key="N1021229" attrib_comment_key="T1021229" sex="man"/>
+		<graphic icon_image="117_male_body.png" to_node_scene_file1="117_male_body_part1.scn" to_node_parent_node1="Bip01 Spine2" to_node_animation_part1="1" to_part_scene_file="117_male_body.scn" hiding_option="gloves_part1,gloves_part2"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="1031229">
-		<base name="남자 교복 하의" name_key="N1031229" attrib_comment_key="T1031229" sex="man"/>
-		<graphic to_part_scene_file="117_male_leg.scn"/>
+		<base name="프리스티져스 스쿨 바지" name_key="N1031229" attrib_comment_key="T1031229" sex="man"/>
+		<graphic icon_image="117_male_leg.png" to_part_scene_file="117_male_leg.scn" hiding_option="shoes_part1,shoes_part2"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="1041229">
-		<base name="남자 교복 장갑" name_key="N1041229" attrib_comment_key="T1041229" sex="man"/>
-		<graphic to_part_scene_file="117_male_hand.scn"/>
+		<base name="사격술 교육 장비 (장갑)" name_key="N1041229" attrib_comment_key="T1041229" sex="man"/>
+		<graphic icon_image="117_male_hand.png" to_part_scene_file="117_male_hand.scn"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="1051229">
-		<base name="남자 교복 신발" name_key="N1051229" attrib_comment_key="T1051229" sex="man"/>
-		<graphic to_part_scene_file="117_male_foot.scn"/>
+		<base name="학생용 운동화 (특수 제작)" name_key="N1051229" attrib_comment_key="T1051229" sex="man"/>
+		<graphic icon_image="117_male_foot.png" to_part_scene_file="117_male_foot.scn"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="1021230">
-		<base name="여자 교복 상의" name_key="N1021230" attrib_comment_key="T1021230" sex="woman"/>
-		<graphic/>
+		<base name="프리스티져스 스쿨 여자 교복" name_key="N1021230" attrib_comment_key="T1021230" sex="woman"/>
+		<graphic icon_image="117_female_body.png" to_part_scene_file="117_female_body.scn"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="1031230">
-		<base name="여자 교복 하의" name_key="N1031230" attrib_comment_key="T1031230" sex="woman"/>
-		<graphic/>
+		<base name="프리스티져스 스쿨 교복 치마" name_key="N1031230" attrib_comment_key="T1031230" sex="woman"/>
+		<graphic icon_image="117_female_leg.png" to_node_scene_file1="117_female_leg_part1.scn" to_node_parent_node1="Bip01 Pelvis" to_node_animation_part1="1" to_part_scene_file="117_female_leg.scn"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="1041230">
-		<base name="여자 교복 장갑" name_key="N1041230" attrib_comment_key="T1041230" sex="woman"/>
-		<graphic/>
+		<base name="토끼 시계 (사격 용)" name_key="N1041230" attrib_comment_key="T1041230" sex="woman"/>
+		<graphic icon_image="117_female_hand.png" to_part_scene_file="117_female_hand.scn"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="1051230">
-		<base name="여자 교복 신발" name_key="N1051230" attrib_comment_key="T1051230" sex="woman"/>
-		<graphic/>
+		<base name="학생 단화 (특수 제작)" name_key="N1051230" attrib_comment_key="T1051230" sex="woman"/>
+		<graphic icon_image="117_female_foot.png" to_part_scene_file="117_female_foot.scn"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="4035490">
-		<base name="남자 교복 캡슐" name_key="N4035490" attrib_comment_key="T4035490" sex="man"/>
-		<graphic/>
+		<base name="프리스티져스 스쿨 보이 캡슐" name_key="N4035490" attrib_comment_key="T4035490" sex="man"/>
+		<graphic icon_image="117_icon_c_school_uniform_m_1.png"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="4035491">
-		<base name="여자 교복 캡슐" name_key="N4035491" attrib_comment_key="T4035491" sex="woman"/>
-		<graphic/>
+		<base name="프리스티져스 스쿨 걸 캡슐" name_key="N4035491" attrib_comment_key="T4035491" sex="woman"/>
+		<graphic icon_image="117_icon_c_school uniform_w_1"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="4052385">
-		<base name="남자 교복 세트 (1일)" name_key="N4052385" attrib_comment_key="T4052385" sex="man"/>
-		<graphic/>
+		<base name="프리스티져스 스쿨 보이 세트 (1일)" name_key="N4052385" attrib_comment_key="T4052385" sex="man"/>
+		<graphic icon_image="117_icon_s_school uniform_m.png"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="4052386">
-		<base name="남자 교복 세트 (7일)" name_key="N4052386" attrib_comment_key="T4052386" sex="man"/>
-		<graphic/>
+		<base name="프리스티져스 스쿨 보이 세트 (7일)" name_key="N4052386" attrib_comment_key="T4052386" sex="man"/>
+		<graphic icon_image="117_icon_s_school uniform_m.png"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="4052387">
-		<base name="남자 교복 세트 (30일)" name_key="N4052387" attrib_comment_key="T4052387" sex="man"/>
-		<graphic/>
+		<base name="프리스티져스 스쿨 보이 세트 (30일)" name_key="N4052387" attrib_comment_key="T4052387" sex="man"/>
+		<graphic icon_image="117_icon_s_school uniform_m.png"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="4052388">
-		<base name="남자 교복 세트 (내구제)" name_key="N4052388" attrib_comment_key="T4052388" sex="man"/>
-		<graphic/>
+		<base name="프리스티져스 스쿨 보이 세트 (내구제)" name_key="N4052388" attrib_comment_key="T4052388" sex="man"/>
+		<graphic icon_image="117_icon_s_school uniform_m_1.png"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="4052389">
-		<base name="여자 교복 세트 (1일)" name_key="N4052389" attrib_comment_key="T4052389" sex="woman"/>
-		<graphic/>
+		<base name="프리스티져스 스쿨 걸 세트 (1일)" name_key="N4052389" attrib_comment_key="T4052389" sex="woman"/>
+		<graphic icon_image="117_icon_s_school uniform_w"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="4052390">
-		<base name="여자 교복 세트 (7일)" name_key="N4052390" attrib_comment_key="T4052390" sex="woman"/>
-		<graphic/>
+		<base name="프리스티져스 스쿨 걸 세트 (7일)" name_key="N4052390" attrib_comment_key="T4052390" sex="woman"/>
+		<graphic icon_image="117_icon_s_school uniform_w"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="4052391">
-		<base name="여자 교복 세트 (30일)" name_key="N4052391" attrib_comment_key="T4052391" sex="woman"/>
-		<graphic/>
+		<base name="프리스티져스 스쿨 걸 세트 (30일)" name_key="N4052391" attrib_comment_key="T4052391" sex="woman"/>
+		<graphic icon_image="117_icon_s_school uniform_w"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="4052392">
-		<base name="여자 교복 세트 (내구제)" name_key="N4052392" attrib_comment_key="T4052392" sex="woman"/>
-		<graphic/>
+		<base name="프리스티져스 스쿨 걸 세트 (내구제)" name_key="N4052392" attrib_comment_key="T4052392" sex="woman"/>
+		<graphic icon_image="117_icon_s_school uniform_w_1"/>
 		<esperchip/>
 		<etc/>
 		<sequence/>
 	</item>
 	<item item_key="2010057">
-		<base name="유니크 어썰트 머신건" name_key="N2010057" attrib_comment_key="T2010057" sex="unisex"/>
-		<graphic/>
+		<base name="AR-03" name_key="N2010057" attrib_comment_key="T2010057" sex="unisex"/>
+		<graphic icon_image="117_assult_weapon.dds"/>
 		<esperchip/>
 		<etc parent_number="24"/>
 		<sequence/>
 	</item>
 	<item item_key="4035492">
-		<base name="G의 유니크 어썰트 머신건 캡슐" name_key="N4035492" attrib_comment_key="T4035492" sex="unisex"/>
+		<base name="G의 AR-03 캡슐" name_key="N4035492" attrib_comment_key="T4035492" sex="unisex"/>
+		<graphic icon_image="117_icon_assult_weapon_F_G.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1001231">
+		<base name="신선조 풀 테일" name_key="N1001231" attrib_comment_key="T1001231" sex="man"/>
+		<graphic icon_image="118_male_hair.png" to_part_scene_file="118_male_hair.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1011231">
+		<base name="신선조 페이스" name_key="N1011231" attrib_comment_key="T1011231" sex="man"/>
+		<graphic icon_image="118_male_face.png" to_part_scene_file="118_male_face.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1021231">
+		<base name="신선조 하오리" name_key="N1021231" attrib_comment_key="T1021231" sex="man"/>
+		<graphic icon_image="118_male_body.png" to_node_scene_file1="118_male_body_part_1.scn" to_node_parent_node1="Bip01 Spine" to_node_animation_part1="1" to_part_scene_file="118_male_body.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1031231">
+		<base name="신선조 하카마" name_key="N1031231" attrib_comment_key="T1031231" sex="man"/>
+		<graphic icon_image="118_male_leg.png" to_part_scene_file="118_male_leg.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1041231">
+		<base name="신선조 장갑" name_key="N1041231" attrib_comment_key="T1041231" sex="man"/>
+		<graphic icon_image="118_male_hand.png" to_part_scene_file="118_male_hand.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1051231">
+		<base name="신선조 쪼리" name_key="N1051231" attrib_comment_key="T1051231" sex="man"/>
+		<graphic icon_image="118_male_foot.png" to_part_scene_file="118_male_foot.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1001232">
+		<base name="게이샤 볼륨 헤어" name_key="N1001232" attrib_comment_key="T1001232" sex="woman"/>
+		<graphic icon_image="118_female_hair.dds" to_node_scene_file1="118_female_hair_part1.scn" to_node_parent_node1="Bip01 Head" to_node_animation_part1="1" to_part_scene_file="118_female_hair.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1011232">
+		<base name="게이샤 페이스" name_key="N1011232" attrib_comment_key="T1011232" sex="woman"/>
+		<graphic icon_image="118_female_face.dds" to_part_scene_file="118_female_face.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1021232">
+		<base name="게이샤 기모노 상의 " name_key="N1021232" attrib_comment_key="T1021232" sex="woman"/>
+		<graphic icon_image="118_female_body.dds" to_node_scene_file1="118_female_body_part1.scn" to_node_parent_node1="Bip01 Spine2" to_node_animation_part1="1" to_part_scene_file="118_female_body.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1031232">
+		<base name="게이샤 기모노 하의 " name_key="N1031232" attrib_comment_key="T1031232" sex="woman"/>
+		<graphic icon_image="118_female_leg.dds" to_part_scene_file="118_female_leg.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1041232">
+		<base name="게이샤  장갑" name_key="N1041232" attrib_comment_key="T1041232" sex="woman"/>
+		<graphic icon_image="118_female_hand.dds" to_part_scene_file="118_female_hand.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1051232">
+		<base name="게이샤  쪼리" name_key="N1051232" attrib_comment_key="T1051232" sex="woman"/>
+		<graphic icon_image="118_female_foot.dds" to_part_scene_file="118_female_foot.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4035498">
+		<base name="신선조 패키지 캡슐" name_key="N4035498" attrib_comment_key="T4035498" sex="man"/>
+		<graphic icon_image="118_Samurai Package_M.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4035499">
+		<base name="기모노 패키지 캡슐" name_key="N4035499" attrib_comment_key="T4035499" sex="woman"/>
+		<graphic icon_image="118_Samurai Package_w.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4035500">
+		<base name="오리엔탈 프리미엄 남자 코스튬 캡슐" name_key="N4035500" attrib_comment_key="T4035500" sex="man"/>
+		<graphic icon_image="118_Oriental Costum Capsule_M_gold.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4035501">
+		<base name="오리엔탈 프리미엄 여자 코스튬 캡슐" name_key="N4035501" attrib_comment_key="T4035501" sex="woman"/>
+		<graphic icon_image="118_Oriental Costum Capsule_W_gold.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4035502">
+		<base name="오리엔탈 베이직 남자 코스튬 캡슐" name_key="N4035502" attrib_comment_key="T4035502" sex="man"/>
+		<graphic icon_image="118_Oriental Costum Capsule_M_Pen.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4035503">
+		<base name="오리엔탈 베이직 여자 코스튬 캡슐" name_key="N4035503" attrib_comment_key="T4035503" sex="woman"/>
+		<graphic icon_image="118_Oriental Costum Capsule_W_Pen.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052409">
+		<base name="신선조 프리미엄 세트 (7일)" name_key="N4052409" attrib_comment_key="T4052409" sex="man"/>
+		<graphic icon_image="118_Samurai Package_set_M.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052410">
+		<base name="신선조 프리미엄 세트 (15일)" name_key="N4052410" attrib_comment_key="T4052410" sex="man"/>
+		<graphic icon_image="118_Samurai Package_set_M.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052411">
+		<base name="신선조 프리미엄 세트 (30일)" name_key="N4052411" attrib_comment_key="T4052411" sex="man"/>
+		<graphic icon_image="118_Samurai Package_set_M.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052412">
+		<base name="신선조 프리미엄 세트 (내구제)" name_key="N4052412" attrib_comment_key="T4052412" sex="man"/>
+		<graphic icon_image="118_Samurai Package_set_M.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052413">
+		<base name="오리엔트 보이 프리미엄 세트 (7일)" name_key="N4052413" attrib_comment_key="T4052413" sex="man"/>
+		<graphic icon_image="icon_s_orient_boy_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052414">
+		<base name="오리엔트 보이 프리미엄 세트 (15일)" name_key="N4052414" attrib_comment_key="T4052414" sex="man"/>
+		<graphic icon_image="icon_s_orient_boy_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052415">
+		<base name="오리엔트 보이 프리미엄 세트 (30일)" name_key="N4052415" attrib_comment_key="T4052415" sex="man"/>
+		<graphic icon_image="icon_s_orient_boy_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052416">
+		<base name="오리엔트 보이 프리미엄 세트 (내구제)" name_key="N4052416" attrib_comment_key="T4052416" sex="man"/>
+		<graphic icon_image="icon_s_orient_boy_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052417">
+		<base name="시노비 프리미엄 세트 (7일)" name_key="N4052417" attrib_comment_key="T4052417" sex="man"/>
+		<graphic icon_image="icon_s_ninja_m_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052418">
+		<base name="시노비 프리미엄 세트 (15일)" name_key="N4052418" attrib_comment_key="T4052418" sex="man"/>
+		<graphic icon_image="icon_s_ninja_m_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052419">
+		<base name="시노비 프리미엄 세트 (30일)" name_key="N4052419" attrib_comment_key="T4052419" sex="man"/>
+		<graphic icon_image="icon_s_ninja_m_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052420">
+		<base name="시노비 프리미엄 세트 (내구제)" name_key="N4052420" attrib_comment_key="T4052420" sex="man"/>
+		<graphic icon_image="icon_s_ninja_m_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052421">
+		<base name="오리엔탈 데빌 프리미엄 세트 (7일)" name_key="N4052421" attrib_comment_key="T4052421" sex="man"/>
+		<graphic icon_image="Icon_s_ori_devil_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052422">
+		<base name="오리엔탈 데빌 프리미엄 세트 (15일)" name_key="N4052422" attrib_comment_key="T4052422" sex="man"/>
+		<graphic icon_image="Icon_s_ori_devil_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052423">
+		<base name="오리엔탈 데빌 프리미엄 세트 (30일)" name_key="N4052423" attrib_comment_key="T4052423" sex="man"/>
+		<graphic icon_image="Icon_s_ori_devil_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052424">
+		<base name="오리엔탈 데빌 프리미엄 세트 (내구제)" name_key="N4052424" attrib_comment_key="T4052424" sex="man"/>
+		<graphic icon_image="Icon_s_ori_devil_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052425">
+		<base name="쿵푸 파이터 프리미엄 세트 (7일)" name_key="N4052425" attrib_comment_key="T4052425" sex="man"/>
+		<graphic icon_image="icon_s_kungfu_fighter_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052426">
+		<base name="쿵푸 파이터 프리미엄 세트 (15일)" name_key="N4052426" attrib_comment_key="T4052426" sex="man"/>
+		<graphic icon_image="icon_s_kungfu_fighter_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052427">
+		<base name="쿵푸 파이터 프리미엄 세트 (30일)" name_key="N4052427" attrib_comment_key="T4052427" sex="man"/>
+		<graphic icon_image="icon_s_kungfu_fighter_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052428">
+		<base name="쿵푸 파이터 프리미엄 세트 (내구제)" name_key="N4052428" attrib_comment_key="T4052428" sex="man"/>
+		<graphic icon_image="icon_s_kungfu_fighter_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052429">
+		<base name="마샬아츠 프리미엄 세트 (7일)" name_key="N4052429" attrib_comment_key="T4052429" sex="man"/>
+		<graphic icon_image="Icon_s_Taegeuk_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052430">
+		<base name="마샬아츠 프리미엄 세트 (15일)" name_key="N4052430" attrib_comment_key="T4052430" sex="man"/>
+		<graphic icon_image="Icon_s_Taegeuk_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052431">
+		<base name="마샬아츠 프리미엄 세트 (30일)" name_key="N4052431" attrib_comment_key="T4052431" sex="man"/>
+		<graphic icon_image="Icon_s_Taegeuk_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052432">
+		<base name="마샬아츠 프리미엄 세트 (내구제)" name_key="N4052432" attrib_comment_key="T4052432" sex="man"/>
+		<graphic icon_image="Icon_s_Taegeuk_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052433">
+		<base name="기모노 프리미엄 세트 (7일)" name_key="N4052433" attrib_comment_key="T4052433" sex="woman"/>
+		<graphic icon_image="118_Samurai Package_set_W.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052434">
+		<base name="기모노 프리미엄 세트 (15일)" name_key="N4052434" attrib_comment_key="T4052434" sex="woman"/>
+		<graphic icon_image="118_Samurai Package_set_W.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052435">
+		<base name="기모노 프리미엄 세트 (30일)" name_key="N4052435" attrib_comment_key="T4052435" sex="woman"/>
+		<graphic icon_image="118_Samurai Package_set_W.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052436">
+		<base name="기모노 프리미엄 세트 (내구제)" name_key="N4052436" attrib_comment_key="T4052436" sex="woman"/>
+		<graphic icon_image="118_Samurai Package_set_W.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052437">
+		<base name="오리엔트 걸 프리미엄 세트 (7일)" name_key="N4052437" attrib_comment_key="T4052437" sex="woman"/>
+		<graphic icon_image="icon_s_orient_girl_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052438">
+		<base name="오리엔트 걸 프리미엄 세트 (15일)" name_key="N4052438" attrib_comment_key="T4052438" sex="woman"/>
+		<graphic icon_image="icon_s_orient_girl_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052439">
+		<base name="오리엔트 걸 프리미엄 세트 (30일)" name_key="N4052439" attrib_comment_key="T4052439" sex="woman"/>
+		<graphic icon_image="icon_s_orient_girl_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052440">
+		<base name="오리엔트 걸 프리미엄 세트 (내구제)" name_key="N4052440" attrib_comment_key="T4052440" sex="woman"/>
+		<graphic icon_image="icon_s_orient_girl_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052441">
+		<base name="쿠노이치 프리미엄 세트 (7일)" name_key="N4052441" attrib_comment_key="T4052441" sex="woman"/>
+		<graphic icon_image="icon_s_ninja_w_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052442">
+		<base name="쿠노이치 프리미엄 세트 (15일)" name_key="N4052442" attrib_comment_key="T4052442" sex="woman"/>
+		<graphic icon_image="icon_s_ninja_w_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052443">
+		<base name="쿠노이치 프리미엄 세트 (30일)" name_key="N4052443" attrib_comment_key="T4052443" sex="woman"/>
+		<graphic icon_image="icon_s_ninja_w_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052444">
+		<base name="쿠노이치 프리미엄 세트 (내구제)" name_key="N4052444" attrib_comment_key="T4052444" sex="woman"/>
+		<graphic icon_image="icon_s_ninja_w_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052445">
+		<base name="오리엔탈 폭스 프리미엄 세트 (7일)" name_key="N4052445" attrib_comment_key="T4052445" sex="woman"/>
+		<graphic icon_image="icon_s_ori_fox_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052446">
+		<base name="오리엔탈 폭스 프리미엄 세트 (15일)" name_key="N4052446" attrib_comment_key="T4052446" sex="woman"/>
+		<graphic icon_image="icon_s_ori_fox_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052447">
+		<base name="오리엔탈 폭스 프리미엄 세트 (30일)" name_key="N4052447" attrib_comment_key="T4052447" sex="woman"/>
+		<graphic icon_image="icon_s_ori_fox_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052448">
+		<base name="오리엔탈 폭스 프리미엄 세트 (내구제)" name_key="N4052448" attrib_comment_key="T4052448" sex="woman"/>
+		<graphic icon_image="icon_s_ori_fox_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052449">
+		<base name="치파오 걸 프리미엄 세트 (7일)" name_key="N4052449" attrib_comment_key="T4052449" sex="woman"/>
+		<graphic icon_image="icon_s_cheongsam_girl_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052450">
+		<base name="치파오 걸 프리미엄 세트 (15일)" name_key="N4052450" attrib_comment_key="T4052450" sex="woman"/>
+		<graphic icon_image="icon_s_cheongsam_girl_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052451">
+		<base name="치파오 걸 프리미엄 세트 (30일)" name_key="N4052451" attrib_comment_key="T4052451" sex="woman"/>
+		<graphic icon_image="icon_s_cheongsam_girl_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052452">
+		<base name="치파오 걸  프리미엄 세트 (내구제)" name_key="N4052452" attrib_comment_key="T4052452" sex="woman"/>
+		<graphic icon_image="icon_s_cheongsam_girl_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052453">
+		<base name="마샬아츠 레이디 프리미엄 세트 (7일)" name_key="N4052453" attrib_comment_key="T4052453" sex="woman"/>
+		<graphic icon_image="Icon_s_Taegeuk_w_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052454">
+		<base name="마샬아츠 레이디 프리미엄 세트 (15일)" name_key="N4052454" attrib_comment_key="T4052454" sex="woman"/>
+		<graphic icon_image="Icon_s_Taegeuk_w_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052455">
+		<base name="마샬아츠 레이디 프리미엄 세트 (30일)" name_key="N4052455" attrib_comment_key="T4052455" sex="woman"/>
+		<graphic icon_image="Icon_s_Taegeuk_w_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052456">
+		<base name="마샬아츠 레이디  프리미엄 세트 (내구제)" name_key="N4052456" attrib_comment_key="T4052456" sex="woman"/>
+		<graphic icon_image="Icon_s_Taegeuk_w_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052457">
+		<base name="신선조 베이직 세트 (7일)" name_key="N4052457" attrib_comment_key="T4052457" sex="man"/>
+		<graphic icon_image="118_Samurai Package_set_M.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052458">
+		<base name="신선조 베이직 세트 (15일)" name_key="N4052458" attrib_comment_key="T4052458" sex="man"/>
+		<graphic icon_image="118_Samurai Package_set_M.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052459">
+		<base name="신선조 베이직 세트 (30일)" name_key="N4052459" attrib_comment_key="T4052459" sex="man"/>
+		<graphic icon_image="118_Samurai Package_set_M.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052460">
+		<base name="신선조 베이직 세트 (내구제)" name_key="N4052460" attrib_comment_key="T4052460" sex="man"/>
+		<graphic icon_image="118_Samurai Package_set_M.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052461">
+		<base name="오리엔트 보이 베이직 세트 (7일)" name_key="N4052461" attrib_comment_key="T4052461" sex="man"/>
+		<graphic icon_image="icon_s_orient_boy.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052462">
+		<base name="오리엔트 보이 베이직 세트 (15일)" name_key="N4052462" attrib_comment_key="T4052462" sex="man"/>
+		<graphic icon_image="icon_s_orient_boy.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052463">
+		<base name="오리엔트 보이 베이직 세트 (30일)" name_key="N4052463" attrib_comment_key="T4052463" sex="man"/>
+		<graphic icon_image="icon_s_orient_boy.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052464">
+		<base name="오리엔트 보이 베이직 세트 (내구제)" name_key="N4052464" attrib_comment_key="T4052464" sex="man"/>
+		<graphic icon_image="icon_s_orient_boy.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052465">
+		<base name="시노비 베이직 세트 (7일)" name_key="N4052465" attrib_comment_key="T4052465" sex="man"/>
+		<graphic icon_image="icon_s_ninja_m.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052466">
+		<base name="시노비 베이직 세트 (15일)" name_key="N4052466" attrib_comment_key="T4052466" sex="man"/>
+		<graphic icon_image="icon_s_ninja_m.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052467">
+		<base name="시노비 베이직 세트 (30일)" name_key="N4052467" attrib_comment_key="T4052467" sex="man"/>
+		<graphic icon_image="icon_s_ninja_m.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052468">
+		<base name="시노비 베이직 세트 (내구제)" name_key="N4052468" attrib_comment_key="T4052468" sex="man"/>
+		<graphic icon_image="icon_s_ninja_m.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052469">
+		<base name="오리엔탈 데빌 베이직 세트 (7일)" name_key="N4052469" attrib_comment_key="T4052469" sex="man"/>
+		<graphic icon_image="Icon_s_ori_devil.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052470">
+		<base name="오리엔탈 데빌 베이직 세트 (15일)" name_key="N4052470" attrib_comment_key="T4052470" sex="man"/>
+		<graphic icon_image="Icon_s_ori_devil.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052471">
+		<base name="오리엔탈 데빌 베이직 세트 (30일)" name_key="N4052471" attrib_comment_key="T4052471" sex="man"/>
+		<graphic icon_image="Icon_s_ori_devil.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052472">
+		<base name="오리엔탈 데빌 베이직 세트 (내구제)" name_key="N4052472" attrib_comment_key="T4052472" sex="man"/>
+		<graphic icon_image="Icon_s_ori_devil.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052473">
+		<base name="쿵푸 파이터 베이직 세트 (7일)" name_key="N4052473" attrib_comment_key="T4052473" sex="man"/>
+		<graphic icon_image="icon_s_kungfu_fighter.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052474">
+		<base name="쿵푸 파이터 베이직 세트 (15일)" name_key="N4052474" attrib_comment_key="T4052474" sex="man"/>
+		<graphic icon_image="icon_s_kungfu_fighter.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052475">
+		<base name="쿵푸 파이터 베이직 세트 (30일)" name_key="N4052475" attrib_comment_key="T4052475" sex="man"/>
+		<graphic icon_image="icon_s_kungfu_fighter.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052476">
+		<base name="쿵푸 파이터 베이직 세트 (내구제)" name_key="N4052476" attrib_comment_key="T4052476" sex="man"/>
+		<graphic icon_image="icon_s_kungfu_fighter.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052477">
+		<base name="마샬아츠 베이직 세트 (7일)" name_key="N4052477" attrib_comment_key="T4052477" sex="man"/>
+		<graphic icon_image="Icon_s_Taegeuk.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052478">
+		<base name="마샬아츠 베이직 세트 (15일)" name_key="N4052478" attrib_comment_key="T4052478" sex="man"/>
+		<graphic icon_image="Icon_s_Taegeuk.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052479">
+		<base name="마샬아츠 베이직 세트 (30일)" name_key="N4052479" attrib_comment_key="T4052479" sex="man"/>
+		<graphic icon_image="Icon_s_Taegeuk.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052480">
+		<base name="마샬아츠 베이직 세트 (내구제)" name_key="N4052480" attrib_comment_key="T4052480" sex="man"/>
+		<graphic icon_image="Icon_s_Taegeuk.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052481">
+		<base name="기모노 베이직 세트 (7일)" name_key="N4052481" attrib_comment_key="T4052481" sex="woman"/>
+		<graphic icon_image="118_Samurai Package_set_W.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052482">
+		<base name="기모노 베이직 세트 (15일)" name_key="N4052482" attrib_comment_key="T4052482" sex="woman"/>
+		<graphic icon_image="118_Samurai Package_set_W.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052483">
+		<base name="기모노 베이직 세트 (30일)" name_key="N4052483" attrib_comment_key="T4052483" sex="woman"/>
+		<graphic icon_image="118_Samurai Package_set_W.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052484">
+		<base name="기모노 베이직 세트 (내구제)" name_key="N4052484" attrib_comment_key="T4052484" sex="woman"/>
+		<graphic icon_image="118_Samurai Package_set_W.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052485">
+		<base name="오리엔트 걸 베이직 세트 (7일)" name_key="N4052485" attrib_comment_key="T4052485" sex="woman"/>
+		<graphic icon_image="icon_s_orient_girl.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052486">
+		<base name="오리엔트 걸 베이직 세트 (15일)" name_key="N4052486" attrib_comment_key="T4052486" sex="woman"/>
+		<graphic icon_image="icon_s_orient_girl.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052487">
+		<base name="오리엔트 걸 베이직 세트 (30일)" name_key="N4052487" attrib_comment_key="T4052487" sex="woman"/>
+		<graphic icon_image="icon_s_orient_girl.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052488">
+		<base name="오리엔트 걸 베이직 세트 (내구제)" name_key="N4052488" attrib_comment_key="T4052488" sex="woman"/>
+		<graphic icon_image="icon_s_orient_girl.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052489">
+		<base name="쿠노이치 베이직 세트 (7일)" name_key="N4052489" attrib_comment_key="T4052489" sex="woman"/>
+		<graphic icon_image="icon_s_ninja_w.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052490">
+		<base name="쿠노이치 베이직 세트 (15일)" name_key="N4052490" attrib_comment_key="T4052490" sex="woman"/>
+		<graphic icon_image="icon_s_ninja_w.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052491">
+		<base name="쿠노이치 베이직 세트 (30일)" name_key="N4052491" attrib_comment_key="T4052491" sex="woman"/>
+		<graphic icon_image="icon_s_ninja_w.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052492">
+		<base name="쿠노이치 베이직 세트 (내구제)" name_key="N4052492" attrib_comment_key="T4052492" sex="woman"/>
+		<graphic icon_image="icon_s_ninja_w.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052493">
+		<base name="오리엔탈 폭스 베이직 세트 (7일)" name_key="N4052493" attrib_comment_key="T4052493" sex="woman"/>
+		<graphic icon_image="icon_s_ori_fox.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052494">
+		<base name="오리엔탈 폭스 베이직 세트 (15일)" name_key="N4052494" attrib_comment_key="T4052494" sex="woman"/>
+		<graphic icon_image="icon_s_ori_fox.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052495">
+		<base name="오리엔탈 폭스 베이직 세트 (30일)" name_key="N4052495" attrib_comment_key="T4052495" sex="woman"/>
+		<graphic icon_image="icon_s_ori_fox.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052496">
+		<base name="오리엔탈 폭스 베이직 세트 (내구제)" name_key="N4052496" attrib_comment_key="T4052496" sex="woman"/>
+		<graphic icon_image="icon_s_ori_fox.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052497">
+		<base name="치파오 걸 베이직 세트 (7일)" name_key="N4052497" attrib_comment_key="T4052497" sex="woman"/>
+		<graphic icon_image="icon_s_cheongsam_girl.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052498">
+		<base name="치파오 걸 베이직 세트 (15일)" name_key="N4052498" attrib_comment_key="T4052498" sex="woman"/>
+		<graphic icon_image="icon_s_cheongsam_girl.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052499">
+		<base name="치파오 걸 베이직 세트 (30일)" name_key="N4052499" attrib_comment_key="T4052499" sex="woman"/>
+		<graphic icon_image="icon_s_cheongsam_girl.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052500">
+		<base name="치파오 걸 베이직 세트 (내구제)" name_key="N4052500" attrib_comment_key="T4052500" sex="woman"/>
+		<graphic icon_image="icon_s_cheongsam_girl.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052501">
+		<base name="마샬아츠 레이디 베이직 세트 (7일)" name_key="N4052501" attrib_comment_key="T4052501" sex="woman"/>
+		<graphic icon_image="Icon_s_Taegeuk_w.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052502">
+		<base name="마샬아츠 레이디 베이직 세트 (15일)" name_key="N4052502" attrib_comment_key="T4052502" sex="woman"/>
+		<graphic icon_image="Icon_s_Taegeuk_w.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052503">
+		<base name="마샬아츠 레이디 베이직 세트 (30일)" name_key="N4052503" attrib_comment_key="T4052503" sex="woman"/>
+		<graphic icon_image="Icon_s_Taegeuk_w.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052504">
+		<base name="마샬아츠 레이디 베이직 세트 (내구제)" name_key="N4052504" attrib_comment_key="T4052504" sex="woman"/>
+		<graphic icon_image="Icon_s_Taegeuk_w.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052505">
+		<base name="신선조 프리미엄 세트 (툴팁용)" name_key="N4052505" attrib_comment_key="T4052505" sex="unisex"/>
+		<graphic icon_image="118_Samurai Package_set_M.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052506">
+		<base name="오리엔트 보이 프리미엄 세트 (툴팁용)" name_key="N4052506" attrib_comment_key="T4052506" sex="unisex"/>
+		<graphic icon_image="icon_s_orient_boy_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052507">
+		<base name="시노비 프리미엄 세트 (툴팁용)" name_key="N4052507" attrib_comment_key="T4052507" sex="unisex"/>
+		<graphic icon_image="icon_s_ninja_m_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052508">
+		<base name="오리엔탈 데빌 프리미엄 세트 (툴팁용)" name_key="N4052508" attrib_comment_key="T4052508" sex="unisex"/>
+		<graphic icon_image="Icon_s_ori_devil_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052509">
+		<base name="쿵푸 파이터 프리미엄 세트 (툴팁용)" name_key="N4052509" attrib_comment_key="T4052509" sex="unisex"/>
+		<graphic icon_image="icon_s_kungfu_fighter_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052510">
+		<base name="마샬아츠 프리미엄 세트 (툴팁용)" name_key="N4052510" attrib_comment_key="T4052510" sex="unisex"/>
+		<graphic icon_image="Icon_s_Taegeuk_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052511">
+		<base name="기모노 프리미엄 세트 (툴팁용)" name_key="N4052511" attrib_comment_key="T4052511" sex="unisex"/>
+		<graphic icon_image="118_Samurai Package_set_W"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052512">
+		<base name="오리엔트 걸 프리미엄 세트 (툴팁용)" name_key="N4052512" attrib_comment_key="T4052512" sex="unisex"/>
+		<graphic icon_image="icon_s_orient_girl_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052513">
+		<base name="쿠노이치 프리미엄 세트 (툴팁용)" name_key="N4052513" attrib_comment_key="T4052513" sex="unisex"/>
+		<graphic icon_image="icon_s_ninja_w_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052514">
+		<base name="오리엔탈 폭스 프리미엄 세트 (툴팁용)" name_key="N4052514" attrib_comment_key="T4052514" sex="unisex"/>
+		<graphic icon_image="icon_s_ori_fox_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052515">
+		<base name="치파오 걸  프리미엄 세트  (툴팁용)" name_key="N4052515" attrib_comment_key="T4052515" sex="unisex"/>
+		<graphic icon_image="icon_s_cheongsam_girl_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052516">
+		<base name="마샬아츠 레이디  프리미엄 세트 (툴팁용)" name_key="N4052516" attrib_comment_key="T4052516" sex="unisex"/>
+		<graphic icon_image="Icon_s_Taegeuk_w_1.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052517">
+		<base name="신선조 베이직 세트 (툴팁용)" name_key="N4052517" attrib_comment_key="T4052517" sex="unisex"/>
+		<graphic icon_image="118_Samurai Package_set_M.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052518">
+		<base name="오리엔트 보이 베이직 세트 (툴팁용)" name_key="N4052518" attrib_comment_key="T4052518" sex="unisex"/>
+		<graphic icon_image="icon_s_orient_boy.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052519">
+		<base name="시노비 베이직 세트 (툴팁용)" name_key="N4052519" attrib_comment_key="T4052519" sex="unisex"/>
+		<graphic icon_image="icon_s_ninja_m.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052520">
+		<base name="오리엔탈 데빌 베이직 세트 (툴팁용)" name_key="N4052520" attrib_comment_key="T4052520" sex="unisex"/>
+		<graphic icon_image="Icon_s_ori_devil.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052521">
+		<base name="쿵푸 파이터 베이직 세트 (툴팁용)" name_key="N4052521" attrib_comment_key="T4052521" sex="unisex"/>
+		<graphic icon_image="icon_s_kungfu_fighter.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052522">
+		<base name="마샬아츠 베이직 세트 (툴팁용)" name_key="N4052522" attrib_comment_key="T4052522" sex="unisex"/>
+		<graphic icon_image="Icon_s_Taegeuk.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052523">
+		<base name="기모노 베이직 세트 (툴팁용)" name_key="N4052523" attrib_comment_key="T4052523" sex="unisex"/>
+		<graphic icon_image="118_Samurai Package_set_W"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052524">
+		<base name="오리엔트 걸 베이직 세트 (툴팁용)" name_key="N4052524" attrib_comment_key="T4052524" sex="unisex"/>
+		<graphic icon_image="icon_s_orient_girl.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052525">
+		<base name="쿠노이치 베이직 세트 (툴팁용)" name_key="N4052525" attrib_comment_key="T4052525" sex="unisex"/>
+		<graphic icon_image="icon_s_ninja_w.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052526">
+		<base name="오리엔탈 폭스 베이직 세트 (툴팁용)" name_key="N4052526" attrib_comment_key="T4052526" sex="unisex"/>
+		<graphic icon_image="icon_s_ori_fox.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052527">
+		<base name="치파오 걸 베이직 세트 (툴팁용)" name_key="N4052527" attrib_comment_key="T4052527" sex="unisex"/>
+		<graphic icon_image="icon_s_cheongsam_girl.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052528">
+		<base name="마샬아츠 레이디 베이직 세트 (툴팁용)" name_key="N4052528" attrib_comment_key="T4052528" sex="unisex"/>
+		<graphic icon_image="Icon_s_Taegeuk_w.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="2000080">
+		<base name="비올라 카타나 (툴팁용)" name_key="N2000080" attrib_comment_key="T2000080" sex="unisex"/>
+		<graphic icon_image="icon_Viola_katana.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1070080">
+		<base name="황소자리 펫(툴팁용)" name_key="N1070080" attrib_comment_key="T1070080" sex="unisex"/>
+		<graphic icon_image="pet_taurus.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1070081">
+		<base name="양자리 펫(툴팁용)" name_key="N1070081" attrib_comment_key="T1070081" sex="unisex"/>
+		<graphic icon_image="pet_aries.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1021233">
+		<base name="코드네임-트리거 나노 수트(상체)" name_key="N1021233" attrib_comment_key="T1021233" sex="man"/>
+		<graphic icon_image="119_male_body.png" to_node_scene_file1="119_male_body_part1.scn" to_node_parent_node1="Bip01 Spine2" to_node_animation_part1="0" to_part_scene_file="119_male_body.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1031233">
+		<base name="코드네임-트리거 나노 수트(하체)" name_key="N1031233" attrib_comment_key="T1031233" sex="man"/>
+		<graphic icon_image="119_male_leg.png" to_part_scene_file="119_male_leg.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1041233">
+		<base name="코드네임-트리거 장갑" name_key="N1041233" attrib_comment_key="T1041233" sex="man"/>
+		<graphic icon_image="119_male_hand.png" to_part_scene_file="119_male_hand.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1051233">
+		<base name="코드네임-트리거 신발" name_key="N1051233" attrib_comment_key="T1051233" sex="man"/>
+		<graphic icon_image="119_male_foot.png" to_part_scene_file="119_male_foot.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1061233">
+		<base name="코드네임-트리거 헤드기어" name_key="N1061233" attrib_comment_key="T1061233" sex="man"/>
+		<graphic icon_image="119_male_acc.png" to_part_scene_file="119_male_acc.scn" hiding_option="hair_all,face_all"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1021234">
+		<base name="코드네임-Error404 나노 수트(상체)" name_key="N1021234" attrib_comment_key="T1021234" sex="woman"/>
+		<graphic icon_image="119_female_body.png" to_part_scene_file="119_female_body.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1031234">
+		<base name="코드네임-Error404 나노 수트(하체)" name_key="N1031234" attrib_comment_key="T1031234" sex="woman"/>
+		<graphic icon_image="119_female_leg.png" to_part_scene_file="119_female_leg.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1041234">
+		<base name="코드네임-Error404 장갑" name_key="N1041234" attrib_comment_key="T1041234" sex="woman"/>
+		<graphic icon_image="119_female_hand.png" to_part_scene_file="119_female_hand.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1051234">
+		<base name="코드네임-Error404 신발" name_key="N1051234" attrib_comment_key="T1051234" sex="woman"/>
+		<graphic icon_image="119_female_foot.png" to_part_scene_file="119_female_foot.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1061234">
+		<base name="코드네임-Error404 헤드기어" name_key="N1061234" attrib_comment_key="T1061234" sex="woman"/>
+		<graphic icon_image="119_female_acc.png" to_node_scene_file1="119_female_acc_part_1.scn" to_node_parent_node1="Bip01 Head" to_node_animation_part1="1" to_part_scene_file="119_female_acc.scn" hiding_option="hair_all"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4035495">
+		<base name="코드네임-트리거 캡슐" name_key="N4035495" attrib_comment_key="T4035495" sex="man"/>
+		<graphic icon_image="119_icon_G_M_1.png"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4035496">
+		<base name="코드네임-Error404 캡슐" name_key="N4035496" attrib_comment_key="T4035496" sex="woman"/>
+		<graphic icon_image="119_icon_c_project_w"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052401">
+		<base name="코드네임-트리거 세트 (1일)" name_key="N4052401" attrib_comment_key="T4052401" sex="man"/>
+		<graphic icon_image="119_icon_S_M_1.png"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052402">
+		<base name="코드네임-트리거 세트 (7일)" name_key="N4052402" attrib_comment_key="T4052402" sex="man"/>
+		<graphic icon_image="119_icon_S_M_1.png"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052403">
+		<base name="코드네임-트리거 세트 (30일)" name_key="N4052403" attrib_comment_key="T4052403" sex="man"/>
+		<graphic icon_image="119_icon_S_M_1.png"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052404">
+		<base name="코드네임-트리거 세트 (내구제)" name_key="N4052404" attrib_comment_key="T4052404" sex="man"/>
+		<graphic icon_image="119_icon_S_M_1.png"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052405">
+		<base name="코드네임-Error404 세트 (1일)" name_key="N4052405" attrib_comment_key="T4052405" sex="woman"/>
+		<graphic icon_image="119_icon_s_project_w"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052406">
+		<base name="코드네임-Error404 세트 (7일)" name_key="N4052406" attrib_comment_key="T4052406" sex="woman"/>
+		<graphic icon_image="119_icon_s_project_w"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052407">
+		<base name="코드네임-Error404 세트 (30일)" name_key="N4052407" attrib_comment_key="T4052407" sex="woman"/>
+		<graphic icon_image="119_icon_s_project_w"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="4052408">
+		<base name="코드네임-Error404 세트 (내구제)" name_key="N4052408" attrib_comment_key="T4052408" sex="woman"/>
+		<graphic icon_image="119_icon_s_project_w"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="2000079">
+		<base name="룰 브레이커" name_key="N2000079" attrib_comment_key="T2000079" sex="unisex"/>
+		<graphic icon_image="119_weapon_breaker_icon.dds"/>
+		<esperchip/>
+		<etc parent_number="13"/>
+		<sequence/>
+	</item>
+	<item item_key="4035497">
+		<base name="G의 룰 브레이커 캡슐" name_key="N4035497" attrib_comment_key="T4035497" sex="unisex"/>
+		<graphic icon_image="119_icon_breaker_weapon_F_G.dds"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1021235">
+		<base name="로봇 남자 상의" name_key="N1021235" attrib_comment_key="T1021235" sex="man"/>
+		<graphic icon_image="120_male_body.png" to_part_scene_file="120_male_body.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1031235">
+		<base name="로봇 남자 하의" name_key="N1031235" attrib_comment_key="T1031235" sex="man"/>
+		<graphic icon_image="120_male_leg.png" to_part_scene_file="120_male_leg.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1041235">
+		<base name="로봇 남자 장갑" name_key="N1041235" attrib_comment_key="T1041235" sex="man"/>
+		<graphic icon_image="120_male_hand.png" to_part_scene_file="120_male_hand.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1051235">
+		<base name="로봇 남자 신발" name_key="N1051235" attrib_comment_key="T1051235" sex="man"/>
+		<graphic icon_image="120_male_foot.png" to_part_scene_file="120_male_foot.scn"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1061235">
+		<base name="로봇 남자 장식" name_key="N1061235" attrib_comment_key="T1061235" sex="man"/>
+		<graphic icon_image="120_male_acc.png" to_part_scene_file="120_male_acc.scn" hiding_option="hair_all/face_all"/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1021236">
+		<base name="로봇 여자 상의" name_key="N1021236" attrib_comment_key="T1021236" sex="woman"/>
 		<graphic/>
 		<esperchip/>
 		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1031236">
+		<base name="로봇 여자 하의" name_key="N1031236" attrib_comment_key="T1031236" sex="woman"/>
+		<graphic/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1041236">
+		<base name="로봇 여자 장갑" name_key="N1041236" attrib_comment_key="T1041236" sex="woman"/>
+		<graphic/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1051236">
+		<base name="로봇 여자 신발" name_key="N1051236" attrib_comment_key="T1051236" sex="woman"/>
+		<graphic/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="1061236">
+		<base name="로봇 여자 장식" name_key="N1061236" attrib_comment_key="T1061236" sex="woman"/>
+		<graphic/>
+		<esperchip/>
+		<etc/>
+		<sequence/>
+	</item>
+	<item item_key="2020045">
+		<base name="유니크 헤비 머신건" name_key="N2020045" attrib_comment_key="T2020045" sex="unisex"/>
+		<graphic/>
+		<esperchip/>
+		<etc parent_number="1"/>
 		<sequence/>
 	</item>
 </itemlist>

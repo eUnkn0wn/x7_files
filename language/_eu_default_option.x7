@@ -8,10 +8,10 @@
 		<data id="4" value="on" />
 	</community>
 	<graphic>
-		<resolution width="1024" height="768" />
+		<resolution width="1600" height="900" /> 
 		<fullscreen value="true" />
 		<vsync value="false" />
-		<aspectratio value="4x3" />
+		<aspectratio value="USER" />
 		<brightness value="25" />
 		<quality value="normal" />
 		<showfps value="false" />

@@ -14838,4 +14838,577 @@
 	<item id="4030221">
 		<base/>
 	</item>
+	<item id="1021229">
+		<base/>
+	</item>
+	<item id="1031229">
+		<base/>
+	</item>
+	<item id="1041229">
+		<base/>
+	</item>
+	<item id="1051229">
+		<base/>
+	</item>
+	<item id="1021230">
+		<base/>
+	</item>
+	<item id="1031230">
+		<base/>
+	</item>
+	<item id="1041230">
+		<base/>
+	</item>
+	<item id="1051230">
+		<base/>
+	</item>
+	<item id="4035490">
+		<base/>
+	</item>
+	<item id="4035491">
+		<base/>
+	</item>
+	<item id="4052385">
+		<base/>
+	</item>
+	<item id="4052386">
+		<base/>
+	</item>
+	<item id="4052387">
+		<base/>
+	</item>
+	<item id="4052388">
+		<base/>
+	</item>
+	<item id="4052389">
+		<base/>
+	</item>
+	<item id="4052390">
+		<base/>
+	</item>
+	<item id="4052391">
+		<base/>
+	</item>
+	<item id="4052392">
+		<base/>
+	</item>
+	<item id="2010057">
+		<base diffi_key="DIFFI_NORMAL" effect_attrib_pen_key="EFFECT_PEN_ASSAULT" effect_attrib_cash_key="EFFECT_CASH_ASSAULT"/>
+	</item>
+	<item id="4035492">
+		<base/>
+	</item>
+	<item id="1001231">
+		<base/>
+	</item>
+	<item id="1011231">
+		<base/>
+	</item>
+	<item id="1021231">
+		<base/>
+	</item>
+	<item id="1031231">
+		<base/>
+	</item>
+	<item id="1041231">
+		<base/>
+	</item>
+	<item id="1051231">
+		<base/>
+	</item>
+	<item id="1001232">
+		<base/>
+	</item>
+	<item id="1011232">
+		<base/>
+	</item>
+	<item id="1021232">
+		<base/>
+	</item>
+	<item id="1031232">
+		<base/>
+	</item>
+	<item id="1041232">
+		<base/>
+	</item>
+	<item id="1051232">
+		<base/>
+	</item>
+	<item id="4052393">
+		<base/>
+	</item>
+	<item id="4052394">
+		<base/>
+	</item>
+	<item id="4052395">
+		<base/>
+	</item>
+	<item id="4052396">
+		<base/>
+	</item>
+	<item id="4052397">
+		<base/>
+	</item>
+	<item id="4052398">
+		<base/>
+	</item>
+	<item id="4052399">
+		<base/>
+	</item>
+	<item id="4052400">
+		<base/>
+	</item>
+	<item id="1021233">
+		<base/>
+	</item>
+	<item id="1031233">
+		<base/>
+	</item>
+	<item id="1041233">
+		<base/>
+	</item>
+	<item id="1051233">
+		<base/>
+	</item>
+	<item id="1061233">
+		<base/>
+	</item>
+	<item id="1021234">
+		<base/>
+	</item>
+	<item id="1031234">
+		<base/>
+	</item>
+	<item id="1041234">
+		<base/>
+	</item>
+	<item id="1051234">
+		<base/>
+	</item>
+	<item id="1061234">
+		<base/>
+	</item>
+	<item id="4035495">
+		<base/>
+	</item>
+	<item id="4035496">
+		<base/>
+	</item>
+	<item id="4052401">
+		<base/>
+	</item>
+	<item id="4052402">
+		<base/>
+	</item>
+	<item id="4052403">
+		<base/>
+	</item>
+	<item id="4052404">
+		<base/>
+	</item>
+	<item id="4052405">
+		<base/>
+	</item>
+	<item id="4052406">
+		<base/>
+	</item>
+	<item id="4052407">
+		<base/>
+	</item>
+	<item id="4052408">
+		<base/>
+	</item>
+	<item id="2000079">
+		<base diffi_key="DIFFI_NORMAL" effect_attrib_pen_key="EFFECT_PEN_BREAKER" effect_attrib_cash_key="EFFECT_CASH_BREAKER"/>
+	</item>
+	<item id="4035497">
+		<base/>
+	</item>
+	<item id="4035498">
+		<base/>
+	</item>
+	<item id="4035499">
+		<base/>
+	</item>
+	<item id="4035500">
+		<base/>
+	</item>
+	<item id="4035501">
+		<base/>
+	</item>
+	<item id="4035502">
+		<base/>
+	</item>
+	<item id="4035503">
+		<base/>
+	</item>
+	<item id="4052409">
+		<base/>
+	</item>
+	<item id="4052410">
+		<base/>
+	</item>
+	<item id="4052411">
+		<base/>
+	</item>
+	<item id="4052412">
+		<base/>
+	</item>
+	<item id="4052413">
+		<base/>
+	</item>
+	<item id="4052414">
+		<base/>
+	</item>
+	<item id="4052415">
+		<base/>
+	</item>
+	<item id="4052416">
+		<base/>
+	</item>
+	<item id="4052417">
+		<base/>
+	</item>
+	<item id="4052418">
+		<base/>
+	</item>
+	<item id="4052419">
+		<base/>
+	</item>
+	<item id="4052420">
+		<base/>
+	</item>
+	<item id="4052421">
+		<base/>
+	</item>
+	<item id="4052422">
+		<base/>
+	</item>
+	<item id="4052423">
+		<base/>
+	</item>
+	<item id="4052424">
+		<base/>
+	</item>
+	<item id="4052425">
+		<base/>
+	</item>
+	<item id="4052426">
+		<base/>
+	</item>
+	<item id="4052427">
+		<base/>
+	</item>
+	<item id="4052428">
+		<base/>
+	</item>
+	<item id="4052429">
+		<base/>
+	</item>
+	<item id="4052430">
+		<base/>
+	</item>
+	<item id="4052431">
+		<base/>
+	</item>
+	<item id="4052432">
+		<base/>
+	</item>
+	<item id="4052433">
+		<base/>
+	</item>
+	<item id="4052434">
+		<base/>
+	</item>
+	<item id="4052435">
+		<base/>
+	</item>
+	<item id="4052436">
+		<base/>
+	</item>
+	<item id="4052437">
+		<base/>
+	</item>
+	<item id="4052438">
+		<base/>
+	</item>
+	<item id="4052439">
+		<base/>
+	</item>
+	<item id="4052440">
+		<base/>
+	</item>
+	<item id="4052441">
+		<base/>
+	</item>
+	<item id="4052442">
+		<base/>
+	</item>
+	<item id="4052443">
+		<base/>
+	</item>
+	<item id="4052444">
+		<base/>
+	</item>
+	<item id="4052445">
+		<base/>
+	</item>
+	<item id="4052446">
+		<base/>
+	</item>
+	<item id="4052447">
+		<base/>
+	</item>
+	<item id="4052448">
+		<base/>
+	</item>
+	<item id="4052449">
+		<base/>
+	</item>
+	<item id="4052450">
+		<base/>
+	</item>
+	<item id="4052451">
+		<base/>
+	</item>
+	<item id="4052452">
+		<base/>
+	</item>
+	<item id="4052453">
+		<base/>
+	</item>
+	<item id="4052454">
+		<base/>
+	</item>
+	<item id="4052455">
+		<base/>
+	</item>
+	<item id="4052456">
+		<base/>
+	</item>
+	<item id="4052457">
+		<base/>
+	</item>
+	<item id="4052458">
+		<base/>
+	</item>
+	<item id="4052459">
+		<base/>
+	</item>
+	<item id="4052460">
+		<base/>
+	</item>
+	<item id="4052461">
+		<base/>
+	</item>
+	<item id="4052462">
+		<base/>
+	</item>
+	<item id="4052463">
+		<base/>
+	</item>
+	<item id="4052464">
+		<base/>
+	</item>
+	<item id="4052465">
+		<base/>
+	</item>
+	<item id="4052466">
+		<base/>
+	</item>
+	<item id="4052467">
+		<base/>
+	</item>
+	<item id="4052468">
+		<base/>
+	</item>
+	<item id="4052469">
+		<base/>
+	</item>
+	<item id="4052470">
+		<base/>
+	</item>
+	<item id="4052471">
+		<base/>
+	</item>
+	<item id="4052472">
+		<base/>
+	</item>
+	<item id="4052473">
+		<base/>
+	</item>
+	<item id="4052474">
+		<base/>
+	</item>
+	<item id="4052475">
+		<base/>
+	</item>
+	<item id="4052476">
+		<base/>
+	</item>
+	<item id="4052477">
+		<base/>
+	</item>
+	<item id="4052478">
+		<base/>
+	</item>
+	<item id="4052479">
+		<base/>
+	</item>
+	<item id="4052480">
+		<base/>
+	</item>
+	<item id="4052481">
+		<base/>
+	</item>
+	<item id="4052482">
+		<base/>
+	</item>
+	<item id="4052483">
+		<base/>
+	</item>
+	<item id="4052484">
+		<base/>
+	</item>
+	<item id="4052485">
+		<base/>
+	</item>
+	<item id="4052486">
+		<base/>
+	</item>
+	<item id="4052487">
+		<base/>
+	</item>
+	<item id="4052488">
+		<base/>
+	</item>
+	<item id="4052489">
+		<base/>
+	</item>
+	<item id="4052490">
+		<base/>
+	</item>
+	<item id="4052491">
+		<base/>
+	</item>
+	<item id="4052492">
+		<base/>
+	</item>
+	<item id="4052493">
+		<base/>
+	</item>
+	<item id="4052494">
+		<base/>
+	</item>
+	<item id="4052495">
+		<base/>
+	</item>
+	<item id="4052496">
+		<base/>
+	</item>
+	<item id="4052497">
+		<base/>
+	</item>
+	<item id="4052498">
+		<base/>
+	</item>
+	<item id="4052499">
+		<base/>
+	</item>
+	<item id="4052500">
+		<base/>
+	</item>
+	<item id="4052501">
+		<base/>
+	</item>
+	<item id="4052502">
+		<base/>
+	</item>
+	<item id="4052503">
+		<base/>
+	</item>
+	<item id="4052504">
+		<base/>
+	</item>
+	<item id="4052505">
+		<base/>
+	</item>
+	<item id="4052506">
+		<base/>
+	</item>
+	<item id="4052507">
+		<base/>
+	</item>
+	<item id="4052508">
+		<base/>
+	</item>
+	<item id="4052509">
+		<base/>
+	</item>
+	<item id="4052510">
+		<base/>
+	</item>
+	<item id="4052511">
+		<base/>
+	</item>
+	<item id="4052512">
+		<base/>
+	</item>
+	<item id="4052513">
+		<base/>
+	</item>
+	<item id="4052514">
+		<base/>
+	</item>
+	<item id="4052515">
+		<base/>
+	</item>
+	<item id="4052516">
+		<base/>
+	</item>
+	<item id="4052517">
+		<base/>
+	</item>
+	<item id="4052518">
+		<base/>
+	</item>
+	<item id="4052519">
+		<base/>
+	</item>
+	<item id="4052520">
+		<base/>
+	</item>
+	<item id="4052521">
+		<base/>
+	</item>
+	<item id="4052522">
+		<base/>
+	</item>
+	<item id="4052523">
+		<base/>
+	</item>
+	<item id="4052524">
+		<base/>
+	</item>
+	<item id="4052525">
+		<base/>
+	</item>
+	<item id="4052526">
+		<base/>
+	</item>
+	<item id="4052527">
+		<base/>
+	</item>
+	<item id="4052528">
+		<base/>
+	</item>
+	<item id="2000080">
+		<base/>
+	</item>
+	<item id="1070080">
+		<base/>
+	</item>
+	<item id="1070081">
+		<base/>
+	</item>
 </Item_tooltip_base>

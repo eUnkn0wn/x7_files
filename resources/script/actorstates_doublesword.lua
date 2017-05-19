@@ -210,3 +210,41 @@ function SwordJumpAtkState_DoubleSword_Glitch( state )
 	state:GetAnimParam( ANIMPARAMLIST_DELAY					):SetAnim( "SG013",		0,	50,	0,	LOOP_FALSE,	1.0, RESET_TRUE		);
 
 end	
+
+
+-------------------------------------------------------------------------------------------------------------
+-- STATE_SWORD_ATK_ATFER_DASH4,	부채 트윈 블레이드
+-------------------------------------------------------------------------------------------------------------
+function SwordAtkAfterDash4State_DoubleSword_fan( state )
+
+	state:AddSoundBySex( "Resources/Sound/voice_man_attack_1.ogg", "Resources/Sound/voice_girl_attack_1.ogg", "Bip01", 0, 2500 );
+	state:AddSequence( 0, "Resources/Effects/skill_doublesword_strike.seq", "", 500, 5000 );
+	state:AddSequence( 0, "Resources/Effects/116_weapon_SP_effect.seq", "", 0, 800 );
+	state:AddSequence( 0, "", "Resources/Sound/twinsword_wide.ogg", 0, 0 );
+
+	local index = 0;
+	local ANIMPARAMLIST_NORMAL		= index; index = index + 1;
+	local ANIMPARAMLIST_DELAY		= index; index = index + 1;
+				
+	state:GetAnimParam( ANIMPARAMLIST_NORMAL					):SetAnim( "SG014",		0,	200,	0,	LOOP_FALSE,	1.0, RESET_TRUE		);
+	state:GetAnimParam( ANIMPARAMLIST_DELAY						):SetAnim( "SG015",		0,	1000,	1000,	LOOP_FALSE,	1.0, RESET_TRUE	);
+
+end	
+
+-------------------------------------------------------------------------------------------------------------
+-- STATE_SWORD_JUMPATK,	WEAPONTYPE_DOUBLE_SWORD
+-------------------------------------------------------------------------------------------------------------
+function SwordJumpAtkState_DoubleSword_fan( state )
+
+	state:AddSoundBySex( "Resources/Sound/voice_man_attack_3.ogg", "Resources/Sound/voice_girl_attack_3.ogg", "Bip01", 0, 2500 );
+	state:AddSequence( 0, "Resources/Effects/116_weapon_jump_effect.seq", "", 0, 800 );
+	state:AddSequence( 0, "", "Resources/Sound/twinsword_jump.ogg", 0, 0 );
+
+	local index = 0;
+	local ANIMPARAMLIST_BEGIN		= index; index = index + 1;
+	local ANIMPARAMLIST_DELAY		= index; index = index + 1;
+				
+	state:GetAnimParam( ANIMPARAMLIST_BEGIN					):SetAnim( "SG012",		0,	50,	0,	LOOP_FALSE,	1.0, RESET_TRUE		);
+	state:GetAnimParam( ANIMPARAMLIST_DELAY					):SetAnim( "SG013",		0,	50,	0,	LOOP_FALSE,	1.0, RESET_TRUE		);
+
+end	

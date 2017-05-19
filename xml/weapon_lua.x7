@@ -1305,4 +1305,18 @@
 	<lua_func item_key="2000078" state="normal" ani="NormalState_DoubleSword"/>
 	<lua_func item_key="2000078" state="run" ani="RunState_DoubleSword"/>
 	<lua_func item_key="2000078" state="damage" ani="DamageState_DoubleSword"/>
+	<lua_func item_key="2010057" state="left_attack" weapon="StandardAssultRifleUnique" ani="UseWeapon1State_ASSULT_RIFLE_UNIQUE"/>
+	<lua_func item_key="2010057" state="normal" ani="NormalState_ASSULT_RIFLE_UNIQUE"/>
+	<lua_func item_key="2010057" state="run" ani="RunState_ASSULT_RIFLE_UNIQUE"/>
+	<lua_func item_key="2010057" state="damage" ani="DamageState_ASSULT_RIFLE"/>
+	<lua_func item_key="2010057" state="reload" ani="ReloadState_ASSULT_RIFLE_UNIQUE"/>
+	<lua_func item_key="2000079" state="right_attack" weapon="StandardBreakerAfterDash5" ani="UseWeapon2State_Breaker"/>
+	<lua_func item_key="2000079" state="left_weak" weapon="StandardBreakerAfterDash1" ani="SwordAtkAfterDash1State_Breaker"/>
+	<lua_func item_key="2000079" state="left_strong1" weapon="StandardBreakerStandAttack_Strong" ani="SwordAtkStrongState_Breaker"/>
+	<lua_func item_key="2000079" state="left_jump" weapon="StandardBreakerJumpDash" ani="SwordJumpAtkState_BreakerUnique"/>
+	<lua_func item_key="2000079" state="left_attack4" weapon="StandardBreakerAfterDash4" ani="SwordAtkAfterDash4State_Breaker"/>
+	<lua_func item_key="2000079" state="left_attack5" weapon="StandardBreakerGatherGuage" ani="SwordAtkAfterDash5State_Breaker"/>
+	<lua_func item_key="2000079" state="normal" ani="NormalState_Breaker"/>
+	<lua_func item_key="2000079" state="run" ani="RunState_Breaker"/>
+	<lua_func item_key="2000079" state="damage" ani="DamageState_Breaker"/>
 </weapon_lua_list>
