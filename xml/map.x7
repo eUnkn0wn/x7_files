@@ -105,6 +105,21 @@
 		<resourse bginfo_path="Resources/MapInfo/bginfo-new_deathmatch.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/"/>
 		<switch kr="dev" eu="off" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
 	</map>
+	<map id="23">
+		<base map_name_key="MAPNAME_2" mode_number="1" limit_player="12" index_number="23"/>
+		<resourse bginfo_path="Resources/MapInfo/bginfo-Neden01_G.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/neden01.tga"/>
+		<switch kr="off" eu="off" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
+	</map>
+	<map id="24">
+		<base map_name_key="MAPNAME_14" mode_number="1" limit_player="12" index_number="24"/>
+		<resourse bginfo_path="Resources/MapInfo/bginfo-Azit-EX_G.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/Azit-EX.tga"/>
+		<switch kr="off" eu="off" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
+	</map>
+	<map id="25">
+		<base map_name_key="MAPNAME_16" mode_number="1" limit_player="12" index_number="25"/>
+		<resourse bginfo_path="Resources/MapInfo/bginfo-NedenJ.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/NedenJ.tga"/>
+		<switch kr="off" eu="off" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
+	</map>
 	<map id="31">
 		<base map_name_key="MAPNAME_31" mode_number="5" limit_player="1" index_number="31"/>
 		<resourse bginfo_path="Resources/MapInfo/bginfo-lc_anc.ini"/>
@@ -250,6 +265,11 @@
 		<resourse bginfo_path="Resources/MapInfo/bginfo-Station3.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/station03.dds"/>
 		<switch kr="on" eu="on" cn="dev" th="new" tw="on" jp="dev" id="on" ph="on" sa="on"/>
 	</map>
+	<map id="73">
+		<base map_name_key="MAPNAME_66" mode_number="2" limit_player="16" index_number="73"/>
+		<resourse bginfo_path="Resources/MapInfo/bginfo-SStation02_G.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/s4station02.tga"/>
+		<switch kr="off" eu="off" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
+	</map>
 	<map id="91">
 		<base map_name_key="MAPNAME_91" mode_number="8" limit_player="12" index_number="91"/>
 		<resourse bginfo_path="Resources/MapInfo/bginfo-lily_office.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/office.tga"/>
@@ -349,6 +369,31 @@
 		<base map_name_key="MAPNAME_157" mode_number="9" limit_player="12" index_number="157"/>
 		<resourse bginfo_path="Resources/MapInfo/bginfo-city_highway_death.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/Highway01.tga"/>
 		<switch kr="off" eu="on" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
+	</map>
+	<map id="158">
+		<base map_name_key="MAPNAME_158" mode_number="1" limit_player="12" index_number="158"/>
+		<resourse bginfo_path="Resources/MapInfo/bginfo-bladecity_dm.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/bladecity.dds"/>
+		<switch kr="new" eu="on" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
+	</map>
+	<map id="171">
+		<base map_name_key="MAPNAME_171" mode_number="21" limit_player="8" index_number="171"/>
+		<resourse bginfo_path="Resources/MapInfo/bginfo-hyperium_pass.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/hyprium.tga"/>
+		<switch kr="off" eu="on" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
+	</map>
+	<map id="180">
+		<base map_name_key="MAPNAME_180" mode_number="22" limit_player="4" index_number="180"/>
+		<resourse bginfo_path="Resources/MapInfo/bginfo-Azit_snow.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/Azit.tga"/>
+		<switch kr="off" eu="off" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
+	</map>
+	<map id="181">
+		<base map_name_key="MAPNAME_181" mode_number="22" limit_player="6" index_number="181"/>
+		<resourse bginfo_path="Resources/MapInfo/bginfo-Azit-EX_snow.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/Azit-EX.tga"/>
+		<switch kr="off" eu="off" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
+	</map>
+	<map id="182">
+		<base map_name_key="MAPNAME_182" mode_number="22" limit_player="8" index_number="182"/>
+		<resourse bginfo_path="Resources/MapInfo/bginfo-luna2_snow.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/luna-2.tga"/>
+		<switch kr="off" eu="off" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
 	</map>
 	<map id="200">
 		<base map_name_key="MAPNAME_200" mode_number="12" limit_player="4" index_number="200"/>
@@ -460,39 +505,39 @@
 		<resourse bginfo_path="Resources/MapInfo/bginfo-tuto_test.ini"/>
 		<switch kr="on" eu="on" cn="off" th="on" tw="on" jp="on" id="on" ph="on" sa="on"/>
 	</map>
-	<map id="999">
-		<base map_name_key="MAPNAME_1" mode_number="1" limit_player="12" index_number="999"/>
+	<map id="993">
+		<base map_name_key="MAPNAME_1" mode_number="14" limit_player="12" index_number="993"/>
 		<resourse bginfo_path="Resources/MapInfo/bginfo-random.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/random.dds"/>
-		<switch kr="on" eu="on" cn="off" th="off" tw="off" jp="on" id="on" ph="off" sa="off"/>
-	</map>
-	<map id="998">
-		<base map_name_key="MAPNAME_1" mode_number="2" limit_player="12" index_number="998"/>
-		<resourse bginfo_path="Resources/MapInfo/bginfo-random.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/random.dds"/>
-		<switch kr="on" eu="on" cn="off" th="off" tw="off" jp="on" id="on" ph="off" sa="off"/>
-	</map>
-	<map id="997">
-		<base map_name_key="MAPNAME_1" mode_number="8" limit_player="12" index_number="997"/>
-		<resourse bginfo_path="Resources/MapInfo/bginfo-random.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/random.dds"/>
-		<switch kr="on" eu="on" cn="off" th="off" tw="off" jp="on" id="on" ph="off" sa="off"/>
-	</map>
-	<map id="996">
-		<base map_name_key="MAPNAME_1" mode_number="9" limit_player="12" index_number="996"/>
-		<resourse bginfo_path="Resources/MapInfo/bginfo-random.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/random.dds"/>
-		<switch kr="on" eu="on" cn="off" th="off" tw="off" jp="on" id="on" ph="off" sa="off"/>
-	</map>
-	<map id="995">
-		<base map_name_key="MAPNAME_1" mode_number="10" limit_player="12" index_number="995"/>
-		<resourse bginfo_path="Resources/MapInfo/bginfo-random.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/random.dds"/>
-		<switch kr="on" eu="on" cn="off" th="off" tw="off" jp="on" id="on" ph="off" sa="off"/>
+		<switch kr="on" eu="on" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
 	</map>
 	<map id="994">
 		<base map_name_key="MAPNAME_1" mode_number="11" limit_player="12" index_number="994"/>
 		<resourse bginfo_path="Resources/MapInfo/bginfo-random.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/random.dds"/>
-		<switch kr="on" eu="on" cn="off" th="off" tw="off" jp="on" id="on" ph="off" sa="off"/>
+		<switch kr="on" eu="on" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
 	</map>
-	<map id="993">
-		<base map_name_key="MAPNAME_1" mode_number="14" limit_player="12" index_number="993"/>
+	<map id="995">
+		<base map_name_key="MAPNAME_1" mode_number="10" limit_player="12" index_number="995"/>
 		<resourse bginfo_path="Resources/MapInfo/bginfo-random.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/random.dds"/>
-		<switch kr="on" eu="on" cn="off" th="off" tw="off" jp="on" id="on" ph="off" sa="off"/>
+		<switch kr="on" eu="on" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
+	</map>
+	<map id="996">
+		<base map_name_key="MAPNAME_1" mode_number="9" limit_player="12" index_number="996"/>
+		<resourse bginfo_path="Resources/MapInfo/bginfo-random.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/random.dds"/>
+		<switch kr="on" eu="on" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
+	</map>
+	<map id="997">
+		<base map_name_key="MAPNAME_1" mode_number="8" limit_player="12" index_number="997"/>
+		<resourse bginfo_path="Resources/MapInfo/bginfo-random.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/random.dds"/>
+		<switch kr="on" eu="on" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
+	</map>
+	<map id="998">
+		<base map_name_key="MAPNAME_1" mode_number="2" limit_player="12" index_number="998"/>
+		<resourse bginfo_path="Resources/MapInfo/bginfo-random.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/random.dds"/>
+		<switch kr="on" eu="on" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
+	</map>
+	<map id="999">
+		<base map_name_key="MAPNAME_1" mode_number="1" limit_player="12" index_number="999"/>
+		<resourse bginfo_path="Resources/MapInfo/bginfo-random.ini" previewinfo_path="Resources/XUI/Image/Lobby/Map_select/random.dds"/>
+		<switch kr="on" eu="on" cn="off" th="off" tw="off" jp="off" id="off" ph="off" sa="off"/>
 	</map>
 </maplist>

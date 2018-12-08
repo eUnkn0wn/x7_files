@@ -5,7 +5,7 @@
 	<weapon type="1" sceneIndex="1" attackAttach="Bip01 L Forearm" link="1"/>
 	<weapon type="2" sceneIndex="0" attackAttach="R_Hand_Dummy" link="0" idleAttach="Gun_Dummy"/>
 	<weapon type="2" sceneIndex="1" attackAttach="L_Hand_Dummy" link="0" idleAttach="Gun_Dummy"/>
-	<weapon type="3" sceneIndex="0" attackAttach="R_Hand_Dummy" link="0" idleAttach="Spine_Dummy"/>
+	<weapon type="3" sceneIndex="0" attackAttach="R_Hand_Dummy" link="0" idleAttach="Gun_Dummy"/>
 	<weapon type="4" sceneIndex="0" attackAttach="R_Hand_Dummy" link="0" idleAttach="Gun_Dummy"/>
 	<weapon type="5" sceneIndex="0" attackAttach="L_Hand_Dummy" link="0" idleAttach="Spine_Dummy"/>
 	<weapon type="6" sceneIndex="0" attackAttach="R_Hand_Dummy" link="0" idleAttach="Spine_Dummy"/>

@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TimeDelayList>
+	<DelayAction SvrType="0">
+		<protocol_idx value="0"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="0"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="1"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="2"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="3"/>
+		<protocol_delaytime value="200"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="4"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="5"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="6"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="7"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="8"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="9"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="10"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="11"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="12"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="13"/>
+		<protocol_delaytime value="10000"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="14"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="15"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="16"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="17"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="18"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="19"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="20"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="21"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="22"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="23"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="24"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="25"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="26"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="27"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="28"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="29"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="30"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="31"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="32"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="33"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="34"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="35"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="36"/>
+		<protocol_delaytime value="30000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="37"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="38"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="39"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="40"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="41"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="42"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="43"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="44"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="45"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="46"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="47"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="48"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="49"/>
+		<protocol_delaytime value="20000"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="50"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="51"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="52"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="53"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="54"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="55"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="56"/>
+		<protocol_delaytime value="10"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="57"/>
+		<protocol_delaytime value="10"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="58"/>
+		<protocol_delaytime value="30"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="59"/>
+		<protocol_delaytime value="5000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="60"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="61"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="62"/>
+		<protocol_delaytime value="50"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="63"/>
+		<protocol_delaytime value="50"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="64"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="65"/>
+		<protocol_delaytime value="50"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="66"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="67"/>
+		<protocol_delaytime value="10"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="68"/>
+		<protocol_delaytime value="500"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="69"/>
+		<protocol_delaytime value="500"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="70"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="71"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="72"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="73"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="74"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="75"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="76"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="77"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="78"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="79"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="80"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="81"/>
+		<protocol_delaytime value="50"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="82"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="83"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="84"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="85"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="86"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="87"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="88"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="89"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="90"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="91"/>
+		<protocol_delaytime value="30"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="92"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="93"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="94"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="95"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="96"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="97"/>
+		<protocol_delaytime value="10"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="98"/>
+		<protocol_delaytime value="10"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="99"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="100"/>
+		<protocol_delaytime value="30"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="101"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="102"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="103"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="104"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="105"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="106"/>
+		<protocol_delaytime value="500"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="107"/>
+		<protocol_delaytime value="50"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="108"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="109"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="110"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="111"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="112"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="113"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="114"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="115"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="116"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="117"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="118"/>
+		<protocol_delaytime value="100"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="119"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="120"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="121"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="122"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="123"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="124"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="125"/>
+		<protocol_delaytime value="300"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="126"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="127"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="128"/>
+		<protocol_delaytime value="50"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="129"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="130"/>
+		<protocol_delaytime value="100"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="131"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="132"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="133"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="134"/>
+		<protocol_delaytime value="500"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="135"/>
+		<protocol_delaytime value="500"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="136"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="137"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="138"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="139"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="140"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="141"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="142"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="143"/>
+		<protocol_delaytime value="100"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="144"/>
+		<protocol_delaytime value="100"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="145"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="146"/>
+		<protocol_delaytime value="100"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="147"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="148"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="149"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="150"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="151"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="152"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="153"/>
+		<protocol_delaytime value="500"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="154"/>
+		<protocol_delaytime value="500"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="155"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="156"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="157"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="158"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="159"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="160"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="161"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="162"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="163"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="164"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="165"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="166"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="167"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="168"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="169"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="170"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="171"/>
+		<protocol_delaytime value="100"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="172"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="173"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="174"/>
+		<protocol_delaytime value="300"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="1">
+		<protocol_idx value="175"/>
+		<protocol_delaytime value="0"/>
+		<delay_use value="off"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="0"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="1"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="2"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="3"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="4"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="5"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="6"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="7"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="8"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="9"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="10"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="11"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="12"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="13"/>
+		<protocol_delaytime value="50000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="14"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="15"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="16"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="17"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="18"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="19"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="20"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="21"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="22"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="23"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="24"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="25"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="26"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="27"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="28"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="29"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="30"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="31"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="32"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="33"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="34"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="35"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="36"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="37"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="38"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="39"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="40"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="41"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="42"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="43"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="44"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="45"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="46"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="47"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="48"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="49"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="50"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="51"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="52"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="53"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="54"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="55"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="56"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="57"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="58"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="59"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="60"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="61"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="62"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="63"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="64"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="65"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="66"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="2">
+		<protocol_idx value="67"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+	<DelayAction SvrType="3">
+		<protocol_idx value="1"/>
+		<protocol_delaytime value="1000"/>
+		<delay_use value="on"/>
+	</DelayAction>
+</TimeDelayList>

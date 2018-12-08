@@ -181,16 +181,16 @@
 		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_RELOAD" control_comment_key_3="CON_STATIONARY"/>
 	</item>
 	<item id="2030001">
-		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_left_holdon.tga" control_icon_3="con_reload.tga" control_icon_4="con_right_click.tga"/>
-		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_CHARGE" control_comment_key_3="CON_RELOAD" control_comment_key_4="CON_ZOOM"/>
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_right_holdon.tga" control_icon_3="con_reload.tga"/>
+		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_ZOOM_CHARGE" control_comment_key_3="CON_RELOAD"/>
 	</item>
 	<item id="2030002">
 		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_left_holdon.tga" control_icon_3="con_reload.tga" control_icon_4="con_right_click.tga"/>
 		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_CHARGE" control_comment_key_3="CON_RELOAD" control_comment_key_4="CON_ZOOM"/>
 	</item>
 	<item id="2030003">
-		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_left_holdon.tga" control_icon_3="con_reload.tga" control_icon_4="con_right_click.tga"/>
-		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_CHARGE" control_comment_key_3="CON_RELOAD" control_comment_key_4="CON_ZOOM"/>
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_right_holdon.tga" control_icon_3="con_reload.tga"/>
+		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_ZOOM_CHARGE" control_comment_key_3="CON_RELOAD"/>
 	</item>
 	<item id="2030004">
 		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_left_holdon.tga" control_icon_3="con_reload.tga" control_icon_4="con_right_click.tga"/>
@@ -385,8 +385,8 @@
 		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_UPPER" control_comment_key_3="CON_GUARD" control_comment_key_4="CON_JUMP_ATTACK"/>
 	</item>
 	<item id="2030007">
-		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_left_holdon.tga" control_icon_3="con_reload.tga" control_icon_4="con_right_click.tga"/>
-		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_CHARGE" control_comment_key_3="CON_RELOAD" control_comment_key_4="CON_ZOOM"/>
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_right_holdon.tga" control_icon_3="con_reload.tga"/>
+		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_ZOOM_CHARGE" control_comment_key_3="CON_RELOAD"/>
 	</item>
 	<item id="2000026">
 		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_left_holdon.tga" control_icon_3="con_right_holdon.tga" control_icon_4="con_space_left_click.tga"/>
@@ -521,8 +521,8 @@
 		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_JUMP_ATTACK" control_comment_key_3="CON_STRONG_ATTACK"/>
 	</item>
 	<item id="2020012">
-		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_reload.tga" control_icon_3="con_right_click.tga"/>
-		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_RELOAD" control_comment_key_3="CON_SPECIAL_ATTACK"/>
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_reload.tga"/>
+		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_RELOAD"/>
 	</item>
 	<item id="2000039">
 		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_left_holdon.tga" control_icon_3="con_right_click.tga"/>
@@ -665,8 +665,8 @@
 		<control_info control_comment_key_1="CON_ACTIVITY"/>
 	</item>
 	<item id="2030009">
-		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_left_holdon.tga" control_icon_3="con_reload.tga" control_icon_4="con_right_click.tga"/>
-		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_CHARGE" control_comment_key_3="CON_RELOAD" control_comment_key_4="CON_ZOOM"/>
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_right_holdon.tga" control_icon_3="con_reload.tga"/>
+		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_ZOOM_CHARGE" control_comment_key_3="CON_RELOAD"/>
 	</item>
 	<item id="2000056">
 		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_left_holdon.tga" control_icon_3="con_right_click.tga"/>
@@ -737,16 +737,16 @@
 		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_DASH_ATTACK"/>
 	</item>
 	<item id="2000067">
-		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_right_click.tga"/>
-		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_DASH_ATTACK"/>
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_left_holdon.tga" control_icon_3="con_right_click.tga" control_icon_4="con_space_left_click.tga"/>
+		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_STRONG_ATTACK" control_comment_key_3="CON_DASH_ATTACK" control_comment_key_4="CON_JUMP_ATTACK"/>
 	</item>
 	<item id="2000068">
-		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_right_click.tga"/>
-		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_DASH_ATTACK"/>
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_left_holdon.tga" control_icon_3="con_right_click.tga" control_icon_4="con_space_left_click.tga"/>
+		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_STRONG_ATTACK" control_comment_key_3="CON_DASH_ATTACK" control_comment_key_4="CON_JUMP_ATTACK"/>
 	</item>
 	<item id="2000069">
-		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_right_click.tga"/>
-		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_DASH_ATTACK"/>
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_left_holdon.tga" control_icon_3="con_right_click.tga" control_icon_4="con_space_left_click.tga"/>
+		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_STRONG_ATTACK" control_comment_key_3="CON_DASH_ATTACK" control_comment_key_4="CON_JUMP_ATTACK"/>
 	</item>
 	<item id="2000070">
 		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_right_click.tga"/>
@@ -809,6 +809,58 @@
 		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_RELOAD"/>
 	</item>
 	<item id="2000079">
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_right_holdon.tga" control_icon_3="con_space_left_click.tga"/>
+		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_CHARGE_WIDE_ATTACK" control_comment_key_3="CON_JUMP_ATTACK"/>
+	</item>
+	<item id="2020045">
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_reload.tga"/>
+		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_RELOAD"/>
+	</item>
+	<item id="2030010">
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_right_holdon.tga" control_icon_3="con_reload.tga"/>
+		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_ZOOM_CHARGE" control_comment_key_3="CON_RELOAD"/>
+	</item>
+	<item id="2000080">
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_left_holdon.tga" control_icon_3="con_right_click.tga" control_icon_4="con_space_left_click.tga"/>
+		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_STRONG_ATTACK" control_comment_key_3="CON_DASH_ATTACK" control_comment_key_4="CON_JUMP_ATTACK"/>
+	</item>
+	<item id="2010058">
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_reload.tga"/>
+		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_RELOAD"/>
+	</item>
+	<item id="2000081">
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_right_click.tga"/>
+		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_DASH_ATTACK"/>
+	</item>
+	<item id="2010059">
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_reload.tga"/>
+		<control_info control_comment_key_1="CON_LEFT_SHOT" control_comment_key_2="CON_RELOAD"/>
+	</item>
+	<item id="2000083">
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_right_click.tga"/>
+		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_DASH_ATTACK"/>
+	</item>
+	<item id="2000082">
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_right_click.tga" control_icon_3="con_space_left_click.tga"/>
+		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_STORM" control_comment_key_3="CON_JUMP_ATTACK"/>
+	</item>
+	<item id="2050015">
+		<control_icon control_icon_1="con_left_click.tga"/>
+		<control_info control_comment_key_1="CON_LEFT_THROW"/>
+	</item>
+	<item id="2050016">
+		<control_icon control_icon_1="con_left_click.tga"/>
+		<control_info control_comment_key_1="CON_LEFT_THROW"/>
+	</item>
+	<item id="2000084">
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_left_holdon.tga" control_icon_3="con_right_holdon.tga" control_icon_4="con_space_left_click.tga"/>
+		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_UPPER" control_comment_key_3="CON_GUARD" control_comment_key_4="CON_JUMP_ATTACK"/>
+	</item>
+	<item id="2000085">
+		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_left_holdon.tga" control_icon_3="con_right_click.tga"/>
+		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_STRONG_ATTACK" control_comment_key_3="CON_UPPER" control_comment_key_4="CON_JUMP_ATTACK"/>
+	</item>
+	<item id="2000086">
 		<control_icon control_icon_1="con_left_click.tga" control_icon_2="con_right_holdon.tga" control_icon_3="con_space_left_click.tga"/>
 		<control_info control_comment_key_1="CON_WEAK_ATTACK" control_comment_key_2="CON_CHARGE_WIDE_ATTACK" control_comment_key_3="CON_JUMP_ATTACK"/>
 	</item>

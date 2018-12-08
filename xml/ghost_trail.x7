@@ -4,6 +4,7 @@
 	<trail type="0" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_two_hand_sword_02" texture="Resources/Image/gi2.tga" blendType="0"/>
 	<trail type="1" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_counter_sword_01" texture="Resources/Image/gi.tga" blendType="0"/>
 	<trail type="1" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_counter_sword_02" texture="Resources/Image/gi2.tga" blendType="0"/>
+	<trail type="1" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_counter_sword_03" texture="Resources/Image/125_weapon_GhostTrail.dds" blendType="0"/>
 	<trail type="13" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_bat_sword_01" texture="Resources/Image/bi_atex.tga" blendType="1"/>
 	<trail type="13" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_bat_sword_02" texture="Resources/Image/crash_bat_gt.dds" blendType="1"/>
 	<trail type="14" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_katana_sword_01" texture="Resources/Image/gi.tga" blendType="0"/>
@@ -20,8 +21,8 @@
 	<trail type="24" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_SpyDagger_08" texture="Resources/Image/gi_ice" blendType="0"/>
 	<trail type="26" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_Double_sword_01" texture="Resources/Image/di.tga" blendType="0"/>
 	<trail type="26" sceneIndex="1" shapeName="Line01" trailNodeName="GhostTrail_Double_sword_02" texture="Resources/Image/di2.tga" blendType="0"/>
-	<trail type="33" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_Breaker_01" texture="Resources/Image/hm.tga" blendType="0"/>
-	<trail type="33" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_Breaker_02" texture="Resources/Image/hm2.tga" blendType="0"/>
+	<trail type="33" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_Breaker_01" texture="Resources/Image/hm.dds" blendType="0"/>
+	<trail type="33" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_Breaker_02" texture="Resources/Image/hm2.dds" blendType="0"/>
 	<trail type="38" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_sigma_blade_01" texture="Resources/Image/sigma.dds" blendType="0"/>
 	<trail type="38" sceneIndex="1" shapeName="Line01" trailNodeName="GhostTrail_sigma_blade_02" texture="Resources/Image/sigma_change.dds" blendType="1"/>
 	<trail type="38" sceneIndex="0" shapeName="Line01" trailNodeName="GhostTrail_magma_blade_01" texture="Resources/Image/burn_sigma.dds" blendType="0"/>

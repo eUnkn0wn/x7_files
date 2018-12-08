@@ -9,7 +9,7 @@
 				<fre value="Stage 1" />
 				<spa value="Nivel 1" />
 				<ita value="Fase 1" />
-				<rus value="Уровень 1" />
+				<rus value="Этап 1" />
 				<ame value="Stage 1" />
 				<tur value="Aşama 1" />
 				<cns value="Stage 1" />
@@ -43,7 +43,7 @@
 				<fre value="Stage 2" />
 				<spa value="Nivel 2" />
 				<ita value="Fase 2" />
-				<rus value="Уровень 2" />
+				<rus value="Этап 2" />
 				<ame value="Stage 2" />
 				<tur value="Aşama 2" />
 				<cns value="Stage 2" />
@@ -59,7 +59,7 @@
 				<fre value="Altercation avec Taejo" />
 				<spa value="Alboroto de Taejo" />
 				<ita value="L&apos;agitazione di Taejo" />
-				<rus value="Опасение Taejo" />
+				<rus value="Опасение Таэхо" />
 				<ame value="Taejo&apos;s disturbance" />
 				<tur value="Taejo&apos;s disturbance" />
 				<cns value="Taejo&apos;s disturbance" />
@@ -77,7 +77,7 @@
 				<fre value="Stage 3" />
 				<spa value="Nivel 3" />
 				<ita value="Fase 3" />
-				<rus value="Уровень 3" />
+				<rus value="Этап 3" />
 				<ame value="Stage 3" />
 				<tur value="Aşama 3" />
 				<cns value="Stage 3" />
@@ -111,7 +111,7 @@
 				<fre value="Stage 4" />
 				<spa value="Nivel 4" />
 				<ita value="Fase 4" />
-				<rus value="Уровень 4" />
+				<rus value="Этап 4" />
 				<ame value="Stage 4" />
 				<tur value="Aşama 4" />
 				<cns value="Stage 4" />
@@ -127,7 +127,7 @@
 				<fre value="Taejo est blessé" />
 				<spa value="Taejo herido" />
 				<ita value="Taejo è ferito" />
-				<rus value="Раненый Taejo" />
+				<rus value="Раненый Таэхо" />
 				<ame value="Wounded taejo" />
 				<tur value="Wounded taejo" />
 				<cns value="Wounded taejo" />
@@ -145,7 +145,7 @@
 				<fre value="Stage 5" />
 				<spa value="Nivel 5" />
 				<ita value="Fase 5" />
-				<rus value="Уровень 5" />
+				<rus value="Этап 5" />
 				<ame value="Stage 5" />
 				<tur value="Aşama 5" />
 				<cns value="Stage 5" />
@@ -161,7 +161,7 @@
 				<fre value="Monk" />
 				<spa value="Monk" />
 				<ita value="Il monaco" />
-				<rus value="Monk" />
+				<rus value="Монах" />
 				<ame value="Monk" />
 				<cns value="Monk" />
 				<tha value="Monk" />
@@ -179,7 +179,7 @@
 				<fre value="Stage 6" />
 				<spa value="Nivel 6" />
 				<ita value="Fase 6" />
-				<rus value="Уровень 6" />
+				<rus value="Этап 6" />
 				<ame value="Stage 6" />
 				<cns value="Stage 6" />
 				<tha value="Stage 6" />
@@ -213,7 +213,7 @@
 				<fre value="Stage 7" />
 				<spa value="Nivel 7" />
 				<ita value="Fase 7" />
-				<rus value="Уровень 7" />
+				<rus value="Этап 7" />
 				<ame value="Stage 7" />
 				<cns value="Stage 7" />
 				<tha value="Stage 7" />
@@ -247,7 +247,7 @@
 				<fre value="Stage 8" />
 				<spa value="Nivel 8" />
 				<ita value="Fase 8" />
-				<rus value="Уровень 8" />
+				<rus value="Этап 8" />
 				<ame value="Stage 8" />
 				<cns value="Stage 8" />
 				<tha value="Stage 8" />
@@ -282,7 +282,7 @@
 			<fre value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 1 Entraînement]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objectif de la Mission - Dominer les robots d&apos;entraînement{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tu dois dominer tous les robots d&apos;entraînement pendant le temps imparti.{N}- Les Training Robots ne font pas d&apos;attaques critiques.{N}- Fais bien attention aux deux formations d&apos;attaque qui réagissent en fonction des HP du Master Robot." />
 			<spa value="{F-2002_20}{S-S}{CB-255,255,255,255}[Nivel 1 Entrenamiento]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objetivo de la misión – Dominar a los robots de entrenamiento{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tienes que dominar a todos los robots de entrenamiento dentro del tiempo límite.{N}- Los Robots de entrenamiento están libres de ataques severos.{N}- Ten cuidado con los dos patrones de que reaccionan al HP del Robot Master." />
 			<ita value="{F-2002_20}{S-S}{CB-255,255,255,255}[Fase 1: allenamento]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Obbiettivo: batti i robot per l&apos;allenamento{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Devi eliminare tutti i robot per l&apos;allenamento entro il tempo limite.{N}- I Training Robot possono attaccare da dietro.{N}- Attento agli attacchi doppi, influenzati dagli HP del Master Robot." />
-			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Уровень 1 Тренировка]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Миссия - Уничтожить тренировочных роботов{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Необходимо уничтожить всех роботов за отведенное время.{N}- Роботы атакуют толпой.{N}- Опасайтесь двух атак, которые реагируют на HP Главного Робота." />
+			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Тренировка. Этап 1]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Задача: доминируй над учебными роботами{N}{F-2002_12}{S-S}{CB-255,255,255,255}- За ограниченное время нужно доминировать над всеми учебными роботами.{N}- У учебных роботов нет атаки сзади.{N}- Берегись двух типов атаки, зависящих от HP Главного робота." />
 			<ame value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 1 Training]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - Dominate training robots{N}{F-2002_12}{S-S}{CB-255,255,255,255}- You have to dominate all of the training robots within the time limit.{N}- Training Robots are free from stern attack.{N}- Be cautious of the two attack patterns which react to the HP of the Master Robot." />
 			<tha value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 1 Training]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - กำจัดหุ่นยนต์ให้สิ้นซาก{N}{F-2002_12}{S-S}{CB-255,255,255,255}- กำจัดหุ่นยนต์ฝึกซ้อมให้ทันเวลาที่กำหนด{N}- ผู้เล่นไม่สามารถทำความเสียหายต่อหุ่นยนต์ฝึกซ้อมด้วยการโจมตีทางอากาศ{N}- ระวังการโจมตีสองรูปแบบที่หุ่นยนต์ Boss จะโจมตีใส่ตามอัตราค่า HP ที่เหลืออยู่" />
 			<twn value="{F-2002_20}{S-S}{CB-255,255,255,255}[關卡 1 訓練]{N}{F-2002_15}{S-S}{CB-255,255,0,255}任務目標- 壓制訓練機器人{N}{F-2002_12}{S-S}{CB-255,255,255,255}- 在現制時間內必須要壓制所有訓練機記人。{N}- 訓練機記人不會到擊暈攻擊的影響。{N}- 依據大師機器人的體力，會有兩種攻擊模式，請注意。" />
@@ -297,7 +297,7 @@
 			<fre value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 2-1 Altercation]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objectif de la mission - Dominer les membres du fan club de Taejo{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tu dois dominer tous les membres du fan club pendant le temps imparti." />
 			<spa value="{F-2002_20}{S-S}{CB-255,255,255,255}[Nivel 2-1 Alboroto]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objetivo de la misión – Dominar a los miembros del fan club de Taejo{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tienes que dominar a todos los miembros del fan club dentro del tiempo límite." />
 			<ita value="{F-2002_20}{S-S}{CB-255,255,255,255}[Fase 2-1: i tumulti]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Obbiettivo: sconfiggi i membri del fan club di Taejo{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Devi eliminare tutti i membri del fan club entro il tempo limite." />
-			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Уровень 2-1 Опасение]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Миссия - Победите участников фан клуба Taejo{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Необходимо победить всех участников клуба за отведенное время." />
+			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Этап 2-1 Помеха]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Задача: дминируй над членами фан-клуба Таэхо{N}{F-2002_12}{S-S}{CB-255,255,255,255}- За ограниченное время нужно доминировать над всеми членами фан-клуба." />
 			<ame value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 2-1 Disturbance]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - Dominate the members of Taejo&apos;s fan club{N}{F-2002_12}{S-S}{CB-255,255,255,255}- You have to dominate all members of the fan club within time limit." />
 			<tha value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 2-1 Disturbance]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - กำจัดพวก Taejo&apos;s fan club{N}{F-2002_12}{S-S}{CB-255,255,255,255}- ผู้เล่นจะต้องกำจัด Taejo&apos;s fan club ทั้งหมดภายในเวลาจำกัด" />
 			<twn value="{F-2002_20}{S-S}{CB-255,255,255,255}[關卡 2-1 妨害]{N}{F-2002_15}{S-S}{CB-255,255,0,255}任務目標- 壓制太祖粉絲團的會員們{N}{F-2002_12}{S-S}{CB-255,255,255,255}- 在限制時間內壓制所有粉絲團會員。" />
@@ -312,7 +312,7 @@
 			<fre value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 2-2 Fan Club]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objectif de la mission - Domine les exécutifs du fan club de Taejo{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tu dois dominer tout les exécutifs du fan club de Taejo pendant le temps imparti." />
 			<spa value="{F-2002_20}{S-S}{CB-255,255,255,255}[Nivel 2-2 Fan Club]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objetivo de la misión – Dominar a los ejecutivos del fan club de Taejo{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tienes que dominar a todos los ejecutivos del fan club dentro del tiempo límite." />
 			<ita value="{F-2002_20}{S-S}{CB-255,255,255,255}[Fase 2-2: fan club]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Obbiettivo: sconfiggi tutti gli esponenti del fan club di Taejo{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Devi eliminare tutti gli esponenti del fun club di Taejo entro il tempo limite." />
-			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Уровень 2-2 Фан Клуб]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Миссия - Победите руководителей фан клуба Taejo{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Необходимо победить всех руководителей клуба за отведенное время." />
+			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Этап 2-2 Фан-клуб]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Задача: доминируй над членами фан-клуба Таэхо{N}{F-2002_12}{S-S}{CB-255,255,255,255}- За ограниченное время нужно доминировать над всеми членами фан-клуба." />
 			<ame value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 2-2 Fan Club]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - Dominate the executives of Taejo&apos;s fan club{N}{F-2002_12}{S-S}{CB-255,255,255,255}- You have to dominate all of the executives of Taejo&apos;s fan club within time limit." />
 			<tha value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 2-2 Fan Club]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - กำจัดผู้จัดการของ Taejo&apos;s fan club{N}{F-2002_12}{S-S}{CB-255,255,255,255}- ผู้เล่นจะต้องกำจัดผู้จัการของ Taejo&apos;s fan club ภายในเวลาที่กำหนด" />
 			<twn value="{F-2002_20}{S-S}{CB-255,255,255,255}[關卡 2-2 粉絲團]{N}{F-2002_15}{S-S}{CB-255,255,0,255}任務目標- 壓制太祖粉絲團的幹部們{N}{F-2002_12}{S-S}{CB-255,255,255,255}- 在限制時間內壓制所有粉絲團幹部。" />
@@ -327,7 +327,7 @@
 			<fre value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 2-3 Rival]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objectif de la mission - Domine Taejo et ses adeptes{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tu dois dominer Taejo et tous ses adeptes pendant le temps imparti{N}- Essaie d&apos;utiliser les items à utilisation immédiate en dominant les adeptes." />
 			<spa value="{F-2002_20}{S-S}{CB-255,255,255,255}[Nivel 2-3 Rival]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objetivo de la misión – Dominar a Taejo y sus seguidores{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tienes que dominar a Taejo y todos sus seguidores dentro del tiempo límite{N}- Trata de usar ítems instantáneos dominando a los seguidores." />
 			<ita value="{F-2002_20}{S-S}{CB-255,255,255,255}[Fase 2-3: il rivale]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Obbiettivo: batti Taejo e i suoi sostenitori{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Devi eliminare Taejo e tutti i suoi sostenitori entro il tempo limite{N}- Prova ad usare oggetti istantanei per battere i sostenitori." />
-			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Уровень 2-3 Соперник]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Миссия - Победите Taejo и его последователей{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Необходимо победить Taejo и всех его последователей за отведенное время{N}- Используйте усиление для победы над последователями." />
+			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Этап 2-3 Соперник]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Задача: доминируй над Таэхо и его сторонниками{N}{F-2002_12}{S-S}{CB-255,255,255,255}- За ограниченное время нужно доминировать над Таэхо и всеми его сторонниками{N}- Для доминирования попробуй использовать предметы мгнов. действия." />
 			<ame value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 2-3 Rival]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - Dominate Taejo and his followers{N}{F-2002_12}{S-S}{CB-255,255,255,255}- You have to dominate Taejo and all of his followers within time limit{N}- Try to use instant items by dominating followers." />
 			<tha value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 2-3 Rival]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - กำจัด Taejo และผู้ติดตามของ Taejo ให้ราบคราบ{N}{F-2002_12}{S-S}{CB-255,255,255,255}- กำจัด Taejo และพรรคพวกของ Taejo ภายในเวลาที่กำหนด{N}- พยายามใช้ instant items เพื่อกำจัดผู้ติดตามของ Taejo" />
 			<twn value="{F-2002_20}{S-S}{CB-255,255,255,255}[關卡 2-3 競爭者]{N}{F-2002_15}{S-S}{CB-255,255,0,255}任務目標- 壓制太祖與他的隊員們{N}{F-2002_12}{S-S}{CB-255,255,255,255}- 在限制時間內壓制太祖與他的所有隊員。{N}- 壓制瘋狂粉絲後，使用副本道具" />
@@ -342,7 +342,7 @@
 			<fre value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 3-1 Étrange pressentiment]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objectif de la mission - Domine les robots d&apos;entraînement infectés{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tu dois dominer tous les robots infectés pendant le temps imparti." />
 			<spa value="{F-2002_20}{S-S}{CB-255,255,255,255}[Nivel 3-1 Presentimiento Extraño]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objetivo de la misión – Dominar a los robos de entrenamiento infectados{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tienes que dominar a todos los robots de entrenamiento infectados dentro del tiempo líimite." />
 			<ita value="{F-2002_20}{S-S}{CB-255,255,255,255}[Fase 3-1: uno strano presentimento]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Obbiettivo: batti i Training Robot infetti{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Devi battere tutti gli Infected Training Robot entro il tempo limite." />
-			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Уровень 3-1 Предчувствиеt]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Миссия - Уничтожьте зараженных роботов{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Необходимо уничтожить всех зараженных роботов за отведенное время." />
+			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Этап 3-1 Дурное предчувствие]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Задача: доминируй над зараженными учебными роботами{N}{F-2002_12}{S-S}{CB-255,255,255,255}- За ограниченное время нужно доминировать над зараженными учебными роботами." />
 			<ame value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 3-1 Strange Presentiment]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - Dominate the infected training robots{N}{F-2002_12}{S-S}{CB-255,255,255,255}- You have to dominate all infected training robots within time limit." />
 			<tha value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 3-1 Strange Presentiment]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - กำจัดหุ่นยนต์ติดเชื้อให้สิ้นซาก{N}{F-2002_12}{S-S}{CB-255,255,255,255}- ผู้เล่นจะต้องกำจัดหุ่นยนต์ติดเชื้อภายในเวลาที่กำหนด" />
 			<twn value="{F-2002_20}{S-S}{CB-255,255,255,255}[關卡 3-1 奇怪的預感]{N}{F-2002_15}{S-S}{CB-255,255,0,255}任務目標- 壓制被感染的訓練機器人{N}{F-2002_12}{S-S}{CB-255,255,255,255}- 在限制時間內壓制所有被感染的訓練機記人。" />
@@ -357,7 +357,7 @@
 			<fre value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 3-2 Le Virus]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objectif de la mission - Domine tous les virus qui sont en groupes{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tu dois dominer tous les virus qui attaquent en groupes pendant le temps imparti.{N}- Domine-les efficacement en utilisant des armes à courte portée." />
 			<spa value="{F-2002_20}{S-S}{CB-255,255,255,255}[Nivel 3-2 El Virus]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objetivo de la misión – Dominar a todos los virus que están en grupos{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tienes que dominar a todos los virus que atacan en grupos dentro del tiempo límite.{N}- Domínalos de forma eficaz  usando armas de corto alcance." />
 			<ita value="{F-2002_20}{S-S}{CB-255,255,255,255}[Fase 3-2: il virus]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Obbiettivo: elimina tutti i gruppi di virus{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Devi eliminare tutti i virus che attaccano in gruppo entro il tempo limite.{N}- Li puoi battere facilmente con le armi a distanza ravvicinata." />
-			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Уровень 3-2 Вирус]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Миссия - Победите группы вирусов{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Необходимо победить все вирусы, которые нападают группой, за отведенное время.{N}- Используйте ближние атаки, чтобы справиться с ними." />
+			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Этап 3-2 Вирус]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Задача: доминируй над всеми группами вирусов{N}{F-2002_12}{S-S}{CB-255,255,255,255}- За ограниченное время нужно доминировать над вирусами, атакующими в группах.{N}- Доминируй, используя оружие ближнего боя." />
 			<ame value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 3-2 The Virus]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - Dominate all viruses that are in groups{N}{F-2002_12}{S-S}{CB-255,255,255,255}- You have to dominate all viruses that attack in groups within time limit.{N}- Dominate them efficiently by using close-range weapons." />
 			<tha value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 3-2 The Virus]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - กำจัดเชื่อไวรัสที่รวมกล่มกัน{N}{F-2002_12}{S-S}{CB-255,255,255,255}- ผู้เล่นจะต้องกำจัดเชื่อไว้รัสภายในเวลาที่กำหนด{N}- วิธีกำจัดไวรัสที่ง่ายที่สุดคือการใช้อาวุธระยะประชิด" />
 			<twn value="{F-2002_20}{S-S}{CB-255,255,255,255}[關卡 3-2 病毒]{N}{F-2002_15}{S-S}{CB-255,255,0,255}任務目標- 壓制所有正在湧入的病毒{N}{F-2002_12}{S-S}{CB-255,255,255,255}- 在限制時間內壓制所有正在湧入的病毒{N}- 利用近距離武器等的範圍攻擊來有效的壓制他們" />
@@ -372,7 +372,7 @@
 			<fre value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 4-1 Protection]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objectif de la Mission - Protège Taejo des eSpers infectés{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tu dois protéger Taejo des eSpers infectés qui attaquent à partir de deux directions différentes{N}- Fais attention aux virus qui sont libérés quand un eSper infecté est dominé{N}- Sois prudent avec les eSpers infectés qui apparaissent sur la colline, ils sont très puissants." />
 			<spa value="{F-2002_20}{S-S}{CB-255,255,255,255}[Nivel 4-1 Protección]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objetivo de la misión – Proteger a Taejo de eSpers infectados{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tienes que proteger a Taejo de eSpers infectados que atacan en grupos desde dos sitios{N}- Ten cuidado con el virus que es lanzado cuando muere un eSper infectado{N}- Ten cuidado con el eSper infectado que aparece en la colina, es muy poderoso." />
 			<ita value="{F-2002_20}{S-S}{CB-255,255,255,255}[Fase 4-1: protezione]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Obbiettivo: proteggi Taejo dagli eSper infetti{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Devi proteggere Taejo dagli eSper infetti che attaccano in gruppo da due postazioni{N}- Fai attenzione al virus rilasciato alla morte di un eSper infetto{N}- Fai attenzione all&apos;eSper infetto sulla collina, è molto forte." />
-			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Уровень 4-1 Защита]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Миссия - Защитите Taejo от зараженных eSper{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Необходимо защитить Taejo от зараженных eSpers, атакующих группами с двух сторон{N}- Следите за вирусом, который появится после победы над зараженным eSper{N}- Опасайтесь зараженного eSper на холме, он очень силен." />
+			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Этап 4-1 Защита]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Задача: защитить Таэхо от зараженных eSper{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Защити Taejo от зараженных eSper, атакующих группами из двух точке{N}- Берегись вируса, который появляется при убийстве зараженного eSper{N}- Остерегайся зараженного eSper, появляющегося на холме, он очень силен." />
 			<ame value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 4-1 Protection]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - Protect Taejo from infected eSpers{N}{F-2002_12}{S-S}{CB-255,255,255,255}- You have to protect Taejo from the infected eSpers which attack in groups from two spots{N}- Watch out for the virus that is released when an infected eSper is killed{N}- Be cautious of the infected eSper which appears on the hill, it is very strong." />
 			<tha value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 4-1 Protection]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - ป้องกัน Taejo จาก Infected eSpers {N}{F-2002_12}{S-S}{CB-255,255,255,255}- ผู้เล่นจะต้องป้องกัน Taejo จากการจู่โจมของ Infected eSpers ที่จะโจมตีเป็นกลุ่มจาก 2 จุด{N}- ระวังเชื้อไวรัสที่จะถูกพ่นออกมาเมื่อ Infected eSpers ถูกทำลาย{N}- ควรระวังตัว Infected eSper ที่จะปรากฏตัวขึ้นจากเนินสูง มันช่างแข็งแกร่งมาก" />
 			<twn value="{F-2002_20}{S-S}{CB-255,255,255,255}[關卡 4-1 保護]{N}{F-2002_15}{S-S}{CB-255,255,0,255}任務目標- 在感染的超能者裡保護太祖{N}{F-2002_12}{S-S}{CB-255,255,255,255}- 從兩個地點湧入的超能者裡保護太祖{N}- 壓制感染的超能者，並注意病毒{N}- 注意在山坡出沒的感染超能者的攻擊" />
@@ -387,7 +387,7 @@
 			<fre value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 4-2 Captain Guard]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objectif de la mission - Survivre aux attaques du Captain Guard{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tu dois survivre aux attaques du Captain Guard pendant le temps imparti.{N}- Bloque les attaques excessives du Captain Guard.{N}- Assure-toi que les attaques du Captain Guard n&apos;atteignent pas Taejo." />
 			<spa value="{F-2002_20}{S-S}{CB-255,255,255,255}[Nivel 4-2 Guard Captain]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objetivo de la misión – Sobrevivir a los ataques del Guard Captain{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tienes que sobrevivir a los ataques del Guard Captain hasta que se acabe el tiempo.{N}- Detiene los ataques excesivos del Guard Captain.{N}- Asegúrate de que los ataques del Guard Captain no alcancen a Taejo." />
 			<ita value="{F-2002_20}{S-S}{CB-255,255,255,255}[Fase 4-2: Guard Captain]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Obbiettivo: sopravvivi agli attacchi del Guard Captain{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Devi sopravvivere agli attacchi del Guard Captain fino allo scadere del tempo.{N}- Blocca i numerosi attacchi del Guard Captain.{N}- Assicurati che gli attacchi del Guard Captain non colpiscano Taejo." />
-			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Уровень 4-2 Капитан охраны]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Миссия - Выжить в процессе атак Guard Captain{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Необходмо продержаться в процессе атак Guard Captain до конца времени.{N}- Остановите атаки Guard Captain.{N}- Убедитесь, что атаки Guard Captain не достанут Taejo." />
+			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Этап 4-2 Капитан стражи]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Задача: выжить под атаками Капитана стражи{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Продержитесь под атаками Капитана стражи, пока не истечет время.{N}- Останавливай слишком частые атаки Капитана стражи.{N}- Не давай атакам Капитана стражи попасть по Таэхо." />
 			<ame value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 4-2 Guard Captain]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - Survive against the attacks of the Guard Captain{N}{F-2002_12}{S-S}{CB-255,255,255,255}- You have to survive against the attacks of the Guard Captain until the time is up.{N}- Stop excessive attacks of the Guard Captain.{N}- Make sure that the attacks of the Guard Captain don&apos;t reach Taejo." />
 			<tha value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 4-2 Guard Captain]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - เอาชีวิตรอดจากการโจมตีของ Guard Captain{N}{F-2002_12}{S-S}{CB-255,255,255,255}- ผู้เล่นจะต้องเอาชีวิตรอดจากการโจมตีอย่างตาอเนื่องจาก Guard Captain จนกว่าเวลาจะหมด{N}- หยุดการโจมตีอย่างต่อเนื่องจาก Guard Captain.{N}- ป้องกันไม่ให้การโจมตีจาก Guard Captain ไม่ให้ไปถึงตัว Taejo" />
 			<twn value="{F-2002_20}{S-S}{CB-255,255,255,255}[關卡 4-2 Captain守衛]{N}{F-2002_15}{S-S}{CB-255,255,0,255}任務目標- 在Captain守衛的攻擊停止之前，必須要撐住{N}{F-2002_12}{S-S}{CB-255,255,255,255}- 在Captain守衛的攻擊停止之前，必須要撐住{N}- 禁止對Captain 守衛展開強烈的攻擊{N}- 盡量讓Captain 守衛的攻擊不要影響太祖，請注意" />
@@ -402,7 +402,7 @@
 			<fre value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 5-1 Monk]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objectif de la mission - Domine Monk !{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Domine Monk qui est incroyablement rapide pendant le temps imparti.{N}- Trouve le chemin employé par Monk et attaque-le.{N}- Utilises les items à utilisation immédiate abandonnés par les adeptes de Monk s&apos;ils sont dominés." />
 			<spa value="{F-2002_20}{S-S}{CB-255,255,255,255}[Nivel 5-1 Monk]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objetivo de la misión – Dominar al Monk!{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Domina al increíblemente veloz Monk dentro del tiempo límite.{N}- Descubre la ruta del Monk y atácalo.{N}- Usa los ítems instantáneos que son lanzados por los seguidores del Monk cuando son dominados." />
 			<ita value="{F-2002_20}{S-S}{CB-255,255,255,255}[Fase 5-1: il monaco]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Obbiettivo: batti il monaco!{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Batti il velocissimo Monk entro il tempo limite.{N}- Prevedi le mosse del Monk e attaccalo.{N}- Usa gli oggetti istantanei lasciati dai sostenitori del Monk sconfitti." />
-			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Уровень 5-1 Monk]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Миссия - Победите Monk!{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Победите невероятно быстрого Monk за отведенное время.{N}- Проследите за движением Monk и атакуйте.{N}- Испоьзуйте усиление, которое появляется после победы над последователями Monk." />
+			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Этап 5-1 Монах]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Задача: доминируй над Монахом!{N}{F-2002_12}{S-S}{CB-255,255,255,255}- За ограниченное время доминируй над невероятно быстрым Монахом.{N}- Определи маршрут Монаха и атакуй его.{N}- Пользуйся предметами мгнов. действия, которые выпадают из сторонников Монаха, когда над ними доминируют." />
 			<ame value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 5-1 Monk]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - Dominate Monk!{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Dominate the incredibly fast Monk within the time limit.{N}- Find out the route of Monk and attack him.{N}- Make use of the instant items which are dropped by Monk&apos;s followers if they are dominated." />
 			<tha value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 5-1 Monk]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - กำจัด Monk!{N}{F-2002_12}{S-S}{CB-255,255,255,255}- กำจัด Monk ที่มีความสามารถในการเคลื่อนอย่างว่องไวภายในเวลาที่กำหนด{N}- หาเส้นทางในการเคลื่อนไหวที่ Monk เดินแล้วกำจัดพวกมันซะ{N}- ควรใช้ instant items ที่ได้จากการกำจัดเหล่าพรรคพวกของ Monk" />
 			<twn value="{F-2002_20}{S-S}{CB-255,255,255,255}[關卡 5-1 僧侶]{N}{F-2002_15}{S-S}{CB-255,255,0,255}任務目標- 壓制僧侶{N}{F-2002_12}{S-S}{CB-255,255,255,255}- 在限制時間內壓制快速移動的僧侶{N}- 掌握僧侶的移動路徑後攻擊僧侶{N}- 若擊敗僧侶的手下，則會掉落副本道具" />
@@ -417,7 +417,7 @@
 			<fre value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 5-2 Les vraies couleurs de Monk]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objectif de la mission - Dominer Monk pendant qu&apos;il utilise Invisible{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Domine l&apos;invisible Monk pendant le temps imparti.{N}- Utilise le Skill Detect pour trouver et attaquer Monk.{N}- Essaie d&apos;utiliser Detect dans les items à utilisation immédiate." />
 			<spa value="{F-2002_20}{S-S}{CB-255,255,255,255}[Nivel 5-2 Los Colores Reales de Monk]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objetivo de la misión – Dominar al Monk mientras usa Invisible{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Dominar al Monk invisible dentro del tiempo límite.{N}- Usa tu skill Detect para encontrar y matar al Monk.{N}- Trata de usar Detect en los ítems instantáneos." />
 			<ita value="{F-2002_20}{S-S}{CB-255,255,255,255}[Fase 5-2: i veri colori del Monk]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Obbiettivo: batti il Monk mentre usa Invisible{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Batti il Monk invisibile entro il tempo limite.{N}- Usa la tua skill Detect per trovare e attaccare il Monk.{N}- Prova ad usare Detect tra gli oggetti istantanei." />
-			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Уровень 5-2 Истинный Monk]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Миссия - Победите невидимого Monk{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Победите невидимого Monk за отведенное время.{N}- Испольуйте Детект, чтобы увидеть и атаковать Monk.{N}- Используйте Детект среди появившихся предметов." />
+			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Этап 5-2 Истинное лицо Монаха]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Задача: доминируй над Монахом, пока он использует Invisible{N}{F-2002_12}{S-S}{CB-255,255,255,255}- За ограниченное время доминируй над невидимым Монахом.{N}- Используй умение Detect, чтобы найти и атаковать Монаха.{N}- Используй Detect из предметов мгнов. действия." />
 			<ame value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 5-2 Monk&apos;s True Colors]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - Dominate Monk while he uses Invisible{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Dominate invisible Monk within the time limit.{N}- Use your Detect skill to find and attack Monk.{N}- Try to use Detect in the instant items." />
 			<tha value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 5-2 Monk&apos;s True Colors]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - กำจัด Monk ระหว่างเขาหายตัวอยู่{N}{F-2002_12}{S-S}{CB-255,255,255,255}- กำจัด Monk ให้ได้ภายในเวลาที่กำหนด{N}- ใช้สกิล Detect เพื่อทำการค้นหาและกำจัด Monk {N}- พยายามใช้ Detect ใน instant items" />
 			<twn value="{F-2002_20}{S-S}{CB-255,255,255,255}[關卡 5-2 僧侶的真面目]{N}{F-2002_15}{S-S}{CB-255,255,0,255}任務目標- 壓制使用隱形技能的僧侶{N}{F-2002_12}{S-S}{CB-255,255,255,255}- 在限制時間內壓制隱形狀態的僧侶{N}- 使用搜查技能來攻擊僧侶{N}- 副本道具中可使用搜查技能效果道具" />
@@ -432,7 +432,7 @@
 			<fre value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 6-1 Rencontre avec une étrange scientifique]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objectif de la mission - Protéger le garde robot de l&apos;étrange scientifique{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tu dois protéger le garde robot qui a très peu de HP.{N}- Le garde robot peut uniquement utiliser une attaque à courte portée.{N}- Trouve les eSpers infectés sur la falaise qui attaquent avec Cannonade et domine-les." />
 			<spa value="{F-2002_20}{S-S}{CB-255,255,255,255}[Nivel 6-1 Encuentro Con el Científico Extraño]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objetivo de la misión – Protege al robot guardián del científico extraño{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Tienes que proteger al robot guardián que sólo tiene un mínimo de HP.{N}- El robot guardián sólo puede usar un ataque a corta distancia.{N}- Encuentra un eSper infectado en la colina que está atacando con un Cannonade y domínalos." />
 			<ita value="{F-2002_20}{S-S}{CB-255,255,255,255}[Fase 6-1: incontro con lo strambo scienziato]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Obbiettivo: proteggi il guardiano robot dello strambo scienziato{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Devi proteggere il guardiano robot che ha pochi HP.{N}- Il guardiano robot può attaccare solo da vicino.{N}- Trova un eSper infetto sulla collina che attacca con Cannonade ed eliminalo." />
-			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Уровень 6-1 Встреча со странной ученой]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Миссия - Защитите робота странной ученой{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Необходимо защитить робота, у которого мало HP.{N}- Робот может атаковать только вблизи.{N}- Найдите зараженного eSper на скале с Канонадой и уничтожьте его." />
+			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Этап 6-1 Встреча со странным ученым]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Задача: защити робота-охранника странного ученого{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Защищай робота-охранника, у которого совсем мало HP.{N}- Робот-охранник может атаковать только в ближнем бою.{N}- Найди на утесе eSper, атакующего с помощью Cannonade, и доминируй над ним." />
 			<ame value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 6-1 Encounter With the Strange Scientist]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - Protect the strange scientists guard robot{N}{F-2002_12}{S-S}{CB-255,255,255,255}- You have to protect the guard robot that only has a little HP.{N}- The guard robot is only able to use a close range attack.{N}- Find an infected eSper on the cliff who is attacking with a Cannonade and dominate it." />
 			<tha value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 6-1 Encounter With the Strange Scientist]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - คุ้มกัน Guard Robot ของนักวิทยาศาตร์สติเพื้อง{N}{F-2002_12}{S-S}{CB-255,255,255,255}- ผู้เล่นจะต้องป้องกัน Guard Robot ที่มี HP ไม่มากนัก{N}- Guard Robot สามารถช่วยโจมตีศัตรูได้แต่ในระยะประชิดเท่านั้น{N}- ค้นหา Infected eSper ที่อยู่บนยอดเขาซึ่งมันจะโจมตีด้วย Cannonade และเมื่อเจอให้กำจัดมันซะ" />
 			<twn value="{F-2002_20}{S-S}{CB-255,255,255,255}[關卡 6-1 與怪異科學家的相見]{N}{F-2002_15}{S-S}{CB-255,255,0,255}任務目標- 保護怪異科學家的護衛機器人{N}{F-2002_12}{S-S}{CB-255,255,255,255}- 必須要保護沒剩下多少體力的護衛機器人{N}- 護衛機器人可進行近距離攻擊{N}- 找出在斷崖上進行火砲彈攻擊的被感染的超能者後壓制他" />
@@ -447,7 +447,7 @@
 			<fre value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 6-2 Le crash du Parm 107]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objectif de la mission - Domine le garde robot infecté{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Domine le garde robot infecté.{N}- Réduit tes dégâts en comprenant les 3 formations d&apos;attaque du garde robot.{N}- Évite les puissantes attaques au laser en te mettant à l&apos;abri." />
 			<spa value="{F-2002_20}{S-S}{CB-255,255,255,255}[Nivel 6-2 El Accidente de Parm 107]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objetivo de la misión – Dominar al robot guardián infectado{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Dominar al robot guardián infectado.{N}- Minimizar tu daño aprovechando los tres patrones de ataque de robot guardián.{N}- Evita los poderosos ataques láser escondiéndote debajo del refugio." />
 			<ita value="{F-2002_20}{S-S}{CB-255,255,255,255}[Fase 6-2: la caduta di Parm 107]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Obbiettivo: batti il guardiano robot infetto{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Batti il guardiano robot infetto.{N}- Riduci i danni ricevuti evitando l&apos;attacco triplo del guardiano robot.{N}- Evita i potenti attacchi laser mettendoti al riparo." />
-			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Уровень 6-2 Крах Parm 107]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Миссия - Победите зараженного робота{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Победите зараженного робота.{N}- Снизьте повреждения, распознавая атаки робота.{N}- Уворачивайтесь от лазера, прячась за прикрытие." />
+			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Этап 6-2 Авария Парм-107]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Задача: доминируй над зараженным роботом-охранником{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Доминируй над зараженным роботом-охранником.{N}- Снижай получаемый урон, разобравшись в трех видах атаки робота-охранника.{N}- Избегай сильных атак лазером, прячась в укрытии." />
 			<ame value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 6-2 The Crash of Parm 107]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - Dominate the infected guard robot{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Dominate the infected guard robot.{N}- Minimize your damage by grasping the three attack patterns of the guard robot.{N}- Avoid the strong laser attacks by hiding under shelter." />
 			<tha value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 6-2 The Crash of Parm 107]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - กำจัด Guard Robot ที่ติดไวรัส{N}{F-2002_12}{S-S}{CB-255,255,255,255}- กำจัด Guard Robot ที่ติดไวรัสให้สิ้นซาก{N}- ผู้เล่นสามารถลดการโดนโจมตีและค่าความเสียหายได้โดยการศึกษาวิธีการโจมตีทั้ง 3 รูปแบบของมัน{N}- ผู้เล่นควรหลบการโจมตีด้วยแสงเลเซอร์โดยการหลบใต้ที่หลบภัย" />
 			<twn value="{F-2002_20}{S-S}{CB-255,255,255,255}[關卡 6-2 潘 107的暴走]{N}{F-2002_15}{S-S}{CB-255,255,0,255}任務目標- 壓制被感染的護衛機器人{N}{F-2002_12}{S-S}{CB-255,255,255,255}- 壓制被感染的護衛機器人潘107{N}- 先了解護衛機器人的3種攻擊模式，並把傷害降到最低{N}- 利用遮蔽物來迴避護衛機器人的雷射攻擊" />
@@ -462,7 +462,7 @@
 			<fre value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 7-1 Fuite]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objectif de la mission - Escorte Kitsch en toute sécurité jusqu&apos;à sa destination{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Escorte rapidement Kitsch en lieu sûr.{N}- Arrête les robots explosifs avant qu&apos;ils ne soient trop proches de Kitsch.{N}- Domine les snipers eSper infectés aussi rapidement que possible." />
 			<spa value="{F-2002_20}{S-S}{CB-255,255,255,255}[Nivel 7-1 Escape]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objetivo de la misión – Lleva a Kitsch sin peligro a su destino{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Lleva a Kitsch sin peligro rápidamente.{N}- Evita que el robot auto-detonante se acerque a Kitsch.{N}- Domina a los snipers eSper infectados tan pronto como sea posible." />
 			<ita value="{F-2002_20}{S-S}{CB-255,255,255,255}[Fase 7-1: la fuga]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Obbiettivo: scorta Kitsch fino alla sua destinazione{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Scorta velocemente Kitsch.{N}- Impedisci al robot con l&apos;auto-distruzione di avvicinarsi a Kitsch.{N}- Batti gli eSper cecchini infetti il più velocemente possibile." />
-			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Уровень 7-1 Побег]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Миссия - Доставьте Kitsch невредимой до пункта назначения{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Доставьте Kitsch в безопасное место как можно скорее.{N}- Остановите самоуничтожающихся роботов на подходе к Kitsch.{N}- Уничтожьте зараженных eSper снайперов как можно быстрее." />
+			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Этап 7-1 Побег]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Задача: проводи Китч до места назначения{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Быстро сопроводи Китч в безопасное место.{N}- Не дай роботу-камикадзе подобраться близко к Китч.{N}- Доминируй над зараженными снайперами eSper как можно быстрее." />
 			<ame value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 7-1 Escape]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - Escort Kitsch safely to her destination{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Escort Kitsch to safety quickly.{N}- Stop the self detonating robot from coming close to Kitsch.{N}- Dominate the infected eSper snipers as quickly as possible." />
 			<tha value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 7-1 Escape]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - คุ้มกัน Kitsch ไปยังจุดหมายโดยสวัสดิภาพ{N}{F-2002_12}{S-S}{CB-255,255,255,255}- คุ้มกัน Kitsch ไปยังจุดหมายให้เร็วที่สุด{N}- หยุดยั้งไม่ให้หุ่นยนต์ติดระเบิดพลีชีพเข้ามาไกล้ Kitsch.{N}- กำจัด Infected eSper สไนเปอร์โดยเร็วที่สุดเท่าที่จะทำได้" />
 			<twn value="{F-2002_20}{S-S}{CB-255,255,255,255}[關卡 7-1 逃出]{N}{F-2002_15}{S-S}{CB-255,255,0,255}任務目標- 在抵達目的地之前必須要護衛琪琦{N}{F-2002_12}{S-S}{CB-255,255,255,255}- 在抵達目的地之前必須要安全的護衛琪琦{N}- 禁止讓自爆機器人靠近琪琦而自爆{N}- 快速壓制進行狙擊攻擊的感染超能者" />
@@ -477,7 +477,7 @@
 			<fre value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 7-2 Taejo infecté]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objectif de la mission - Domine Taejo, qui est maintenant infecté{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Domine Taejo qui est infecté et les membres de son équipe.{N}- Empêche Taejo et ses adeptes d&apos;attaquer Kitsch en attirant leur attention." />
 			<spa value="{F-2002_20}{S-S}{CB-255,255,255,255}[Nivel 7-2 Taejo infectado]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objetivo de la misión – Domina a Taejo, quien ahora está infectado{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Domina al infectado Taejo y a los miembros de su equipo.{N}- Evita que Taejo y sus seguidores ataquen a Kitsch atrayendo su atención." />
 			<ita value="{F-2002_20}{S-S}{CB-255,255,255,255}[Fase 7-2: il contagio di Taejo]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Obbiettivo: Batti Taejo, che ora è infetto{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Batti l&apos;infetto Taejo e i membri della sua squadra.{N}- Impedisci a Taejo e ai suoi sostenitori di attaccare Kitsch attirando la loro attenzione." />
-			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Уровень 7-2 Зараженный Taejo]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Миссия - Победите зараженного Taejo{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Победите зараженного Taejo и его напарников.{N}- Не дайте Taejo и его напарникам атаковать Kitsch, отвлекая его внимание." />
+			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Этап 7-2 Зараженный Таэхо]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Задача: доминируй над зараженным теперь Таэхо{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Доминируй над зараженным Таэхо и членами его команды.{N}- Не дай Таэхо и его сторонникам атаковать Китч, отвлекая их на себя." />
 			<ame value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 7-2 Infected Taejo]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - Dominate Taejo, who is now infected{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Dominate infected Taejo and his team members.{N}- Stop Taejo and his followers from attacking Kitsch by attracting their attention." />
 			<tha value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 7-2 Infected Taejo]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - กำจัด Taejo ซึ่งตอนนี้ได้ติดเชื้อไวรัสเข้าแล้ว{N}{F-2002_12}{S-S}{CB-255,255,255,255}- กำจัด Taejo ที่ติดเชื้อไวรัสและพรรคพวกให้ราบคราบ{N}- หยุดไม่ให้ Taejo และพรรคพวกโจมตี Kitsch โดยการเข้าไปขัดขวาง" />
 			<twn value="{F-2002_20}{S-S}{CB-255,255,255,255}[關卡 7-2 感染的太祖]{N}{F-2002_15}{S-S}{CB-255,255,0,255}任務目標- 壓制被病毒感染的太祖{N}{F-2002_12}{S-S}{CB-255,255,255,255}- 壓制已被感染的太祖與他的隊員{N}- 為了不讓太祖與他的手下攻擊琪琦，去分散他們的注意力" />
@@ -492,7 +492,7 @@
 			<fre value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 8 Le virus d&apos;origine]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objectif de la mission - Dominer le virus d&apos;origine{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Dominer le virus d&apos;origine{N}- Fais attention aux attaques à longue portée du virus d&apos;origine.{N}- Essaie de te souvenir du timing des attaques à longue portée afin de les éviter.{N}- Domine d&apos;abord les eSpers infectés pour empêcher le virus d&apos;origine de se régénérer." />
 			<spa value="{F-2002_20}{S-S}{CB-255,255,255,255}[Nivel 8 El Virus Parental]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Objetivo de la misión – Domina al virus parental{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Domina al virus parental{N}- Ten cuidado con los ataques a distancia del virus parental.{N}- Recuerda la frecuencia de los ataques a distancia así puedes evitarlos.{N}- Domina a los eSpers infectados para prevenir que el virus parental se recupere por sí mismo." />
 			<ita value="{F-2002_20}{S-S}{CB-255,255,255,255}[Fase 8: il Parent Virus]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Obbiettivo: batti il Parent Virus{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Batti il Parent Virus{N}- Fai attenzione agli attacchi a lungo raggio del Parent Virus.{N}- Ricorda gli la durata degli intervalli tra gli attacchi a distanza per evitarli.{N}- Elimina prima gli eSper infetti per evitare che il Parent Virus si rafforzi." />
-			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Уровень 8 Главный Вирус]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Миссия - Уничтожьте главный вирус{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Уничтожьте главный вирус{N}- Опасайтесь дальних атак главного вируса.{N}- Запомните продолжительность атак и уворачивайтесь.{N}- Уничтожьте зараженных eSpers, чтобы не позволить главному вирусу излечиться." />
+			<rus value="{F-2002_20}{S-S}{CB-255,255,255,255}[Этап 8 Вирус-родитель]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Задача: доминируй над старшим вирусом{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Доминируй над вирусом-родителем{N}- Берегись дальних атак вируса-родителя.{N}- Запомни интервал между дальними атаками, чтобы их избегать.{N}- Сначала доминируй над зараженными eSpers, чтобы не дать вирусу-родителю восстанавливаться." />
 			<ame value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 8 The Parent Virus]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - Dominate the parent virus{N}{F-2002_12}{S-S}{CB-255,255,255,255}- Dominate the parent virus{N}- Watch out for the ranged attacks of the parent virus.{N}- Remember the timing of the ranged attacks so that you can avoid them.{N}- Dominate infected eSpers first to prevent the parent virus from recovering itself." />
 			<tha value="{F-2002_20}{S-S}{CB-255,255,255,255}[Stage 8 The Parent Virus]{N}{F-2002_15}{S-S}{CB-255,255,0,255}Mission objective - กำจัด Parent Virus{N}{F-2002_12}{S-S}{CB-255,255,255,255}- ทำลายแหล่งผลิตไวรัส{N}- ระวังการโจมตีระยะไกลจาก Parent Virus.{N}- จำการโจมตีระยะไกลที่ยิงมาเป็นระรอกเพื่อที่จะหลบมันให้พ้น{N}- กำจัด Infected eSpers เป็นสิ่งแรกเพื่อไม่ให้ Parent Virus ไม่สามารถรักษาและเพิ่มพลัง HP จากตัว Infected eSpers" />
 			<twn value="{F-2002_20}{S-S}{CB-255,255,255,255}[關卡 8 母體病毒]{N}{F-2002_15}{S-S}{CB-255,255,0,255}任務目標- 壓制母體病毒{N}{F-2002_12}{S-S}{CB-255,255,255,255}- 壓制母體病毒{N}- 注意母體病毒周圍的擊暈攻擊{N}- 掌握母體病毒的範圍攻擊時間點後迴避攻擊{N}- 為了讓母體病毒無法恢復，先去攻擊感染的超能者" />
@@ -509,7 +509,7 @@
 			<fre value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 1{N}{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}-Entraînement-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domine les robots d&apos;entraînement." />
 			<spa value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Nivel 1{N}{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}-Entrenamiento-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domina a los robots de entrenamiento." />
 			<ita value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Fase 1{N}{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}-Allenamento-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Batti i robot per l&apos;allenamento." />
-			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Уровень 1{N}{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}-Тренировка-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Уничтожить тренировочных роботов." />
+			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Этап 1{N}{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}-Тренировка-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Уничтожь тренировочных роботов." />
 			<ame value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 1{N}{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}-Training-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Dominate the training robots." />
 			<tha value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 1{N}{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}-Training-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}กำจัดหุ่นยนต์ให้สิ้นซาก" />
 			<twn value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}關卡 1{N}{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}-訓練-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}壓制訓練機器人" />
@@ -524,7 +524,7 @@
 			<fre value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 2-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Altercation-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domine les membres du fan club de Taejo." />
 			<spa value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Nivel 2-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Alboroto-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domina a los miembros del fan club de Taejo." />
 			<ita value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Fase 2-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-I tumulti-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Batti i membri del fan club di Taejo." />
-			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Уровень 2-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Опасение-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Победите участников фан клуба Taejo." />
+			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Этап 2-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Помеха-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Уничтожь членов фан-клуба Таэхо." />
 			<ame value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 2-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Disturbance-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Dominate the members of Taejo&apos;s fan club." />
 			<tha value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 2-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Disturbance-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}กำจัด Taejo&apos;s fan club ให้ราบคราบ" />
 			<twn value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}關卡 2-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-妨害-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}壓制太祖粉絲團的會員" />
@@ -539,7 +539,7 @@
 			<fre value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 2-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Fan Club-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domine les exécutifs du fan club de Taejo." />
 			<spa value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Nivel 2-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Fan Club-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domina a los ejecutivos del fan club de Taejo." />
 			<ita value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Fase 2-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Fan club-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Batti gli esponenti del fan club di Taejo." />
-			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Уровень 2-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Фан Клуб-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Победите руководителей фан клуба Taejo." />
+			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Этап 2-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Фан-клуб-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Уничтожь лидеров фан-клуба Таэхо." />
 			<ame value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 2-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Fan Club-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Dominate the executives of Taejo&apos;s fan club." />
 			<tha value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 2-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Fan Club-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}กำจัดผู้จัดการของ Taejo&apos;s fan club" />
 			<twn value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}關卡 2-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-粉絲團-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}壓制太祖粉絲團的幹部" />
@@ -554,7 +554,7 @@
 			<fre value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 2-3{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Rival-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domine Taejo et ses adeptes." />
 			<spa value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Nivel 2-3{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Rival-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domina a Taejo y sus seguidores." />
 			<ita value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Fase 2-3{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Il rivale-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Batti Taejo e i suoi sostenitori." />
-			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Уровень 2-3{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Соперник-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Победите Taejo и его последователей." />
+			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Этап 2-3{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Соперник-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Победи Таэхо и его сторонников." />
 			<ame value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 2-3{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Rival-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Dominate Taejo and his followers." />
 			<tha value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 2-3{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Rival-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}กำจัด Taejo และพรรคพวก" />
 			<twn value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}關卡 2-3{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-競爭者-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}壓制太祖與他的手下" />
@@ -569,7 +569,7 @@
 			<fre value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 3-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Étrange pressentiment-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domine les robots d&apos;entraînement infectés." />
 			<spa value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Nivel 3-1{N}{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}-Presentamiento Extraño-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domina a los robots de entrenamiento infectados." />
 			<ita value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Fase 3-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Lo strano presentimento-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Batti i robot per l&apos;allenamento infetti." />
-			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Уровень 3-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Предчувствие-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Уничтожьте зараженных роботов." />
+			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Этап 3-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Дурное предчувствие-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Уничтожь зараженных тренировочных роботов." />
 			<ame value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 3-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Strange Presentiment-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Dominate the infected training robots." />
 			<tha value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 3-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Strange Presentiment-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}กำจัดหุ่นยนต์ฝึกซ้อมที่ติดเชื้อไวรัส" />
 			<twn value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}關卡 3-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-奇怪的預感-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}壓制感染的訓練機器人" />
@@ -584,7 +584,7 @@
 			<fre value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 3-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Virus-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domine tous les virus qui attaquent en groupes." />
 			<spa value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Nivel 3-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-El Virus-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domina a todos los virus que atacan en grupos." />
 			<ita value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Fase 3-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Virus-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Elimina tutti i virus che attaccano in gruppo." />
-			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Уровень 3-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Вирус-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Победите группы вирусов." />
+			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Этап 3-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Вирус-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Уничтожь все вирусы, атакующие в группах." />
 			<ame value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 3-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Virus-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Dominate all viruses that attack in groups." />
 			<tha value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 3-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Virus-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}กำจัดเชื้อไวรัสทั้งหมด" />
 			<twn value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}關卡 3-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-病毒-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}壓制正在湧入的病毒" />
@@ -599,7 +599,7 @@
 			<fre value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 4-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Protection-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Protège Taejo des eSpers infectés." />
 			<spa value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Nivel 4-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Protección-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Protege a Teajo de los eSpers infectados." />
 			<ita value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Fase 4-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-La protezione-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Proteggi Taejo dagli eSper infetti." />
-			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Уровень 4-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Защита-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Защитите Taejo от зараженных eSper." />
+			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Этап 4-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Защита-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Защити Таэхо от зараженных eSper." />
 			<ame value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 4-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Protection-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Protect Teajo from infected eSpers." />
 			<tha value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 4-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Protection-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}คุ้มกัน Teajo จาก Infected eSpers" />
 			<twn value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}關卡 4-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-保護-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}從感染的超能者裡保護太祖" />
@@ -614,7 +614,7 @@
 			<fre value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 4-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Captain Guard-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Survis aux attaques du Captain Guard pendant le temps imparti." />
 			<spa value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Nivel 4-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Guard Captain{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Sobrevive a los ataques de Guard Captain hasta que se acabe el tiempo." />
 			<ita value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Fase 4-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Guard Captain{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Sopravvivi agli attacchi del Guard Captain fino allo scadere del tempo." />
-			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Уровень 4-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Капитан охраны{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Выжить в процессе атак Guard Captain." />
+			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Этап 4-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Капитан стражи{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Продержись под атаками Капитана стражи определенное время." />
 			<ame value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 4-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Guard Captain{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Survive against the attacks of the Guard Captain until the time is up." />
 			<tha value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 4-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Guard Captain{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}เอาชีวิตรอดจากการโจมตีของ Guard Captain จนกว่าเวลาจะหมด" />
 			<twn value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}關卡 4-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Captain守衛{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}在Captain守衛的攻擊停止之前，必須要撐住" />
@@ -629,7 +629,7 @@
 			<fre value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 5{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Monk-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domine Monk." />
 			<spa value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Nivel 5{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Monk-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domina a Monk." />
 			<ita value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Fase 5{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Monk-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Batti Monk." />
-			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Уровень 5{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Monk-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Победите Monk." />
+			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Этап 5{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Монах-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Победи Монаха." />
 			<ame value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 5{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Monk-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Dominate Monk." />
 			<tha value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 5{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Monk-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}กำจัด Monk" />
 			<twn value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}關卡 5{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-僧侶-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}壓制僧侶" />
@@ -644,7 +644,7 @@
 			<fre value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 6-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Rencontre avec une étrange scientifique-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Protège le garde robot de l&apos;étrange scientifique." />
 			<spa value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Nivel 6-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Encuentro Con el Científico Extraño-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Protege al robot guardián del científico extraño." />
 			<ita value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Fase 6-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Incontro con la stramba scienziata-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Proteggi il guardiano robot della stramba scienziata." />
-			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Уровень 6-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Встреча со странной ученой-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Защитите робота странной ученой." />
+			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Этап 6-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Встреча со странным ученым-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}защити робота-охранника странного ученого." />
 			<ame value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 6-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Encounter With the Strange Scientist-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Protect the guard robot of the strange scientist." />
 			<tha value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 6-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Encounter With the Strange Scientist-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}ป้องกัน Guard Robot ของนักวิทยาศาตร์สติเพื้อง" />
 			<twn value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}關卡 6-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-與怪異科學家的相見-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}保護怪異科學家的護衛機器人" />
@@ -659,7 +659,7 @@
 			<fre value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 6-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Le crash du Parm 107-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domine le garde robot infecté." />
 			<spa value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Nivel 6-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-El Accidente de Parm 107-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domina al robot guardián infectado." />
 			<ita value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Fase 6-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-La caduta di Parm 107-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Elimina tutti i guardiani robot infetti." />
-			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Уровень 6-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Крах Parm 107-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Победите зараженного робота." />
+			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Этап 6-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Авария Парм-107-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Победи зараженного робота-охранника." />
 			<ame value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 6-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-The Crash of Parm 107-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Dominate the infected guard robot." />
 			<tha value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 6-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-The Crash of Parm 107-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}กำจัด Guard Robot ที่ติดเชื้อไวรัส" />
 			<twn value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}關卡 6-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-潘 107的暴走-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}壓制感染的護衛機器人" />
@@ -674,7 +674,7 @@
 			<fre value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 7-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Fuite-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Escorte Kitsch en toute sécurité jusqu&apos;à sa destination." />
 			<spa value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Nivel 7-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Escape-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Lleva a Kitsch sin peligro a su dentino." />
 			<ita value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Fase 7-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-La fuga-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Scorta Kitsch fino alla sua destinazione." />
-			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Уровень 7-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Побег-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Доставьте Kitsch невредимой до пункта назначения." />
+			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Этап 7-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Побег-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Проводи Китч до ее цели." />
 			<ame value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 7-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Escape-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Escort Kitsch safely to her destination." />
 			<tha value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 7-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Escape-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}คุ้มกัน Kitsch ให้ไปถึงจุดหมายอย่างปลอดภัย" />
 			<twn value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}關卡 7-1{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-逃出-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}在抵達目的地之前必須要護衛琪琦" />
@@ -689,7 +689,7 @@
 			<fre value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 7-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Taejo infecté-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domine Taejo qui est infecté." />
 			<spa value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Nivel 7-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}- Taejo Infectado-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domina al infectado Taejo." />
 			<ita value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Fase 7-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Il contagio di Taejo-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Batti Taejo che è infetto." />
-			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Уровень 7-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Зараженный Taejo-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Победите зараженного Taejo." />
+			<rus value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Этап 7-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Зараженный Таэхо-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Победи зараженного Таэхо." />
 			<ame value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 7-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Infected Taejo-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Dominate infected Taejo." />
 			<tha value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}Stage 7-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-Infected Taejo-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}กำจัด Taejo ที่ติดเชื้อไวรัส" />
 			<twn value="{F-2002_20}{A-C}{S-S}{CB-255,255,255,255}關卡 7-2{N}{F-2002_20}{A-C}{S-S}{CB-0,255,0,255}-感染的太祖-{N}{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}壓制被病毒感染的太祖" />
@@ -721,7 +721,7 @@
 			<fre value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domine les robots d&apos;entraînement." />
 			<spa value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domina a los robots de entrenamiento." />
 			<ita value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Batti i robot per l&apos;allenamento." />
-			<rus value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Уничтожить тренировочных роботов." />
+			<rus value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Доминируй над учебными роботами." />
 			<ame value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Dominate the training robots." />
 			<tha value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}กำจัดหุ่นยนต์ให้สิ้นซาก" />
 			<twn value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}壓制訓練機器人" />
@@ -736,7 +736,7 @@
 			<fre value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domine les membres du fan club de Taejo." />
 			<spa value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domina a los miembros del fan club de Taejo." />
 			<ita value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Batti i membri del fan club di Taejo." />
-			<rus value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Победите участников фан клуба Taejo." />
+			<rus value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Доминируй над членами фан-клуба Таэхо." />
 			<ame value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Dominate the members of Taejo&apos;s fan club." />
 			<tha value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}กำจัด Taejo&apos;s fan club ให้ราบคราบ" />
 			<twn value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}壓制太祖的粉絲團會員" />
@@ -751,7 +751,7 @@
 			<fre value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domine les robots d&apos;entraînement infectés." />
 			<spa value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domina a los robots de entrenamiento infectados." />
 			<ita value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Batti i robot per l&apos;allenamento infetti." />
-			<rus value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Уничтожьте зараженных роботов." />
+			<rus value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Доминируй над зараженными учебными роботами." />
 			<ame value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Dominate the infected training robots." />
 			<tha value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}กำจัดหุ่นยนต์ฝึกซ้อมที่ติดเชื้อไวรัส" />
 			<twn value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}壓制感染的訓練機器人" />
@@ -766,7 +766,7 @@
 			<fre value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Protège Taejo des eSpers infectés." />
 			<spa value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Protege a Teajo de los eSpers infectados." />
 			<ita value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Proteggi Taejo dagli eSper infetti." />
-			<rus value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Защитите Taejo от зараженных eSper." />
+			<rus value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Защити Таэхо от зараженных eSper." />
 			<ame value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Protect Teajo from infected eSpers." />
 			<tha value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}คุ้มกัน Teajo จาก Infected eSpers" />
 			<twn value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}從感染的超能者裡保護太祖" />
@@ -781,7 +781,7 @@
 			<fre value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domine Monk." />
 			<spa value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domina a Monk." />
 			<ita value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Batti Monk." />
-			<rus value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Победите Monk." />
+			<rus value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Доминируй над Монахом." />
 			<ame value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Dominate Monk." />
 			<tha value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}กำจัด Monk" />
 			<twn value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}壓制僧侶" />
@@ -790,19 +790,19 @@
 			<tur value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Keşiş&apos;e hakim ol." />
 		</mission>
 		<mission id="6">
-			<kor value="{F-2002_12}{A-C}{S-S}{CB-255,255,0,255}이상한 과학자의 호위로봇을 보호하라" />
-			<ger value="{F-2002_12}{A-C}{S-S}{CB-255,255,0,255}Schütze den Wachroboter des seltsamen Wissenschaftlers." />
-			<eng value="{F-2002_12}{A-C}{S-S}{CB-255,255,0,255}Protect the guard robot of the strange scientist." />
-			<fre value="{F-2002_12}{A-C}{S-S}{CB-255,255,0,255}Protège le garde robot de l&apos;étrange scientifique." />
+			<kor value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}이상한 과학자의 호위로봇을 보호하라" />
+			<ger value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Schütze den Wachroboter des seltsamen Wissenschaftlers." />
+			<eng value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Protect the guard robot of the strange scientist." />
+			<fre value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Protège le garde robot de l&apos;étrange scientifique." />
 			<spa value="{F-2002_12}{A-C}{S-S}{CB-255,255,0,255}Protege al robot guardián del científico extraño." />
 			<ita value="{F-2002_12}{A-C}{S-S}{CB-255,255,0,255}Proteggi il guardiano robot della stramba scienziata." />
-			<rus value="{F-2002_12}{A-C}{S-S}{CB-255,255,0,255}Защитите робота странной ученой." />
+			<rus value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Защити робота-охранника странного ученого." />
 			<ame value="{F-2002_12}{A-C}{S-S}{CB-255,255,0,255}Protect the guard robot of the strange scientist." />
 			<tha value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}ป้องกัน Guard Robot ของนักวิทยาศาตร์สติเพื้อง" />
 			<twn value="{F-2002_12}{A-C}{S-S}{CB-255,255,0,255}保護怪異科學家的護衛機器人" />
 			<jap value="{F-2002_12}{A-C}{S-S}{CB-255,255,0,255}マッドサイエンティストの護衛ロボットを守りきれ" />
 			<idn value="{F-2002_12}{A-C}{S-S}{CB-255,255,0,255}Lindungi robot penjaga dari scientist aneh." />
-			<tur value="{F-2002_12}{A-C}{S-S}{CB-255,255,0,255}Garip bilim adamının muhafız robotunu koru." />
+			<tur value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Garip bilim adamının muhafız robotunu koru." />
 		</mission>
 		<mission id="7">
 			<kor value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}목적지까지 키치를 무사히 호위하라" />
@@ -811,7 +811,7 @@
 			<fre value="{F-2002_12}{A-C}{S-S}{CB-255,255,0,255}Escorte Kitsch en toute sécurité jusqu&apos;à sa destination." />
 			<spa value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Lleva a Kitsch sin peligro a su dentino." />
 			<ita value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Scorta Kitsch fino alla sua destinazione." />
-			<rus value="{F-2002_12}{A-C}{S-S}{CB-255,255,0,255}Доставьте Kitsch невредимой до пункта назначения." />
+			<rus value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Сопроводи Китч к ее цели." />
 			<ame value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Escort Kitsch safely to her destination." />
 			<tha value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}คุ้มกัน Kitsch ให้ไปถึงจุดหมายอย่างปลอดภัย" />
 			<twn value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}在抵達目的地之前必須要護衛琪琦" />
@@ -826,7 +826,7 @@
 			<fre value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domine le virus d&apos;origine." />
 			<spa value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domina al virus parental." />
 			<ita value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Batti il Parent Virus." />
-			<rus value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Уничтожьте главный вирус." />
+			<rus value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Доминируй над вирусом-родителем." />
 			<ame value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}Domine le virus d&apos;origine." />
 			<tha value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}กำจัด Parent Virus." />
 			<twn value="{F-2002_15}{A-C}{S-S}{CB-255,255,0,255}壓制母體病毒" />

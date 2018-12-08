@@ -24,7 +24,7 @@
 		
 	</sound>
 	<mouse>
-		<sensivility value="25" />
+		<sensivility value="2500" />
 		<inverse value="false" />
 	</mouse>
 	<gameplay_hotkey>
@@ -51,6 +51,7 @@
 		<hot_key id="20" text_key="OP_0021" key="UP" />
 		<hot_key id="21" text_key="OP_0022" key="DOWN" />
 		<hot_key id="22" text_key="OP_0216" key="F" />
+		<hot_key id="23" text_key="OP_0217" key="C" />
 	</gameplay_hotkey>
 	<chatmsg_hotkey>
 		<data id="0" message_key="OP_0023" />
@@ -86,10 +87,11 @@
 		<data id="22" text_key="OP_0089" key_key="OP_0090" useweapon="false" animation="O0025" malesound="Resources/Sound/social/_rc_male_oops.ogg" femalesound="Resources/Sound/social/_rc_female_oops.ogg" require_level="0" />
 		<data id="23" text_key="OP_0091" key_key="OP_0092" useweapon="false" animation="O0026" malesound="Resources/Sound/social/_rc_male_laugh.ogg" femalesound="Resources/Sound/social/_rc_female_laugh.ogg" require_level="0" />
 		<data id="24" text_key="OP_0093" key_key="OP_0094" useweapon="false" animation="O0030" malesound="" femalesound="" require_level="0" />
-		<data id="171" text_key="OP_0095" key_key="OP_0096" useweapon="false" animation="O0031" malesound="" femalesound="" require_level="0" />
+		<data id="171" text_key="OP_0095" key_key="OP_0096" useweapon="false" animation="O0031" malesound="Resources/Sound/social/_rc_male_win.ogg" femalesound="Resources/Sound/social/_rc_female_win.ogg" require_level="0" /><!-- 31 -->
 		<data id="172" text_key="OP_0097" key_key="OP_0098" useweapon="false" animation="O0032" malesound="" femalesound="" require_level="0" />
 		<data id="173" text_key="OP_0099" key_key="OP_0100" useweapon="false" animation="" malesound="" femalesound="" require_level="0" />
 		<data id="174" text_key="OP_0102" key_key="OP_0103" useweapon="false" animation="O0034" malesound="Resources/Sound/social/_rc_male_laugh.ogg" femalesound="Resources/Sound/social/_rc_female_laugh.ogg" require_level="0" />
+		
 	</socialaction>
 	<bgm>
 		<bgmlist>
@@ -109,11 +111,10 @@
 			<data name_key="OP_0042" file="resources/bgm/Real_Over_Drive_S4.ogg" />
 			<data name_key="OP_0043" file="resources/bgm/access.ogg" />
 			<data name_key="OP_0044" file="resources/bgm/dualrock_bgm.ogg" />
-			<data name_key="OP_0104" file="resources/bgm/Braveitout.ogg" /> 
+			<data name_key="OP_0104" file="resources/bgm/Braveitout.ogg" />
 			<data name_key="OP_0105" file="resources/bgm/ChaseYourself.ogg" />
 			<data name_key="OP_0212" file="resources/bgm/alice.ogg" />
 			<data name_key="OP_0214" file="resources/bgm/union.ogg" />
-			
 		</bgmlist>
 		<!--(주크박스 수정 부분)맵아이디 바꿀때 고려사항:뮤직박스에 유저가 저장한 데이터가 사라지거나 임의로 바뀔수 있다-->
 		<maplist>
@@ -205,6 +206,13 @@
 			<data map_id="155" bgm1_key="OP_0043" bgm2_key="" bgm3_key="" />
 			<data map_id="156" bgm1_key="OP_0038" bgm2_key="" bgm3_key="" />
 			<data map_id="157" bgm1_key="OP_0032" bgm2_key="" bgm3_key="" />
+			<data map_id="158" bgm1_key="OP_0034" bgm2_key="OP_0037" bgm3_key="OP_0039" />
+			<!--블레이드 시티 데스매치-->
+			<data map_id="171" bgm1_key="OP_0041" bgm2_key="" bgm3_key="" />
+			<!-- 하이퍼리움 패스모드 -->
+			<!-- <data map_id="180" bgm1_key="OP_0104" bgm2_key="" bgm3_key="" /> 아지트 눈싸움모드 -->
+			<!-- <data map_id="181" bgm1_key="OP_0104" bgm2_key="" bgm3_key="" /> 아지트 - EX 눈싸움모드 -->
+			<!-- <data map_id="182" bgm1_key="OP_0038" bgm2_key="" bgm3_key="" /> 루나 -2 눈싸움모드 -->
 		</maplist>
 	</bgm>
 	<etc>
@@ -231,6 +239,6 @@
 	<!-- 	<data id="12" default_pos="12" use = "true" name_key="OP_0215" icon="resources/XUI/Image/main_navi/navi_union.dds" sub_icon="resources/XUI/Image/main_navi/navi_union_s.dds" disable_icon="resources/XUI/Image/main_navi/navi_union_d.dds" /> -->
 	</menu>
 	<camera>
-		<cameratype value="0" use="true" />
+		<cameratype value="0" use = "true" />
 	</camera>
 </option>

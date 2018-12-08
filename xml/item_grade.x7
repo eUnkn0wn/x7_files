@@ -157,5 +157,6 @@
 		<condition effect_id="21025" item_grade="ITEM_GRADE_UNIQUE"/>
 		<condition effect_id="21027" item_grade="ITEM_GRADE_UNIQUE"/>
 		<condition effect_id="21028" item_grade="ITEM_GRADE_UNIQUE"/>
+		<condition effect_id="21029" item_grade="ITEM_GRADE_UNIQUE"/>
 	</mode>
 </itemgrade>

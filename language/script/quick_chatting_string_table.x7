@@ -338,12 +338,12 @@
 	</string>
 	<string key="DEFENSE_MODE_MESAGE1">
 		<kor value="/t 밀리고 있어~ 도와줘!" />
-		<ger />
-		<eng />
-		<fre />
+		<ger value="/t Wir werden angegriffen! Hilfe!"/>
+		<eng value="/t Under attack! Please help!"/>
+		<fre value="/t On est attaqué ! À l&apos;aide !"/>
 		<spa />
 		<ita />
-		<rus />
+		<rus value="/t Под атакой! Нужна помощь!"/>
 		<ame />
 		<tur value="/t Kaybediyoruz. Yardım et!" />
 		<cns />
@@ -354,12 +354,12 @@
 	</string>
 	<string key="DEFENSE_MODE_MESAGE2">
 		<kor value="/t 베이스가 위험해!" />
-		<ger />
-		<eng />
-		<fre />
+		<ger value="/t Die Basis ist in Gefahr!"/>
+		<eng value="/t The base is in danger!" />
+		<fre value="/t La base est en danger !"/>
 		<spa />
 		<ita />
-		<rus />
+		<rus value="/t База в опасности!"/>
 		<ame />
 		<tur value="/t Üs tehlikede!" />
 		<cns />
@@ -370,12 +370,12 @@
 	</string>
 	<string key="DEFENSE_MODE_MESAGE3">
 		<kor value="/t 고마워!" />
-		<ger />
-		<eng />
-		<fre />
+		<ger value="/t Danke!"/>
+		<eng value="/t Thank you!"/>
+		<fre value="/t Merci !"/>
 		<spa />
 		<ita />
-		<rus />
+		<rus value="/t Спасибо!"/>
 		<ame />
 		<tur value="/t Teşekkürler!" />
 		<cns />
@@ -386,12 +386,12 @@
 	</string>
 	<string key="DEFENSE_MODE_MESAGE4">
 		<kor value="/t 미안해!" />
-		<ger />
-		<eng />
-		<fre />
+		<ger value="/t sorry!"/>
+		<eng value="/t Sorry!"/>
+		<fre value="/t Désolé !"/>
 		<spa />
 		<ita />
-		<rus />
+		<rus value="/t Простите!"/>
 		<ame />
 		<tur value="/t Üzgünüm!" />
 		<cns />
@@ -402,12 +402,12 @@
 	</string>
 	<string key="DEFENSE_MODE_MESAGE5">
 		<kor value="/t 내가 갈께!" />
-		<ger />
-		<eng />
-		<fre />
+		<ger value="/t Ich komme!"/>
+		<eng value="/t I&apos;m coming!"/>
+		<fre value="/t J&apos;arrive !"/>
 		<spa />
 		<ita />
-		<rus />
+		<rus value="/t Помощь уже в пути!"/>
 		<ame />
 		<tur value="/t Gidiyorum!" />
 		<cns />
